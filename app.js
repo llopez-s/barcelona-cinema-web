@@ -11,6 +11,9 @@
     { key: 'rottenTomatoes', name: 'Rotten Tomatoes · crítica', short: 'RT crítica' },
     { key: 'rottenTomatoesAudience', name: 'Rotten Tomatoes · público', short: 'RT público' },
   ];
+  const EVENT_TYPES = { colloquium: 'Coloquio', 'special-screening': 'Sesión especial', cycle: 'Ciclo', festival: 'Festival', premiere: 'Estreno', preview: 'Preestreno', family: 'Cine familiar', retrospective: 'Retrospectiva', visita: 'Visita' };
+  function eventType(event) { return text(event.type) || '__unspecified__'; }
+  function eventTypeLabel(type) { return EVENT_TYPES[type] || (type === '__unspecified__' ? 'Sin tipo especificado' : type); }
   const STATUS_NAMES = {
     ok: 'Disponible', success: 'Disponible', available: 'Disponible', verified: 'Verificado por el monitor',
     active: 'Activo', scheduled: 'Programada', confirmed: 'Confirmada', complete: 'Completa',
@@ -242,7 +245,7 @@
       query: normalize($('search').value), cinema: $('cinema').value, day: $('date').value,
       language: $('language').value, format: $('format').value, genre: $('genre').value,
       ratingSource: $('rating-source').value, minRating: $('min-rating').value,
-      past: $('include-past').checked, sort: $('sort').value, watched: $('watched').value,
+      eventType: $('event-type').value, past: $('include-past').checked, sort: $('sort').value, watched: $('watched').value,
     };
   }
   function fillOptions(id, options, emptyLabel, preserveMissing = true) {
@@ -268,6 +271,7 @@
     if (!data) return;
     const sessions = data.sessions.filter((session) => !cinemaIsClosed(session.cinemaId));
     const events = data.events.filter((event) => !cinemaIsClosed(event.cinemaId));
+    fillOptions('event-type', [...new Set(events.map(eventType))].map((type) => [type, eventTypeLabel(type)]).sort((a, b) => collator.compare(a[1], b[1])), 'Todos los tipos');
     const alphabetic = (values) => [...new Set(values)].sort(collator.compare).map((value) => [value, value]);
     fillOptions('cinema', data.cinemas.filter((cinema) => !cinemaIsClosed(cinema.id)).map((cinema) => [identifier(cinema.id), text(cinema.name) || 'Cine sin nombre']).sort((a, b) => collator.compare(a[1], b[1])), 'Todos los cines', false);
     const dates = [...new Set([...sessions.map((session) => dayKey(session.startsAt)), ...events.flatMap((event) => [dayKey(event.startsAt), dayKey(event.endDate)])].filter(Boolean))].sort();
@@ -535,6 +539,7 @@
     els.movies.replaceChildren(fragment);
   }
   function eventMatches(event, filter) {
+    if (filter.eventType && eventType(event) !== filter.eventType) return false;
     if (cinemaIsClosed(event.cinemaId)) return false;
     const period = Array.isArray(event.venuePeriods) ? event.venuePeriods.find((p) => identifier(p.cinemaId) === filter.cinema) : null;
     if (filter.cinema && identifier(event.cinemaId) !== filter.cinema && !period) return false;
@@ -559,7 +564,7 @@
       return;
     }
     const entries = state.snapshot.events.filter((event) => eventMatches(event, filters())).sort((a, b) => (dayDate(a.startsAt)?.getTime() ?? Infinity) - (dayDate(b.startsAt)?.getTime() ?? Infinity));
-    const summary = `${plural(entries.length, 'evento', 'eventos')} · Filtros de cine, fecha y programación pasada`;
+    const summary = `${plural(entries.length, 'evento', 'eventos')} · Filtros de tipo, cine, fecha y programación pasada`;
     $('events-summary').textContent = summary;
     $('results-announcement').textContent = summary;
     if (!entries.length) {
@@ -574,8 +579,7 @@
       calendar.append(element('span', 'event-day', start ? new Intl.DateTimeFormat('es-ES', { timeZone: TIME_ZONE, day: '2-digit' }).format(start) : '—'));
       calendar.append(element('span', 'event-month', start ? monthFormat.format(start) : 'Sin fecha'));
       const body = element('div');
-      const eventTypes = { colloquium: 'Coloquio', 'special-screening': 'Sesión especial', cycle: 'Ciclo', festival: 'Festival', premiere: 'Estreno', preview: 'Preestreno', family: 'Cine familiar', retrospective: 'Retrospectiva' };
-      body.append(element('p', 'eyebrow', eventTypes[text(event.type)] || text(event.type) || 'EVENTO'), element('h3', 'event-title', text(event.title) || 'Título pendiente'));
+      body.append(element('p', 'eyebrow', eventTypeLabel(eventType(event))), element('h3', 'event-title', text(event.title) || 'Título pendiente'));
       const venue = strings(event.venues).join(' · ') || (event.cinemaId ? cinemaName(event.cinemaId) : 'Sedes pendientes de confirmar');
       body.append(element('p', 'event-meta', `${venue} · ${formatDateTime(event.startsAt)}${text(event.endDate) ? ` · Hasta ${formatDateTime(event.endDate)}` : ''}`));
       body.append(element('p', 'event-description', text(event.description) || 'Descripción pendiente.'));
@@ -712,6 +716,7 @@
     $('filters-sidebar').hidden = view === 'coverage';
     $('workspace').classList.toggle('coverage-view', view === 'coverage');
     document.querySelectorAll('.movie-filter').forEach((field) => { field.hidden = view !== 'listings'; });
+    document.querySelectorAll('.event-filter').forEach((field) => { field.hidden = view !== 'events'; });
     renderView();
   }
   function resetFilters() {
