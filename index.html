@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="es" data-mode="static">
+<head>
+  <meta charset="utf-8">
+  <meta name="referrer" content="no-referrer">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <meta name="theme-color" content="#f5e500">
+  <meta name="description" content="Cartelera, sesiones y eventos de los cines de Barcelona. Películas, horarios y eventos especiales con sus fuentes.">
+  <title>Cartelera de Barcelona — Barcelona Cinema</title>
+  <link rel="stylesheet" href="./styles.css">
+  <script src="./movie-preferences.js" defer></script>
+  <script src="./app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Saltar al contenido</a>
+  <header class="masthead">
+    <div class="masthead-inner page-width">
+      <a class="brand" href="./" aria-label="Barcelona Cinema, inicio">
+        <span class="brand-mark" aria-hidden="true">b<span>c.</span></span>
+        <span class="brand-name">Barcelona<br><strong>Cinema</strong></span>
+      </a>
+      <span class="local-label"><span class="status-dot" aria-hidden="true"></span> Barcelona ciudad</span>
+    </div>
+  </header>
+
+  <main id="main" class="page-width" tabindex="-1">
+    <section class="hero" aria-labelledby="page-title">
+      <div class="hero-copy">
+        <h1 id="page-title">Cartelera de Barcelona</h1>
+      </div>
+      <div class="edition">
+        <dl class="snapshot-stats">
+          <div><dt>películas</dt><dd id="stat-movies">—</dd></div>
+          <div><dt>sesiones próximas</dt><dd id="stat-sessions">—</dd></div>
+          <div><dt>cines con sesiones</dt><dd id="stat-cinemas">—</dd></div>
+        </dl>
+        <div class="update-block">
+          <p id="updated-at">Esperando la primera instantánea</p>
+          <button id="refresh-button" class="button button-dark" type="button"><span class="refresh-icon" aria-hidden="true">↻</span><span id="refresh-label">Recargar cartelera</span></button>
+          <a class="csv-link" href="./data/sessions.csv" download>Descargar CSV ↓</a>
+          <p id="refresh-status" class="small-text" role="status" aria-live="polite" aria-atomic="true">Cargando la cartelera publicada…</p>
+        </div>
+      </div>
+    </section>
+
+    <div id="notices" class="notices" aria-label="Avisos de los datos" hidden></div>
+    <nav class="view-navigation" aria-label="Vistas del monitor">
+      <div class="view-tabs" role="tablist" aria-label="Programación">
+        <button id="tab-listings" class="view-tab" type="button" role="tab" aria-selected="true" aria-controls="panel-listings" tabindex="0" data-view="listings"><span class="tab-number" aria-hidden="true">01</span> Cartelera <span id="count-listings" class="tab-count">—</span></button>
+        <button id="tab-events" class="view-tab" type="button" role="tab" aria-selected="false" aria-controls="panel-events" tabindex="-1" data-view="events"><span class="tab-number" aria-hidden="true">02</span> Eventos <span id="count-events" class="tab-count">—</span></button>
+        <button id="tab-coverage" class="view-tab" type="button" role="tab" aria-selected="false" aria-controls="panel-coverage" tabindex="-1" data-view="coverage"><span class="tab-number" aria-hidden="true">03</span> Cines y cobertura</button>
+      </div>
+      <span class="timezone-note">Horarios de Barcelona</span>
+    </nav>
+
+    <div class="workspace" id="workspace">
+      <aside id="filters-sidebar" class="filters-sidebar" aria-label="Filtros de la programación">
+        <details id="filter-details" open>
+          <summary class="filter-summary">Afinar la búsqueda <span aria-hidden="true">＋</span></summary>
+          <form id="filters-form">
+            <div class="field movie-filter">
+              <label for="search">Película o director</label>
+              <div class="search-field"><span aria-hidden="true">⌕</span><input id="search" type="search" autocomplete="off" placeholder="¿Qué quieres ver?"></div>
+            </div>
+            <div class="field"><label for="cinema">Cine</label><select id="cinema"><option value="">Todos los cines</option></select></div>
+            <div class="field"><label for="date">Fecha</label><select id="date"><option value="">Todas las fechas</option></select></div>
+            <div class="field movie-filter"><label for="language">Versión</label><select id="language" aria-describedby="language-help"><option value="">Todas las versiones</option></select><p id="language-help" class="field-help">Versión original agrupa VO, VOSC y VOSE. Los subtítulos se indican en cada sesión.</p></div>
+            <div class="field movie-filter"><label for="format">Formato</label><select id="format"><option value="">Todos los formatos</option></select></div>
+            <div class="field movie-filter"><label for="genre">Género</label><select id="genre"><option value="">Todos los géneros</option></select></div>
+            <div class="field movie-filter"><label for="watched">Mi cartelera</label><select id="watched" aria-describedby="watched-help"><option value="unwatched">Por ver · ocultar vistas</option><option value="all">Todas · incluir vistas</option><option value="watched">Solo vistas</option></select><p id="watched-help" class="field-help">Las vistas se guardan en este navegador.</p></div>
+            <div class="rating-filters movie-filter">
+              <p class="eyebrow">TU CRITERIO</p>
+              <div class="field"><label for="rating-source">Fuente de la nota</label><select id="rating-source"><option value="filmaffinity">FilmAffinity</option><option value="imdb">IMDb</option><option value="rottenTomatoes">Rotten Tomatoes · crítica</option><option value="rottenTomatoesAudience">Rotten Tomatoes · público</option></select></div>
+              <div class="field"><label for="min-rating">Nota mínima</label><select id="min-rating" aria-describedby="ratings-help"><option value="">Cualquier nota / pendiente</option><option value="6">6 o más sobre 10</option><option value="7">7 o más sobre 10</option><option value="8">8 o más sobre 10</option><option value="9">9 o más sobre 10</option></select></div>
+              <p id="ratings-help" class="filter-help">El filtro convierte la escala original a 10. Las notas pendientes no cumplen un mínimo.</p>
+            </div>
+            <label class="checkbox-label" for="include-past"><input id="include-past" type="checkbox"> Incluir programación pasada</label>
+            <button id="reset-filters" class="reset-button" type="reset">Restablecer filtros <span aria-hidden="true">↗</span></button>
+          </form>
+        </details>
+        <p class="sidebar-note">La última palabra la tiene la sala.<br>Consulta la fuente para confirmar horarios y entradas.</p>
+      </aside>
+
+      <div class="view-content">
+        <p id="results-announcement" class="sr-only" role="status" aria-live="polite" aria-atomic="true"></p>
+        <section id="panel-listings" role="tabpanel" aria-labelledby="tab-listings" tabindex="0">
+          <div class="section-heading">
+            <div><h2>Películas y sesiones</h2><p id="listings-summary" class="results-summary">Cargando la programación…</p></div>
+            <div class="sort-field"><label for="sort">Ordenar por</label><select id="sort"><option value="next">Próxima sesión</option><option value="title">Título · A–Z</option><option value="rating">Mejor nota</option></select></div>
+          </div>
+          <div id="movie-list" class="movie-list" aria-busy="true"><div class="empty-state"><span class="empty-mark" aria-hidden="true">↻</span><h3>Consultando el monitor</h3><p>La cartelera aparecerá cuando recibamos la instantánea.</p></div></div>
+        </section>
+        <section id="panel-events" role="tabpanel" aria-labelledby="tab-events" tabindex="0" hidden>
+          <div class="section-heading"><div><h2>Eventos y ciclos</h2><p id="events-summary" class="results-summary">Ciclos, encuentros y actividades publicados por las salas.</p></div></div>
+          <div id="event-list" class="event-list"></div>
+        </section>
+        <section id="panel-coverage" role="tabpanel" aria-labelledby="tab-coverage" tabindex="0" hidden>
+          <div class="section-heading"><div><h2>Cines y estado de las fuentes</h2><p id="coverage-summary" class="results-summary">Estado comunicado por el monitor, sin suponer cobertura completa.</p></div></div>
+          <div id="coverage-list" class="coverage-list"></div>
+        </section>
+      </div>
+    </div>
+    <footer class="footer"><span class="footer-brand">Barcelona <em>Cinema.</em></span><p>Datos del monitor local · Precios y disponibilidad sujetos a la fuente.<br>Una nota pendiente significa que todavía no hay un valor disponible.</p><a href="#main">Volver arriba ↑</a></footer>
+  </main>
+
+  <dialog id="movie-dialog" class="movie-dialog" aria-labelledby="dialog-title">
+    <div class="dialog-top"><span class="eyebrow">FICHA DE PELÍCULA</span><button id="close-dialog" class="close-button" type="button" autofocus aria-label="Cerrar ficha">Cerrar <span aria-hidden="true">×</span></button></div>
+    <div id="dialog-content"></div>
+  </dialog>
+  <div id="watched-feedback" class="watched-feedback" hidden>
+    <p id="watched-message" role="status" aria-live="polite" aria-atomic="true"></p>
+    <button id="undo-watched" class="text-button" type="button">Deshacer</button>
+    <button id="dismiss-watched" class="feedback-close" type="button" aria-label="Cerrar aviso">×</button>
+  </div>
+  <noscript><p class="noscript-notice">Activa JavaScript para consultar la cartelera del monitor local.</p></noscript>
+</body>
+</html>
