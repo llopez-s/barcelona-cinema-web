@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-06T09:02:55.830767+02:00",
-  "finishedAt": "2026-09-06T09:19:08.979600+02:00",
+  "updatedAt": "2026-09-06T11:23:15.236288+02:00",
+  "finishedAt": "2026-09-06T11:33:49.627961+02:00",
   "scope": "Barcelona ciudad",
   "timezone": "Europe/Madrid",
   "movies": [
@@ -2724,8 +2724,7 @@
       "imdbId": "tt36822560",
       "aliases": [
         "Alive",
-        "VIVA",
-        "Viva"
+        "VIVA"
       ],
       "mergedIds": [
         "movie-9ca91e6ec1ab043fe26e"
@@ -9651,6 +9650,138 @@
       "mergedIds": []
     },
     {
+      "id": "movie-312bf759b5cda4e4a8b3",
+      "title": "TANIT",
+      "originalTitle": "Tanit",
+      "year": 2026,
+      "director": "Pep Garrido",
+      "genres": [
+        "Drama",
+        "Fantástico"
+      ],
+      "synopsis": "En els boscos del Montseny, la petita Tanit campa a pler perquè no li queda més remei: un embaràs de risc obliga la seva mare a guardar repòs. Un dia, mentre cerca al seu gos Xuc pel bosc, es topa amb l’àvia Perona, una vella rondinaire que viu aïllada i a qui tothom pren per bruixa. La Tanit es convertirà en la seva aprenent mentre un fet inesperat sacseja el seu món i l’obliga a fer-se gran abans d’hora.",
+      "poster": "https://espaitexas.cat/wp-content/uploads/2026/07/tal-tanit-poster.jpg",
+      "trailer": "https://www.filmaffinity.com/es/evideos.php?movie_id=419872",
+      "ratings": {
+        "filmaffinity": {
+          "value": null,
+          "scale": 10,
+          "url": "https://www.filmaffinity.com/es/film419872.html",
+          "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=TANIT&stype=title",
+          "observedAt": "2026-09-06T09:32:22Z",
+          "status": "blocked",
+          "source": "filmaffinity",
+          "attribution": "FilmAffinity",
+          "metric": "user_rating"
+        },
+        "imdb": {
+          "value": null,
+          "scale": 10,
+          "url": "https://www.imdb.com/find/?q=Tanit&s=tt&ttype=ft",
+          "searchUrl": "https://www.imdb.com/find/?q=Tanit&s=tt&ttype=ft",
+          "observedAt": "2026-09-06T09:32:23Z",
+          "status": "blocked",
+          "source": "imdb",
+          "attribution": "IMDb",
+          "metric": "user_rating"
+        },
+        "rottenTomatoes": {
+          "value": null,
+          "scale": 100,
+          "url": "https://www.rottentomatoes.com/search?search=Tanit",
+          "searchUrl": "https://www.rottentomatoes.com/search?search=Tanit",
+          "observedAt": "2026-09-06T09:32:25Z",
+          "status": "not_found",
+          "source": "rottenTomatoes",
+          "attribution": "Rotten Tomatoes",
+          "metric": "tomatometer",
+          "audience": {
+            "value": null,
+            "scale": 100,
+            "url": "https://www.rottentomatoes.com/search?search=Tanit",
+            "searchUrl": "https://www.rottentomatoes.com/search?search=Tanit",
+            "observedAt": "2026-09-06T09:32:25Z",
+            "status": "not_found",
+            "source": "rottenTomatoes",
+            "attribution": "Rotten Tomatoes",
+            "metric": "popcornmeter"
+          }
+        }
+      },
+      "sourceUrl": "https://espaitexas.cat/pelicula/tanit/",
+      "sources": [
+        "https://espaitexas.cat/pelicula/tanit/"
+      ],
+      "filmaffinityId": "419872",
+      "imdbId": null
+    },
+    {
+      "id": "movie-da55c50cfab79db91846",
+      "title": "LA FURGO",
+      "originalTitle": "La furgo",
+      "year": 2025,
+      "director": "Eloy Calvo",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "synopsis": "L’ Ós (Pol López), un home divorciat de 45 anys, viu amb la seva filla de 6 anys en una furgoneta a Barcelona mentre intenta reconstruir la seva vida. Acompanyat per un grup de personatges peculiars, tracta de recuperar estabilitat, però les noces del seu ex el porten al límit. La Furgo és un emotiu drama humà sobre la precarietat, la identitat i la cerca de segones oportunitats.",
+      "poster": "https://espaitexas.cat/wp-content/uploads/2026/08/proximament-20-600x840.png",
+      "trailer": "https://www.filmaffinity.com/es/evideos.php?movie_id=719973",
+      "ratings": {
+        "filmaffinity": {
+          "value": 5.5,
+          "scale": 10,
+          "url": "https://www.filmaffinity.com/es/film719973.html",
+          "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=LA+FURGO&stype=title",
+          "observedAt": "2026-09-06T09:32:27Z",
+          "status": "verified",
+          "source": "filmaffinity",
+          "attribution": "FilmAffinity",
+          "metric": "user_rating"
+        },
+        "imdb": {
+          "value": null,
+          "scale": 10,
+          "url": "https://www.imdb.com/find/?q=La+furgo&s=tt&ttype=ft",
+          "searchUrl": "https://www.imdb.com/find/?q=La+furgo&s=tt&ttype=ft",
+          "observedAt": "2026-09-06T09:32:28Z",
+          "status": "blocked",
+          "source": "imdb",
+          "attribution": "IMDb",
+          "metric": "user_rating"
+        },
+        "rottenTomatoes": {
+          "value": null,
+          "scale": 100,
+          "url": "https://www.rottentomatoes.com/search?search=La+furgo",
+          "searchUrl": "https://www.rottentomatoes.com/search?search=La+furgo",
+          "observedAt": "2026-09-06T09:32:29Z",
+          "status": "not_found",
+          "source": "rottenTomatoes",
+          "attribution": "Rotten Tomatoes",
+          "metric": "tomatometer",
+          "audience": {
+            "value": null,
+            "scale": 100,
+            "url": "https://www.rottentomatoes.com/search?search=La+furgo",
+            "searchUrl": "https://www.rottentomatoes.com/search?search=La+furgo",
+            "observedAt": "2026-09-06T09:32:29Z",
+            "status": "not_found",
+            "source": "rottenTomatoes",
+            "attribution": "Rotten Tomatoes",
+            "metric": "popcornmeter"
+          }
+        }
+      },
+      "sourceUrl": "https://espaitexas.cat/pelicula/la-furgo/",
+      "sources": [
+        "https://espaitexas.cat/pelicula/la-furgo/"
+      ],
+      "filmaffinityId": "719973",
+      "imdbId": null
+    },
+    {
       "id": "movie-37606003b79c723cee2b",
       "title": "BLADE RUNNER: THE FINAL CUT",
       "originalTitle": "Blade Runner",
@@ -14529,6 +14660,254 @@
       ],
       "aliases": [],
       "mergedIds": []
+    },
+    {
+      "id": "movie-bfe0a0619860f839e707",
+      "title": "HISTÒRIES DE LA VALL BONA",
+      "originalTitle": null,
+      "year": 2026,
+      "director": "José Luis Guerin",
+      "genres": [],
+      "synopsis": "En un barri perifèric, entre el món rural i l’urbà, coexisteixen les cases dels primers migrants, els qui van arribar després de la postguerra, i els nous blocs de la ciutat dormitori, on es concentra la nova migració, convertint aquest humil racó en un autèntic llogaret global. Historias del buen valle és una suma d’imaginaris, de conflictes socials, generacionals i identitaris, urbanístics i ecològics; però també una mirada reposada i humanista sobre el món actual.",
+      "poster": null,
+      "trailer": null,
+      "ratings": {
+        "filmaffinity": {
+          "value": null,
+          "scale": 10,
+          "url": "https://www.filmaffinity.com/es/search.php?stext=HIST%C3%92RIES+DE+LA+VALL+BONA&stype=title",
+          "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=HIST%C3%92RIES+DE+LA+VALL+BONA&stype=title",
+          "observedAt": "2026-09-06T09:32:32Z",
+          "status": "blocked",
+          "source": "filmaffinity",
+          "attribution": "FilmAffinity",
+          "metric": "user_rating"
+        },
+        "imdb": {
+          "value": null,
+          "scale": 10,
+          "url": "https://www.imdb.com/find/?q=HIST%C3%92RIES+DE+LA+VALL+BONA&s=tt&ttype=ft",
+          "searchUrl": "https://www.imdb.com/find/?q=HIST%C3%92RIES+DE+LA+VALL+BONA&s=tt&ttype=ft",
+          "observedAt": "2026-09-06T09:32:32Z",
+          "status": "blocked",
+          "source": "imdb",
+          "attribution": "IMDb",
+          "metric": "user_rating"
+        },
+        "rottenTomatoes": {
+          "value": null,
+          "scale": 100,
+          "url": "https://www.rottentomatoes.com/search?search=HIST%C3%92RIES+DE+LA+VALL+BONA",
+          "searchUrl": "https://www.rottentomatoes.com/search?search=HIST%C3%92RIES+DE+LA+VALL+BONA",
+          "observedAt": "2026-09-06T09:32:33Z",
+          "status": "not_found",
+          "source": "rottenTomatoes",
+          "attribution": "Rotten Tomatoes",
+          "metric": "tomatometer",
+          "audience": {
+            "value": null,
+            "scale": 100,
+            "url": "https://www.rottentomatoes.com/search?search=HIST%C3%92RIES+DE+LA+VALL+BONA",
+            "searchUrl": "https://www.rottentomatoes.com/search?search=HIST%C3%92RIES+DE+LA+VALL+BONA",
+            "observedAt": "2026-09-06T09:32:33Z",
+            "status": "not_found",
+            "source": "rottenTomatoes",
+            "attribution": "Rotten Tomatoes",
+            "metric": "popcornmeter"
+          }
+        }
+      },
+      "sourceUrl": "https://espaitexas.cat/pelicula/historias-del-buen-valle/",
+      "sources": [
+        "https://espaitexas.cat/pelicula/historias-del-buen-valle/"
+      ],
+      "imdbId": null
+    },
+    {
+      "id": "movie-47366473256c00c58e7c",
+      "title": "CHAVALAS",
+      "originalTitle": null,
+      "year": null,
+      "director": null,
+      "genres": [],
+      "synopsis": null,
+      "poster": null,
+      "trailer": null,
+      "ratings": {
+        "filmaffinity": {
+          "value": null,
+          "scale": 10,
+          "url": "https://www.filmaffinity.com/es/search.php?stext=CHAVALAS&stype=title",
+          "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=CHAVALAS&stype=title",
+          "observedAt": "2026-09-06T09:32:34Z",
+          "status": "identity_unconfirmed",
+          "source": "filmaffinity",
+          "attribution": "FilmAffinity",
+          "metric": "user_rating"
+        },
+        "imdb": {
+          "value": null,
+          "scale": 10,
+          "url": "https://www.imdb.com/find/?q=CHAVALAS&s=tt&ttype=ft",
+          "searchUrl": "https://www.imdb.com/find/?q=CHAVALAS&s=tt&ttype=ft",
+          "observedAt": "2026-09-06T09:32:34Z",
+          "status": "identity_unconfirmed",
+          "source": "imdb",
+          "attribution": "IMDb",
+          "metric": "user_rating"
+        },
+        "rottenTomatoes": {
+          "value": null,
+          "scale": 100,
+          "url": "https://www.rottentomatoes.com/search?search=CHAVALAS",
+          "searchUrl": "https://www.rottentomatoes.com/search?search=CHAVALAS",
+          "observedAt": "2026-09-06T09:32:34Z",
+          "status": "identity_unconfirmed",
+          "source": "rottenTomatoes",
+          "attribution": "Rotten Tomatoes",
+          "metric": "tomatometer",
+          "audience": {
+            "value": null,
+            "scale": 100,
+            "url": "https://www.rottentomatoes.com/search?search=CHAVALAS",
+            "searchUrl": "https://www.rottentomatoes.com/search?search=CHAVALAS",
+            "observedAt": "2026-09-06T09:32:34Z",
+            "status": "identity_unconfirmed",
+            "source": "rottenTomatoes",
+            "attribution": "Rotten Tomatoes",
+            "metric": "popcornmeter"
+          }
+        }
+      },
+      "sourceUrl": "https://espaitexas.cat/pelicula/cicle-artec/",
+      "sources": [
+        "https://espaitexas.cat/pelicula/cicle-artec/"
+      ],
+      "imdbId": null
+    },
+    {
+      "id": "movie-20ca8797955629690ade",
+      "title": "HER",
+      "originalTitle": null,
+      "year": null,
+      "director": null,
+      "genres": [],
+      "synopsis": null,
+      "poster": null,
+      "trailer": null,
+      "ratings": {
+        "filmaffinity": {
+          "value": null,
+          "scale": 10,
+          "url": "https://www.filmaffinity.com/es/search.php?stext=HER&stype=title",
+          "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=HER&stype=title",
+          "observedAt": "2026-09-06T09:32:34Z",
+          "status": "identity_unconfirmed",
+          "source": "filmaffinity",
+          "attribution": "FilmAffinity",
+          "metric": "user_rating"
+        },
+        "imdb": {
+          "value": null,
+          "scale": 10,
+          "url": "https://www.imdb.com/find/?q=HER&s=tt&ttype=ft",
+          "searchUrl": "https://www.imdb.com/find/?q=HER&s=tt&ttype=ft",
+          "observedAt": "2026-09-06T09:32:34Z",
+          "status": "identity_unconfirmed",
+          "source": "imdb",
+          "attribution": "IMDb",
+          "metric": "user_rating"
+        },
+        "rottenTomatoes": {
+          "value": null,
+          "scale": 100,
+          "url": "https://www.rottentomatoes.com/search?search=HER",
+          "searchUrl": "https://www.rottentomatoes.com/search?search=HER",
+          "observedAt": "2026-09-06T09:32:34Z",
+          "status": "identity_unconfirmed",
+          "source": "rottenTomatoes",
+          "attribution": "Rotten Tomatoes",
+          "metric": "tomatometer",
+          "audience": {
+            "value": null,
+            "scale": 100,
+            "url": "https://www.rottentomatoes.com/search?search=HER",
+            "searchUrl": "https://www.rottentomatoes.com/search?search=HER",
+            "observedAt": "2026-09-06T09:32:34Z",
+            "status": "identity_unconfirmed",
+            "source": "rottenTomatoes",
+            "attribution": "Rotten Tomatoes",
+            "metric": "popcornmeter"
+          }
+        }
+      },
+      "sourceUrl": "https://espaitexas.cat/pelicula/cicle-artec/",
+      "sources": [
+        "https://espaitexas.cat/pelicula/cicle-artec/"
+      ],
+      "imdbId": null
+    },
+    {
+      "id": "movie-81c6bbe63aeaa3118a8a",
+      "title": "SNOWPIERCER",
+      "originalTitle": null,
+      "year": null,
+      "director": null,
+      "genres": [],
+      "synopsis": null,
+      "poster": null,
+      "trailer": null,
+      "ratings": {
+        "filmaffinity": {
+          "value": null,
+          "scale": 10,
+          "url": "https://www.filmaffinity.com/es/search.php?stext=SNOWPIERCER&stype=title",
+          "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=SNOWPIERCER&stype=title",
+          "observedAt": "2026-09-06T09:32:34Z",
+          "status": "identity_unconfirmed",
+          "source": "filmaffinity",
+          "attribution": "FilmAffinity",
+          "metric": "user_rating"
+        },
+        "imdb": {
+          "value": null,
+          "scale": 10,
+          "url": "https://www.imdb.com/find/?q=SNOWPIERCER&s=tt&ttype=ft",
+          "searchUrl": "https://www.imdb.com/find/?q=SNOWPIERCER&s=tt&ttype=ft",
+          "observedAt": "2026-09-06T09:32:34Z",
+          "status": "identity_unconfirmed",
+          "source": "imdb",
+          "attribution": "IMDb",
+          "metric": "user_rating"
+        },
+        "rottenTomatoes": {
+          "value": null,
+          "scale": 100,
+          "url": "https://www.rottentomatoes.com/search?search=SNOWPIERCER",
+          "searchUrl": "https://www.rottentomatoes.com/search?search=SNOWPIERCER",
+          "observedAt": "2026-09-06T09:32:34Z",
+          "status": "identity_unconfirmed",
+          "source": "rottenTomatoes",
+          "attribution": "Rotten Tomatoes",
+          "metric": "tomatometer",
+          "audience": {
+            "value": null,
+            "scale": 100,
+            "url": "https://www.rottentomatoes.com/search?search=SNOWPIERCER",
+            "searchUrl": "https://www.rottentomatoes.com/search?search=SNOWPIERCER",
+            "observedAt": "2026-09-06T09:32:34Z",
+            "status": "identity_unconfirmed",
+            "source": "rottenTomatoes",
+            "attribution": "Rotten Tomatoes",
+            "metric": "popcornmeter"
+          }
+        }
+      },
+      "sourceUrl": "https://espaitexas.cat/pelicula/cicle-artec/",
+      "sources": [
+        "https://espaitexas.cat/pelicula/cicle-artec/"
+      ],
+      "imdbId": null
     }
   ],
   "cinemas": [
@@ -18671,7 +19050,7 @@
       },
       "bookingUrl": "https://espaitexas.koobin.cat/ca/el-cel-promes-vosc-20260906-1600",
       "sourceUrl": "https://espaitexas.cat/pelicula/el-cel-promes/",
-      "observedAt": "2026-09-06T09:02:55.830767+02:00",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
       "status": "verified"
     },
     {
@@ -19433,7 +19812,7 @@
       },
       "bookingUrl": "https://espaitexas.koobin.cat/ca/viva-vo--20260906-1600",
       "sourceUrl": "https://espaitexas.cat/pelicula/viva/",
-      "observedAt": "2026-09-06T09:02:55.830767+02:00",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
       "status": "verified"
     },
     {
@@ -20649,7 +21028,7 @@
       },
       "bookingUrl": "https://espaitexas.koobin.cat/ca/la-supervivent-vosc-20260906-1745",
       "sourceUrl": "https://espaitexas.cat/pelicula/la-supervivent/",
-      "observedAt": "2026-09-06T09:02:55.830767+02:00",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
       "status": "verified"
     },
     {
@@ -21691,7 +22070,7 @@
       },
       "bookingUrl": "https://espaitexas.koobin.cat/ca/cinc-segons-vosc-20260906-1820",
       "sourceUrl": "https://espaitexas.cat/pelicula/cinc-segons/",
-      "observedAt": "2026-09-06T09:02:55.830767+02:00",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
       "status": "verified"
     },
     {
@@ -23228,7 +23607,7 @@
       },
       "bookingUrl": "https://espaitexas.koobin.cat/ca/erupcja-vosc-20260906-1920",
       "sourceUrl": "https://espaitexas.cat/pelicula/erupcja/",
-      "observedAt": "2026-09-06T09:02:55.830767+02:00",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
       "status": "verified"
     },
     {
@@ -24716,7 +25095,7 @@
       },
       "bookingUrl": "https://espaitexas.koobin.cat/ca/lolor-de-llet-cremada-vosc-20260906-2030",
       "sourceUrl": "https://espaitexas.cat/pelicula/lolor-de-llet-cremada/",
-      "observedAt": "2026-09-06T09:02:55.830767+02:00",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
       "status": "verified"
     },
     {
@@ -25067,7 +25446,7 @@
       },
       "bookingUrl": "https://espaitexas.koobin.cat/ca/mala-bestia-vo-20260906-2045",
       "sourceUrl": "https://espaitexas.cat/pelicula/mala-bestia/",
-      "observedAt": "2026-09-06T09:02:55.830767+02:00",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
       "status": "verified"
     },
     {
@@ -29436,7 +29815,7 @@
       },
       "bookingUrl": "https://espaitexas.koobin.cat/ca/la-copia-perfecta-vosc-20260907-1600",
       "sourceUrl": "https://espaitexas.cat/pelicula/la-copia-perfecta/",
-      "observedAt": "2026-09-06T09:02:55.830767+02:00",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
       "status": "verified"
     },
     {
@@ -29460,7 +29839,7 @@
       },
       "bookingUrl": "https://espaitexas.koobin.cat/ca/el-cel-promes-vosc-20260907-1600",
       "sourceUrl": "https://espaitexas.cat/pelicula/el-cel-promes/",
-      "observedAt": "2026-09-06T09:02:55.830767+02:00",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
       "status": "verified"
     },
     {
@@ -30960,7 +31339,7 @@
       },
       "bookingUrl": "https://espaitexas.koobin.cat/ca/la-supervivent-vosc-20260907-1745",
       "sourceUrl": "https://espaitexas.cat/pelicula/la-supervivent/",
-      "observedAt": "2026-09-06T09:02:55.830767+02:00",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
       "status": "verified"
     },
     {
@@ -31673,7 +32052,7 @@
       },
       "bookingUrl": "https://espaitexas.koobin.cat/ca/cinc-segons-vosc-20260907-1820",
       "sourceUrl": "https://espaitexas.cat/pelicula/cinc-segons/",
-      "observedAt": "2026-09-06T09:02:55.830767+02:00",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
       "status": "verified"
     },
     {
@@ -32989,7 +33368,7 @@
       },
       "bookingUrl": "https://espaitexas.koobin.cat/ca/erupcja-vosc-20260907-1920",
       "sourceUrl": "https://espaitexas.cat/pelicula/erupcja/",
-      "observedAt": "2026-09-06T09:02:55.830767+02:00",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
       "status": "verified"
     },
     {
@@ -34079,7 +34458,7 @@
       },
       "bookingUrl": "https://espaitexas.koobin.cat/ca/lolor-de-llet-cremada-vosc-20260907-2030",
       "sourceUrl": "https://espaitexas.cat/pelicula/lolor-de-llet-cremada/",
-      "observedAt": "2026-09-06T09:02:55.830767+02:00",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
       "status": "verified"
     },
     {
@@ -34306,7 +34685,7 @@
       },
       "bookingUrl": "https://espaitexas.koobin.cat/ca/mala-bestia-vo-20260907-2045",
       "sourceUrl": "https://espaitexas.cat/pelicula/mala-bestia/",
-      "observedAt": "2026-09-06T09:02:55.830767+02:00",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
       "status": "verified"
     },
     {
@@ -37986,7 +38365,7 @@
       },
       "bookingUrl": "https://espaitexas.koobin.cat/ca/el-cel-promes-vosc-20260908-1600",
       "sourceUrl": "https://espaitexas.cat/pelicula/el-cel-promes/",
-      "observedAt": "2026-09-06T09:02:55.830767+02:00",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
       "status": "verified"
     },
     {
@@ -38462,7 +38841,7 @@
       },
       "bookingUrl": "https://espaitexas.koobin.cat/ca/viva-vo--20260908-1600",
       "sourceUrl": "https://espaitexas.cat/pelicula/viva/",
-      "observedAt": "2026-09-06T09:02:55.830767+02:00",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
       "status": "verified"
     },
     {
@@ -39372,7 +39751,7 @@
       },
       "bookingUrl": "https://espaitexas.koobin.cat/ca/la-supervivent-vosc-20260908-1745",
       "sourceUrl": "https://espaitexas.cat/pelicula/la-supervivent/",
-      "observedAt": "2026-09-06T09:02:55.830767+02:00",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
       "status": "verified"
     },
     {
@@ -40019,7 +40398,7 @@
       },
       "bookingUrl": "https://espaitexas.koobin.cat/ca/cinc-segons-vosc-20260908-1820",
       "sourceUrl": "https://espaitexas.cat/pelicula/cinc-segons/",
-      "observedAt": "2026-09-06T09:02:55.830767+02:00",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
       "status": "verified"
     },
     {
@@ -41253,7 +41632,7 @@
       },
       "bookingUrl": "https://espaitexas.koobin.cat/ca/erupcja-vosc-20260908-1920",
       "sourceUrl": "https://espaitexas.cat/pelicula/erupcja/",
-      "observedAt": "2026-09-06T09:02:55.830767+02:00",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
       "status": "verified"
     },
     {
@@ -42355,7 +42734,7 @@
       },
       "bookingUrl": "https://espaitexas.koobin.cat/ca/lolor-de-llet-cremada-vosc-20260908-2030",
       "sourceUrl": "https://espaitexas.cat/pelicula/lolor-de-llet-cremada/",
-      "observedAt": "2026-09-06T09:02:55.830767+02:00",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
       "status": "verified"
     },
     {
@@ -42579,7 +42958,7 @@
       },
       "bookingUrl": "https://espaitexas.koobin.cat/ca/mala-bestia-vo-20260908-2045",
       "sourceUrl": "https://espaitexas.cat/pelicula/mala-bestia/",
-      "observedAt": "2026-09-06T09:02:55.830767+02:00",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
       "status": "verified"
     },
     {
@@ -46242,7 +46621,7 @@
       },
       "bookingUrl": "https://espaitexas.koobin.cat/ca/la-copia-perfecta-vosc-20260909-1600",
       "sourceUrl": "https://espaitexas.cat/pelicula/la-copia-perfecta/",
-      "observedAt": "2026-09-06T09:02:55.830767+02:00",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
       "status": "verified"
     },
     {
@@ -46266,7 +46645,7 @@
       },
       "bookingUrl": "https://espaitexas.koobin.cat/ca/el-cel-promes-vosc-20260909-1600",
       "sourceUrl": "https://espaitexas.cat/pelicula/el-cel-promes/",
-      "observedAt": "2026-09-06T09:02:55.830767+02:00",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
       "status": "verified"
     },
     {
@@ -47790,7 +48169,7 @@
       },
       "bookingUrl": "https://espaitexas.koobin.cat/ca/la-supervivent-vosc-20260909-1745",
       "sourceUrl": "https://espaitexas.cat/pelicula/la-supervivent/",
-      "observedAt": "2026-09-06T09:02:55.830767+02:00",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
       "status": "verified"
     },
     {
@@ -48506,7 +48885,7 @@
       },
       "bookingUrl": "https://espaitexas.koobin.cat/ca/cinc-segons-vosc-20260909-1820",
       "sourceUrl": "https://espaitexas.cat/pelicula/cinc-segons/",
-      "observedAt": "2026-09-06T09:02:55.830767+02:00",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
       "status": "verified"
     },
     {
@@ -49782,7 +50161,7 @@
       },
       "bookingUrl": "https://espaitexas.koobin.cat/ca/erupcja-vosc-20260909-1920",
       "sourceUrl": "https://espaitexas.cat/pelicula/erupcja/",
-      "observedAt": "2026-09-06T09:02:55.830767+02:00",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
       "status": "verified"
     },
     {
@@ -50959,7 +51338,7 @@
       },
       "bookingUrl": "https://espaitexas.koobin.cat/ca/lolor-de-llet-cremada-vosc-20260909-2030",
       "sourceUrl": "https://espaitexas.cat/pelicula/lolor-de-llet-cremada/",
-      "observedAt": "2026-09-06T09:02:55.830767+02:00",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
       "status": "verified"
     },
     {
@@ -51186,7 +51565,7 @@
       },
       "bookingUrl": "https://espaitexas.koobin.cat/ca/mala-bestia-vo-20260909-2045",
       "sourceUrl": "https://espaitexas.cat/pelicula/mala-bestia/",
-      "observedAt": "2026-09-06T09:02:55.830767+02:00",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
       "status": "verified"
     },
     {
@@ -54922,7 +55301,7 @@
       },
       "bookingUrl": "https://espaitexas.koobin.cat/ca/el-cel-promes-vosc-20260910-1600",
       "sourceUrl": "https://espaitexas.cat/pelicula/el-cel-promes/",
-      "observedAt": "2026-09-06T09:02:55.830767+02:00",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
       "status": "verified"
     },
     {
@@ -55398,7 +55777,7 @@
       },
       "bookingUrl": "https://espaitexas.koobin.cat/ca/viva-vo--20260910-1600",
       "sourceUrl": "https://espaitexas.cat/pelicula/viva/",
-      "observedAt": "2026-09-06T09:02:55.830767+02:00",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
       "status": "verified"
     },
     {
@@ -56529,7 +56908,7 @@
       },
       "bookingUrl": "https://espaitexas.koobin.cat/ca/la-supervivent-vosc-20260910-1745",
       "sourceUrl": "https://espaitexas.cat/pelicula/la-supervivent/",
-      "observedAt": "2026-09-06T09:02:55.830767+02:00",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
       "status": "verified"
     },
     {
@@ -57262,7 +57641,7 @@
       },
       "bookingUrl": "https://espaitexas.koobin.cat/ca/cinc-segons-vosc-20260910-1820",
       "sourceUrl": "https://espaitexas.cat/pelicula/cinc-segons/",
-      "observedAt": "2026-09-06T09:02:55.830767+02:00",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
       "status": "verified"
     },
     {
@@ -58544,7 +58923,7 @@
       },
       "bookingUrl": "https://espaitexas.koobin.cat/ca/erupcja-vosc-20260910-1920",
       "sourceUrl": "https://espaitexas.cat/pelicula/erupcja/",
-      "observedAt": "2026-09-06T09:02:55.830767+02:00",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
       "status": "verified"
     },
     {
@@ -59682,7 +60061,7 @@
       },
       "bookingUrl": "https://espaitexas.koobin.cat/ca/lolor-de-llet-cremada-vosc-20260910-2030",
       "sourceUrl": "https://espaitexas.cat/pelicula/lolor-de-llet-cremada/",
-      "observedAt": "2026-09-06T09:02:55.830767+02:00",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
       "status": "verified"
     },
     {
@@ -59967,7 +60346,7 @@
       },
       "bookingUrl": "https://espaitexas.koobin.cat/ca/mala-bestia-vo-20260910-2045",
       "sourceUrl": "https://espaitexas.cat/pelicula/mala-bestia/",
-      "observedAt": "2026-09-06T09:02:55.830767+02:00",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
       "status": "verified"
     },
     {
@@ -70491,6 +70870,30 @@
       "room": "SALA 09"
     },
     {
+      "id": "7f49d6c8f8789c31903a",
+      "movieId": "movie-312bf759b5cda4e4a8b3",
+      "cinemaId": "texas",
+      "startsAt": "2026-09-22T18:00:00+02:00",
+      "language": {
+        "version": "VO",
+        "audio": "ca",
+        "subtitles": null,
+        "label": "/ VO"
+      },
+      "formats": [],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Consultar",
+        "url": "https://espaitexas.koobin.cat/ca/tanit-vo-20260922-1800"
+      },
+      "bookingUrl": "https://espaitexas.koobin.cat/ca/tanit-vo-20260922-1800",
+      "sourceUrl": "https://espaitexas.cat/pelicula/tanit/",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
+      "status": "verified"
+    },
+    {
       "id": "ede1f15fb0f8c2c8e727",
       "movieId": "movie-c019af5547a5d1b3b587",
       "cinemaId": "phenomena",
@@ -79604,6 +80007,30 @@
       "status": "verified"
     },
     {
+      "id": "774d6a36610819a76107",
+      "movieId": "movie-da55c50cfab79db91846",
+      "cinemaId": "texas",
+      "startsAt": "2026-10-14T19:00:00+02:00",
+      "language": {
+        "version": "VO",
+        "audio": "ca",
+        "subtitles": null,
+        "label": "/ VO"
+      },
+      "formats": [],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Consultar",
+        "url": "https://espaitexas.koobin.cat/ca/la-furgo-vo-20261014-1900"
+      },
+      "bookingUrl": "https://espaitexas.koobin.cat/ca/la-furgo-vo-20261014-1900",
+      "sourceUrl": "https://espaitexas.cat/pelicula/la-furgo/",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
+      "status": "verified"
+    },
+    {
       "id": "6b604a90353c2652a07a",
       "movieId": "fa-309352",
       "cinemaId": "mooby-balmes",
@@ -79627,6 +80054,54 @@
       "observedAt": "2026-09-06T09:02:55.830767+02:00",
       "status": "verified",
       "room": "SALA 09"
+    },
+    {
+      "id": "cfdaff6066ee4995a008",
+      "movieId": "movie-47366473256c00c58e7c",
+      "cinemaId": "texas",
+      "startsAt": "2026-10-19T19:00:00+02:00",
+      "language": {
+        "version": null,
+        "audio": null,
+        "subtitles": null,
+        "label": "Idioma no publicado"
+      },
+      "formats": [],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Consultar",
+        "url": "https://espaitexas.koobin.cat/ca/chavalas-vo-20261019-1900"
+      },
+      "bookingUrl": "https://espaitexas.koobin.cat/ca/chavalas-vo-20261019-1900",
+      "sourceUrl": "https://espaitexas.cat/pelicula/cicle-artec/",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
+      "status": "verified"
+    },
+    {
+      "id": "0033922303a1e9f9faf3",
+      "movieId": "movie-20ca8797955629690ade",
+      "cinemaId": "texas",
+      "startsAt": "2026-10-26T19:00:00+01:00",
+      "language": {
+        "version": null,
+        "audio": null,
+        "subtitles": null,
+        "label": "Idioma no publicado"
+      },
+      "formats": [],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Consultar",
+        "url": "https://espaitexas.koobin.cat/ca/her-vose-20261026-1900"
+      },
+      "bookingUrl": "https://espaitexas.koobin.cat/ca/her-vose-20261026-1900",
+      "sourceUrl": "https://espaitexas.cat/pelicula/cicle-artec/",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
+      "status": "verified"
     },
     {
       "id": "375f47149f1a10b15240",
@@ -79779,6 +80254,30 @@
       "room": "SALA 01"
     },
     {
+      "id": "aeed94e7911d53c041cc",
+      "movieId": "movie-bfe0a0619860f839e707",
+      "cinemaId": "texas",
+      "startsAt": "2026-11-09T19:00:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "ca",
+        "label": "/ VOSC"
+      },
+      "formats": [],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Consultar",
+        "url": "https://espaitexas.koobin.cat/ca/histories-de-la-vall-bona-vosc-20261109-1900"
+      },
+      "bookingUrl": "https://espaitexas.koobin.cat/ca/histories-de-la-vall-bona-vosc-20261109-1900",
+      "sourceUrl": "https://espaitexas.cat/pelicula/historias-del-buen-valle/",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
+      "status": "verified"
+    },
+    {
       "id": "6f15250f664240bdce39",
       "movieId": "fa-192554",
       "cinemaId": "mooby-aribau",
@@ -79827,6 +80326,30 @@
       "observedAt": "2026-09-06T09:02:55.830767+02:00",
       "status": "verified",
       "room": "SALA 05"
+    },
+    {
+      "id": "222a26ef2ba92aafb0db",
+      "movieId": "movie-81c6bbe63aeaa3118a8a",
+      "cinemaId": "texas",
+      "startsAt": "2026-11-30T19:00:00+01:00",
+      "language": {
+        "version": null,
+        "audio": null,
+        "subtitles": null,
+        "label": "Idioma no publicado"
+      },
+      "formats": [],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Consultar",
+        "url": "https://espaitexas.koobin.cat/ca/snowpiercer-vose-20261130-1900"
+      },
+      "bookingUrl": "https://espaitexas.koobin.cat/ca/snowpiercer-vose-20261130-1900",
+      "sourceUrl": "https://espaitexas.cat/pelicula/cicle-artec/",
+      "observedAt": "2026-09-06T11:23:15.236288+02:00",
+      "status": "verified"
     },
     {
       "id": "9007ffbc15d70a49bb55",
@@ -80596,14 +81119,14 @@
       "url": "https://phenomena-experience.com/index?pag=ficha&evento=2788"
     },
     {
-      "id": "be9af03bb7848fb85da9",
-      "title": "TANIT: PROJECCIÓ + COL·LOQUI!",
+      "id": "5251e35819e488654291",
+      "title": "TANIT — Dimarts 22/09/26 18:00 Cinema Sènior, entrades 2€! + COL·LOQUI",
       "type": "colloquium",
       "cinemaId": "texas",
       "startsAt": "2026-09-22T18:00:00+02:00",
       "endDate": null,
-      "description": "Dimarts 22 de setembre, a les 18 h, no et perdis la sessió especial amb projecció + col·loqui de TANIT. En aquesta sessió, comptarem amb el director i guionista Pep Garrido i el productor Xesc Cabot! ENTRADES ENTRADES",
-      "url": "https://espaitexas.cat/activitat/tanit-projeccio-col%c2%b7loqui/"
+      "description": "Dimarts 22/09/26 18:00 Cinema Sènior, entrades 2€! + COL·LOQUI",
+      "url": "https://espaitexas.cat/pelicula/tanit/"
     },
     {
       "id": "a46c85628a63a551bfc7",
@@ -80738,6 +81261,16 @@
       "observedAt": "2026-09-06T07:06:03.051430+00:00"
     },
     {
+      "id": "f93a1a0089a2ef672751",
+      "title": "CICLE ARTEC — Pel·lícula pendent",
+      "type": "cycle",
+      "cinemaId": "texas",
+      "startsAt": "2026-10-05T19:00:00+02:00",
+      "endDate": null,
+      "description": "Dilluns 05/10/26 19:00 Pel·lícula pendent",
+      "url": "https://espaitexas.cat/pelicula/cicle-artec/"
+    },
+    {
       "id": "488a7028f6f95eb1aef6",
       "title": "SED DE MAL",
       "type": "special-screening",
@@ -80776,6 +81309,26 @@
       "url": "https://phenomena-experience.com/index?pag=ficha&evento=2490"
     },
     {
+      "id": "c8aad715cdc12ac6001b",
+      "title": "CICLE ARTEC — LA FURGO",
+      "type": "cycle",
+      "cinemaId": "texas",
+      "startsAt": "2026-10-14T19:00:00+02:00",
+      "endDate": null,
+      "description": "Dimecres 14/10/26 19:00 LA FURGO",
+      "url": "https://espaitexas.cat/pelicula/cicle-artec/"
+    },
+    {
+      "id": "c85aa6c5000a9573e192",
+      "title": "CICLE ARTEC — CHAVALAS",
+      "type": "cycle",
+      "cinemaId": "texas",
+      "startsAt": "2026-10-19T19:00:00+02:00",
+      "endDate": null,
+      "description": "Dilluns 19/10/26 19:00 CHAVALAS",
+      "url": "https://espaitexas.cat/pelicula/cicle-artec/"
+    },
+    {
       "id": "asian-film-festival-barcelona-2026",
       "title": "Asian Film Festival Barcelona — AFFBCN 2026",
       "type": "festival",
@@ -80785,6 +81338,16 @@
       "description": "Festival de cine asiático de autor que reúne cinematografías de distintas regiones de Asia y del Pacífico. La convocatoria oficial confirma las fechas de 2026; las salas de esta edición quedan pendientes de verificación.",
       "url": "https://asianfilmfestival.barcelona/2026/",
       "observedAt": "2026-09-05T10:47:48Z"
+    },
+    {
+      "id": "afef75629292530c8b8d",
+      "title": "CICLE ARTEC — HER",
+      "type": "cycle",
+      "cinemaId": "texas",
+      "startsAt": "2026-10-26T19:00:00+01:00",
+      "endDate": null,
+      "description": "Dilluns 26/10/26 19:00 HER",
+      "url": "https://espaitexas.cat/pelicula/cicle-artec/"
     },
     {
       "id": "in-edit-barcelona-2026",
@@ -80809,6 +81372,16 @@
       "observedAt": "2026-09-05T10:47:48Z"
     },
     {
+      "id": "2de624964554df08a120",
+      "title": "CICLE ARTEC — HISTÒRIES DE LA VALL BONA",
+      "type": "cycle",
+      "cinemaId": "texas",
+      "startsAt": "2026-11-09T19:00:00+01:00",
+      "endDate": null,
+      "description": "Dilluns 09/11/26 19:00 HISTÒRIES DE LA VALL BONA",
+      "url": "https://espaitexas.cat/pelicula/cicle-artec/"
+    },
+    {
       "id": "l-alternativa-2026",
       "title": "L'Alternativa — Festival de Cine Independiente de Barcelona 2026",
       "type": "festival",
@@ -80818,6 +81391,36 @@
       "description": "Festival de cine independiente con competiciones de largometrajes y cortometrajes, actividades profesionales y propuestas gratuitas en el Hall del CCCB. Esta ficha recoge únicamente la edición presencial de Barcelona de 2026.",
       "url": "https://alternativa.cccb.org/2026/es/festival/presentacion",
       "observedAt": "2026-09-05T10:47:48Z"
+    },
+    {
+      "id": "e5cc7083e6ff72638fe9",
+      "title": "CICLE ARTEC — Pel·lícula pendent",
+      "type": "cycle",
+      "cinemaId": "texas",
+      "startsAt": "2026-11-16T19:00:00+01:00",
+      "endDate": null,
+      "description": "Dilluns 16/11/26 19:00 Pel·lícula pendent",
+      "url": "https://espaitexas.cat/pelicula/cicle-artec/"
+    },
+    {
+      "id": "1b0ec8dd6aca46f55d5c",
+      "title": "CICLE ARTEC — Pel·lícula pendent",
+      "type": "cycle",
+      "cinemaId": "texas",
+      "startsAt": "2026-11-23T19:00:00+01:00",
+      "endDate": null,
+      "description": "Dilluns 23/11/26 19:00 Pel·lícula pendent",
+      "url": "https://espaitexas.cat/pelicula/cicle-artec/"
+    },
+    {
+      "id": "1718d90f39de5f156e62",
+      "title": "CICLE ARTEC — SNOWPIERCER",
+      "type": "cycle",
+      "cinemaId": "texas",
+      "startsAt": "2026-11-30T19:00:00+01:00",
+      "endDate": null,
+      "description": "Dilluns 30/11/26 19:00 SNOWPIERCER",
+      "url": "https://espaitexas.cat/pelicula/cicle-artec/"
     }
   ],
   "coverage": [
@@ -80991,10 +81594,10 @@
     },
     {
       "cinemaId": "texas",
-      "status": "partial",
-      "sessions": 35,
-      "message": "Importación parcial: algunos detalles no han podido verificarse. Consultar la fuente.",
-      "checkedAt": "2026-09-06T09:02:55.830767+02:00",
+      "status": "ok",
+      "sessions": 41,
+      "message": "Cartelera oficial: 41 sesiones y 9 eventos. 3 encuentros del ciclo tienen la película pendiente de anuncio.",
+      "checkedAt": "2026-09-06T11:23:15.236288+02:00",
       "sourceUrl": "https://espaitexas.cat/cartellera-cinema/"
     },
     {
