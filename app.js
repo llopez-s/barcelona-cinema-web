@@ -186,6 +186,7 @@
       if (rating.available) {
         node.append(element('span', 'rating-value', numberFormat.format(rating.value)));
         if (rating.maxValid) node.append(element('span', 'rating-scale', `/ ${numberFormat.format(rating.max)}`));
+        if (rating.stale) node.append(element('span', 'rating-pending', 'Sin actualizar'));
         if (text(rating.status) && !GOOD.has(text(rating.status))) node.append(element('span', 'rating-pending', statusName(rating.status)));
       } else {
         node.append(element('span', 'rating-pending', 'Pendiente'));
@@ -196,6 +197,12 @@
         node.setAttribute('aria-label', `${source.name}: ${valueLabel}. Consultar fuente (otra pestaña)`);
         if (detailed) node.append(element('span', 'rating-pending', 'Consultar fuente ↗'));
       } else node.setAttribute('aria-label', `${source.name}: ${rating.available ? numberFormat.format(rating.value) : 'pendiente'}`);
+      if (rating.available && rating.stale) {
+        const observed = `Última nota verificada: ${formatDateTime(rating.observedAt)}`;
+        node.title = `${observed}. No se ha podido actualizar.`;
+        node.setAttribute('aria-label', `${node.getAttribute('aria-label')}. Sin actualizar. ${observed}`);
+        if (detailed) node.append(element('span', 'rating-pending', observed));
+      }
       container.append(node);
       if (detailed && rating.source === 'imdb_dataset') {
         const attribution = externalLink('Fuente: IMDb · conjunto oficial de datos', rating.url, 'small-text');
