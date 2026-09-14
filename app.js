@@ -375,7 +375,8 @@
     const version = element('p', 'session-language', [languageLabel(session.language), ...strings(session.formats)].join(' · '));
     version.title = text(session.language?.label) ? `Texto de la fuente: ${text(session.language.label)}` : '';
     ticket.append(version);
-    const languageDetails = [text(session.language?.audio) ? `Audio: ${languageName(session.language.audio)}` : '', text(session.language?.subtitles) ? `Subtítulos: ${languageName(session.language.subtitles)}` : ''].filter(Boolean).join(' · ');
+    const audio = text(session.language?.audio) ? languageName(session.language.audio) : text(session.language?.audioLabel);
+    const languageDetails = [audio ? `Audio: ${audio}` : '', text(session.language?.subtitles) ? `Subtítulos: ${languageName(session.language.subtitles)}` : ''].filter(Boolean).join(' · ');
     if (languageDetails) ticket.append(element('p', 'session-language', languageDetails));
     ticket.append(element('p', 'session-price', priceLabel(session.price)));
     if (past) ticket.append(element('span', 'session-state', 'Sesión pasada'));
