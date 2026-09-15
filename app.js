@@ -590,6 +590,8 @@
       body.append(element('p', 'eyebrow', eventTypeLabel(eventType(event))), element('h3', 'event-title', text(event.title) || 'Título pendiente'));
       const venue = strings(event.venues).join(' · ') || (event.cinemaId ? cinemaName(event.cinemaId) : 'Sedes pendientes de confirmar');
       body.append(element('p', 'event-meta', `${venue} · ${formatDateTime(event.startsAt)}${text(event.endDate) ? ` · Hasta ${formatDateTime(event.endDate)}` : ''}`));
+      // Eventos conservados por retain_failed_events tras fallar u omitirse su ficha.
+      if (['stale', 'outdated'].includes(text(event.status))) body.append(element('p', 'data-stale', 'Sin actualizar · confirmar en la fuente'));
       body.append(element('p', 'event-description', text(event.description) || 'Descripción pendiente.'));
       const source = externalLink('Consultar el evento ↗', event.url);
       body.append(source || element('p', 'small-text', 'Enlace del evento pendiente'));

@@ -77559,7 +77559,8 @@
       "startsAt": "2026-09-20T11:30:00+02:00",
       "endDate": null,
       "description": "MATINS D’ÒPERA I BALLET La 102a edició de l'Arena di Verona Opera Festival aconsegueix un dels seus punts àlgids amb l'esperat retorn de la soprano Anna Netrebko, qui va assumir per primera vegada en l'amfiteatre romà el temible rol de Abigaille a la nova producció de Nabucco de Giuseppe Verdi. Sota la direcció escènica, escenografia i vestuari del visionari Stefano Poda, aquesta proposta redefineix el llenguatge visual del festival, fusionant l'escala èpica de l'Arena amb un simbolisme contemporani i sofisticat. La interpretació de Netrebko va ser rebuda amb una ovació tancada, destacant el seu domini de la coloratura dramàtica i una presència escènica que dota d'humanitat a l'ambiciosa antagonista. Després de l'èxit del seu \"Aida de cristal\", Poda torna per a oferir un Nabucco que fuig del cartó pedra tradicional. La posada en escena utilitza estructures arquitectòniques monumentals i efectes lumínics que transformen l'espai en un desert metafísic.",
-      "url": "https://barcelona.cines-verdi.com/nabucco-arena-di-verona-opera-festival"
+      "url": "https://barcelona.cines-verdi.com/nabucco-arena-di-verona-opera-festival",
+      "status": "stale"
     },
     {
       "id": "50acb25ee5443e59df56",
@@ -77660,7 +77661,11 @@
       "endDate": "2026-10-04",
       "description": "Festival de cine joven con proyecciones, actividades y talleres en la Fundació Joan Miró de Barcelona. La organización ha anunciado las fechas de su octava edición.",
       "url": "https://festivalu22.substack.com/p/su22bstackslop-obert-per-vacances",
-      "observedAt": "2026-09-05T10:47:48Z"
+      "venues": [
+        "Fundació Joan Miró, Barcelona"
+      ],
+      "observedAt": "2026-09-05T10:47:48Z",
+      "status": "announced"
     },
     {
       "id": "c7e37e566a74ad937829",
@@ -77670,7 +77675,8 @@
       "startsAt": "2026-09-27T11:30:00+02:00",
       "endDate": null,
       "description": "",
-      "url": "https://barcelona.cines-verdi.com/sesion-teta-el-ser-querido"
+      "url": "https://barcelona.cines-verdi.com/sesion-teta-el-ser-querido",
+      "status": "stale"
     },
     {
       "id": "u22-2026-cinedepalodeescoba",
@@ -77681,7 +77687,11 @@
       "endDate": null,
       "description": "Encuentro sobre su manera de trabajar el cine documental. Auditori de la Fundació Joan Miró, Barcelona. Tarifa publicada: 5€; extras no confirmados.",
       "url": "https://www.festivalu22.com/u22/blog/cinedepalodeescoba",
-      "observedAt": "2026-09-14T06:54:54.683542+00:00"
+      "venues": [
+        "Auditori · Fundació Joan Miró, Barcelona"
+      ],
+      "observedAt": "2026-09-14T06:54:54.683542+00:00",
+      "status": "announced"
     },
     {
       "id": "b7441b764603300cc2df",
@@ -77701,7 +77711,11 @@
       "startsAt": "2026-09-30T19:00:00+02:00",
       "description": "Bloque de la selección oficial del Festival u22 en el Auditori de la Fundació Joan Miró de Barcelona.",
       "url": "https://www.festivalu22.com/sessions-dia-a-dia",
-      "observedAt": "2026-09-06T07:06:03.051430+00:00"
+      "venues": [
+        "Auditori · Fundació Joan Miró, Barcelona"
+      ],
+      "observedAt": "2026-09-06T07:06:03.051430+00:00",
+      "status": "announced"
     },
     {
       "id": "u22-2026-passejarrocioquillahuaman",
@@ -77712,7 +77726,11 @@
       "endDate": null,
       "description": "Proyección de Puriykachay y A Barcelona con presentación de su autora. Auditori de la Fundació Joan Miró, Barcelona. Tarifa publicada: 6€; extras no confirmados.",
       "url": "https://www.festivalu22.com/u22/blog/passejarrocioquillahuaman",
-      "observedAt": "2026-09-14T06:54:53.085384+00:00"
+      "venues": [
+        "Auditori · Fundació Joan Miró, Barcelona"
+      ],
+      "observedAt": "2026-09-14T06:54:53.085384+00:00",
+      "status": "announced"
     },
     {
       "id": "choreoscope-2026",
@@ -77723,7 +77741,13 @@
       "endDate": "2026-10-04",
       "description": "Festival dedicado al encuentro entre cine y danza. Su programación presencial incluye proyecciones en Cinemes Girona y actividades en el Institut del Teatre y Candy Darling.",
       "url": "https://www.choreoscope.com/",
-      "observedAt": "2026-09-05T10:47:48Z"
+      "venues": [
+        "Cinemes Girona, Barcelona",
+        "Institut del Teatre, Barcelona",
+        "Candy Darling, Barcelona"
+      ],
+      "observedAt": "2026-09-05T10:47:48Z",
+      "status": "announced"
     },
     {
       "id": "choreoscope-2026-xerinola-26",
@@ -77734,7 +77758,11 @@
       "endDate": null,
       "description": "Actividad de Choreoscope 2026 en Cinemes Girona, Barcelona. Programa de cortometrajes con subtítulos e intérprete de lengua de signos para personas con discapacidad auditiva.",
       "url": "https://www.choreoscope.com/xerinola-26/",
-      "observedAt": "2026-09-07T07:05:32+00:00"
+      "venues": [
+        "Cinemes Girona, Barcelona"
+      ],
+      "observedAt": "2026-09-07T07:05:32+00:00",
+      "status": "announced"
     },
     {
       "id": "u22-2026-seleccio-oficial-ii",
@@ -77744,7 +77772,11 @@
       "startsAt": "2026-10-01T19:00:00+02:00",
       "description": "Bloque de la selección oficial del Festival u22 en el Auditori de la Fundació Joan Miró de Barcelona.",
       "url": "https://www.festivalu22.com/sessions-dia-a-dia",
-      "observedAt": "2026-09-06T07:06:03.051430+00:00"
+      "venues": [
+        "Auditori · Fundació Joan Miró, Barcelona"
+      ],
+      "observedAt": "2026-09-06T07:06:03.051430+00:00",
+      "status": "announced"
     },
     {
       "id": "choreoscope-2026-hungarian-wedding-2026",
@@ -77755,7 +77787,11 @@
       "endDate": null,
       "description": "Actividad de Choreoscope 2026 en Cinemes Girona, Barcelona. La organización anuncia la presencia del director Csaba Káel.",
       "url": "https://www.choreoscope.com/hungarian-wedding-2026/",
-      "observedAt": "2026-09-07T07:05:32+00:00"
+      "venues": [
+        "Cinemes Girona, Barcelona"
+      ],
+      "observedAt": "2026-09-07T07:05:32+00:00",
+      "status": "announced"
     },
     {
       "id": "choreoscope-2026-sanacion-radical-sororidad-panafricana-2026",
@@ -77766,7 +77802,11 @@
       "endDate": null,
       "description": "Actividad de Choreoscope 2026 en Institut del Teatre, Barcelona. La organización anuncia a Maimouna Coulibaly como invitada. Acceso gratuito con reserva previa.",
       "url": "https://www.choreoscope.com/sanacion-radical-sororidad-panafricana-2026/",
-      "observedAt": "2026-09-07T07:15:28+00:00"
+      "venues": [
+        "Institut del Teatre, Barcelona"
+      ],
+      "observedAt": "2026-09-07T07:15:28+00:00",
+      "status": "announced"
     },
     {
       "id": "choreoscope-2026-mundo-abstracto-version-tangible-2026",
@@ -77777,7 +77817,11 @@
       "endDate": null,
       "description": "Actividad de Choreoscope 2026 en Institut del Teatre, Barcelona. Programa de cortometrajes. Acceso gratuito con reserva previa.",
       "url": "https://www.choreoscope.com/mundo-abstracto-version-tangible-2026/",
-      "observedAt": "2026-09-07T07:15:28+00:00"
+      "venues": [
+        "Institut del Teatre, Barcelona"
+      ],
+      "observedAt": "2026-09-07T07:15:28+00:00",
+      "status": "announced"
     },
     {
       "id": "478314d36816fcde0f3e",
@@ -77797,7 +77841,11 @@
       "startsAt": "2026-10-02T19:00:00+02:00",
       "description": "Bloque de la selección oficial del Festival u22 en el Auditori de la Fundació Joan Miró de Barcelona.",
       "url": "https://www.festivalu22.com/sessions-dia-a-dia",
-      "observedAt": "2026-09-06T07:06:03.051430+00:00"
+      "venues": [
+        "Auditori · Fundació Joan Miró, Barcelona"
+      ],
+      "observedAt": "2026-09-06T07:06:03.051430+00:00",
+      "status": "announced"
     },
     {
       "id": "choreoscope-2026-scottish-ballet-these-violent-delights-2026",
@@ -77808,7 +77856,11 @@
       "endDate": null,
       "description": "Actividad de Choreoscope 2026 en Cinemes Girona, Barcelona. La organización anuncia la presencia de los directores Oscar Sansom y Christopher Hampson.",
       "url": "https://www.choreoscope.com/scottish-ballet-these-violent-delights-2026/",
-      "observedAt": "2026-09-07T07:15:32+00:00"
+      "venues": [
+        "Cinemes Girona, Barcelona"
+      ],
+      "observedAt": "2026-09-07T07:15:32+00:00",
+      "status": "announced"
     },
     {
       "id": "7521a438a2c9a8173015",
@@ -77829,7 +77881,11 @@
       "endDate": null,
       "description": "Actividad de Choreoscope 2026 en Cinemes Girona, Barcelona. Fecha, hora y sede anunciadas en el programa oficial.",
       "url": "https://www.choreoscope.com/10s-across-the-border-2026/",
-      "observedAt": "2026-09-07T07:15:32+00:00"
+      "venues": [
+        "Cinemes Girona, Barcelona"
+      ],
+      "observedAt": "2026-09-07T07:15:32+00:00",
+      "status": "announced"
     },
     {
       "id": "fea6889b79199c0f57b2",
@@ -77850,7 +77906,11 @@
       "endDate": null,
       "description": "Actividad de Choreoscope 2026 en Cinemes Girona, Barcelona. La organización anuncia la presencia de la directora Alisa Berger.",
       "url": "https://www.choreoscope.com/invisible-people-2026/",
-      "observedAt": "2026-09-07T07:15:38+00:00"
+      "venues": [
+        "Cinemes Girona, Barcelona"
+      ],
+      "observedAt": "2026-09-07T07:15:38+00:00",
+      "status": "announced"
     },
     {
       "id": "u22-2026-seleccio-oficial-iv",
@@ -77860,7 +77920,11 @@
       "startsAt": "2026-10-03T19:00:00+02:00",
       "description": "Bloque de la selección oficial del Festival u22 en el Auditori de la Fundació Joan Miró de Barcelona.",
       "url": "https://www.festivalu22.com/sessions-dia-a-dia",
-      "observedAt": "2026-09-06T07:06:03.051430+00:00"
+      "venues": [
+        "Auditori · Fundació Joan Miró, Barcelona"
+      ],
+      "observedAt": "2026-09-06T07:06:03.051430+00:00",
+      "status": "announced"
     },
     {
       "id": "choreoscope-2026-ni-colon-ni-perdon-2026",
@@ -77871,7 +77935,11 @@
       "endDate": null,
       "description": "Actividad de Choreoscope 2026 en Cinemes Girona, Barcelona. Fecha, hora y sede anunciadas en el programa oficial.",
       "url": "https://www.choreoscope.com/ni-colon-ni-perdon-2026/",
-      "observedAt": "2026-09-07T07:15:36+00:00"
+      "venues": [
+        "Cinemes Girona, Barcelona"
+      ],
+      "observedAt": "2026-09-07T07:15:36+00:00",
+      "status": "announced"
     },
     {
       "id": "u22-2026-diego-cespedes",
@@ -77881,7 +77949,11 @@
       "startsAt": "2026-10-03T21:00:00+02:00",
       "description": "Actividad paralela del Festival u22 con Diego Céspedes, anunciada en el Auditori de la Fundació Joan Miró de Barcelona. El programa consultado no detalla el formato del encuentro.",
       "url": "https://www.festivalu22.com/sessions-dia-a-dia",
-      "observedAt": "2026-09-06T07:06:03.051430+00:00"
+      "venues": [
+        "Auditori · Fundació Joan Miró, Barcelona"
+      ],
+      "observedAt": "2026-09-06T07:06:03.051430+00:00",
+      "status": "announced"
     },
     {
       "id": "choreoscope-2026-a-wolf-among-swans-2026",
@@ -77892,7 +77964,11 @@
       "endDate": null,
       "description": "Actividad de Choreoscope 2026 en Cinemes Girona, Barcelona. Fecha, hora y sede anunciadas en el programa oficial.",
       "url": "https://www.choreoscope.com/a-wolf-among-swans-2026/",
-      "observedAt": "2026-09-07T07:15:40+00:00"
+      "venues": [
+        "Cinemes Girona, Barcelona"
+      ],
+      "observedAt": "2026-09-07T07:15:40+00:00",
+      "status": "announced"
     },
     {
       "id": "choreoscope-2026-fantastique-2026",
@@ -77903,7 +77979,11 @@
       "endDate": null,
       "description": "Actividad de Choreoscope 2026 en Cinemes Girona, Barcelona. La organización anuncia la presencia de la directora Marjolijn Prins.",
       "url": "https://www.choreoscope.com/fantastique-2026/",
-      "observedAt": "2026-09-07T07:05:36+00:00"
+      "venues": [
+        "Cinemes Girona, Barcelona"
+      ],
+      "observedAt": "2026-09-07T07:05:36+00:00",
+      "status": "announced"
     },
     {
       "id": "u22-2026-quien-soy-y-por-que-hago-peliculas",
@@ -77914,7 +77994,11 @@
       "endDate": null,
       "description": "Charla performativa con proyección de algunos de sus trabajos. Auditori de la Fundació Joan Miró, Barcelona. Tarifa publicada: 5€; extras no confirmados.",
       "url": "https://www.festivalu22.com/u22/blog/quien-soy-y-por-que-hago-peliculas",
-      "observedAt": "2026-09-14T06:54:55.615475+00:00"
+      "venues": [
+        "Auditori · Fundació Joan Miró, Barcelona"
+      ],
+      "observedAt": "2026-09-14T06:54:55.615475+00:00",
+      "status": "announced"
     },
     {
       "id": "choreoscope-2026-candy-darling-2026",
@@ -77925,7 +78009,11 @@
       "endDate": null,
       "description": "Actividad de Choreoscope 2026 en Candy Darling, Barcelona. Programa de cortometrajes. Acceso gratuito sujeto al aforo publicado por la organización.",
       "url": "https://www.choreoscope.com/candy-darling-2026/",
-      "observedAt": "2026-09-07T07:05:36+00:00"
+      "venues": [
+        "Candy Darling, Barcelona"
+      ],
+      "observedAt": "2026-09-07T07:05:36+00:00",
+      "status": "announced"
     },
     {
       "id": "f93a1a0089a2ef672751",
@@ -77956,6 +78044,9 @@
       "endDate": "2026-11-28",
       "description": "Décimo aniversario de DART: programa de arquitectura del 8 de octubre al 20 de noviembre y festival en Cinemes Bosque del 26 al 28 de noviembre. La agenda incluye las sesiones anunciadas en las sedes de Barcelona.",
       "url": "https://dart-festival.com/en/",
+      "venues": [
+        "Varias sedes de Barcelona; Mooby Bosque del 26 al 28 de noviembre"
+      ],
       "venuePeriods": [
         {
           "cinemaId": "mooby-bosque",
@@ -77963,7 +78054,8 @@
           "endDate": "2026-11-28"
         }
       ],
-      "observedAt": "2026-09-14T06:54:53.907713+00:00"
+      "observedAt": "2026-09-14T06:54:53.907713+00:00",
+      "status": "announced"
     },
     {
       "id": "dart-2026-out-of-the-picture-opening",
@@ -77974,7 +78066,11 @@
       "endDate": null,
       "description": "Inauguración del programa de arquitectura DART 2026. Sede: Casa de l’Arquitectura, Barcelona.",
       "url": "https://dart-festival.com/en/doc/out-of-the-picture/",
-      "observedAt": "2026-09-14T06:54:27.414180+00:00"
+      "venues": [
+        "Casa de l’Arquitectura, Barcelona"
+      ],
+      "observedAt": "2026-09-14T06:54:27.414180+00:00",
+      "status": "announced"
     },
     {
       "id": "8e45481346aab6020e92",
@@ -78005,7 +78101,11 @@
       "endDate": null,
       "description": "Proyección del documental sobre Josep Lluís Sert. Sede: Centre Cívic Joan Oliver – Pere Quart, Barcelona.",
       "url": "https://dart-festival.com/en/doc/josep-lluis-sert-un-sueno-nomada/",
-      "observedAt": "2026-09-14T06:54:27.316174+00:00"
+      "venues": [
+        "Centre Cívic Joan Oliver – Pere Quart, Barcelona"
+      ],
+      "observedAt": "2026-09-14T06:54:27.316174+00:00",
+      "status": "announced"
     },
     {
       "id": "c85aa6c5000a9573e192",
@@ -78026,7 +78126,11 @@
       "endDate": null,
       "description": "Sesión conjunta anunciada por la organización. Sede: Lleialtat Santsenca, Barcelona.",
       "url": "https://dart-festival.com/en/doc/the-women-of-the-bauhaus-3/",
-      "observedAt": "2026-09-14T06:54:34.961663+00:00"
+      "venues": [
+        "Lleialtat Santsenca, Barcelona"
+      ],
+      "observedAt": "2026-09-14T06:54:34.961663+00:00",
+      "status": "announced"
     },
     {
       "id": "asian-film-festival-barcelona-2026",
@@ -78037,7 +78141,9 @@
       "endDate": "2026-11-01",
       "description": "Festival de cine asiático de autor que reúne cinematografías de distintas regiones de Asia y del Pacífico. La convocatoria oficial confirma las fechas de 2026; las salas de esta edición quedan pendientes de verificación.",
       "url": "https://asianfilmfestival.barcelona/2026/",
-      "observedAt": "2026-09-05T10:47:48Z"
+      "venues": [],
+      "observedAt": "2026-09-05T10:47:48Z",
+      "status": "announced"
     },
     {
       "id": "dart-2026-perriand",
@@ -78048,7 +78154,11 @@
       "endDate": null,
       "description": "Proyección de ambas obras y conversación posterior sobre Charlotte Perriand. Sede: Fundació Joan Miró, Barcelona.",
       "url": "https://dart-festival.com/en/doc/charlotte-perriand-pionniere-de-lart-de-vivre/",
-      "observedAt": "2026-09-14T06:54:37.882497+00:00"
+      "venues": [
+        "Fundació Joan Miró, Barcelona"
+      ],
+      "observedAt": "2026-09-14T06:54:37.882497+00:00",
+      "status": "announced"
     },
     {
       "id": "afef75629292530c8b8d",
@@ -78069,7 +78179,11 @@
       "endDate": "2026-11-08",
       "description": "La edición barcelonesa del festival de documental musical se celebrará en Mooby Aribau. El avance oficial anuncia películas sobre Marianne Faithfull y el rock alternativo de los noventa, además de encuentros con cineastas.",
       "url": "https://es.in-edit.org/el-in-edit-2026-avanza-los-primeros-titulos-de-su-24a-edicion/",
-      "observedAt": "2026-09-05T10:47:48Z"
+      "venues": [
+        "Mooby Aribau / Aribau Cinema, Barcelona"
+      ],
+      "observedAt": "2026-09-05T10:47:48Z",
+      "status": "announced"
     },
     {
       "id": "dart-2026-re-destruction",
@@ -78080,7 +78194,11 @@
       "endDate": null,
       "description": "Sesión conjunta del programa Acció>Cinema. Sede: Centre Cívic Pati Llimona, Barcelona.",
       "url": "https://dart-festival.com/en/doc/re-destruction-2/",
-      "observedAt": "2026-09-14T06:54:40.475462+00:00"
+      "venues": [
+        "Centre Cívic Pati Llimona, Barcelona"
+      ],
+      "observedAt": "2026-09-14T06:54:40.475462+00:00",
+      "status": "announced"
     },
     {
       "id": "el-meu-primer-festival-barcelona-2026",
@@ -78091,7 +78209,9 @@
       "endDate": "2026-11-22",
       "description": "Festival de cine infantil para disfrutar en familia, con películas, votaciones y actividades de creación. La organización anuncia su celebración en Barcelona del 7 al 22 de noviembre; las sedes locales de 2026 quedan pendientes de verificación.",
       "url": "https://primerfestivaldecine.com/ca",
-      "observedAt": "2026-09-05T10:47:48Z"
+      "venues": [],
+      "observedAt": "2026-09-05T10:47:48Z",
+      "status": "announced"
     },
     {
       "id": "2de624964554df08a120",
@@ -78112,7 +78232,11 @@
       "endDate": null,
       "description": "Sesión conjunta anunciada por la organización. Sede: Biblioteca Vilapicina i la Torre Llobeta – Carmen Laforet, Barcelona.",
       "url": "https://dart-festival.com/en/doc/the-cathedral/",
-      "observedAt": "2026-09-14T06:54:43.176706+00:00"
+      "venues": [
+        "Biblioteca Vilapicina i la Torre Llobeta – Carmen Laforet, Barcelona"
+      ],
+      "observedAt": "2026-09-14T06:54:43.176706+00:00",
+      "status": "announced"
     },
     {
       "id": "l-alternativa-2026",
@@ -78123,7 +78247,11 @@
       "endDate": "2026-11-22",
       "description": "Festival de cine independiente con competiciones de largometrajes y cortometrajes, actividades profesionales y propuestas gratuitas en el Hall del CCCB. Esta ficha recoge únicamente la edición presencial de Barcelona de 2026.",
       "url": "https://alternativa.cccb.org/2026/es/festival/presentacion",
-      "observedAt": "2026-09-05T10:47:48Z"
+      "venues": [
+        "Centre de Cultura Contemporània de Barcelona (CCCB)"
+      ],
+      "observedAt": "2026-09-05T10:47:48Z",
+      "status": "announced"
     },
     {
       "id": "dart-2026-radical-landscapes",
@@ -78134,7 +78262,11 @@
       "endDate": null,
       "description": "Proyección dentro del programa de arquitectura DART 2026. Sede: Centre Cívic Ateneu Fort Pienc / Biblioteca El Fort Pienc – Ana María Moix, Barcelona.",
       "url": "https://dart-festival.com/en/doc/radical-landscapes-2/",
-      "observedAt": "2026-09-14T06:54:47.540436+00:00"
+      "venues": [
+        "Centre Cívic Ateneu Fort Pienc / Biblioteca El Fort Pienc – Ana María Moix, Barcelona"
+      ],
+      "observedAt": "2026-09-14T06:54:47.540436+00:00",
+      "status": "announced"
     },
     {
       "id": "e5cc7083e6ff72638fe9",
@@ -78155,7 +78287,11 @@
       "endDate": null,
       "description": "Sesión conjunta anunciada por la organización. Sede: Ca l’Alier, Barcelona.",
       "url": "https://dart-festival.com/en/doc/green-over-gray-emilio-ambasz/",
-      "observedAt": "2026-09-14T06:54:50.262737+00:00"
+      "venues": [
+        "Ca l’Alier, Barcelona"
+      ],
+      "observedAt": "2026-09-14T06:54:50.262737+00:00",
+      "status": "announced"
     },
     {
       "id": "dart-2026-out-of-the-picture-casa-groga",
@@ -78166,7 +78302,11 @@
       "endDate": null,
       "description": "Segunda proyección anunciada de este documental. Sede: Centre Cívic Casa Groga, Barcelona.",
       "url": "https://dart-festival.com/en/doc/out-of-the-picture/",
-      "observedAt": "2026-09-14T06:54:27.414180+00:00"
+      "venues": [
+        "Centre Cívic Casa Groga, Barcelona"
+      ],
+      "observedAt": "2026-09-14T06:54:27.414180+00:00",
+      "status": "announced"
     },
     {
       "id": "dart-2026-dansa-arquitectura",
@@ -78177,7 +78317,11 @@
       "endDate": null,
       "description": "Programa de cortometrajes sobre danza y arquitectura. Sede: Fabra i Coats: Fàbrica de Creació de Barcelona, Barcelona.",
       "url": "https://dart-festival.com/en/doc/sessio-de-curtmetratges-dansa-i-arquitectura/",
-      "observedAt": "2026-09-14T06:54:50.316467+00:00"
+      "venues": [
+        "Fabra i Coats: Fàbrica de Creació de Barcelona, Barcelona"
+      ],
+      "observedAt": "2026-09-14T06:54:50.316467+00:00",
+      "status": "announced"
     },
     {
       "id": "dart-2026-la-vie-en-kit",
@@ -78188,7 +78332,11 @@
       "endDate": null,
       "description": "Proyección en colaboración con Apropa Cultura. Sede: Centre Cívic Ateneu Fort Pienc / Biblioteca El Fort Pienc – Ana María Moix, Barcelona.",
       "url": "https://dart-festival.com/en/doc/la-vie-en-kit/",
-      "observedAt": "2026-09-14T06:54:53.907713+00:00"
+      "venues": [
+        "Centre Cívic Ateneu Fort Pienc / Biblioteca El Fort Pienc – Ana María Moix, Barcelona"
+      ],
+      "observedAt": "2026-09-14T06:54:53.907713+00:00",
+      "status": "announced"
     },
     {
       "id": "1b0ec8dd6aca46f55d5c",
