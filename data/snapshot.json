@@ -77552,6 +77552,16 @@
       "url": "https://phenomena-experience.com/index?pag=ficha&evento=2437"
     },
     {
+      "id": "8e93df93838b020d7a42",
+      "title": "Nabucco - Arena di Verona Opera Festival",
+      "type": "concert",
+      "cinemaId": "verdi",
+      "startsAt": "2026-09-20T11:30:00+02:00",
+      "endDate": null,
+      "description": "MATINS D’ÒPERA I BALLET La 102a edició de l'Arena di Verona Opera Festival aconsegueix un dels seus punts àlgids amb l'esperat retorn de la soprano Anna Netrebko, qui va assumir per primera vegada en l'amfiteatre romà el temible rol de Abigaille a la nova producció de Nabucco de Giuseppe Verdi. Sota la direcció escènica, escenografia i vestuari del visionari Stefano Poda, aquesta proposta redefineix el llenguatge visual del festival, fusionant l'escala èpica de l'Arena amb un simbolisme contemporani i sofisticat. La interpretació de Netrebko va ser rebuda amb una ovació tancada, destacant el seu domini de la coloratura dramàtica i una presència escènica que dota d'humanitat a l'ambiciosa antagonista. Després de l'èxit del seu \"Aida de cristal\", Poda torna per a oferir un Nabucco que fuig del cartó pedra tradicional. La posada en escena utilitza estructures arquitectòniques monumentals i efectes lumínics que transformen l'espai en un desert metafísic.",
+      "url": "https://barcelona.cines-verdi.com/nabucco-arena-di-verona-opera-festival"
+    },
+    {
       "id": "50acb25ee5443e59df56",
       "title": "INSOMNIO",
       "type": "special-screening",
@@ -77651,6 +77661,16 @@
       "description": "Festival de cine joven con proyecciones, actividades y talleres en la Fundació Joan Miró de Barcelona. La organización ha anunciado las fechas de su octava edición.",
       "url": "https://festivalu22.substack.com/p/su22bstackslop-obert-per-vacances",
       "observedAt": "2026-09-05T10:47:48Z"
+    },
+    {
+      "id": "c7e37e566a74ad937829",
+      "title": "Sesión Teta: El ser querido",
+      "type": "baby-friendly",
+      "cinemaId": "verdi",
+      "startsAt": "2026-09-27T11:30:00+02:00",
+      "endDate": null,
+      "description": "",
+      "url": "https://barcelona.cines-verdi.com/sesion-teta-el-ser-querido"
     },
     {
       "id": "u22-2026-cinedepalodeescoba",
