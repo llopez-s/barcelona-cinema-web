@@ -44,6 +44,45 @@
     if (isLanguage(value, 'ca')) return 'Catalán';
     return { en: 'Inglés', fr: 'Francés', it: 'Italiano', de: 'Alemán', ja: 'Japonés' }[normalize(value)] || value;
   }
+  // Familias del filtro «Género». Las fichas siguen mostrando las etiquetas de cada fuente.
+  const GENRE_FAMILIES = [
+    ['drama', 'Drama', ['Drama']],
+    ['comedia', 'Comedia', ['Comedia', 'Comedia dramática', 'Comèdia', 'Comedy']],
+    ['romance', 'Romance', ['Romance', 'Romántico', 'Romanç', 'Romàntic']],
+    ['accion', 'Acción y aventuras', ['Acción', 'Acció', 'Action', 'Aventura', 'Aventuras', 'Aventures', 'Adventure', 'Western']],
+    ['thriller', 'Thriller y crimen', ['Thriller', 'Suspense', 'Intriga', 'Cine negro', 'Cinema negre', 'Crimen', 'Crim', 'Crime']],
+    ['terror', 'Terror', ['Terror', 'Horror']],
+    ['fantastico', 'Fantástico y ciencia ficción', ['Fantástico', 'Fantàstic', 'Fantasía', 'Fantasy', 'Ciencia ficción', 'Ciència ficció', 'Science Fiction']],
+    ['animacion', 'Animación e infantil', ['Animación', 'Animació', 'Animation', 'Infantil']],
+    ['historico', 'Histórico y bélico', ['Histórico', 'Històric', 'History', 'Bélico', 'Bèl·lic', 'Guerra', 'War']],
+    ['musical', 'Musical', ['Musical']],
+    ['documental', 'Documental', ['Documental', 'Documentary']],
+    ['otros', 'Otros', ['Short', 'Cortometraje', 'Curtmetratge', 'Serie de TV']],
+  ];
+  const GENRE_FILTERS = GENRE_FAMILIES.map(([key, label]) => [key, label]);
+  const GENRE_ALIASES = new Map(GENRE_FAMILIES.flatMap(([key, , labels]) => labels.map((label) => [normalize(label), key])));
+  const UNGROUPED = 'etiqueta:';
+  function genreKeys(genres) {
+    const labels = Array.isArray(genres) ? genres.map(normalize).filter(Boolean) : [];
+    const families = GENRE_FILTERS.map(([key]) => key).filter((key) => labels.some((label) => GENRE_ALIASES.get(label) === key));
+    // Una etiqueta nueva sigue siendo filtrable hasta asignarla a una familia.
+    const ungrouped = labels.filter((label) => !GENRE_ALIASES.has(label)).map((label) => UNGROUPED + label);
+    return [...families, ...new Set(ungrouped)];
+  }
+  function genreOptions(movies) {
+    const keys = new Set();
+    const ungrouped = new Map();
+    for (const movie of Array.isArray(movies) ? movies : []) {
+      const genres = Array.isArray(movie?.genres) ? movie.genres : [];
+      for (const key of genreKeys(genres)) keys.add(key);
+      for (const label of genres) {
+        const key = UNGROUPED + normalize(label);
+        if (keys.has(key) && !ungrouped.has(key)) ungrouped.set(key, label.trim());
+      }
+    }
+    const extra = [...ungrouped].sort((a, b) => a[1].localeCompare(b[1], 'es', { sensitivity: 'base' }));
+    return [...GENRE_FILTERS.filter(([key]) => keys.has(key)), ...extra];
+  }
   function movieKeys(movie) {
     // Solo identificadores explícitos; nunca se agrupan remakes por título.
     const merged = Array.isArray(movie.mergedIds) ? movie.mergedIds.map((id) => ['id', id]) : [];
@@ -82,7 +121,7 @@
     return { reload, has, set };
   }
 
-  const api = { STORAGE_KEY, LANGUAGE_FILTERS, languageCategory, languageLabel, languageName, createWatchedStore };
+  const api = { STORAGE_KEY, LANGUAGE_FILTERS, GENRE_FILTERS, languageCategory, languageLabel, languageName, genreKeys, genreOptions, createWatchedStore };
   if (typeof module !== 'undefined' && module.exports) module.exports = api;
   else root.CinemaPreferences = Object.freeze(api);
 })(globalThis);

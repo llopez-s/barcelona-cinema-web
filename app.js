@@ -29,7 +29,7 @@
   const FAILED = new Set(['error', 'failed', 'blocked', 'unavailable', 'timeout']);
   const PENDING_RATINGS = new Set(['pending', 'unknown', 'missing', 'unavailable', 'error', 'failed', 'blocked', 'not_found', 'no_data', 'identity_unconfirmed', 'unrated']);
   const UNBOOKABLE = new Set(['cancelled', 'canceled', 'sold_out', 'soldout', 'soldOut', 'expired', 'unavailable']);
-  const { STORAGE_KEY, LANGUAGE_FILTERS, languageCategory, languageLabel, languageName, createWatchedStore } = window.CinemaPreferences;
+  const { STORAGE_KEY, LANGUAGE_FILTERS, languageCategory, languageLabel, languageName, genreKeys, genreOptions, createWatchedStore } = window.CinemaPreferences;
   const watchedMovies = createWatchedStore(() => window.localStorage);
   const $ = (id) => document.getElementById(id);
   const els = {
@@ -296,7 +296,7 @@
     fillOptions('date', [...new Set(dates)].sort().map((value) => [value, formatDate(value)]), 'Todas las fechas');
     fillOptions('language', LANGUAGE_FILTERS, 'Todas las versiones', false);
     fillOptions('format', alphabetic(sessions.flatMap((session) => strings(session.formats))), 'Todos los formatos');
-    fillOptions('genre', alphabetic(data.movies.flatMap((movie) => strings(movie.genres))), 'Todos los géneros');
+    fillOptions('genre', genreOptions(data.movies), 'Todos los géneros');
   }
   function matchesSession(session, filter) {
     const starts = date(session.startsAt);
@@ -320,7 +320,7 @@
       if (filter.watched === 'unwatched' && watched || filter.watched === 'watched' && !watched) continue;
       const searchText = normalize([text(movie.title), text(movie.originalTitle), text(movie.director)].join(' '));
       if (filter.query && !filter.query.split(/\s+/).every((word) => searchText.includes(word))) continue;
-      if (filter.genre && !strings(movie.genres).includes(filter.genre)) continue;
+      if (filter.genre && !genreKeys(movie.genres).includes(filter.genre)) continue;
       const rating = ratingData(movie, filter.ratingSource);
       if (filter.minRating && (rating.ratio === null || rating.ratio < Number(filter.minRating))) continue;
       const allSessions = sessionsByMovie.get(identifier(movie.id)) || [];
