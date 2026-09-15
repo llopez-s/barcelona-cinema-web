@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-09-15T08:31:16.594687+02:00",
-  "finishedAt": "2026-09-15T08:46:37.319492+02:00",
+  "finishedAt": "2026-09-15T09:49:36.229785+02:00",
   "scope": "Barcelona ciudad",
   "timezone": "Europe/Madrid",
   "movies": [
@@ -640,9 +640,7 @@
       ],
       "filmaffinityId": "872269",
       "imdbId": "tt32126595",
-      "aliases": [
-        "Forastera"
-      ],
+      "aliases": [],
       "mergedIds": [
         "fa-872269",
         "movie-1aa8104727e5151e532c",
@@ -6046,14 +6044,17 @@
       },
       "sourceUrl": "https://espaitexas.cat/pelicula/tanit/",
       "sources": [
-        "https://espaitexas.cat/pelicula/tanit/"
+        "https://espaitexas.cat/pelicula/tanit/",
+        "https://www.cinemesgirona.cat/tanit"
       ],
       "filmaffinityId": "419872",
       "imdbId": "tt38770100",
       "aliases": [
         "Tanit"
       ],
-      "mergedIds": []
+      "mergedIds": [
+        "movie-8b7843abbfe534d49850"
+      ]
     },
     {
       "id": "movie-da55c50cfab79db91846",
@@ -6354,12 +6355,15 @@
       },
       "sourceUrl": "https://zumzeigcine.coop/cinema/films/mumbo-jumbo-es-fa-enorme/",
       "sources": [
-        "https://zumzeigcine.coop/cinema/films/mumbo-jumbo-es-fa-enorme/"
+        "https://zumzeigcine.coop/cinema/films/mumbo-jumbo-es-fa-enorme/",
+        "https://www.cinemesgirona.cat/mumbo-jumbo-se-hace-enorme"
       ],
       "filmaffinityId": "631962",
-      "imdbId": null,
+      "imdbId": "tt28942997",
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [
+        "movie-df232d2d41fd3313f544"
+      ]
     },
     {
       "id": "movie-2746f7f0b13b16df0341",
@@ -6499,14 +6503,15 @@
       },
       "sourceUrl": "https://zumzeigcine.coop/cinema/films/siemprevivas-zumzeig/",
       "sources": [
-        "https://zumzeigcine.coop/cinema/films/siemprevivas-zumzeig/"
+        "https://zumzeigcine.coop/cinema/films/siemprevivas-zumzeig/",
+        "https://www.cinemesgirona.cat/siemprevivas"
       ],
       "filmaffinityId": "804681",
       "imdbId": "tt40748379",
-      "aliases": [
-        "Siemprevivas"
-      ],
-      "mergedIds": []
+      "aliases": [],
+      "mergedIds": [
+        "movie-3037f53a600c474c0040"
+      ]
     },
     {
       "id": "movie-baa7b35edc20852dbe34",
@@ -9648,78 +9653,6 @@
       "mergedIds": []
     },
     {
-      "id": "movie-65706b10ce796ed4149c",
-      "title": "Femenino Singular",
-      "originalTitle": "Femenino singular",
-      "year": 1982,
-      "director": "Juanjo López",
-      "genres": [
-        "Comedia"
-      ],
-      "synopsis": "Una prestigiosa agencia matrimonial acaba de perder a su presidente tras una terrible muerte y Luisa Matas ocupa su puesto. Desde entonces, tiene como objetivo conseguir que todos los clientes de la empresa consigan contraer matrimonio en un mímino de 6 meses. Pero, irónicamente, Luisa no ha tenido un feliz matrimonio y está separada. Tras su ...",
-      "poster": "https://es.web.img2.acsta.net/c_160_213/pictures/14/11/26/09/29/272203.jpg",
-      "trailer": null,
-      "ratings": {
-        "imdb": {
-          "value": 3.7,
-          "scale": 10,
-          "max": 10,
-          "metric": "user_rating",
-          "status": "verified",
-          "source": "imdb_dataset",
-          "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
-          "attribution": "IMDb non-commercial datasets",
-          "observedAt": "2026-09-15T06:43:09Z",
-          "searchUrl": "https://www.imdb.com/find/?q=Femenino+singular&s=tt",
-          "imdbId": "tt0083932",
-          "titleUrl": "https://www.imdb.com/title/tt0083932/",
-          "votes": 28
-        },
-        "filmaffinity": {
-          "value": 3.8,
-          "scale": 10,
-          "url": "https://www.filmaffinity.com/es/film350575.html",
-          "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Femenino+Singular&stype=title",
-          "observedAt": "2026-09-15T06:45:40Z",
-          "status": "verified",
-          "source": "filmaffinity",
-          "attribution": "FilmAffinity",
-          "metric": "user_rating"
-        },
-        "rottenTomatoes": {
-          "value": null,
-          "scale": 100,
-          "url": "https://www.rottentomatoes.com/search?search=Femenino+singular",
-          "searchUrl": "https://www.rottentomatoes.com/search?search=Femenino+singular",
-          "observedAt": "2026-09-15T06:45:41Z",
-          "status": "not_found",
-          "source": "rottenTomatoes",
-          "attribution": "Rotten Tomatoes",
-          "metric": "tomatometer",
-          "audience": {
-            "value": null,
-            "scale": 100,
-            "url": "https://www.rottentomatoes.com/search?search=Femenino+singular",
-            "searchUrl": "https://www.rottentomatoes.com/search?search=Femenino+singular",
-            "observedAt": "2026-09-15T06:45:41Z",
-            "status": "not_found",
-            "source": "rottenTomatoes",
-            "attribution": "Rotten Tomatoes",
-            "metric": "popcornmeter"
-          }
-        }
-      },
-      "sourceUrl": "https://www.sensacine.com/peliculas/pelicula-233573/",
-      "sources": [
-        "https://www.sensacine.com/peliculas/pelicula-233573/"
-      ],
-      "filmaffinityId": "350575",
-      "imdbId": "tt0083932",
-      "aliases": [
-        "Femenino singular"
-      ]
-    },
-    {
       "id": "movie-7a78e8a93cec8e960a85",
       "title": "Suportant el paradís",
       "originalTitle": "Suportant el paradís",
@@ -10000,13 +9933,16 @@
       },
       "sourceUrl": "https://barcelona.cines-verdi.com/nabucco-arena-di-verona-opera-festival",
       "sources": [
-        "https://barcelona.cines-verdi.com/nabucco-arena-di-verona-opera-festival"
+        "https://barcelona.cines-verdi.com/nabucco-arena-di-verona-opera-festival",
+        "https://www.cinemesgirona.cat/nabucco-arena-di-verona-opera-festival"
       ],
       "imdbId": null,
       "aliases": [
         "Nabucco - Arena di Verona Opera Festival"
       ],
-      "mergedIds": []
+      "mergedIds": [
+        "movie-34e17ca76c7608082db7"
+      ]
     },
     {
       "id": "movie-53bd5fb668bb6008d6bc",
@@ -10159,11 +10095,13 @@
     {
       "id": "movie-92229290432cb97ae214",
       "title": "Femenino, singular",
-      "originalTitle": null,
-      "year": null,
-      "director": null,
-      "genres": [],
-      "synopsis": null,
+      "originalTitle": "Femení, singular",
+      "year": 2026,
+      "director": "Xavi Puebla",
+      "genres": [
+        "Drama"
+      ],
+      "synopsis": "Nayeli, una jove mexicana que treballa com a empleada domèstica a Barcelona, veu com la seva vida fa un gir inesperat. Mentre lluita per recuperar el control de la destinació, desafia els prejudicis d'una societat que la jutja i limita. 💳 Abonaments anuals vàlids a partir del 18 de setembre",
       "poster": "https://www.bizcochito.es/img/tt30229628-es-pos.webp",
       "trailer": null,
       "ratings": {
@@ -10220,7 +10158,9 @@
       "sources": [
         "https://www.cinemesgirona.cat/femenino-singular"
       ],
-      "imdbId": "tt30229628"
+      "imdbId": "tt30229628",
+      "aliases": [],
+      "mergedIds": []
     },
     {
       "id": "movie-02056301c46da754db29",
@@ -13271,6 +13211,356 @@
         "My Uncle"
       ],
       "mergedIds": []
+    },
+    {
+      "id": "movie-e0716e6323392d557e4d",
+      "title": "Xerinola",
+      "originalTitle": "Xerinola",
+      "year": 2026,
+      "director": null,
+      "genres": [],
+      "synopsis": "L´art local de Xerinola ens apropa a la visió catalana i espanyola de l´actualitat. Un viatge que va de les aurores boreals al fons del mar, de l'església on es trenquen les cadenes a l'habitació on dues germanes recuperen la llibertat. Butoh per a vaques, flamenc sense gènere i un home que camina sense saber cap on. Xerinola mira allò d'aquí i ho explica ballant.",
+      "poster": "https://www.bizcochito.es/img/tt112825-es-sld.webp",
+      "trailer": null,
+      "ratings": {},
+      "sourceUrl": "https://www.cinemesgirona.cat/xerinola",
+      "sources": [
+        "https://www.cinemesgirona.cat/xerinola"
+      ],
+      "imdbId": null
+    },
+    {
+      "id": "movie-e5a42e30a50b8f1d4474",
+      "title": "Hungarian Wedding",
+      "originalTitle": "Hungarian Wedding",
+      "year": 2025,
+      "director": "Csaba Káel",
+      "genres": [
+        "Romanç"
+      ],
+      "synopsis": "Dos estudiants viatgen a un casament a Transsilvània als anys vuitanta, on un pla arriscat es converteix en amor veritable, en contrast amb la música i la dansa vibrants de les tradicions populars hongareses.",
+      "poster": "https://www.bizcochito.es/img/tt38267641-es-sld.webp",
+      "trailer": null,
+      "ratings": {},
+      "sourceUrl": "https://www.cinemesgirona.cat/hungarian-wedding",
+      "sources": [
+        "https://www.cinemesgirona.cat/hungarian-wedding"
+      ],
+      "imdbId": "tt38267641"
+    },
+    {
+      "id": "movie-53411887fc51be98be09",
+      "title": "These Violent Delights",
+      "originalTitle": "These Violent Delights",
+      "year": 2026,
+      "director": "Christopher Hampson, Oscar Sansom",
+      "genres": [],
+      "synopsis": "La captivadora reinvenció del clàssic de Shakespeare per part del Scottish Ballet presenta una coreografia excepcional, un vestuari impressionant i una cinematografia impecable per oferir una experiència de ballet distintiva.",
+      "poster": "https://www.bizcochito.es/img/tt43637896-es-sld.webp",
+      "trailer": null,
+      "ratings": {},
+      "sourceUrl": "https://www.cinemesgirona.cat/these-violent-delights",
+      "sources": [
+        "https://www.cinemesgirona.cat/these-violent-delights"
+      ],
+      "imdbId": "tt43637896"
+    },
+    {
+      "id": "movie-f9dfdb630465c52c33e5",
+      "title": "10s Across the Borders",
+      "originalTitle": "10s Across the Borders",
+      "year": 2025,
+      "director": "Chan Sze-Wei",
+      "genres": [
+        "Documental"
+      ],
+      "synopsis": "Si el món no t'accepta a tu i als teus, obre camí per a un món que sí que ho faci. Inspirats per la cultura underground negra i llatina de ballroom de Nova York, Sun, Teddy i Xyza creen comunitats de ballroom al sud-est asiàtic com a refugis segurs contra l'homofòbia, la transfòbia, la discriminació per color i l'estigma del VIH. A Malàisia, Teddy fuig de la violència del seu pare i lluita pel seu dret a ser ell mateix en un país profundament homòfob. Mentrestant, encara desitja l'amor d'un pare, i Ballroom és el lloc ideal per buscar un nou pare. La filipina Xyza somia ser model, però li diuen que és impossible a causa de la seva pell fosca. A les comunitats internacionals de ballroom, finalment troba la confiança. Torna a casa amb un foc per construir una comunitat a les Filipines on tothom pugui sentir-se bonic i estimat, independentment del color, la sexualitat i la identitat de gènere. A Tailàndia, Ballroom és el que ajuda Sun a donar sentit a la seva complexa història com a fill mestiç queer d'una treballadora sexual, i a les seves famílies biològiques i d'acollida fracturades a Tailàndia i Noruega. El budisme i el ball de saló es fusionen en el llenguatge creatiu de Sun com a artista de performance, mentre parla per honorar les vides de la seva mare, treballadora sexual, dones trans i altres persones les veus de les quals rarament s'escolten.",
+      "poster": "https://www.bizcochito.es/img/tt27827068-es-sld.webp",
+      "trailer": null,
+      "ratings": {},
+      "sourceUrl": "https://www.cinemesgirona.cat/10s-across-the-borders",
+      "sources": [
+        "https://www.cinemesgirona.cat/10s-across-the-borders"
+      ],
+      "imdbId": "tt27827068"
+    },
+    {
+      "id": "movie-2846d27a91bfefe76a92",
+      "title": "Invisible People",
+      "originalTitle": "Invisible People",
+      "year": 2024,
+      "director": "Alisa Berger",
+      "genres": [
+        "Documental"
+      ],
+      "synopsis": "Un viatge atmosfèric al Japó en una pel·lícula existencial i expressiva on la dansa butoh de malson esdevé el prisma a través del qual s'expressen les forces de la vida. L'horrible i el sublim es troben i emergeixen estranyes microconnexions. Cossos amb maquillatge blanc en posicions grotesques. Màscares, túniques i visions de malson. Músculs tensos en moviment convulsiu. La dansa butoh japonesa és tan lluny dels ideals clàssics (és a dir, occidentals) de bellesa com es pot arribar. El butoh és una forma d'art on el sublim i l'horrible es troben, i no hi ha punt intermedi. Però arribar a ser un ballarí de butoh no es tracta de gestos transgressors per impactar. \"Invisible People\" és un retrat multicapa de la dansa contemporània japonesa única que va sorgir a finals dels anys cinquanta i es mou entre la rebel·lió, l'erotisme, el trànsit i l'oració. L'impressionant i atmosfèrica primera pel·lícula d'Alisa Berger s'allunya gradualment de la dansa en si mateixa i es converteix en un poema visual existencial de la vida amb totes les seves estranyes microconnexions.",
+      "poster": "https://www.bizcochito.es/img/tt37741479-es-sld.webp",
+      "trailer": null,
+      "ratings": {},
+      "sourceUrl": "https://www.cinemesgirona.cat/invisible-people",
+      "sources": [
+        "https://www.cinemesgirona.cat/invisible-people"
+      ],
+      "imdbId": "tt37741479"
+    },
+    {
+      "id": "movie-b70e580e54a2b05f679b",
+      "title": "Ni Colón ni perdón",
+      "originalTitle": "Ni Colón ni perdón",
+      "year": null,
+      "director": null,
+      "genres": [],
+      "synopsis": "Perquè ni Colom va descobrir Amèrica ni Amèrica és els Estats Units. Les Amèriques són moltes cultures que tenen una diversitat i una riquesa sense igual. Ni Colom ni perdó és un viatge de nord a sud del continent que entrellaça balls ancestrals i contemporanis (powwow, stepping, avant-garde, bubbling, afro-caribean drumb, salsa i samba) que han sabut resistir a l'homogeneïtzació colonial. Una celebració desacomplexada del que Colom mai no va imaginar: pobles vius que es reinventen sense demanar permís. En col·laboració amb IndiFest / AlterNativa, en intercanvi amb pobles indígenes.",
+      "poster": "https://www.bizcochito.es/img/tt112841-es-sld.webp",
+      "trailer": null,
+      "ratings": {},
+      "sourceUrl": "https://www.cinemesgirona.cat/ni-colon-ni-perdon",
+      "sources": [
+        "https://www.cinemesgirona.cat/ni-colon-ni-perdon"
+      ],
+      "imdbId": null
+    },
+    {
+      "id": "movie-ffa9ae0ae792b6541c37",
+      "title": "Um Lobo entre os Cisnes",
+      "originalTitle": "A Wolf Among the Swans",
+      "year": 2024,
+      "director": "Helena Varvaki, Marcos Schechtman",
+      "genres": [
+        "Biopic",
+        "Drama"
+      ],
+      "synopsis": "En Thiago Soares, un noi del barri residencial de Rio, deixa enrere el hip-hop i s'embarca en el món del ballet clàssic. La seva història pren girs inesperats a través de la problemàtica relació amb el seu mentor, el cubà Dino Carrera.",
+      "poster": "https://www.bizcochito.es/img/tt27526434-es-sld.webp",
+      "trailer": null,
+      "ratings": {},
+      "sourceUrl": "https://www.cinemesgirona.cat/um-lobo-entre-os-cisnes",
+      "sources": [
+        "https://www.cinemesgirona.cat/um-lobo-entre-os-cisnes"
+      ],
+      "imdbId": "tt27526434"
+    },
+    {
+      "id": "movie-ce8ca67bf4b7e66ee872",
+      "title": "Fantastique",
+      "originalTitle": "Fantastique",
+      "year": 2025,
+      "director": "Marjolijn Prins",
+      "genres": [
+        "Documental"
+      ],
+      "synopsis": "Fantastique és una història de maduresa màgica-realista a Guinea Conakry. Seguim la contorsionista Fanta, de 14 anys, que fa malabars entre cuidar de la seva mare malalta, l'escola i el que més li agrada: entrenar amb el circ acrobàtic Amoukanama, amb l'esperança d'unir-se a la seva propera gran gira. Intentant superar totes les expectatives, Fanta comença a dubtar del que realment vol, buscant la seva pròpia veu.",
+      "poster": "https://www.bizcochito.es/img/tt36415630-es-sld.webp",
+      "trailer": null,
+      "ratings": {},
+      "sourceUrl": "https://www.cinemesgirona.cat/fantastique",
+      "sources": [
+        "https://www.cinemesgirona.cat/fantastique"
+      ],
+      "imdbId": "tt36415630"
+    },
+    {
+      "id": "movie-86d74f59e2246328a8fd",
+      "title": "Joan Busquets. L'últim maqui",
+      "originalTitle": "Joan Busquets. L'últim maqui",
+      "year": 2024,
+      "director": null,
+      "genres": [
+        "Documental"
+      ],
+      "synopsis": "El documental, a través de la veu del propi Joan, ressegueix la seva vida de lluita. Hi veiem la vida asfixiant a la Barcelona franquista de postguerra, el seu any de guerrilla amb Marcel·lí Massana, Ramon Vila, Josep i Manuel Sabaté, etc. La condemna a mort, els vint anys de presó amb un intent de fuga inclosa i, finalment, el seu compromís a explicar tot això per fer justícia als que sí que van donar la cara contra el franquisme.",
+      "poster": "https://www.bizcochito.es/img/tt114297-es-sld.webp",
+      "trailer": null,
+      "ratings": {},
+      "sourceUrl": "https://www.cinemesgirona.cat/joan-busquets-l-ultim-maqui",
+      "sources": [
+        "https://www.cinemesgirona.cat/joan-busquets-l-ultim-maqui"
+      ],
+      "imdbId": null
+    },
+    {
+      "id": "movie-9e95204a901be53c78d5",
+      "title": "Il Volo in the Valley of the Temples",
+      "originalTitle": "Il Volo in the Valley of the Temples",
+      "year": 2024,
+      "director": null,
+      "genres": [
+        "Òpera"
+      ],
+      "synopsis": "Piero Barone, Gianluca Ginoble i Ignazio Boschetto reten homenatge al patrimoni musical italià interpretant clàssics napolitans atemporals com ara 'O Sole Mio', l'apassionant Amor, Vida de Mi Vida i una emotiva interpretació de l'Hallelujah de Leonard Cohen. Live at the Valley of the Temples també inclou una selecció d'àries d'òpera, balades i peces crossover, destacant una vegada més la notable versatilitat del trio. També hi ha espai per a algunes de les cançons més estimades de la seva carrera, especialment les del seu darrer àlbum original Ad Astra, inclosa l'aclamada Capolavoro, interpretada al Festival de Sanremo del 2024, que va capturar els cors del públic de tot el món.",
+      "poster": "https://www.bizcochito.es/img/tt36455148-es-sld.webp",
+      "trailer": null,
+      "ratings": {},
+      "sourceUrl": "https://www.cinemesgirona.cat/il-volo-in-the-valley-of-the-temples",
+      "sources": [
+        "https://www.cinemesgirona.cat/il-volo-in-the-valley-of-the-temples"
+      ],
+      "imdbId": "tt36455148"
+    },
+    {
+      "id": "movie-2b53744b300694765aba",
+      "title": "L’Elisir d'amore (Wiener Staatsoper)",
+      "originalTitle": "L’Elisir d'amore (Wiener Staatsoper)",
+      "year": null,
+      "director": null,
+      "genres": [
+        "Òpera"
+      ],
+      "synopsis": "Nemorino, un pagès senzill, està enamorat de la rica i capritxosa Adina, que el rebutja. Quan arriba el sergent Belcore i proposa matrimoni a Adina, Nemorino cau en la desesperació. Recorre al xerraire ambulant Dulcamara, que li ven un “elixir d'amor” (en realitat va venir barat). Animat per la beguda, Nemorino fingeix indiferència cap a Adina, despertant el seu interès, però quan el regiment rep l'ordre de partir, ella decideix casar-se immediatament amb Belcore.",
+      "poster": "https://www.bizcochito.es/img/tt113400-es-sld.webp",
+      "trailer": null,
+      "ratings": {},
+      "sourceUrl": "https://www.cinemesgirona.cat/lelisir-d-amore-wiener-staatsoper",
+      "sources": [
+        "https://www.cinemesgirona.cat/lelisir-d-amore-wiener-staatsoper"
+      ],
+      "imdbId": null
+    },
+    {
+      "id": "movie-6887dc0d428e549ff768",
+      "title": "The Royal Ballet: Manon (2026-27)",
+      "originalTitle": "The Royal Ballet: Manon (2026-27)",
+      "year": 2026,
+      "director": "Kenneth MacMilan, Koen Kessels",
+      "genres": [],
+      "synopsis": "Als baixos fons del París del segle XVIII, els diners són el rei. Res no és sagrat, fins i tot l'amor té un preu. Manon, assídua d'aquest submón hedonista, es veu atrapada entre dos desitjos quan s'enamora de l'estudiant Des Grieux. Des Grieux, lleial i abnegat, us ofereix la possibilitat d'una vida honorable. I tot i així, la riquesa que promet el món de la societat parisenca continua sent temptadora... La lluita i l'angoixa de Manon per sobreviure es troben al devastador epicentre de l'adaptació de Kenneth MacMillan de la novel·la del 1974 d'Abbé Prévost. En aquesta obra cimera de The Royal Ballet, la visió analítica de MacMillan de la psicologia de l'ésser humà ofereix un retrat honest de la degradació del París de Manon, alhora que la seva decadència i declivi prenen vida gràcies a la partitura de Jules Massenet i el vestuari de Nicholas Georgiadis.",
+      "poster": "https://www.bizcochito.es/img/tt111914-es-sld.webp",
+      "trailer": null,
+      "ratings": {},
+      "sourceUrl": "https://www.cinemesgirona.cat/the-royal-ballet-manon-2026-27",
+      "sources": [
+        "https://www.cinemesgirona.cat/the-royal-ballet-manon-2026-27"
+      ],
+      "imdbId": null
+    },
+    {
+      "id": "movie-18d0c7df00e4a70de1c6",
+      "title": "The Royal Opera: Carmen (2026-27)",
+      "originalTitle": "The Royal Opera: Carmen (2026-27)",
+      "year": 2026,
+      "director": "Sesto Quatrini",
+      "genres": [
+        "Òpera"
+      ],
+      "synopsis": "Sota la calor opressiva del sol espanyol, la ferotgement independent Carmen atrau l'atenció de Don José. Ella l'adverteix que no s'enamori d'ella, però la seva obsessió no coneix límits. Torna la producció abrasadora de Damiano Michieletto, que il·lumina amb força la luxúria, la violència i el desig destructiu de l'òpera sempre popular de Bizet. Un repartiment estel·lar dóna vida a aquest drama ardent, amb Ginger Costa-Jackson en el paper principal, juntament amb Russell Thomas com el gelós i desesperat Don José. Després del seu debut a la Royal Opera el 2023, Sesto Quatrini torna per dirigir la partitura electrificant i sensual de Bizet.",
+      "poster": "https://www.bizcochito.es/img/tt111916-es-sld.webp",
+      "trailer": null,
+      "ratings": {},
+      "sourceUrl": "https://www.cinemesgirona.cat/the-royal-opera-carmen-2026-27",
+      "sources": [
+        "https://www.cinemesgirona.cat/the-royal-opera-carmen-2026-27"
+      ],
+      "imdbId": null
+    },
+    {
+      "id": "movie-380645c15d140878f514",
+      "title": "Romeo y Julieta. Ballet Ópera de París 26/27",
+      "originalTitle": "Romeo y Julieta. Ballet Ópera de París 26/27",
+      "year": 2026,
+      "director": "Rudolf Nureyev",
+      "genres": [
+        "Ballet"
+      ],
+      "synopsis": null,
+      "poster": "https://www.bizcochito.es/img/tt112491-es-sld.webp",
+      "trailer": null,
+      "ratings": {},
+      "sourceUrl": "https://www.cinemesgirona.cat/romeo-y-julieta-ballet-opera-de-paris-26-27",
+      "sources": [
+        "https://www.cinemesgirona.cat/romeo-y-julieta-ballet-opera-de-paris-26-27"
+      ],
+      "imdbId": null
+    },
+    {
+      "id": "movie-d8271b40829d4eed2274",
+      "title": "Pavarotti 90 El Gran Tributo",
+      "originalTitle": "Pavarotti 90 The Great Tribute",
+      "year": 2025,
+      "director": null,
+      "genres": [],
+      "synopsis": "\"Pavarotti 90\" va ser un gran concert de tribut mundial celebrat el 30 de setembre de 2025 a l'Arena di Verona per honrar el 90è aniversari del naixement del llegendari tenor Luciano Pavarotti. L'esdeveniment va reunir figures estel·lars com Andrea Bocelli, Plácido Domingo, José Carreras i Laura Pausini.",
+      "poster": "https://www.bizcochito.es/img/tt113404-es-sld.webp",
+      "trailer": null,
+      "ratings": {},
+      "sourceUrl": "https://www.cinemesgirona.cat/pavarotti-90-el-gran-tributo",
+      "sources": [
+        "https://www.cinemesgirona.cat/pavarotti-90-el-gran-tributo"
+      ],
+      "imdbId": null
+    },
+    {
+      "id": "movie-bb52224df7ffb27919a9",
+      "title": "El cascanueces (ROH)",
+      "originalTitle": "The Nutcracker (ROH)",
+      "year": null,
+      "director": null,
+      "genres": [
+        "Ballet"
+      ],
+      "synopsis": "En una acollidora festa nadalenca, la jove Clara coneix el misteriós mag Drosselmeyer, que li regala una nina trencanous. Quan els convidats marxen i tots a la casa dormen, Clara baixa les escales a la recerca del canell, però al seu lloc, es troba amb Drosselmeyer, que la transporta per art de màgia a un món encantat: increïbles paisatges de remolins de neu i una fantasia centellejant, en què les joguines no cobren vida i la màgia. La producció de Peter Wright d'aquest clàssic nadalenc per a tota la família enlluerna acompanyada del meravellós desplegament de la partitura orquestral de Txaikovski i la brillantor i la majestuositat del vestidor d'època de Julia Trevelyan Oman.",
+      "poster": "https://www.bizcochito.es/img/tt113421-es-sld.webp",
+      "trailer": null,
+      "ratings": {},
+      "sourceUrl": "https://www.cinemesgirona.cat/el-cascanueces-roh",
+      "sources": [
+        "https://www.cinemesgirona.cat/el-cascanueces-roh"
+      ],
+      "imdbId": null
+    },
+    {
+      "id": "movie-684f233896b8113aeff0",
+      "title": "El lago de los cisnes. Ballet Ópera de París 26/27",
+      "originalTitle": "El lago de los cisnes. Ballet Ópera de París 26/27",
+      "year": 2026,
+      "director": "Rudolf Nureyev",
+      "genres": [
+        "Ballet"
+      ],
+      "synopsis": "El lago de los cisnes narra la tràgica història d'amor entre el príncep Sigfrid i Odette, una bella jove convertida en cigne pel malvat bruixot Rothbart. Només un veritable jurament d'amor pot trencar la maledicció, però l'engany d'Odile, el cigne negre, desencadena un desenllaç fatal.",
+      "poster": "https://www.bizcochito.es/img/tt112492-es-sld.webp",
+      "trailer": null,
+      "ratings": {},
+      "sourceUrl": "https://www.cinemesgirona.cat/el-lago-de-los-cisnes-ballet-opera-de-paris-26-27",
+      "sources": [
+        "https://www.cinemesgirona.cat/el-lago-de-los-cisnes-ballet-opera-de-paris-26-27"
+      ],
+      "imdbId": null
+    },
+    {
+      "id": "movie-67580c5baac799f4a727",
+      "title": "Concierto de Fin de Año de la Filarmónica de Berlín 2026",
+      "originalTitle": "Concierto de Fin de Año de la Filarmónica de Berlín 2026",
+      "year": 2026,
+      "director": null,
+      "genres": [],
+      "synopsis": null,
+      "poster": "https://www.bizcochito.es/img/tt113410-es-sld.webp",
+      "trailer": null,
+      "ratings": {},
+      "sourceUrl": "https://www.cinemesgirona.cat/concierto-de-fin-de-ano-de-la-filarmonica-de-berlin-2026",
+      "sources": [
+        "https://www.cinemesgirona.cat/concierto-de-fin-de-ano-de-la-filarmonica-de-berlin-2026"
+      ],
+      "imdbId": null
+    },
+    {
+      "id": "movie-9d02cc747b9d8e9418d6",
+      "title": "Christmas in Versailles. Sonya Yoncheva",
+      "originalTitle": "Christmas in Versailles. Sonya Yoncheva",
+      "year": 2024,
+      "director": null,
+      "genres": [
+        "Conciertos"
+      ],
+      "synopsis": null,
+      "poster": "https://www.bizcochito.es/img/tt113407-es-sld.webp",
+      "trailer": null,
+      "ratings": {},
+      "sourceUrl": "https://www.cinemesgirona.cat/christmas-in-versailles-sonya-yoncheva",
+      "sources": [
+        "https://www.cinemesgirona.cat/christmas-in-versailles-sonya-yoncheva"
+      ],
+      "imdbId": null
     }
   ],
   "cinemas": [
@@ -14768,19 +15058,17 @@
       ]
     },
     {
-      "id": "45a0eac953a9c065229c",
+      "id": "a2ba8c7d5539a7b4f298",
       "movieId": "fa-268103",
       "cinemaId": "girona",
       "startsAt": "2026-09-15T16:00:00+02:00",
       "language": {
-        "version": "Doblada",
+        "version": null,
         "audio": "ca",
         "subtitles": null,
-        "label": "Catalán"
+        "label": "CATALÀ"
       },
-      "formats": [
-        "Digital"
-      ],
+      "formats": [],
       "price": {
         "amount": 5.0,
         "kind": "published",
@@ -14788,30 +15076,28 @@
         "label": "Publicado; extras no confirmados",
         "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40563&language=ESP"
       },
-      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40563&language=ESP",
-      "sourceUrl": "https://www.cinemesgirona.cat/",
-      "observedAt": "2026-09-15T08:31:16.594687+02:00",
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40563&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/cronos",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
       "status": "verified",
-      "room": null,
       "sources": [
+        "https://www.cinemesgirona.cat/cronos",
         "https://www.cinemesgirona.cat/",
         "https://www.sensacine.com/cines/cine/E0747/"
       ]
     },
     {
-      "id": "730a5e982fd6b805e430",
+      "id": "967c69088468260e7640",
       "movieId": "movie-373942bd1220c5c57853",
       "cinemaId": "girona",
       "startsAt": "2026-09-15T16:00:00+02:00",
       "language": {
-        "version": "Doblada",
-        "audio": null,
+        "version": null,
+        "audio": "ca",
         "subtitles": null,
-        "label": "Idioma no publicado"
+        "label": "CATALÀ"
       },
-      "formats": [
-        "Digital"
-      ],
+      "formats": [],
       "price": {
         "amount": 5.0,
         "kind": "published",
@@ -14819,12 +15105,12 @@
         "label": "Publicado; extras no confirmados",
         "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40567&language=ESP"
       },
-      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40567&language=ESP",
-      "sourceUrl": "https://www.cinemesgirona.cat/",
-      "observedAt": "2026-09-15T08:31:16.594687+02:00",
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40567&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/forastera",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
       "status": "verified",
-      "room": null,
       "sources": [
+        "https://www.cinemesgirona.cat/forastera",
         "https://www.cinemesgirona.cat/",
         "https://www.sensacine.com/cines/cine/E0747/"
       ]
@@ -16779,19 +17065,17 @@
       ]
     },
     {
-      "id": "f537cb107b78bd476b8b",
+      "id": "e1f67f0bb9a2d1384e9d",
       "movieId": "fa-605590",
       "cinemaId": "girona",
       "startsAt": "2026-09-15T16:45:00+02:00",
       "language": {
         "version": "VO",
-        "audio": null,
+        "audio": "ar",
         "subtitles": "es",
-        "label": "Palestine 36 (VOSE)"
+        "label": "VOSE (Otras Lenguas)"
       },
-      "formats": [
-        "Digital"
-      ],
+      "formats": [],
       "price": {
         "amount": 5.0,
         "kind": "published",
@@ -16799,12 +17083,12 @@
         "label": "Publicado; extras no confirmados",
         "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40566&language=ESP"
       },
-      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40566&language=ESP",
-      "sourceUrl": "https://www.cinemesgirona.cat/",
-      "observedAt": "2026-09-15T08:31:16.594687+02:00",
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40566&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/palestine-36",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
       "status": "verified",
-      "room": null,
       "sources": [
+        "https://www.cinemesgirona.cat/palestine-36",
         "https://www.cinemesgirona.cat/",
         "https://www.sensacine.com/cines/cine/E0747/"
       ]
@@ -18137,19 +18421,17 @@
       "status": "verified"
     },
     {
-      "id": "d705b3a24f3073110314",
+      "id": "785f09cd0b7fe4dbe06e",
       "movieId": "movie-373942bd1220c5c57853",
       "cinemaId": "girona",
       "startsAt": "2026-09-15T18:00:00+02:00",
       "language": {
-        "version": "Doblada",
-        "audio": null,
+        "version": null,
+        "audio": "ca",
         "subtitles": null,
-        "label": "Idioma no publicado"
+        "label": "CATALÀ"
       },
-      "formats": [
-        "Digital"
-      ],
+      "formats": [],
       "price": {
         "amount": 5.0,
         "kind": "published",
@@ -18157,12 +18439,12 @@
         "label": "Publicado; extras no confirmados",
         "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40568&language=ESP"
       },
-      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40568&language=ESP",
-      "sourceUrl": "https://www.cinemesgirona.cat/",
-      "observedAt": "2026-09-15T08:31:16.594687+02:00",
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40568&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/forastera",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
       "status": "verified",
-      "room": null,
       "sources": [
+        "https://www.cinemesgirona.cat/forastera",
         "https://www.cinemesgirona.cat/",
         "https://www.sensacine.com/cines/cine/E0747/"
       ]
@@ -18721,19 +19003,17 @@
       ]
     },
     {
-      "id": "aaf0ee77c5e9878335e9",
+      "id": "8033354c64513bfbad99",
       "movieId": "fa-268103",
       "cinemaId": "girona",
       "startsAt": "2026-09-15T18:15:00+02:00",
       "language": {
-        "version": "Doblada",
+        "version": null,
         "audio": "ca",
         "subtitles": null,
-        "label": "Catalán"
+        "label": "CATALÀ"
       },
-      "formats": [
-        "Digital"
-      ],
+      "formats": [],
       "price": {
         "amount": 5.0,
         "kind": "published",
@@ -18741,12 +19021,12 @@
         "label": "Publicado; extras no confirmados",
         "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40564&language=ESP"
       },
-      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40564&language=ESP",
-      "sourceUrl": "https://www.cinemesgirona.cat/",
-      "observedAt": "2026-09-15T08:31:16.594687+02:00",
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40564&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/cronos",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
       "status": "verified",
-      "room": null,
       "sources": [
+        "https://www.cinemesgirona.cat/cronos",
         "https://www.cinemesgirona.cat/",
         "https://www.sensacine.com/cines/cine/E0747/"
       ]
@@ -20142,42 +20422,15 @@
       ]
     },
     {
-      "id": "c454718d3285176c8802",
-      "movieId": "movie-65706b10ce796ed4149c",
-      "cinemaId": "girona",
-      "startsAt": "2026-09-15T19:00:00+02:00",
-      "language": {
-        "version": "Doblada",
-        "audio": null,
-        "subtitles": null,
-        "label": "Doblada"
-      },
-      "formats": [
-        "Digital"
-      ],
-      "price": {
-        "amount": null,
-        "kind": "unknown",
-        "currency": "EUR",
-        "label": "Precio de sesión no publicado",
-        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40562"
-      },
-      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40562",
-      "sourceUrl": "https://www.sensacine.com/cines/cine/E0747/",
-      "observedAt": "2026-09-15T08:31:16.594687+02:00",
-      "status": "verified",
-      "room": null
-    },
-    {
-      "id": "23db116654d6b469985c",
+      "id": "81dd1a578001597738c8",
       "movieId": "movie-92229290432cb97ae214",
       "cinemaId": "girona",
       "startsAt": "2026-09-15T19:00:00+02:00",
       "language": {
         "version": null,
-        "audio": null,
+        "audio": "ca",
         "subtitles": null,
-        "label": "Idioma no publicado"
+        "label": "CATALÀ"
       },
       "formats": [],
       "price": {
@@ -20187,10 +20440,13 @@
         "label": "Publicado; extras no confirmados",
         "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40562&language=ESP"
       },
-      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40562&language=ESP",
-      "sourceUrl": "https://www.cinemesgirona.cat/",
-      "observedAt": "2026-09-15T08:31:16.594687+02:00",
-      "status": "verified"
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40562&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/femenino-singular",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/femenino-singular"
+      ]
     },
     {
       "id": "112b47623d7a50ee8110",
@@ -21474,19 +21730,17 @@
       "status": "verified"
     },
     {
-      "id": "5a68b345d54999073409",
+      "id": "ed53ef78506afb231285",
       "movieId": "movie-373942bd1220c5c57853",
       "cinemaId": "girona",
       "startsAt": "2026-09-15T20:00:00+02:00",
       "language": {
-        "version": "Doblada",
-        "audio": null,
+        "version": null,
+        "audio": "ca",
         "subtitles": null,
-        "label": "Idioma no publicado"
+        "label": "CATALÀ"
       },
-      "formats": [
-        "Digital"
-      ],
+      "formats": [],
       "price": {
         "amount": 5.0,
         "kind": "published",
@@ -21494,12 +21748,12 @@
         "label": "Publicado; extras no confirmados",
         "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40569&language=ESP"
       },
-      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40569&language=ESP",
-      "sourceUrl": "https://www.cinemesgirona.cat/",
-      "observedAt": "2026-09-15T08:31:16.594687+02:00",
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40569&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/forastera",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
       "status": "verified",
-      "room": null,
       "sources": [
+        "https://www.cinemesgirona.cat/forastera",
         "https://www.cinemesgirona.cat/",
         "https://www.sensacine.com/cines/cine/E0747/"
       ]
@@ -22132,7 +22386,7 @@
       ]
     },
     {
-      "id": "49a6d4e3004d00e7c44e",
+      "id": "484276aeb4ab4bc003ad",
       "movieId": "fa-291449",
       "cinemaId": "girona",
       "startsAt": "2026-09-15T20:30:00+02:00",
@@ -22140,11 +22394,9 @@
         "version": "VO",
         "audio": "fr",
         "subtitles": "es",
-        "label": "Jim Queen (VOSE)"
+        "label": "VOSE (Francès)"
       },
-      "formats": [
-        "Digital"
-      ],
+      "formats": [],
       "price": {
         "amount": 5.0,
         "kind": "published",
@@ -22152,12 +22404,12 @@
         "label": "Publicado; extras no confirmados",
         "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40565&language=ESP"
       },
-      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40565&language=ESP",
-      "sourceUrl": "https://www.cinemesgirona.cat/",
-      "observedAt": "2026-09-15T08:31:16.594687+02:00",
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40565&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/jim-queen",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
       "status": "verified",
-      "room": null,
       "sources": [
+        "https://www.cinemesgirona.cat/jim-queen",
         "https://www.cinemesgirona.cat/",
         "https://www.sensacine.com/cines/cine/E0747/"
       ]
@@ -26733,6 +26985,87 @@
       ]
     },
     {
+      "id": "8e490a557187560e29a9",
+      "movieId": "fa-268103",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-16T16:00:00+02:00",
+      "language": {
+        "version": null,
+        "audio": "ca",
+        "subtitles": null,
+        "label": "CATALÀ"
+      },
+      "formats": [],
+      "price": {
+        "amount": 5.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40576&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40576&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/cronos",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/cronos"
+      ]
+    },
+    {
+      "id": "b8560b473a402a2201d5",
+      "movieId": "fa-291449",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-16T16:00:00+02:00",
+      "language": {
+        "version": "VO",
+        "audio": "fr",
+        "subtitles": "es",
+        "label": "VOSE (Francès)"
+      },
+      "formats": [],
+      "price": {
+        "amount": 5.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40578&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40578&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/jim-queen",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/jim-queen"
+      ]
+    },
+    {
+      "id": "e5b34b8c842c6b29f14f",
+      "movieId": "movie-373942bd1220c5c57853",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-16T16:00:00+02:00",
+      "language": {
+        "version": null,
+        "audio": "ca",
+        "subtitles": null,
+        "label": "CATALÀ"
+      },
+      "formats": [],
+      "price": {
+        "amount": 5.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40574&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40574&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/forastera",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/forastera"
+      ]
+    },
+    {
       "id": "20410080185c4aea99fb",
       "movieId": "movie-5d57d411aa6bb45e314f",
       "cinemaId": "malda",
@@ -29249,6 +29582,33 @@
       ]
     },
     {
+      "id": "e2346bd98bde779373e1",
+      "movieId": "fa-605590",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-16T17:45:00+02:00",
+      "language": {
+        "version": "VO",
+        "audio": "ar",
+        "subtitles": "es",
+        "label": "VOSE (Otras Lenguas)"
+      },
+      "formats": [],
+      "price": {
+        "amount": 5.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40572&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40572&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/palestine-36",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/palestine-36"
+      ]
+    },
+    {
       "id": "c893395134c523bb551b",
       "movieId": "fa-879542",
       "cinemaId": "mooby-balmes",
@@ -29652,6 +30012,33 @@
       "sourceUrl": "https://www.filmoteca.cat/web/ca/film/conferencia-inaugural-divided-loyalties",
       "observedAt": "2026-09-15T08:31:16.594687+02:00",
       "status": "verified"
+    },
+    {
+      "id": "4e6b5dfb882c3ddc57aa",
+      "movieId": "movie-373942bd1220c5c57853",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-16T18:00:00+02:00",
+      "language": {
+        "version": null,
+        "audio": "ca",
+        "subtitles": null,
+        "label": "CATALÀ"
+      },
+      "formats": [],
+      "price": {
+        "amount": 5.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40575&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40575&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/forastera",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/forastera"
+      ]
     },
     {
       "id": "146c291e3a31e4d81273",
@@ -30189,6 +30576,33 @@
       "sources": [
         "https://www.filmaffinity.com/es/theater-showtimes.php?id=217",
         "https://www.publicine.net/cartelera-cine/barcelona/cinesa-diagonal"
+      ]
+    },
+    {
+      "id": "cf5bdfc851951e0b47ab",
+      "movieId": "fa-268103",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-16T18:15:00+02:00",
+      "language": {
+        "version": null,
+        "audio": "ca",
+        "subtitles": null,
+        "label": "CATALÀ"
+      },
+      "formats": [],
+      "price": {
+        "amount": 5.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40577&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40577&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/cronos",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/cronos"
       ]
     },
     {
@@ -32576,6 +32990,60 @@
       "status": "verified"
     },
     {
+      "id": "693259c9ce5e656701f7",
+      "movieId": "movie-48bfddd396c37495a84d",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-16T20:00:00+02:00",
+      "language": {
+        "version": null,
+        "audio": "es",
+        "subtitles": null,
+        "label": "CASTELLÀ"
+      },
+      "formats": [],
+      "price": {
+        "amount": 5.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40570&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40570&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/siemprevivas",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/siemprevivas"
+      ]
+    },
+    {
+      "id": "a47537fa2b2454c7f6ae",
+      "movieId": "movie-92229290432cb97ae214",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-16T20:00:00+02:00",
+      "language": {
+        "version": null,
+        "audio": "ca",
+        "subtitles": null,
+        "label": "CATALÀ"
+      },
+      "formats": [],
+      "price": {
+        "amount": 5.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40573&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40573&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/femenino-singular",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/femenino-singular"
+      ]
+    },
+    {
       "id": "e9bdde4aa9049e97cc8c",
       "movieId": "fa-546833",
       "cinemaId": "mooby-arenas",
@@ -33115,6 +33583,33 @@
       "sources": [
         "https://www.filmaffinity.com/es/theater-showtimes.php?id=218",
         "https://www.publicine.net/cartelera-cine/barcelona/cinesa-diagonal-mar"
+      ]
+    },
+    {
+      "id": "b8e7f78e1cbf081b13fc",
+      "movieId": "fa-291449",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-16T20:30:00+02:00",
+      "language": {
+        "version": "VO",
+        "audio": "fr",
+        "subtitles": "es",
+        "label": "VOSE (Francès)"
+      },
+      "formats": [],
+      "price": {
+        "amount": 5.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40571&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40571&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/jim-queen",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/jim-queen"
       ]
     },
     {
@@ -37137,6 +37632,87 @@
       ]
     },
     {
+      "id": "9a8979b98f6654d49ee0",
+      "movieId": "fa-268103",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-17T16:00:00+02:00",
+      "language": {
+        "version": null,
+        "audio": "ca",
+        "subtitles": null,
+        "label": "CATALÀ"
+      },
+      "formats": [],
+      "price": {
+        "amount": 5.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40580&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40580&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/cronos",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/cronos"
+      ]
+    },
+    {
+      "id": "fa051d99b073bf5352d6",
+      "movieId": "movie-373942bd1220c5c57853",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-17T16:00:00+02:00",
+      "language": {
+        "version": null,
+        "audio": "ca",
+        "subtitles": null,
+        "label": "CATALÀ"
+      },
+      "formats": [],
+      "price": {
+        "amount": 5.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40579&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40579&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/forastera",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/forastera"
+      ]
+    },
+    {
+      "id": "072a365570e864348d91",
+      "movieId": "movie-b0e1308c05e4a439ad12",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-17T16:00:00+02:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "VOSE (Italià)"
+      },
+      "formats": [],
+      "price": {
+        "amount": 10.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=39667&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=39667&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/nabucco-arena-di-verona-opera-festival",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/nabucco-arena-di-verona-opera-festival"
+      ]
+    },
+    {
       "id": "abe848384d4c3c404033",
       "movieId": "fa-268103",
       "cinemaId": "mooby-arenas",
@@ -40040,6 +40616,33 @@
       "status": "verified"
     },
     {
+      "id": "e6ba0e5141f6d636d238",
+      "movieId": "movie-373942bd1220c5c57853",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-17T18:00:00+02:00",
+      "language": {
+        "version": null,
+        "audio": "ca",
+        "subtitles": null,
+        "label": "CATALÀ"
+      },
+      "formats": [],
+      "price": {
+        "amount": 5.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40581&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40581&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/forastera",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/forastera"
+      ]
+    },
+    {
       "id": "24de60bddbcdffcbc06c",
       "movieId": "movie-23492100273831f17be0",
       "cinemaId": "mooby-arenas",
@@ -40521,6 +41124,33 @@
       "sources": [
         "https://www.filmaffinity.com/es/theater-showtimes.php?id=217",
         "https://www.publicine.net/cartelera-cine/barcelona/cinesa-diagonal"
+      ]
+    },
+    {
+      "id": "d9a2bf9a1c3cc5afc013",
+      "movieId": "fa-268103",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-17T18:15:00+02:00",
+      "language": {
+        "version": null,
+        "audio": "ca",
+        "subtitles": null,
+        "label": "CATALÀ"
+      },
+      "formats": [],
+      "price": {
+        "amount": 5.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40582&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40582&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/cronos",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/cronos"
       ]
     },
     {
@@ -43230,6 +43860,33 @@
       ]
     },
     {
+      "id": "93809cc95a77fc78892c",
+      "movieId": "movie-48bfddd396c37495a84d",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-17T20:30:00+02:00",
+      "language": {
+        "version": null,
+        "audio": "es",
+        "subtitles": null,
+        "label": "CASTELLÀ"
+      },
+      "formats": [],
+      "price": {
+        "amount": 5.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40583&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40583&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/siemprevivas",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/siemprevivas"
+      ]
+    },
+    {
       "id": "6b12ea958433c9a07790",
       "movieId": "fa-546833",
       "cinemaId": "mooby-aribau",
@@ -45364,6 +46021,33 @@
       "room": "SALA 07"
     },
     {
+      "id": "4e77ae6c5208e19a3d24",
+      "movieId": "fa-291449",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-17T22:00:00+02:00",
+      "language": {
+        "version": "VO",
+        "audio": "fr",
+        "subtitles": "es",
+        "label": "VOSE (Francès)"
+      },
+      "formats": [],
+      "price": {
+        "amount": 5.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40584&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40584&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/jim-queen",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/jim-queen"
+      ]
+    },
+    {
       "id": "0b2c6f8009353d7b5f5d",
       "movieId": "movie-7e1083690b303716159e",
       "cinemaId": "malda",
@@ -47394,6 +48078,33 @@
       "room": "SALA 11"
     },
     {
+      "id": "8b6b8b987bf2845116fd",
+      "movieId": "movie-86d74f59e2246328a8fd",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-18T19:00:00+02:00",
+      "language": {
+        "version": null,
+        "audio": "ca",
+        "subtitles": null,
+        "label": "CATALÀ"
+      },
+      "formats": [],
+      "price": {
+        "amount": 5.5,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40587&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40587&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/joan-busquets-l-ultim-maqui",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/joan-busquets-l-ultim-maqui"
+      ]
+    },
+    {
       "id": "feb2bb8effec6c029a36",
       "movieId": "movie-b2ee4a5529fe62bdb535",
       "cinemaId": "renoir-floridablanca",
@@ -47625,6 +48336,33 @@
       "sourceUrl": "https://www.filmoteca.cat/web/ca/film/flores-para-antonio",
       "observedAt": "2026-09-15T08:31:16.594687+02:00",
       "status": "verified"
+    },
+    {
+      "id": "364e2447daf45ede2c0e",
+      "movieId": "movie-312bf759b5cda4e4a8b3",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-18T20:00:00+02:00",
+      "language": {
+        "version": null,
+        "audio": "ca",
+        "subtitles": null,
+        "label": "CATALÀ"
+      },
+      "formats": [],
+      "price": {
+        "amount": 5.5,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40494&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40494&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/tanit",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/tanit"
+      ]
     },
     {
       "id": "aa1ce92e40b0a70c01a9",
@@ -49664,6 +50402,33 @@
       "status": "verified"
     },
     {
+      "id": "e0918dc076bc00bc5c63",
+      "movieId": "movie-312bf759b5cda4e4a8b3",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-19T18:00:00+02:00",
+      "language": {
+        "version": null,
+        "audio": "ca",
+        "subtitles": null,
+        "label": "CATALÀ"
+      },
+      "formats": [],
+      "price": {
+        "amount": 6.5,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40495&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40495&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/tanit",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/tanit"
+      ]
+    },
+    {
       "id": "59bc4402e4502cd3e38a",
       "movieId": "fa-579353",
       "cinemaId": "mooby-balmes",
@@ -51153,6 +51918,33 @@
       "room": "Sala 9 Imax"
     },
     {
+      "id": "a710637e9e1bffdf2839",
+      "movieId": "movie-5b122fe18892448e11c0",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-20T12:00:00+02:00",
+      "language": {
+        "version": null,
+        "audio": "ca",
+        "subtitles": null,
+        "label": "CATALÀ"
+      },
+      "formats": [],
+      "price": {
+        "amount": 5.5,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40479&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40479&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/mumbo-jumbo-se-hace-enorme",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/mumbo-jumbo-se-hace-enorme"
+      ]
+    },
+    {
       "id": "3ca6f5816b224ef7446e",
       "movieId": "fa-579353",
       "cinemaId": "yelmo-maquinista",
@@ -52133,6 +52925,33 @@
       "sourceUrl": "https://www.filmoteca.cat/web/ca/film/tenth-legion-whiplash-noblesse-oblige",
       "observedAt": "2026-09-15T08:31:16.594687+02:00",
       "status": "verified"
+    },
+    {
+      "id": "e164f86ae28dbd0943cc",
+      "movieId": "movie-312bf759b5cda4e4a8b3",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-20T18:00:00+02:00",
+      "language": {
+        "version": null,
+        "audio": "ca",
+        "subtitles": null,
+        "label": "CATALÀ"
+      },
+      "formats": [],
+      "price": {
+        "amount": 6.5,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40496&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40496&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/tanit",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/tanit"
+      ]
     },
     {
       "id": "eff9074ed4d27c16ee1b",
@@ -54174,6 +54993,33 @@
       "observedAt": "2026-09-15T08:31:16.594687+02:00",
       "status": "verified",
       "room": null
+    },
+    {
+      "id": "adc8f8e4f50fbc6e214c",
+      "movieId": "movie-b0e1308c05e4a439ad12",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-21T19:15:00+02:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "VOSE (Italià)"
+      },
+      "formats": [],
+      "price": {
+        "amount": 10.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=39668&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=39668&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/nabucco-arena-di-verona-opera-festival",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/nabucco-arena-di-verona-opera-festival"
+      ]
     },
     {
       "id": "f78d5751aac88adee4f1",
@@ -60659,6 +61505,33 @@
       "room": "Sala 13"
     },
     {
+      "id": "653f1f372e4783c27856",
+      "movieId": "movie-66c9950f82de4afa3348",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-25T16:00:00+02:00",
+      "language": {
+        "version": null,
+        "audio": null,
+        "subtitles": null,
+        "label": "Idioma no publicado"
+      },
+      "formats": [],
+      "price": {
+        "amount": 5.5,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40586&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40586&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/la-bola-negra",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/la-bola-negra"
+      ]
+    },
+    {
       "id": "04ebbf1e0fb234482f96",
       "movieId": "movie-66c9950f82de4afa3348",
       "cinemaId": "mooby-aribau",
@@ -61747,6 +62620,33 @@
       "observedAt": "2026-09-15T08:31:16.594687+02:00",
       "status": "verified",
       "room": null
+    },
+    {
+      "id": "0d822b4f22cd98bfe13a",
+      "movieId": "movie-66c9950f82de4afa3348",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-25T19:00:00+02:00",
+      "language": {
+        "version": null,
+        "audio": null,
+        "subtitles": null,
+        "label": "Idioma no publicado"
+      },
+      "formats": [],
+      "price": {
+        "amount": 5.5,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40585&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40585&language=ESP",
+      "sourceUrl": "https://www.cinemesgirona.cat/la-bola-negra",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/la-bola-negra"
+      ]
     },
     {
       "id": "443f8fccea0abe350a90",
@@ -63527,6 +64427,33 @@
       "room": "Sala 13"
     },
     {
+      "id": "0ea887e95541b186a796",
+      "movieId": "movie-66c9950f82de4afa3348",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-26T16:00:00+02:00",
+      "language": {
+        "version": null,
+        "audio": null,
+        "subtitles": null,
+        "label": "Idioma no publicado"
+      },
+      "formats": [],
+      "price": {
+        "amount": 6.5,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40484&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40484&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/la-bola-negra",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/la-bola-negra"
+      ]
+    },
+    {
       "id": "223cdc964b243528f00f",
       "movieId": "movie-66c9950f82de4afa3348",
       "cinemaId": "mooby-aribau",
@@ -64843,6 +65770,33 @@
       "room": null
     },
     {
+      "id": "363b042cde8d5aa2eeb5",
+      "movieId": "movie-66c9950f82de4afa3348",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-26T19:00:00+02:00",
+      "language": {
+        "version": null,
+        "audio": null,
+        "subtitles": null,
+        "label": "Idioma no publicado"
+      },
+      "formats": [],
+      "price": {
+        "amount": 6.5,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40483&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40483&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/la-bola-negra",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/la-bola-negra"
+      ]
+    },
+    {
       "id": "b1f2659a8ad4d7988431",
       "movieId": "fa-846261",
       "cinemaId": "cinesa-diagonal",
@@ -65569,6 +66523,33 @@
       "sourceUrl": "https://www.filmoteca.cat/web/ca/film/agnes-god",
       "observedAt": "2026-09-15T08:31:16.594687+02:00",
       "status": "verified"
+    },
+    {
+      "id": "0936b3bba2dac35967b1",
+      "movieId": "movie-66c9950f82de4afa3348",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-26T21:00:00+02:00",
+      "language": {
+        "version": null,
+        "audio": null,
+        "subtitles": null,
+        "label": "Idioma no publicado"
+      },
+      "formats": [],
+      "price": {
+        "amount": 6.5,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40485&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40485&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/la-bola-negra",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/la-bola-negra"
+      ]
     },
     {
       "id": "5242fa01cd7d0c02aa26",
@@ -66703,6 +67684,33 @@
       "observedAt": "2026-09-15T08:31:16.594687+02:00",
       "status": "verified",
       "room": null
+    },
+    {
+      "id": "2675434592d55c66ab87",
+      "movieId": "movie-66c9950f82de4afa3348",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-27T16:30:00+02:00",
+      "language": {
+        "version": null,
+        "audio": null,
+        "subtitles": null,
+        "label": "Idioma no publicado"
+      },
+      "formats": [],
+      "price": {
+        "amount": 6.5,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40486&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40486&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/la-bola-negra",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/la-bola-negra"
+      ]
     },
     {
       "id": "781fc98e96a26696e142",
@@ -67861,6 +68869,33 @@
       "observedAt": "2026-09-15T08:31:16.594687+02:00",
       "status": "verified",
       "room": "Sala 10"
+    },
+    {
+      "id": "f48a0809fc6dc27c8e5b",
+      "movieId": "movie-66c9950f82de4afa3348",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-27T19:30:00+02:00",
+      "language": {
+        "version": null,
+        "audio": null,
+        "subtitles": null,
+        "label": "Idioma no publicado"
+      },
+      "formats": [],
+      "price": {
+        "amount": 6.5,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40487&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40487&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/la-bola-negra",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/la-bola-negra"
+      ]
     },
     {
       "id": "2221cf386bec793c7b78",
@@ -69256,6 +70291,33 @@
       "room": "SALA 05"
     },
     {
+      "id": "5391dc87cfa211462971",
+      "movieId": "movie-66c9950f82de4afa3348",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-28T16:30:00+02:00",
+      "language": {
+        "version": null,
+        "audio": null,
+        "subtitles": null,
+        "label": "Idioma no publicado"
+      },
+      "formats": [],
+      "price": {
+        "amount": 5.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40488&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40488&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/la-bola-negra",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/la-bola-negra"
+      ]
+    },
+    {
       "id": "2167810b0e62368853ec",
       "movieId": "fa-993884",
       "cinemaId": "mooby-balmes",
@@ -69697,6 +70759,33 @@
       "observedAt": "2026-09-15T08:31:16.594687+02:00",
       "status": "verified",
       "room": null
+    },
+    {
+      "id": "eba9164754c467d4619e",
+      "movieId": "movie-66c9950f82de4afa3348",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-28T19:30:00+02:00",
+      "language": {
+        "version": null,
+        "audio": null,
+        "subtitles": null,
+        "label": "Idioma no publicado"
+      },
+      "formats": [],
+      "price": {
+        "amount": 5.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40489&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40489&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/la-bola-negra",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/la-bola-negra"
+      ]
     },
     {
       "id": "8f3ecaf4407742c94f3c",
@@ -70552,6 +71641,33 @@
       "room": "SALA 05"
     },
     {
+      "id": "4cfa10571501e1934840",
+      "movieId": "movie-66c9950f82de4afa3348",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-29T16:30:00+02:00",
+      "language": {
+        "version": null,
+        "audio": null,
+        "subtitles": null,
+        "label": "Idioma no publicado"
+      },
+      "formats": [],
+      "price": {
+        "amount": 5.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40490&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40490&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/la-bola-negra",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/la-bola-negra"
+      ]
+    },
+    {
       "id": "be85eef48cc686fad75e",
       "movieId": "movie-cb333832a251808bb374",
       "cinemaId": "filmoteca",
@@ -71280,6 +72396,33 @@
       "sourceUrl": "https://phenomena-experience.com/index?pag=cartelera",
       "observedAt": "2026-09-15T08:31:16.594687+02:00",
       "status": "verified"
+    },
+    {
+      "id": "6e605d65ca0a4515c136",
+      "movieId": "movie-66c9950f82de4afa3348",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-29T19:30:00+02:00",
+      "language": {
+        "version": null,
+        "audio": null,
+        "subtitles": null,
+        "label": "Idioma no publicado"
+      },
+      "formats": [],
+      "price": {
+        "amount": 5.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40491&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40491&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/la-bola-negra",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/la-bola-negra"
+      ]
     },
     {
       "id": "55f9551857ad5cfad775",
@@ -72337,6 +73480,33 @@
       "room": "SALA 05"
     },
     {
+      "id": "bb099bd60751ec19ca52",
+      "movieId": "movie-66c9950f82de4afa3348",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-30T16:30:00+02:00",
+      "language": {
+        "version": null,
+        "audio": null,
+        "subtitles": null,
+        "label": "Idioma no publicado"
+      },
+      "formats": [],
+      "price": {
+        "amount": 5.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40492&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40492&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/la-bola-negra",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/la-bola-negra"
+      ]
+    },
+    {
       "id": "9e46bcfc302bec87157e",
       "movieId": "movie-7aedbb4b1a74fba38757",
       "cinemaId": "filmoteca",
@@ -73007,6 +74177,33 @@
       "observedAt": "2026-09-15T08:31:16.594687+02:00",
       "status": "verified",
       "room": null
+    },
+    {
+      "id": "2a86331a362a1850a92a",
+      "movieId": "movie-66c9950f82de4afa3348",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-30T19:30:00+02:00",
+      "language": {
+        "version": null,
+        "audio": null,
+        "subtitles": null,
+        "label": "Idioma no publicado"
+      },
+      "formats": [],
+      "price": {
+        "amount": 5.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40493&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40493&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/la-bola-negra",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/la-bola-negra"
+      ]
     },
     {
       "id": "0d5b3f63d4c4eaf63fd9",
@@ -73992,6 +75189,33 @@
       "room": "Sala 10  iSense"
     },
     {
+      "id": "ea1ab782a19506e98792",
+      "movieId": "movie-9e95204a901be53c78d5",
+      "cinemaId": "girona",
+      "startsAt": "2026-10-01T16:00:00+02:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "VOSE"
+      },
+      "formats": [],
+      "price": {
+        "amount": 10.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40507&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40507&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/il-volo-in-the-valley-of-the-temples",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/il-volo-in-the-valley-of-the-temples"
+      ]
+    },
+    {
       "id": "6ee2c5891ee680206627",
       "movieId": "movie-66c9950f82de4afa3348",
       "cinemaId": "mooby-aribau",
@@ -74452,6 +75676,33 @@
       "room": "SALA 05"
     },
     {
+      "id": "9a7f8e9d7583c805a08d",
+      "movieId": "movie-e0716e6323392d557e4d",
+      "cinemaId": "girona",
+      "startsAt": "2026-10-01T18:30:00+02:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "VOSE (Castellà)"
+      },
+      "formats": [],
+      "price": {
+        "amount": 4.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40411&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40411&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/xerinola",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/xerinola"
+      ]
+    },
+    {
       "id": "d21b13ce7d6e1b779e53",
       "movieId": "fa-507872",
       "cinemaId": "mooby-bosque",
@@ -74681,6 +75932,33 @@
       "observedAt": "2026-09-15T08:31:16.594687+02:00",
       "status": "verified",
       "room": "SALA 01"
+    },
+    {
+      "id": "6d984f3decc9c153d978",
+      "movieId": "movie-e5a42e30a50b8f1d4474",
+      "cinemaId": "girona",
+      "startsAt": "2026-10-01T20:30:00+02:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "ca",
+        "label": "VOSC"
+      },
+      "formats": [],
+      "price": {
+        "amount": 4.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40412&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40412&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/hungarian-wedding",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/hungarian-wedding"
+      ]
     },
     {
       "id": "6bbf2d7780c15829789d",
@@ -75121,6 +76399,33 @@
       "status": "verified"
     },
     {
+      "id": "7b5177114920331555ec",
+      "movieId": "movie-53411887fc51be98be09",
+      "cinemaId": "girona",
+      "startsAt": "2026-10-02T19:00:00+02:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "ca",
+        "label": "VOSC"
+      },
+      "formats": [],
+      "price": {
+        "amount": 4.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40413&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40413&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/these-violent-delights",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/these-violent-delights"
+      ]
+    },
+    {
       "id": "aec5ad9b875d099d5f2f",
       "movieId": "movie-9634dde590cd8ae55309",
       "cinemaId": "texas",
@@ -75172,6 +76477,33 @@
       "sourceUrl": "https://phenomena-experience.com/index?pag=cartelera",
       "observedAt": "2026-09-15T08:31:16.594687+02:00",
       "status": "verified"
+    },
+    {
+      "id": "c43e2c7780b9ff853e6b",
+      "movieId": "movie-f9dfdb630465c52c33e5",
+      "cinemaId": "girona",
+      "startsAt": "2026-10-02T21:00:00+02:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "VOSE (Otras Lenguas)"
+      },
+      "formats": [],
+      "price": {
+        "amount": 4.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40414&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40414&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/10s-across-the-borders",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/10s-across-the-borders"
+      ]
     },
     {
       "id": "f9ebbc0abc4a70c845a4",
@@ -75251,6 +76583,60 @@
       "room": null
     },
     {
+      "id": "f3a6321df8087f34481e",
+      "movieId": "movie-2846d27a91bfefe76a92",
+      "cinemaId": "girona",
+      "startsAt": "2026-10-03T17:00:00+02:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "ca",
+        "label": "VOSC"
+      },
+      "formats": [],
+      "price": {
+        "amount": 4.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40415&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40415&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/invisible-people",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/invisible-people"
+      ]
+    },
+    {
+      "id": "a41b414c6d20909390a5",
+      "movieId": "movie-b70e580e54a2b05f679b",
+      "cinemaId": "girona",
+      "startsAt": "2026-10-03T19:00:00+02:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "VOSE (Castellà)"
+      },
+      "formats": [],
+      "price": {
+        "amount": 4.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40416&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40416&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/ni-colon-ni-perdon",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/ni-colon-ni-perdon"
+      ]
+    },
+    {
       "id": "0d50942629e56b85cb8a",
       "movieId": "fa-615538",
       "cinemaId": "yelmo-maquinista",
@@ -75276,6 +76662,33 @@
       "observedAt": "2026-09-15T08:31:16.594687+02:00",
       "status": "verified",
       "room": null
+    },
+    {
+      "id": "a74c40a8fcd043c88b21",
+      "movieId": "movie-ffa9ae0ae792b6541c37",
+      "cinemaId": "girona",
+      "startsAt": "2026-10-03T21:00:00+02:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "VOSE (Portuguès)"
+      },
+      "formats": [],
+      "price": {
+        "amount": 4.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40417&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40417&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/um-lobo-entre-os-cisnes",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/um-lobo-entre-os-cisnes"
+      ]
     },
     {
       "id": "37df9c06ce6dec45e335",
@@ -75380,6 +76793,60 @@
       "room": "SALA 05"
     },
     {
+      "id": "a3ff9d695c0e392c700b",
+      "movieId": "movie-ce8ca67bf4b7e66ee872",
+      "cinemaId": "girona",
+      "startsAt": "2026-10-04T18:30:00+02:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "VOSE (Francès)"
+      },
+      "formats": [],
+      "price": {
+        "amount": 4.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40418&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40418&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/fantastique",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/fantastique"
+      ]
+    },
+    {
+      "id": "f8720e8075b74087a803",
+      "movieId": "movie-9e95204a901be53c78d5",
+      "cinemaId": "girona",
+      "startsAt": "2026-10-05T19:15:00+02:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "VOSE"
+      },
+      "formats": [],
+      "price": {
+        "amount": 10.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40508&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40508&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/il-volo-in-the-valley-of-the-temples",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/il-volo-in-the-valley-of-the-temples"
+      ]
+    },
+    {
       "id": "d5cdd5766acad5a06b4e",
       "movieId": "movie-1e738289dbd025fd2d64",
       "cinemaId": "phenomena",
@@ -75405,6 +76872,33 @@
       "sourceUrl": "https://phenomena-experience.com/index?pag=cartelera",
       "observedAt": "2026-09-15T08:31:16.594687+02:00",
       "status": "verified"
+    },
+    {
+      "id": "a3420ee6badc42ad0206",
+      "movieId": "movie-6a13aa3d80357e67d9ac",
+      "cinemaId": "girona",
+      "startsAt": "2026-10-07T20:00:00+02:00",
+      "language": {
+        "version": "VO",
+        "audio": "en",
+        "subtitles": "es",
+        "label": "VOSE (Anglès)"
+      },
+      "formats": [],
+      "price": {
+        "amount": 19.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40426&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40426&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/queen-hungarian-rhapsody-live-in-budapest",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/queen-hungarian-rhapsody-live-in-budapest"
+      ]
     },
     {
       "id": "095ff90937cb88717738",
@@ -75543,6 +77037,33 @@
       "sourceUrl": "https://phenomena-experience.com/index?pag=cartelera",
       "observedAt": "2026-09-15T08:31:16.594687+02:00",
       "status": "verified"
+    },
+    {
+      "id": "29cb33e9082eb28f5cce",
+      "movieId": "movie-6a13aa3d80357e67d9ac",
+      "cinemaId": "girona",
+      "startsAt": "2026-10-10T22:00:00+02:00",
+      "language": {
+        "version": "VO",
+        "audio": "en",
+        "subtitles": "es",
+        "label": "VOSE (Anglès)"
+      },
+      "formats": [],
+      "price": {
+        "amount": 12.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40425&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40425&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/queen-hungarian-rhapsody-live-in-budapest",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/queen-hungarian-rhapsody-live-in-budapest"
+      ]
     },
     {
       "id": "86d4ac6e21636b9ea6f2",
@@ -75943,6 +77464,33 @@
       "room": "Sala 6"
     },
     {
+      "id": "784f71e8a2923219ffb5",
+      "movieId": "movie-2b53744b300694765aba",
+      "cinemaId": "girona",
+      "startsAt": "2026-10-15T16:00:00+02:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "VOSE"
+      },
+      "formats": [],
+      "price": {
+        "amount": 10.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40509&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40509&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/lelisir-d-amore-wiener-staatsoper",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/lelisir-d-amore-wiener-staatsoper"
+      ]
+    },
+    {
       "id": "3b2769770aca5223f48d",
       "movieId": "fa-892018",
       "cinemaId": "mooby-balmes",
@@ -76070,6 +77618,33 @@
       "status": "verified"
     },
     {
+      "id": "7572f8e1e03576369ffe",
+      "movieId": "movie-2b53744b300694765aba",
+      "cinemaId": "girona",
+      "startsAt": "2026-10-19T19:15:00+02:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "VOSE"
+      },
+      "formats": [],
+      "price": {
+        "amount": 10.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40510&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40510&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/lelisir-d-amore-wiener-staatsoper",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/lelisir-d-amore-wiener-staatsoper"
+      ]
+    },
+    {
       "id": "a82c7ba218e250878f85",
       "movieId": "fa-879433",
       "cinemaId": "yelmo-maquinista",
@@ -76147,6 +77722,33 @@
       "sourceUrl": "https://espaitexas.cat/pelicula/her/",
       "observedAt": "2026-09-15T08:31:16.594687+02:00",
       "status": "verified"
+    },
+    {
+      "id": "9c378977e0c6aacc364f",
+      "movieId": "movie-6887dc0d428e549ff768",
+      "cinemaId": "girona",
+      "startsAt": "2026-10-27T20:15:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "VOSE"
+      },
+      "formats": [],
+      "price": {
+        "amount": 17.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40511&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40511&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/the-royal-ballet-manon-2026-27",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/the-royal-ballet-manon-2026-27"
+      ]
     },
     {
       "id": "375f47149f1a10b15240",
@@ -76348,6 +77950,60 @@
       "status": "verified"
     },
     {
+      "id": "8011555742f1d09a24ff",
+      "movieId": "movie-18d0c7df00e4a70de1c6",
+      "cinemaId": "girona",
+      "startsAt": "2026-11-10T20:00:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "VOSE"
+      },
+      "formats": [],
+      "price": {
+        "amount": 17.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40512&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40512&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/the-royal-opera-carmen-2026-27",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/the-royal-opera-carmen-2026-27"
+      ]
+    },
+    {
+      "id": "f3e2c7e5e126923c2f8c",
+      "movieId": "movie-380645c15d140878f514",
+      "cinemaId": "girona",
+      "startsAt": "2026-11-12T16:00:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "VOSE"
+      },
+      "formats": [],
+      "price": {
+        "amount": 10.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40513&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40513&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/romeo-y-julieta-ballet-opera-de-paris-26-27",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/romeo-y-julieta-ballet-opera-de-paris-26-27"
+      ]
+    },
+    {
       "id": "6f15250f664240bdce39",
       "movieId": "fa-192554",
       "cinemaId": "mooby-aribau",
@@ -76398,6 +78054,60 @@
       "status": "verified"
     },
     {
+      "id": "0fff19074145862e7687",
+      "movieId": "movie-380645c15d140878f514",
+      "cinemaId": "girona",
+      "startsAt": "2026-11-16T19:15:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "VOSE"
+      },
+      "formats": [],
+      "price": {
+        "amount": 10.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40514&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40514&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/romeo-y-julieta-ballet-opera-de-paris-26-27",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/romeo-y-julieta-ballet-opera-de-paris-26-27"
+      ]
+    },
+    {
+      "id": "99c0745c6104f5f46034",
+      "movieId": "movie-d8271b40829d4eed2274",
+      "cinemaId": "girona",
+      "startsAt": "2026-11-19T16:00:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "VOSE"
+      },
+      "formats": [],
+      "price": {
+        "amount": 10.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40515&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40515&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/pavarotti-90-el-gran-tributo",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/pavarotti-90-el-gran-tributo"
+      ]
+    },
+    {
       "id": "0f811e31fdf0b59eb3b1",
       "movieId": "fa-784063",
       "cinemaId": "mooby-balmes",
@@ -76421,6 +78131,33 @@
       "observedAt": "2026-09-15T08:31:16.594687+02:00",
       "status": "verified",
       "room": "SALA 09"
+    },
+    {
+      "id": "fd2d24914f45b0e01d05",
+      "movieId": "movie-d8271b40829d4eed2274",
+      "cinemaId": "girona",
+      "startsAt": "2026-11-23T20:00:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "VOSE"
+      },
+      "formats": [],
+      "price": {
+        "amount": 10.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40516&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40516&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/pavarotti-90-el-gran-tributo",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/pavarotti-90-el-gran-tributo"
+      ]
     },
     {
       "id": "196597d2d015f5804c72",
@@ -76471,6 +78208,33 @@
       "sourceUrl": "https://espaitexas.cat/pelicula/snowpiercer/",
       "observedAt": "2026-09-15T08:31:16.594687+02:00",
       "status": "verified"
+    },
+    {
+      "id": "acae12d088ac1a04ec77",
+      "movieId": "movie-bb52224df7ffb27919a9",
+      "cinemaId": "girona",
+      "startsAt": "2026-12-01T20:15:00+01:00",
+      "language": {
+        "version": null,
+        "audio": null,
+        "subtitles": null,
+        "label": "Idioma no publicado"
+      },
+      "formats": [],
+      "price": {
+        "amount": 17.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40517&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40517&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/el-cascanueces-roh",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/el-cascanueces-roh"
+      ]
     },
     {
       "id": "9007ffbc15d70a49bb55",
@@ -76596,6 +78360,33 @@
       "observedAt": "2026-09-15T08:31:16.594687+02:00",
       "status": "verified",
       "room": "SALA 05"
+    },
+    {
+      "id": "6bf174a8df4dc38e0779",
+      "movieId": "movie-684f233896b8113aeff0",
+      "cinemaId": "girona",
+      "startsAt": "2026-12-14T19:15:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "VOSE"
+      },
+      "formats": [],
+      "price": {
+        "amount": 10.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40518&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40518&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/el-lago-de-los-cisnes-ballet-opera-de-paris-26-27",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/el-lago-de-los-cisnes-ballet-opera-de-paris-26-27"
+      ]
     },
     {
       "id": "1115f181d65c48677ed9",
@@ -77070,6 +78861,114 @@
       ]
     },
     {
+      "id": "d72671a20a6bd6f7be82",
+      "movieId": "movie-9d02cc747b9d8e9418d6",
+      "cinemaId": "girona",
+      "startsAt": "2026-12-17T16:00:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "VOSE"
+      },
+      "formats": [],
+      "price": {
+        "amount": 10.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40520&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40520&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/christmas-in-versailles-sonya-yoncheva",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/christmas-in-versailles-sonya-yoncheva"
+      ]
+    },
+    {
+      "id": "6bead9b8e1351881f7d4",
+      "movieId": "movie-9d02cc747b9d8e9418d6",
+      "cinemaId": "girona",
+      "startsAt": "2026-12-21T20:00:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "VOSE"
+      },
+      "formats": [],
+      "price": {
+        "amount": 10.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40521&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40521&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/christmas-in-versailles-sonya-yoncheva",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/christmas-in-versailles-sonya-yoncheva"
+      ]
+    },
+    {
+      "id": "0224a7affee77fe4dfde",
+      "movieId": "movie-684f233896b8113aeff0",
+      "cinemaId": "girona",
+      "startsAt": "2026-12-23T16:00:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "VOSE"
+      },
+      "formats": [],
+      "price": {
+        "amount": 10.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40519&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40519&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/el-lago-de-los-cisnes-ballet-opera-de-paris-26-27",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/el-lago-de-los-cisnes-ballet-opera-de-paris-26-27"
+      ]
+    },
+    {
+      "id": "069cf4dc4fe7167dee29",
+      "movieId": "movie-67580c5baac799f4a727",
+      "cinemaId": "girona",
+      "startsAt": "2026-12-31T17:30:00+01:00",
+      "language": {
+        "version": null,
+        "audio": null,
+        "subtitles": null,
+        "label": "Idioma no publicado"
+      },
+      "formats": [],
+      "price": {
+        "amount": 17.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Publicado; extras no confirmados",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=40522&language=ESP"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40522&language=CAT",
+      "sourceUrl": "https://www.cinemesgirona.cat/concierto-de-fin-de-ano-de-la-filarmonica-de-berlin-2026",
+      "observedAt": "2026-09-15T09:45:19.894000+02:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemesgirona.cat/concierto-de-fin-de-ano-de-la-filarmonica-de-berlin-2026"
+      ]
+    },
+    {
       "id": "e0deea838ab029087bc2",
       "movieId": "fa-728190",
       "cinemaId": "mooby-aribau",
@@ -77422,6 +79321,16 @@
       "url": "https://phenomena-experience.com/index?pag=ficha&evento=733"
     },
     {
+      "id": "e2cbb38e7c105a9bf3f4",
+      "title": "Nabucco (Arena di Verona Opera Festival)",
+      "type": "concert",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-17T16:00:00+02:00",
+      "endDate": null,
+      "description": "La 102a edició de l'Arena di Verona Opera Festival va aconseguir un dels seus punts àlgids amb l'esperat retorn de la soprano Anna Netrebko, que va assumir per primera vegada a l'amfiteatre romà el temible rol d'Abigaille en la nova producció de Nabucco de Giuseppe Verdi. Sota la direcció escènica, escenografia i vestuari del visionari Stefano Poda, aquesta proposta redefineix el llenguatge visual del festival, fusionant l'escala èpica de l'Arena amb un simbolisme contemporani i sofisticat. La interpretació de Netrebko va ser rebuda amb una ovació tancada, destacant-ne el domini de la coloratura dramàtica i una presència escènica que dota d'humanitat l'ambiciosa antagonista. Després de l'èxit de la seva \"Aida de cristall\", Poda torna per oferir un Nabucco que fuig del cartró pedra tradicional. La posada en escena utilitza estructures arquitectòniques monumentals i efectes lumínics que transformen lespai en un desert metafísic.",
+      "url": "https://www.cinemesgirona.cat/nabucco-arena-di-verona-opera-festival"
+    },
+    {
       "id": "8d4aa3fb29baec1d325a",
       "title": "Xestaia txast mira",
       "type": "colloquium",
@@ -77601,6 +79510,16 @@
       "endDate": null,
       "description": "CICLO: PHENOMENA ROCKS!",
       "url": "https://phenomena-experience.com/index?pag=ficha&evento=2788"
+    },
+    {
+      "id": "cfa6c3820fe4fc22a456",
+      "title": "Nabucco (Arena di Verona Opera Festival)",
+      "type": "concert",
+      "cinemaId": "girona",
+      "startsAt": "2026-09-21T19:15:00+02:00",
+      "endDate": null,
+      "description": "La 102a edició de l'Arena di Verona Opera Festival va aconseguir un dels seus punts àlgids amb l'esperat retorn de la soprano Anna Netrebko, que va assumir per primera vegada a l'amfiteatre romà el temible rol d'Abigaille en la nova producció de Nabucco de Giuseppe Verdi. Sota la direcció escènica, escenografia i vestuari del visionari Stefano Poda, aquesta proposta redefineix el llenguatge visual del festival, fusionant l'escala èpica de l'Arena amb un simbolisme contemporani i sofisticat. La interpretació de Netrebko va ser rebuda amb una ovació tancada, destacant-ne el domini de la coloratura dramàtica i una presència escènica que dota d'humanitat l'ambiciosa antagonista. Després de l'èxit de la seva \"Aida de cristall\", Poda torna per oferir un Nabucco que fuig del cartró pedra tradicional. La posada en escena utilitza estructures arquitectòniques monumentals i efectes lumínics que transformen lespai en un desert metafísic.",
+      "url": "https://www.cinemesgirona.cat/nabucco-arena-di-verona-opera-festival"
     },
     {
       "id": "5251e35819e488654291",
@@ -78171,6 +80090,16 @@
       "url": "https://espaitexas.cat/pelicula/cicle-artec/"
     },
     {
+      "id": "8170515ac7cba9533ed4",
+      "title": "The Royal Ballet: Manon (2026-27)",
+      "type": "concert",
+      "cinemaId": "girona",
+      "startsAt": "2026-10-27T20:15:00+01:00",
+      "endDate": null,
+      "description": "Als baixos fons del París del segle XVIII, els diners són el rei. Res no és sagrat, fins i tot l'amor té un preu. Manon, assídua d'aquest submón hedonista, es veu atrapada entre dos desitjos quan s'enamora de l'estudiant Des Grieux. Des Grieux, lleial i abnegat, us ofereix la possibilitat d'una vida honorable. I tot i així, la riquesa que promet el món de la societat parisenca continua sent temptadora... La lluita i l'angoixa de Manon per sobreviure es troben al devastador epicentre de l'adaptació de Kenneth MacMillan de la novel·la del 1974 d'Abbé Prévost. En aquesta obra cimera de The Royal Ballet, la visió analítica de MacMillan de la psicologia de l'ésser humà ofereix un retrat honest de la degradació del París de Manon, alhora que la seva decadència i declivi prenen vida gràcies a la partitura de Jules Massenet i el vestuari de Nicholas Georgiadis.",
+      "url": "https://www.cinemesgirona.cat/the-royal-ballet-manon-2026-27"
+    },
+    {
       "id": "in-edit-barcelona-2026",
       "title": "IN-EDIT Barcelona 2026",
       "type": "festival",
@@ -78239,6 +80168,16 @@
       "status": "announced"
     },
     {
+      "id": "4b274dd28802e6bbbed6",
+      "title": "The Royal Opera: Carmen (2026-27)",
+      "type": "concert",
+      "cinemaId": "girona",
+      "startsAt": "2026-11-10T20:00:00+01:00",
+      "endDate": null,
+      "description": "Sota la calor opressiva del sol espanyol, la ferotgement independent Carmen atrau l'atenció de Don José. Ella l'adverteix que no s'enamori d'ella, però la seva obsessió no coneix límits. Torna la producció abrasadora de Damiano Michieletto, que il·lumina amb força la luxúria, la violència i el desig destructiu de l'òpera sempre popular de Bizet. Un repartiment estel·lar dóna vida a aquest drama ardent, amb Ginger Costa-Jackson en el paper principal, juntament amb Russell Thomas com el gelós i desesperat Don José. Després del seu debut a la Royal Opera el 2023, Sesto Quatrini torna per dirigir la partitura electrificant i sensual de Bizet.",
+      "url": "https://www.cinemesgirona.cat/the-royal-opera-carmen-2026-27"
+    },
+    {
       "id": "l-alternativa-2026",
       "title": "L'Alternativa — Festival de Cine Independiente de Barcelona 2026",
       "type": "festival",
@@ -78252,6 +80191,16 @@
       ],
       "observedAt": "2026-09-05T10:47:48Z",
       "status": "announced"
+    },
+    {
+      "id": "fa9d0b3e86a118fa830c",
+      "title": "Romeo y Julieta. Ballet Ópera de París 26/27",
+      "type": "concert",
+      "cinemaId": "girona",
+      "startsAt": "2026-11-12T16:00:00+01:00",
+      "endDate": null,
+      "description": "",
+      "url": "https://www.cinemesgirona.cat/romeo-y-julieta-ballet-opera-de-paris-26-27"
     },
     {
       "id": "dart-2026-radical-landscapes",
@@ -78277,6 +80226,16 @@
       "endDate": null,
       "description": "Dilluns 16/11/26 19:00 KOLLEKTIVET (LA COMUNA)\nDilluns 16/11/26 19:00 COL·LOQUI + PROJECCIÓ + PICA-PICA",
       "url": "https://espaitexas.cat/pelicula/cicle-artec/"
+    },
+    {
+      "id": "a6176a310b253137678f",
+      "title": "Romeo y Julieta. Ballet Ópera de París 26/27",
+      "type": "concert",
+      "cinemaId": "girona",
+      "startsAt": "2026-11-16T19:15:00+01:00",
+      "endDate": null,
+      "description": "",
+      "url": "https://www.cinemesgirona.cat/romeo-y-julieta-ballet-opera-de-paris-26-27"
     },
     {
       "id": "dart-2026-ambasz",
@@ -78357,6 +80316,26 @@
       "endDate": null,
       "description": "Dilluns 30/11/26 19:00 SNOWPIERCER\nDilluns 30/11/26 19:00 COL·LOQUI + PROJECCIÓ + PICA-PICA",
       "url": "https://espaitexas.cat/pelicula/cicle-artec/"
+    },
+    {
+      "id": "68723f972a6f2ef583ca",
+      "title": "El lago de los cisnes. Ballet Ópera de París 26/27",
+      "type": "concert",
+      "cinemaId": "girona",
+      "startsAt": "2026-12-14T19:15:00+01:00",
+      "endDate": null,
+      "description": "El lago de los cisnes narra la tràgica història d'amor entre el príncep Sigfrid i Odette, una bella jove convertida en cigne pel malvat bruixot Rothbart. Només un veritable jurament d'amor pot trencar la maledicció, però l'engany d'Odile, el cigne negre, desencadena un desenllaç fatal.",
+      "url": "https://www.cinemesgirona.cat/el-lago-de-los-cisnes-ballet-opera-de-paris-26-27"
+    },
+    {
+      "id": "167bb923af1be2e61e47",
+      "title": "El lago de los cisnes. Ballet Ópera de París 26/27",
+      "type": "concert",
+      "cinemaId": "girona",
+      "startsAt": "2026-12-23T16:00:00+01:00",
+      "endDate": null,
+      "description": "El lago de los cisnes narra la tràgica història d'amor entre el príncep Sigfrid i Odette, una bella jove convertida en cigne pel malvat bruixot Rothbart. Només un veritable jurament d'amor pot trencar la maledicció, però l'engany d'Odile, el cigne negre, desencadena un desenllaç fatal.",
+      "url": "https://www.cinemesgirona.cat/el-lago-de-los-cisnes-ballet-opera-de-paris-26-27"
     }
   ],
   "coverage": [
@@ -78426,10 +80405,10 @@
     },
     {
       "cinemaId": "girona",
-      "status": "partial",
-      "sessions": 9,
-      "message": "Importación parcial: algunos detalles no han podido verificarse. Consultar la fuente.",
-      "checkedAt": "2026-09-15T08:31:16.594687+02:00",
+      "status": "ok",
+      "sessions": 69,
+      "message": "Horarios oficiales comprobados en navegador. La importación automática no puede leer las fichas (bloqueo de acceso).",
+      "checkedAt": "2026-09-15T09:45:19.894000+02:00",
       "sourceUrl": "https://www.cinemesgirona.cat/"
     },
     {
