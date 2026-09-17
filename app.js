@@ -250,6 +250,7 @@
   function filters() {
     return {
       query: normalize($('search').value), cinema: $('cinema').value, day: $('date').value,
+      timeFrom: $('time-from').value, timeUntil: $('time-until').value,
       language: $('language').value, format: $('format').value, genre: $('genre').value,
       ratingSource: $('rating-source').value, minRating: $('min-rating').value,
       eventType: $('event-type').value, past: $('include-past').checked, sort: $('sort').value, watched: $('watched').value,
@@ -298,11 +299,20 @@
     fillOptions('format', alphabetic(sessions.flatMap((session) => strings(session.formats))), 'Todos los formatos');
     fillOptions('genre', genreOptions(data.movies), 'Todos los géneros');
   }
+  function matchesTimeRange(starts, from, until) {
+    if (!from && !until) return true;
+    if (!starts) return false;
+    const time = timeFormat.format(starts);
+    // Comparar la hora local de Barcelona, incluso si el navegador está en otra zona.
+    if (from && until && from > until) return time >= from || time <= until;
+    return (!from || time >= from) && (!until || time <= until);
+  }
   function matchesSession(session, filter) {
     const starts = date(session.startsAt);
     return !cinemaIsClosed(session.cinemaId)
       && (!filter.cinema || identifier(session.cinemaId) === filter.cinema)
       && (!filter.day || dayKey(session.startsAt) === filter.day)
+      && matchesTimeRange(starts, filter.timeFrom, filter.timeUntil)
       && matchesLanguage(session.language, filter.language)
       && (!filter.format || strings(session.formats).includes(filter.format))
       && (filter.past || !starts || starts.getTime() >= Date.now());
@@ -325,7 +335,7 @@
       if (filter.minRating && (rating.ratio === null || rating.ratio < Number(filter.minRating))) continue;
       const allSessions = sessionsByMovie.get(identifier(movie.id)) || [];
       const sessions = allSessions.filter((session) => matchesSession(session, filter));
-      if (!sessions.length && (allSessions.length || filter.cinema || filter.day || filter.language || filter.format)) continue;
+      if (!sessions.length && (allSessions.length || filter.cinema || filter.day || filter.timeFrom || filter.timeUntil || filter.language || filter.format)) continue;
       const next = sessions.reduce((minimum, session) => Math.min(minimum, date(session.startsAt)?.getTime() ?? Infinity), Infinity);
       result.push({ movie, sessions, next, rating: rating.ratio });
     }
@@ -406,7 +416,16 @@
       if (!groups.has(key)) groups.set(key, []);
       groups.get(key).push(session);
     }
-    for (const [id, items] of [...groups].sort((a, b) => collator.compare(cinemaName(a[0]), cinemaName(b[0])))) {
+    const sortByNext = $('sort').value === 'next';
+    const orderedGroups = [...groups].map(([id, items]) => ({
+      id, items,
+      next: items.reduce((minimum, session) => Math.min(minimum, date(session.startsAt)?.getTime() ?? Infinity), Infinity),
+    }));
+    orderedGroups.sort((a, b) => {
+      if (sortByNext && a.next !== b.next) return a.next < b.next ? -1 : 1;
+      return collator.compare(cinemaName(a.id), cinemaName(b.id));
+    });
+    for (const { id, items } of orderedGroups) {
       const group = element('section', 'cinema-sessions');
       const heading = element('div', 'cinema-heading');
       heading.append(element('h4', '', cinemaName(id)));
