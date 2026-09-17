@@ -416,13 +416,12 @@
       if (!groups.has(key)) groups.set(key, []);
       groups.get(key).push(session);
     }
-    const sortByNext = $('sort').value === 'next';
     const orderedGroups = [...groups].map(([id, items]) => ({
       id, items,
       next: items.reduce((minimum, session) => Math.min(minimum, date(session.startsAt)?.getTime() ?? Infinity), Infinity),
     }));
     orderedGroups.sort((a, b) => {
-      if (sortByNext && a.next !== b.next) return a.next < b.next ? -1 : 1;
+      if (a.next !== b.next) return a.next < b.next ? -1 : 1;
       return collator.compare(cinemaName(a.id), cinemaName(b.id));
     });
     for (const { id, items } of orderedGroups) {
