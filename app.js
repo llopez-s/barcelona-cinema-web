@@ -393,7 +393,7 @@
     if (text(session.status) && !GOOD.has(text(session.status))) ticket.append(element('span', 'session-state', statusName(session.status)));
     if (!booking && !past && !UNBOOKABLE.has(text(session.status))) ticket.append(element('span', 'session-state', 'Enlace de entradas no disponible'));
     const stale = isStale(session.observedAt) || ['stale', 'outdated'].includes(text(session.status));
-    if (stale) ticket.append(element('p', 'data-stale', 'Dato obsoleto · confirmar en la fuente'));
+    if (stale) ticket.append(element('p', 'data-stale', 'Sin actualizar · confirmar en la fuente'));
     const sources = element('div', 'session-source');
     const source = externalLink('Fuente', session.sourceUrl);
     const priceSource = externalLink('Tarifa', session.price?.url);
