@@ -36399,6 +36399,37 @@
       "status": "verified"
     },
     {
+      "id": "26affe7a331069e887ff",
+      "movieId": "movie-66c9950f82de4afa3348",
+      "cinemaId": "verdi",
+      "startsAt": "2026-10-25T11:30:00+01:00",
+      "language": {
+        "version": null,
+        "audio": "es",
+        "subtitles": null,
+        "label": "Castellano · versión sin confirmar"
+      },
+      "formats": [],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio reducido; importe no publicado",
+        "url": "https://barcelona.cines-verdi.com/sesion-teta-la-bola-negra",
+        "category": "Sessió Teta: precio reducido",
+        "conditions": "La fuente anuncia precio reducido, sin importe. Consultar condiciones y extras en la ficha oficial.",
+        "observedAt": "2026-10-05T10:16:15.686102+02:00"
+      },
+      "bookingUrl": null,
+      "sourceUrl": "https://barcelona.cines-verdi.com/sesion-teta-la-bola-negra",
+      "observedAt": "2026-10-05T10:16:15.686102+02:00",
+      "status": "verified",
+      "room": null,
+      "sources": [
+        "https://barcelona.cines-verdi.com/sesion-teta-la-bola-negra"
+      ]
+    },
+    {
       "id": "3f9354e0961d3c1197d0",
       "movieId": "fa-879433",
       "cinemaId": "yelmo-maquinista",
@@ -39398,6 +39429,21 @@
       "status": "announced"
     },
     {
+      "id": "verdi-sessio-teta-la-bola-negra-2026-10-25",
+      "title": "Sessió Teta: La bola negra",
+      "type": "special-screening",
+      "cinemaId": "verdi",
+      "startsAt": "2026-10-25T11:30:00+01:00",
+      "endDate": null,
+      "description": "Proyección adaptada: luz tenue, sonido más bajo y entrada/salida permitidas. Precio reducido sin importe publicado. No se permiten cochecitos en la sala; se recomiendan portabebés.",
+      "url": "https://barcelona.cines-verdi.com/sesion-teta-la-bola-negra",
+      "venues": [
+        "Cinemes Verdi + Verdi Park, Barcelona; sede concreta sin confirmar"
+      ],
+      "observedAt": "2026-10-05T10:16:15.686102+02:00",
+      "status": "verified"
+    },
+    {
       "id": "afef75629292530c8b8d",
       "title": "CICLE ARTEC — HER",
       "type": "cycle",
@@ -39912,7 +39958,7 @@
     {
       "cinemaId": "verdi",
       "status": "ok",
-      "sessions": 5,
+      "sessions": 6,
       "message": "Horarios de fuente secundaria; confirmar cambios en la web del cine.",
       "checkedAt": "2026-10-05T09:04:40.492214+02:00",
       "sourceUrl": "https://www.sensacine.com/cines/cine/E0608/"
