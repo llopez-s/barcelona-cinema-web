@@ -10,6 +10,12 @@
       "title": "Spider-Man. Brand New Day",
       "originalTitle": "Spider-Man: Brand New Day",
       "year": 2026,
+      "runtime": 144,
+      "ageRating": {
+        "system": "ES",
+        "code": "12",
+        "label": "Pelicula no recomendada a menores de 12"
+      },
       "director": "Destin Daniel Cretton",
       "genres": [
         "Acción",
@@ -84,13 +90,33 @@
         "fa-437038",
         "movie-5a7b8ecc455b6b61d592",
         "movie-f1be5dac70b2df4bb7bb"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/yelmo-westfield-la-maquinista",
+          "observedAt": "2026-10-16T07:56:10.813701+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "sensacine",
+          "url": "https://www.sensacine.com/cines/cine/E0808/",
+          "observedAt": "2026-10-16T07:55:07.648825+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-66c9950f82de4afa3348",
       "title": "LA BOLA NEGRA",
       "originalTitle": "La bola negra",
       "year": 2026,
+      "runtime": 159,
+      "ageRating": {
+        "system": "ES",
+        "code": "16",
+        "label": "No recomendada para menores de 16 años"
+      },
       "director": "Javier Ambrossi, Javier Calvo",
       "genres": [
         "Drama"
@@ -166,13 +192,33 @@
         "movie-6add13ba6caa3c53336a",
         "movie-bfad50e169bf318c3b3e",
         "movie-db0fd754d7001ae0b15a"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/phenomena-experience",
+          "observedAt": "2026-10-16T07:56:44.730784+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=2997",
+          "observedAt": "2026-10-16T07:56:00.991831+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "fa-105520",
       "title": "Naza",
       "originalTitle": "Naza (נז\"א)",
       "year": 2026,
+      "runtime": 80,
+      "ageRating": {
+        "system": "ES",
+        "code": "16",
+        "label": "No recomanada per a menors de 16 anys"
+      },
       "director": "Yuval Abraham, Rachel Szor",
       "genres": [
         "Documental"
@@ -249,13 +295,28 @@
         "movie-b524fb7105346ea705d2",
         "movie-d5208db72b6c36a7b368",
         "movie-daf9d5c755ac9ac321d0"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/renoir-floridablanca-cines",
+          "observedAt": "2026-10-16T07:56:19.409802+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "official",
+          "url": "https://zumzeigcine.coop/cinema/films/naza/",
+          "observedAt": "2026-10-16T07:55:05.025025+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "fa-763705",
       "title": "Drácula de Bram Stoker",
       "originalTitle": "Bram Stoker's Dracula",
       "year": 1992,
+      "runtime": 130,
       "director": "Francis Ford Coppola",
       "genres": [
         "Terror",
@@ -330,13 +391,23 @@
         "Dràcula de Bram Stoker",
         "Dràcula, de Bram Stoker"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film763705.html",
+          "observedAt": "2026-10-13T09:51:56.118623+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "fa-891194",
       "title": "Los paraguas de Cherburgo",
       "originalTitle": "Les Parapluies de Cherbourg",
       "year": 1964,
+      "runtime": 88,
       "director": "Jacques Demy",
       "genres": [
         "Musical",
@@ -410,13 +481,23 @@
         "The Umbrellas of Cherbourg",
         "Umbrellas of Cherbourg"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film891194.html",
+          "observedAt": "2026-10-13T09:51:58.787498+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "fa-943832",
       "title": "Gilda",
       "originalTitle": "Gilda",
       "year": 1946,
+      "runtime": 112,
       "director": "Charles Vidor",
       "genres": [
         "Cine negro",
@@ -500,6 +581,7 @@
       "title": "Dune: Parte Tres",
       "originalTitle": "Dune: Part Three",
       "year": 2026,
+      "runtime": 140,
       "director": "Denis Villeneuve",
       "genres": [
         "Ciencia ficción",
@@ -579,7 +661,15 @@
       "mergedIds": [
         "movie-6b87addbe08e97bfb5ab",
         "movie-75b6b8ea604c60b5ad13"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=3016",
+          "observedAt": "2026-10-16T07:56:15.111227+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "fa-472383",
@@ -650,6 +740,7 @@
       "title": "El caso McMartin",
       "originalTitle": "Indictment: The McMartin Trial",
       "year": 1995,
+      "runtime": 127,
       "director": "Mick Jackson",
       "genres": [
         "Drama",
@@ -718,13 +809,23 @@
         "Enjuiciamiento: El Caso McMartin",
         "Indictment: The McMartin Trial"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film326795.html",
+          "observedAt": "2026-10-16T07:58:34.175219+00:00",
+          "status": "verified",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "fa-283316",
       "title": "Carrie",
       "originalTitle": "Carrie",
       "year": 1976,
+      "runtime": 97,
       "director": "Brian De Palma",
       "genres": [
         "Terror",
@@ -797,13 +898,23 @@
       "aliases": [
         "Carrie"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film283316.html",
+          "observedAt": "2026-10-06T07:36:00.472965+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "fa-703786",
       "title": "Buffalo Girls (TV)",
       "originalTitle": "Buffalo Girls",
       "year": 1995,
+      "runtime": 180,
       "director": "Rod Hardy",
       "genres": [
         "Western"
@@ -876,13 +987,23 @@
         "Buffalo Girls",
         "Mujeres de Búfalo"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film703786.html",
+          "observedAt": "2026-10-06T07:36:06.520580+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "fa-705799",
       "title": "Gulag",
       "originalTitle": "Gulag",
       "year": 1985,
+      "runtime": 130,
       "director": "Roger Young",
       "genres": [
         "Drama"
@@ -949,7 +1070,16 @@
       "aliases": [
         "Gulag"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film705799.html",
+          "observedAt": "2026-10-16T07:58:37.316113+00:00",
+          "status": "verified",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "fa-728190",
@@ -1029,6 +1159,7 @@
       "title": "Eduardo Manostijeras",
       "originalTitle": "Edward Scissorhands",
       "year": 1990,
+      "runtime": 98,
       "director": "Tim Burton",
       "genres": [
         "Fantástico",
@@ -1104,13 +1235,23 @@
         "Edward Scissorhands",
         "El joven manos de tijera"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film827774.html",
+          "observedAt": "2026-10-06T07:36:17.266134+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "fa-210498",
       "title": "Las bucaneras",
       "originalTitle": "The Buccaneers",
       "year": 1995,
+      "runtime": 220,
       "director": "Philip Saville",
       "genres": [
         "Serie de TV",
@@ -1180,7 +1321,16 @@
       "aliases": [
         "The Buccaneers"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film210498.html",
+          "observedAt": "2026-10-16T07:58:43.152045+00:00",
+          "status": "verified",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "fa-931958",
@@ -1251,6 +1401,12 @@
       "title": "La ciudad de las estrellas (La La Land)",
       "originalTitle": "La La Land",
       "year": 2016,
+      "runtime": 129,
+      "ageRating": {
+        "system": "ES",
+        "code": "TP",
+        "label": "Para todos los públicos"
+      },
       "director": "Damien Chazelle",
       "genres": [
         "Musical",
@@ -1333,13 +1489,22 @@
       "mergedIds": [
         "movie-79c0910a8e09e375f982",
         "movie-a45ba419397cee17b746"
-      ]
+      ],
+      "metadataSources": {
+        "ageRating": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=1604",
+          "observedAt": "2026-10-11T07:10:14.282506+00:00",
+          "status": "stale"
+        }
+      }
     },
     {
       "id": "fa-192554",
       "title": "Rocky",
       "originalTitle": "Rocky",
       "year": 1976,
+      "runtime": 119,
       "director": "John G. Avildsen",
       "genres": [
         "Drama"
@@ -1411,13 +1576,23 @@
       "aliases": [
         "Rocky"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film192554.html",
+          "observedAt": "2026-10-06T07:36:38.745633+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "fa-153436",
       "title": "Love Actually",
       "originalTitle": "Love Actually",
       "year": 2003,
+      "runtime": 128,
       "director": "Richard Curtis",
       "genres": [
         "Romance",
@@ -1490,13 +1665,23 @@
       "aliases": [
         "Realmente amor"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film153436.html",
+          "observedAt": "2026-10-06T07:36:47.394521+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "fa-879433",
       "title": "Minions & Monsters",
       "originalTitle": "Minions & Monsters",
       "year": 2026,
+      "runtime": 90,
       "director": "Pierre Coffin",
       "genres": [
         "Animación",
@@ -1577,13 +1762,23 @@
       "mergedIds": [
         "movie-562be607316092646d35",
         "movie-fa2b297ba3782f4a8ee4"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film879433.html",
+          "observedAt": "2026-10-06T07:37:07.673232+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "fa-784063",
       "title": "Una cuestión de tiempo",
       "originalTitle": "About Time",
       "year": 2013,
+      "runtime": 123,
       "director": "Richard Curtis",
       "genres": [
         "Romance",
@@ -1658,13 +1853,23 @@
         "About Time",
         "It's a matter of time"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film784063.html",
+          "observedAt": "2026-10-06T07:37:10.938516+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "fa-458406",
       "title": "Cisne negro",
       "originalTitle": "Black Swan",
       "year": 2010,
+      "runtime": 109,
       "director": "Darren Aronofsky",
       "genres": [
         "Drama"
@@ -1736,13 +1941,23 @@
       "aliases": [
         "Black Swan"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film458406.html",
+          "observedAt": "2026-10-06T07:37:16.092713+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "fa-835259",
       "title": "Cars",
       "originalTitle": "Cars",
       "year": 2006,
+      "runtime": 116,
       "director": "John Lasseter",
       "genres": [
         "Animación",
@@ -1812,13 +2027,22 @@
       "aliases": [],
       "mergedIds": [
         "movie-68e916721649c408b4d3"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/cinesa-diagonal",
+          "observedAt": "2026-10-16T07:55:56.372989+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "fa-181951",
       "title": "Always Lalisa",
       "originalTitle": "Always Lalisa",
       "year": 2026,
+      "runtime": 100,
       "director": "Sue Kim",
       "genres": [
         "Documental"
@@ -1885,13 +2109,23 @@
       "aliases": [
         "Lisa"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film181951.html",
+          "observedAt": "2026-10-06T07:37:31.059731+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "fa-682814",
       "title": "¡Qué bello es vivir!",
       "originalTitle": "It's a Wonderful Life",
       "year": 1946,
+      "runtime": 130,
       "director": "Frank Capra",
       "genres": [
         "Drama",
@@ -1972,13 +2206,28 @@
         "Qué bello es vivir!",
         "¡Que bello es vivir!"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film682814.html",
+          "observedAt": "2026-10-06T07:37:34.685052+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "fa-953782",
       "title": "Un tranvía llamado Deseo",
       "originalTitle": "A Streetcar Named Desire",
       "year": 1951,
+      "runtime": 122,
+      "ageRating": {
+        "system": "ES",
+        "code": "18",
+        "label": "No recomendada para menores de 18 años"
+      },
       "director": "Elia Kazan",
       "genres": [
         "Drama"
@@ -2060,13 +2309,29 @@
       "mergedIds": [
         "movie-87047c3c56772f811e1e",
         "movie-e0d458fc8cdf5fe80414"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film953782.html",
+          "observedAt": "2026-10-06T07:37:44.047985+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        },
+        "ageRating": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=2847",
+          "observedAt": "2026-10-08T06:58:12.417861+00:00",
+          "status": "stale"
+        }
+      }
     },
     {
       "id": "movie-84cd8fde466d04564aa9",
       "title": "MISS JOBSON",
       "originalTitle": "Miss Jobson",
       "year": 2025,
+      "runtime": 80,
       "director": "Amanda Sans Pantling",
       "genres": [
         "Documental"
@@ -2133,13 +2398,23 @@
       "aliases": [
         "Miss Jobson"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film860554.html",
+          "observedAt": "2026-10-06T07:38:16.576795+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "movie-44b97e42453b2b42e4e0",
       "title": "CHAVALAS",
       "originalTitle": "Chavalas",
       "year": 2021,
+      "runtime": 88,
       "director": "CAROL RODRÍGUEZ COLÁS",
       "genres": [
         "Comedia",
@@ -2212,13 +2487,23 @@
       "aliases": [
         "Chavalas"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film329630.html",
+          "observedAt": "2026-10-06T07:38:21.008279+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "movie-8c3c0b6f746b682aef1e",
       "title": "HER",
       "originalTitle": "Her",
       "year": 2013,
+      "runtime": 126,
       "director": "Spike Jonze",
       "genres": [
         "Ciencia ficción",
@@ -2295,13 +2580,22 @@
       ],
       "mergedIds": [
         "movie-20ca8797955629690ade"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://espaitexas.cat/pelicula/her/",
+          "observedAt": "2026-10-16T07:55:28.909401+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-bfe0a0619860f839e707",
       "title": "HISTÒRIES DE LA VALL BONA",
       "originalTitle": "Historias del buen valle",
       "year": 2025,
+      "runtime": 122,
       "director": "José Luis Guerín",
       "genres": [
         "Documental"
@@ -2378,13 +2672,22 @@
       ],
       "mergedIds": [
         "movie-d513a07ba9648ddc7be1"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://espaitexas.cat/pelicula/historias-del-buen-valle/",
+          "observedAt": "2026-10-14T07:41:13.078481+00:00",
+          "status": "stale"
+        }
+      }
     },
     {
       "id": "movie-536bc6dd2b6323fb09c2",
       "title": "KOLLEKTIVET (LA COMUNA)",
       "originalTitle": "Kollektivet",
       "year": 2016,
+      "runtime": 107,
       "director": "Thomas Vinterberg",
       "genres": [
         "Drama"
@@ -2463,13 +2766,22 @@
       ],
       "mergedIds": [
         "movie-500bb7590e01dea6efc1"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://espaitexas.cat/pelicula/kollektivet-la-comuna/",
+          "observedAt": "2026-10-14T07:41:14.803531+00:00",
+          "status": "stale"
+        }
+      }
     },
     {
       "id": "movie-57f1bd2f33e765c2cafc",
       "title": "SNOWPIERCER",
       "originalTitle": "Snowpiercer",
       "year": 2013,
+      "runtime": 126,
       "director": "Bong Joon-ho",
       "genres": [
         "Ciencia ficción",
@@ -2549,13 +2861,22 @@
       ],
       "mergedIds": [
         "movie-81c6bbe63aeaa3118a8a"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://espaitexas.cat/pelicula/snowpiercer/",
+          "observedAt": "2026-10-14T07:41:18.324394+00:00",
+          "status": "stale"
+        }
+      }
     },
     {
       "id": "movie-e47ab3fbe14d94258fb2",
       "title": "LA INVASIÓ DELS BÀRBARS",
       "originalTitle": "La invasió dels bàrbars",
       "year": 2025,
+      "runtime": 117,
       "director": "Vicent Monsonís",
       "genres": [
         "Drama"
@@ -2627,13 +2948,28 @@
       "aliases": [
         "La invasió dels bàrbars"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film492711.html",
+          "observedAt": "2026-10-06T07:38:07.739728+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "movie-8a79e9a68d02885692ef",
       "title": "ESCAPE ROOM 2",
       "originalTitle": "Escape Room 2",
       "year": 2026,
+      "runtime": 88,
+      "ageRating": {
+        "system": "ES",
+        "code": "12",
+        "label": "Pelicula no recomendada a menores de 12"
+      },
       "director": "Hèctor Claramunt",
       "genres": [
         "Comedia",
@@ -2707,13 +3043,33 @@
       "mergedIds": [
         "movie-5ee48106d48416ada0d3",
         "movie-bb95fb17f1fbd354b01f"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/cinesa-diagonal",
+          "observedAt": "2026-10-16T07:55:56.372989+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "sensacine",
+          "url": "https://www.sensacine.com/cines/cine/E0388/",
+          "observedAt": "2026-10-16T07:56:07.919127+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-6ac054131f7ba8824f78",
       "title": "Doraemon: Aventuras en el mundo del arte",
       "originalTitle": "Eiga Doraemon: Nobita no Esekai Monogatari",
       "year": 2025,
+      "runtime": 104,
+      "ageRating": {
+        "system": "ES",
+        "code": "TP",
+        "label": "Todos los publicos"
+      },
       "director": "Yukiyo Teramoto",
       "genres": [
         "Animación",
@@ -2794,13 +3150,28 @@
         "movie-29f362113a4b9c9d0cb4",
         "movie-2c81702e71a6b5f16dd7",
         "movie-f8dd8675cd87407ae9ae"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/cinesa-diagonal",
+          "observedAt": "2026-10-16T07:55:56.372989+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "sensacine",
+          "url": "https://www.sensacine.com/cines/cine/E0388/",
+          "observedAt": "2026-10-16T07:56:07.919127+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-209f150027d252dcaedf",
       "title": "Érem una gran família",
       "originalTitle": "Érem una gran família",
       "year": 2026,
+      "runtime": 80,
       "director": "Cristina Rosselló",
       "genres": [
         "Documental"
@@ -2866,13 +3237,23 @@
       "aliases": [
         "Érem una gran família"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film896863.html",
+          "observedAt": "2026-10-16T07:58:48.980041+00:00",
+          "status": "verified",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "movie-7a78e8a93cec8e960a85",
       "title": "Suportant el paradís",
       "originalTitle": "Suportant el paradís",
       "year": 2026,
+      "runtime": 89,
       "director": "Marga Melià",
       "genres": [
         "Documental"
@@ -2942,13 +3323,23 @@
       ],
       "mergedIds": [
         "movie-ebf9a8954e4bbafb4225"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film973613.html",
+          "observedAt": "2026-10-16T07:58:52.126618+00:00",
+          "status": "verified",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "movie-a76e455219c3893484ec",
       "title": "Krakatoa",
       "originalTitle": "Krakatoa",
       "year": 2026,
+      "runtime": 79,
       "director": "Carlos Casas",
       "genres": [
         "Drama"
@@ -3015,13 +3406,28 @@
       "aliases": [
         "Krakatoa"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film454964.html",
+          "observedAt": "2026-10-16T07:58:55.258713+00:00",
+          "status": "verified",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "movie-4c673ef00b9352f8ca4d",
       "title": "Digger",
       "originalTitle": "Digger",
       "year": 2026,
+      "runtime": 128,
+      "ageRating": {
+        "system": "ES",
+        "code": "16",
+        "label": "Pelicula no recomendada a menores de 16"
+      },
       "director": "Alejandro González Iñárritu",
       "genres": [
         "Acción",
@@ -3089,13 +3495,33 @@
         "fa-440322",
         "movie-06631d17ff1c49a09912",
         "movie-59492390dbb7aa8e503e"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/cinesa-diagonal",
+          "observedAt": "2026-10-16T07:55:56.372989+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "sensacine",
+          "url": "https://www.sensacine.com/cines/cine/E0581/",
+          "observedAt": "2026-10-16T07:56:16.660923+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-605e64b36da7d779106d",
       "title": "Prácticamente magia 2",
       "originalTitle": "Practical Magic 2",
       "year": 2026,
+      "runtime": 130,
+      "ageRating": {
+        "system": "ES",
+        "code": "12",
+        "label": "Pelicula no recomendada a menores de 12"
+      },
       "director": "Susanne Bier",
       "genres": [
         "Fantasía",
@@ -3164,13 +3590,34 @@
         "Practical Magic 2",
         "Pràcticament màgia 2"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film711879.html",
+          "observedAt": "2026-09-05T10:53:34.270593+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        },
+        "ageRating": {
+          "source": "sensacine",
+          "url": "https://www.sensacine.com/cines/cine/E0608/",
+          "observedAt": "2026-10-16T07:54:34.403952+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-7615fdbb713c696c2c9f",
       "title": "El ser querido",
       "originalTitle": "El ser querido",
       "year": 2026,
+      "runtime": 135,
+      "ageRating": {
+        "system": "ES",
+        "code": "12",
+        "label": "Pelicula no recomendada a menores de 12"
+      },
       "director": "Rodrigo Sorogoyen",
       "genres": [
         "Drama"
@@ -3248,13 +3695,33 @@
         "movie-573c02f89ff727cb742a",
         "movie-b2ee4a5529fe62bdb535",
         "movie-e785c2377c9a53f91d02"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/renoir-floridablanca-cines",
+          "observedAt": "2026-10-16T07:56:19.409802+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "sensacine",
+          "url": "https://www.sensacine.com/cines/cine/E0581/",
+          "observedAt": "2026-10-16T07:56:16.660923+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-da91eea383768c729b84",
       "title": "Cronos",
       "originalTitle": "Cronos",
       "year": 2026,
+      "runtime": 118,
+      "ageRating": {
+        "system": "ES",
+        "code": "12",
+        "label": "Pelicula no recomendada a menores de 12"
+      },
       "director": "Fernando González Molina",
       "genres": [
         "Drama",
@@ -3331,13 +3798,34 @@
         "movie-cda5a0cd3f420b01a176",
         "movie-e1e12cec2d4808c7f7a5",
         "movie-fa24a7ecba04377cf852"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film268103.html",
+          "observedAt": "2026-10-06T07:39:08.546921+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        },
+        "ageRating": {
+          "source": "sensacine",
+          "url": "https://www.sensacine.com/cines/cine/E0447/",
+          "observedAt": "2026-10-16T07:55:47.383206+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-bc0a5bbc118d380f84d0",
       "title": "Palestina 36",
       "originalTitle": "Palestine 36",
       "year": 2025,
+      "runtime": 119,
+      "ageRating": {
+        "system": "ES",
+        "code": "16",
+        "label": "Pelicula no recomendada a menores de 16"
+      },
       "director": "Annemarie Jacir",
       "genres": [
         "Drama"
@@ -3408,13 +3896,34 @@
       "mergedIds": [
         "fa-605590",
         "movie-26c912e93c02ca33d686"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film605590.html",
+          "observedAt": "2026-10-06T07:40:35.364941+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        },
+        "ageRating": {
+          "source": "sensacine",
+          "url": "https://www.sensacine.com/cines/cine/E0608/",
+          "observedAt": "2026-10-16T07:54:34.403952+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-98f8a03e5e7169b270db",
       "title": "Ceniza en la boca",
       "originalTitle": "Ceniza en la boca",
       "year": 2026,
+      "runtime": 97,
+      "ageRating": {
+        "system": "ES",
+        "code": "16",
+        "label": "Pelicula no recomendada a menores de 16"
+      },
       "director": "Diego Luna",
       "genres": [
         "Drama"
@@ -3484,13 +3993,34 @@
       ],
       "mergedIds": [
         "movie-be7861026a514836cac9"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film503965.html",
+          "observedAt": "2026-10-06T07:36:29.322594+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        },
+        "ageRating": {
+          "source": "sensacine",
+          "url": "https://www.sensacine.com/cines/cine/E0747/",
+          "observedAt": "2026-10-16T07:54:44.520590+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-96e619077f44dde851ea",
       "title": "El precio de la red",
       "originalTitle": "The Social Reckoning",
       "year": 2026,
+      "runtime": 112,
+      "ageRating": {
+        "system": "ES",
+        "code": "12",
+        "label": "No recomendada para menores de 12 años"
+      },
       "director": "Aaron Sorkin",
       "genres": [
         "Drama"
@@ -3565,13 +4095,33 @@
         "fa-279550",
         "movie-8720cf833161a36fda8a",
         "movie-e80c2d6255f9457bb88f"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/cinesa-diagonal",
+          "observedAt": "2026-10-16T07:55:56.372989+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=3001",
+          "observedAt": "2026-10-16T07:55:23.597034+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-e82b0b1b596af810b74e",
       "title": "Resident Evil",
       "originalTitle": "Resident Evil",
       "year": 2026,
+      "runtime": 93,
+      "ageRating": {
+        "system": "ES",
+        "code": "16",
+        "label": "No recomendada para menores de 16 años"
+      },
       "director": "Zach Cregger",
       "genres": [
         "Ciencia ficción",
@@ -3653,13 +4203,33 @@
         "movie-76d89e8ecc24e79a8b2c",
         "movie-96568511317b1b4d4bab",
         "movie-eb22475ee61facf8ffda"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/phenomena-experience",
+          "observedAt": "2026-10-16T07:56:44.730784+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=2996",
+          "observedAt": "2026-10-16T07:56:25.787228+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-285e9cf2bf48300d3d43",
       "title": "Verity: La sombra de un engaño",
       "originalTitle": "Verity",
       "year": 2026,
+      "runtime": 116,
+      "ageRating": {
+        "system": "ES",
+        "code": "16",
+        "label": "Pelicula no recomendada a menores de 16"
+      },
       "director": "Michael Showalter",
       "genres": [
         "Drama",
@@ -3734,13 +4304,33 @@
       "mergedIds": [
         "fa-740344",
         "movie-6fae8bae73d54b6ca560"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/cinesa-diagonal",
+          "observedAt": "2026-10-16T07:55:56.372989+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "sensacine",
+          "url": "https://www.sensacine.com/cines/cine/E0388/",
+          "observedAt": "2026-10-16T07:56:07.919127+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-1d5516c246548fc02ad3",
       "title": "Mis queridísimos padres",
       "originalTitle": "Chers parents",
       "year": 2026,
+      "runtime": 86,
+      "ageRating": {
+        "system": "ES",
+        "code": "7",
+        "label": "Pelicula no recomendada a menores de 7"
+      },
       "director": "Emmanuel Patron",
       "genres": [
         "Comedia"
@@ -3805,13 +4395,34 @@
       "filmaffinityId": "959467",
       "imdbId": "tt35405429",
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film959467.html",
+          "observedAt": "2026-09-16T21:08:39.659497+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        },
+        "ageRating": {
+          "source": "sensacine",
+          "url": "https://www.sensacine.com/cines/cine/E0608/",
+          "observedAt": "2026-10-16T07:54:34.403952+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-fccc48dccf2ad5e3ca19",
       "title": "La Odisea",
       "originalTitle": "The Odyssey",
       "year": 2026,
+      "runtime": 172,
+      "ageRating": {
+        "system": "ES",
+        "code": "12",
+        "label": "No recomendada para menores de 12 años"
+      },
       "director": "Christopher Nolan",
       "genres": [
         "Acción",
@@ -3894,13 +4505,33 @@
         "movie-825f11779caef377de93",
         "movie-dace42e4276c1155c329",
         "movie-e939127ab291c966ff39"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/phenomena-experience",
+          "observedAt": "2026-10-16T07:56:44.730784+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=2964",
+          "observedAt": "2026-10-16T07:56:09.184546+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-e3d4ab50da145d529b91",
       "title": "La vida de una mujer",
       "originalTitle": "La Vie d'une femme",
       "year": 2026,
+      "runtime": 99,
+      "ageRating": {
+        "system": "ES",
+        "code": "12",
+        "label": "Pelicula no recomendada a menores de 12"
+      },
       "director": "Charline Bourgeois-Tacquet",
       "genres": [
         "Comedia dramática"
@@ -3974,13 +4605,33 @@
       "mergedIds": [
         "fa-172492",
         "movie-62d0247403c6ba4a74b3"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/renoir-floridablanca-cines",
+          "observedAt": "2026-10-16T07:56:19.409802+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "sensacine",
+          "url": "https://www.sensacine.com/cines/cine/E0581/",
+          "observedAt": "2026-10-16T07:56:16.660923+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-ea39a16e648ad8e322aa",
       "title": "Su propio infierno",
       "originalTitle": "Her Private Hell",
       "year": 2026,
+      "runtime": 107,
+      "ageRating": {
+        "system": "ES",
+        "code": "16",
+        "label": "Pelicula no recomendada a menores de 16"
+      },
       "director": "Nicolas Winding Refn",
       "genres": [
         "Suspense"
@@ -4051,13 +4702,34 @@
       "mergedIds": [
         "fa-120455",
         "movie-f3a6f689bcbd02a5d5a5"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film120455.html",
+          "observedAt": "2026-10-10T07:05:02.525357+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        },
+        "ageRating": {
+          "source": "sensacine",
+          "url": "https://www.sensacine.com/cines/cine/E0747/",
+          "observedAt": "2026-10-16T07:54:44.520590+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-b1350c6bf343d026d2ef",
       "title": "En el corazón de la bestia",
       "originalTitle": "Heart Of The Beast",
       "year": 2026,
+      "runtime": 101,
+      "ageRating": {
+        "system": "ES",
+        "code": "12",
+        "label": "No recomendada para menores de 12 años"
+      },
       "director": "David Ayer",
       "genres": [
         "Acción",
@@ -4138,13 +4810,33 @@
         "fa-846261",
         "movie-21fb71a7f01ffa10c8a8",
         "movie-a354b42af3af7596fabd"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/phenomena-experience",
+          "observedAt": "2026-10-16T07:56:44.730784+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=3005",
+          "observedAt": "2026-10-16T07:55:27.514837+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-827b4b38d70232a12ef0",
       "title": "Coyote vs. ACME",
       "originalTitle": "Coyote vs. Acme",
       "year": 2026,
+      "runtime": 103,
+      "ageRating": {
+        "system": "ES",
+        "code": "TP",
+        "label": "Todos los publicos"
+      },
       "director": "Dave Green",
       "genres": [
         "Animación",
@@ -4224,13 +4916,33 @@
       "mergedIds": [
         "fa-523116",
         "movie-fc4a5467b76bd5de6df7"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/cinesa-diagonal",
+          "observedAt": "2026-10-16T07:55:56.372989+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "sensacine",
+          "url": "https://www.sensacine.com/cines/cine/E0442/",
+          "observedAt": "2026-10-16T07:55:27.273192+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-583c3f752fd7b5d01ddd",
       "title": "La otra madre",
       "originalTitle": "Other Mommy",
       "year": 2026,
+      "runtime": 93,
+      "ageRating": {
+        "system": "ES",
+        "code": "16",
+        "label": "Pelicula no recomendada a menores de 16"
+      },
       "director": "Rob Savage",
       "genres": [
         "Terror"
@@ -4302,7 +5014,21 @@
       ],
       "mergedIds": [
         "movie-b8100b2dc04bac0b78ed"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/cinesa-diagonal",
+          "observedAt": "2026-10-16T07:55:56.372989+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "sensacine",
+          "url": "https://www.sensacine.com/cines/cine/E0388/",
+          "observedAt": "2026-10-16T07:56:07.919127+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-2353f68530e79ca9317b",
@@ -4385,6 +5111,12 @@
       "title": "Mascotas al rescate",
       "originalTitle": "Falcon Express",
       "year": 2025,
+      "runtime": 86,
+      "ageRating": {
+        "system": "ES",
+        "code": "7",
+        "label": "Pelicula no recomendada a menores de 7"
+      },
       "director": "Benoît Daffis , Jean-Christian Tassy",
       "genres": [
         "Animación",
@@ -4462,13 +5194,28 @@
       "mergedIds": [
         "movie-23390db7925aaf1a3c97",
         "movie-d1529ae6540d6a5eee9a"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/cinesa-diagonal",
+          "observedAt": "2026-10-16T07:55:56.372989+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "sensacine",
+          "url": "https://www.sensacine.com/cines/cine/E0382/",
+          "observedAt": "2026-10-16T07:56:01.584667+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-9893a722e1521eca1c5f",
       "title": "El Árbol Muy Muy Lejano",
       "originalTitle": "The Magic Faraway Tree",
       "year": 2026,
+      "runtime": 110,
       "director": "Ben Gregor",
       "genres": [
         "Aventuras",
@@ -4539,13 +5286,22 @@
       ],
       "mergedIds": [
         "movie-53bca3c99c23bad911e9"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/cinesa-diagonal",
+          "observedAt": "2026-10-16T07:55:56.372989+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-67f7325ed77bb629812b",
       "title": "Las Ciegas Hormigas",
       "originalTitle": "Inurri Itsuak",
       "year": 2026,
+      "runtime": 101,
       "director": "Igor Legarreta",
       "genres": [
         "Drama"
@@ -4615,13 +5371,27 @@
       ],
       "mergedIds": [
         "movie-48f2ae419e8450b3b1c5"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/cinesa-som-multiespai-heron-city",
+          "observedAt": "2026-10-16T07:56:13.969517+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-c0ff1dcf40f7b3b83c17",
       "title": "ASALTO A LA COMISARIA DEL DISTRITO 13",
       "originalTitle": "Assault on Precinct 13",
       "year": 1976,
+      "runtime": 91,
+      "ageRating": {
+        "system": "ES",
+        "code": "18",
+        "label": "No recomendada para menores de 18 años"
+      },
       "director": "John Carpenter",
       "genres": [
         "Acción",
@@ -4695,13 +5465,28 @@
         "Assalt a la comisaria del districte 13",
         "Assault on Precinct 13"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=539",
+          "observedAt": "2026-10-16T07:54:45.309811+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=539",
+          "observedAt": "2026-10-16T07:54:45.309811+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-37606003b79c723cee2b",
       "title": "BLADE RUNNER: THE FINAL CUT",
       "originalTitle": "Blade Runner",
       "year": 1982,
+      "runtime": 117,
       "director": "Ridley Scott",
       "genres": [
         "Ciencia ficción",
@@ -4774,13 +5559,28 @@
       "aliases": [
         "Blade Runner"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film358476.html",
+          "observedAt": "2026-10-08T07:00:01.659853+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "movie-dd1ff7da35eecc986452",
       "title": "CALL ME BY YOUR NAME",
       "originalTitle": "Call Me by Your Name",
       "year": 2017,
+      "runtime": 131,
+      "ageRating": {
+        "system": "ES",
+        "code": "12",
+        "label": "No recomendada para menores de 12 años"
+      },
       "director": "Luca Guadagnino",
       "genres": [
         "Drama"
@@ -4858,13 +5658,33 @@
       ],
       "mergedIds": [
         "movie-b9cbcb4e1f5568d7a9cb"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/phenomena-experience",
+          "observedAt": "2026-10-16T07:56:44.730784+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=64",
+          "observedAt": "2026-10-16T07:54:55.330036+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-39f97e47e43056393d1a",
       "title": "CARRETERA PERDIDA",
       "originalTitle": "Lost Highway",
       "year": 1997,
+      "runtime": 140,
+      "ageRating": {
+        "system": "ES",
+        "code": "18",
+        "label": "No recomendada para menores de 18 años"
+      },
       "director": "David Lynch",
       "genres": [
         "Thriller"
@@ -4941,13 +5761,33 @@
       ],
       "mergedIds": [
         "movie-65f47dbd64f08da46e9a"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/phenomena-experience",
+          "observedAt": "2026-10-16T07:56:44.730784+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=681",
+          "observedAt": "2026-10-16T07:54:59.933456+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-5402f936f4a7dda7a5ee",
       "title": "CHITTY CHITTY BANG BANG",
       "originalTitle": "Chitty Chitty Bang Bang",
       "year": 1968,
+      "runtime": 145,
+      "ageRating": {
+        "system": "ES",
+        "code": "TP",
+        "label": "Para todos los públicos"
+      },
       "director": "Ken Hughes",
       "genres": [
         "Musical",
@@ -5018,13 +5858,33 @@
       "aliases": [
         "Chitty Chitty Bang Bang"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=3007",
+          "observedAt": "2026-10-16T07:55:03.739609+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=3007",
+          "observedAt": "2026-10-16T07:55:03.739609+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-20f852a1a57afd9c3613",
       "title": "CHRISTINE",
       "originalTitle": "Christine",
       "year": 1983,
+      "runtime": 110,
+      "ageRating": {
+        "system": "ES",
+        "code": "13",
+        "label": "No recomendada para menores de 13 años"
+      },
       "director": "John Carpenter",
       "genres": [
         "Terror",
@@ -5097,13 +5957,34 @@
       "aliases": [
         "Christine"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film765863.html",
+          "observedAt": "2026-10-13T09:54:12.089074+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        },
+        "ageRating": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=705",
+          "observedAt": "2026-10-16T07:55:08.217284+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-a66a0642f5bd9730192f",
       "title": "DUNKERQUE",
       "originalTitle": "Dunkirk",
       "year": 2017,
+      "runtime": 106,
+      "ageRating": {
+        "system": "ES",
+        "code": "12",
+        "label": "No recomendada para menores de 12 años"
+      },
       "director": "Christopher Nolan",
       "genres": [
         "Bélico"
@@ -5184,13 +6065,33 @@
       ],
       "mergedIds": [
         "movie-bd7f9147e4f26177abd3"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/phenomena-experience",
+          "observedAt": "2026-10-16T07:56:44.730784+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=254",
+          "observedAt": "2026-10-16T07:55:12.684234+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-2f93fc4961ed16ae3a2b",
       "title": "EL OSO",
       "originalTitle": "L'ours",
       "year": 1988,
+      "runtime": 93,
+      "ageRating": {
+        "system": "ES",
+        "code": "TP",
+        "label": "Para todos los públicos"
+      },
       "director": "Jean-Jacques Annaud",
       "genres": [
         "Aventuras"
@@ -5262,13 +6163,34 @@
       "aliases": [
         "The Bear"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film180303.html",
+          "observedAt": "2026-10-13T09:54:30.448238+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        },
+        "ageRating": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=3010",
+          "observedAt": "2026-10-16T07:55:20.492606+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-ac02d4a7df21fd1cb86a",
       "title": "EYES WIDE SHUT",
       "originalTitle": "Eyes Wide Shut",
       "year": 1999,
+      "runtime": 159,
+      "ageRating": {
+        "system": "ES",
+        "code": "18",
+        "label": "No recomendada para menores de 18 años"
+      },
       "director": "Stanley Kubrick",
       "genres": [
         "Drama"
@@ -5344,13 +6266,28 @@
       ],
       "mergedIds": [
         "movie-fae3ab5613ab9065055a"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/phenomena-experience",
+          "observedAt": "2026-10-16T07:56:44.730784+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=1237",
+          "observedAt": "2026-10-16T07:55:31.701753+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-407ced3e568106c703b5",
       "title": "GODZILLA MINUS ZERO",
       "originalTitle": "Gojira Mainasu Zero",
       "year": 2026,
+      "runtime": 135,
       "director": "Takashi Yamazaki",
       "genres": [
         "Fantástico",
@@ -5418,13 +6355,27 @@
       "aliases": [
         "Godzilla Minus Zero"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=3002",
+          "observedAt": "2026-10-16T07:55:35.851365+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-7710b71cdadae45afc16",
       "title": "GOLPE EN LA PEQUEÑA CHINA",
       "originalTitle": "Big Trouble in Little China",
       "year": 1986,
+      "runtime": 99,
+      "ageRating": {
+        "system": "ES",
+        "code": "13",
+        "label": "No recomendada para menores de 13 años"
+      },
       "director": "John Carpenter",
       "genres": [
         "Aventuras",
@@ -5494,13 +6445,33 @@
       "aliases": [
         "Big Trouble in Little China"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=1414",
+          "observedAt": "2026-10-16T07:55:39.760185+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=1414",
+          "observedAt": "2026-10-16T07:55:39.760185+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-e80911d1aa948d1efa94",
       "title": "LA BATALLA DE INGLATERRA",
       "originalTitle": "Battle of Britain",
       "year": 1969,
+      "runtime": 127,
+      "ageRating": {
+        "system": "ES",
+        "code": "18",
+        "label": "No recomendada para menores de 18 años"
+      },
       "director": "Guy Hamilton",
       "genres": [
         "Bélico"
@@ -5575,13 +6546,34 @@
         "La batalla de Inglaterra",
         "The Battle of Britain"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film927329.html",
+          "observedAt": "2026-10-11T07:13:59.959841+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        },
+        "ageRating": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=3006",
+          "observedAt": "2026-10-16T07:55:55.788847+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-1f6a33fa5fbb48d5a187",
       "title": "LA NOCHE DE HALLOWEEN",
       "originalTitle": "Halloween",
       "year": 1978,
+      "runtime": 93,
+      "ageRating": {
+        "system": "ES",
+        "code": "18",
+        "label": "No recomendada para menores de 18 años"
+      },
       "director": "John Carpenter",
       "genres": [
         "Terror"
@@ -5653,13 +6645,34 @@
       "aliases": [
         "Halloween"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film384174.html",
+          "observedAt": "2026-10-13T09:54:59.320540+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        },
+        "ageRating": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=1443",
+          "observedAt": "2026-10-16T07:56:05.604414+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-4febc8c12bb25b687a09",
       "title": "OLVÍDATE DE MÍ",
       "originalTitle": "Eternal Sunshine of the Spotless Mind",
       "year": 2004,
+      "runtime": 108,
+      "ageRating": {
+        "system": "ES",
+        "code": "12",
+        "label": "No recomendada para menores de 12 años"
+      },
       "director": "Michel Gondry",
       "genres": [
         "Drama",
@@ -5748,13 +6761,34 @@
         "¡Olvídate de mi!",
         "¡Olvídate de mí!"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film982810.html",
+          "observedAt": "2026-10-06T07:27:50.241650+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        },
+        "ageRating": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=2120",
+          "observedAt": "2026-10-16T07:56:12.251343+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-5c512a6a0b886d3e0969",
       "title": "RÉQUIEM POR UN SUEÑO",
       "originalTitle": "Requiem for a Dream",
       "year": 2000,
+      "runtime": 102,
+      "ageRating": {
+        "system": "ES",
+        "code": "18",
+        "label": "No recomendada para menores de 18 años"
+      },
       "director": "Darren Aronofsky",
       "genres": [
         "Drama"
@@ -5821,13 +6855,33 @@
       "aliases": [
         "Requiem for a Dream"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=2485",
+          "observedAt": "2026-10-16T07:56:28.570145+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=2485",
+          "observedAt": "2026-10-16T07:56:28.570145+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-56ba0500cc08b190efb7",
       "title": "THX 1138",
       "originalTitle": "THX 1138",
       "year": 1971,
+      "runtime": 86,
+      "ageRating": {
+        "system": "ES",
+        "code": "13",
+        "label": "No recomendada para menores de 13 años"
+      },
       "director": "George Lucas",
       "genres": [
         "Ciencia ficción"
@@ -5904,13 +6958,28 @@
       ],
       "mergedIds": [
         "movie-f80868490d769c628e58"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/phenomena-experience",
+          "observedAt": "2026-10-16T07:56:44.730784+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=2682",
+          "observedAt": "2026-10-16T07:56:33.906576+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-d1176b28922cc5d7c59b",
       "title": "Tasio",
       "originalTitle": "Tasio",
       "year": 1984,
+      "runtime": 95,
       "director": "Montxo Armendáriz",
       "genres": [
         "Drama"
@@ -5980,13 +7049,23 @@
       "filmaffinityId": "524638",
       "imdbId": "tt0088230",
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film524638.html",
+          "observedAt": "2026-10-06T07:41:37.326692+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "movie-1e3b1e51eff853129f8a",
       "title": "Punch-Drunk Love",
       "originalTitle": "Punch-Drunk Love",
       "year": 2002,
+      "runtime": 89,
       "director": "Paul Thomas Anderson",
       "genres": [
         "Romance",
@@ -6060,13 +7139,23 @@
       "aliases": [
         "Embriagado de amor"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film866033.html",
+          "observedAt": "2026-10-06T07:41:40.421792+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "movie-c930122152595119ce79",
       "title": "Billy Elliot",
       "originalTitle": "Billy Elliot",
       "year": 2000,
+      "runtime": 111,
       "director": "Stephen Daldry",
       "genres": [
         "Drama",
@@ -6137,13 +7226,23 @@
       "filmaffinityId": "452568",
       "imdbId": "tt0249462",
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film452568.html",
+          "observedAt": "2026-10-06T07:41:44.054622+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "movie-06ee9de3fe18989454b5",
       "title": "There Will Be Blood",
       "originalTitle": "There Will Be Blood",
       "year": 2007,
+      "runtime": 158,
       "director": "Paul Thomas Anderson",
       "genres": [
         "Drama"
@@ -6218,13 +7317,23 @@
         "Pozos de ambicion",
         "Pozos de ambición"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film531158.html",
+          "observedAt": "2026-10-06T07:41:47.153026+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "movie-bf617e270be7708453ca",
       "title": "The Master",
       "originalTitle": "The Master",
       "year": 2012,
+      "runtime": 137,
       "director": "Paul Thomas Anderson",
       "genres": [
         "Drama"
@@ -6296,13 +7405,23 @@
       "aliases": [
         "Master"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film112983.html",
+          "observedAt": "2026-10-06T07:42:06.485073+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "movie-1d5255bdf556fd1e118c",
       "title": "The Miracle Worker",
       "originalTitle": "The Miracle Worker",
       "year": 1962,
+      "runtime": 107,
       "director": "Arthur Penn",
       "genres": [
         "Drama"
@@ -6375,13 +7494,23 @@
         "El miracle d'Anna Sullivan",
         "Miracle Worker"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film462819.html",
+          "observedAt": "2026-10-06T07:42:09.757478+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "movie-5a11796005eaec6a9fdf",
       "title": "Mystic River",
       "originalTitle": "Mystic River",
       "year": 2003,
+      "runtime": 137,
       "director": "Clint Eastwood",
       "genres": [
         "Intriga",
@@ -6458,13 +7587,23 @@
         "Río Mystic",
         "Río místico"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film121917.html",
+          "observedAt": "2026-10-06T07:42:12.886244+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "movie-7b0f90ad040f712ae2af",
       "title": "Invitation to the Dance",
       "originalTitle": "Invitation to the Dance",
       "year": 1956,
+      "runtime": 93,
       "director": "Gene Kelly",
       "genres": [
         "Musical"
@@ -6536,13 +7675,23 @@
       "aliases": [
         "Invitación a la danza"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film427501.html",
+          "observedAt": "2026-10-06T07:42:16.054349+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "movie-e68b8a039f9fd92f8e1e",
       "title": "Les mille et un jours du Hajj Edmond",
       "originalTitle": "Les mille et un jours du Hajj Edmond",
       "year": 2024,
+      "runtime": 93,
       "director": "Simone Bitton",
       "genres": [
         "Documental"
@@ -6609,13 +7758,23 @@
       "aliases": [
         "The Thousand and One Days of Hajj Edmond"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film121356.html",
+          "observedAt": "2026-10-16T07:58:58.158155+00:00",
+          "status": "verified",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "movie-6819b366941232808ae3",
       "title": "Stranger Than Paradise",
       "originalTitle": "Stranger than Paradise",
       "year": 1984,
+      "runtime": 89,
       "director": "Jim Jarmusch",
       "genres": [
         "Comedia",
@@ -6689,13 +7848,23 @@
         "Estranys al paradís",
         "Extraños en el paraíso"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film241461.html",
+          "observedAt": "2026-10-06T07:42:30.200057+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "movie-586e214ec71487cb0e46",
       "title": "Rachel",
       "originalTitle": "Rachel",
       "year": 2009,
+      "runtime": 100,
       "director": "Simone Bitton",
       "genres": [
         "Documental"
@@ -6762,13 +7931,23 @@
       "aliases": [
         "Rachel"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film239609.html",
+          "observedAt": "2026-10-16T07:59:01.067496+00:00",
+          "status": "verified",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "movie-8de754021e940eff69de",
       "title": "Karumen junjô su",
       "originalTitle": "カルメン純情す",
       "year": 1952,
+      "runtime": 103,
       "director": "Keisuke Kinoshita",
       "genres": [
         "Comedia"
@@ -6842,13 +8021,22 @@
         "Carmen se enamora",
         "Carmen's Innocent Love"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/karumen-junjo-su",
+          "observedAt": "2026-10-16T07:56:47.621587+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-6067e981135b1a8931f1",
       "title": "Inherent Vice",
       "originalTitle": "Inherent Vice",
       "year": 2014,
+      "runtime": 148,
       "director": "Paul Thomas Anderson",
       "genres": [
         "Comedia",
@@ -6921,13 +8109,23 @@
       "aliases": [
         "Pur vici"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film447004.html",
+          "observedAt": "2026-10-06T07:42:39.746710+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "movie-8f1e125c1a56677e2c8b",
       "title": "Tretya meshchanskaya",
       "originalTitle": "Tretya meshchanskaya",
       "year": 1927,
+      "runtime": 95,
       "director": "Abram Room",
       "genres": [
         "Drama",
@@ -7000,13 +8198,23 @@
       "aliases": [
         "Bed and Sofa"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film442269.html",
+          "observedAt": "2026-10-06T07:42:43.023629+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "movie-31d2ce0771a0c9dc4aba",
       "title": "Wakolda",
       "originalTitle": "Wakolda",
       "year": 2013,
+      "runtime": 89,
       "director": "Lucía Puenzo",
       "genres": [
         "Drama",
@@ -7080,13 +8288,23 @@
         "German Doctor",
         "The German Doctor"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film203147.html",
+          "observedAt": "2026-10-06T07:42:46.634006+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "movie-f1944268c4960f713e1e",
       "title": "Rikugun",
       "originalTitle": "陸軍",
       "year": 1944,
+      "runtime": 85,
       "director": "Keisuke Kinoshita",
       "genres": [
         "Drama"
@@ -7154,13 +8372,22 @@
         "Army",
         "El adiós de un hijo"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/rikugun",
+          "observedAt": "2026-10-16T07:57:10.042814+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-0b063e0041f4fcd1590b",
       "title": "Licorice Pizza",
       "originalTitle": "Licorice Pizza",
       "year": 2021,
+      "runtime": 133,
       "director": "Paul Thomas Anderson",
       "genres": [
         "Comedia",
@@ -7232,13 +8459,23 @@
       "filmaffinityId": "571166",
       "imdbId": "tt11271038",
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film571166.html",
+          "observedAt": "2026-10-02T07:07:06.645848+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "movie-e8d7951ee71edbca6776",
       "title": "Phantom Thread",
       "originalTitle": "Phantom Thread",
       "year": 2017,
+      "runtime": 130,
       "director": "Paul Thomas Anderson",
       "genres": [
         "Drama",
@@ -7313,13 +8550,23 @@
         "El hilo fantasma",
         "El hilo invisible"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film346983.html",
+          "observedAt": "2026-10-02T07:07:08.628943+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "movie-0f6639cdef97fd52c70c",
       "title": "One Battle After Another",
       "originalTitle": "One Battle After Another",
       "year": 2025,
+      "runtime": 161,
       "director": "Paul Thomas Anderson",
       "genres": [
         "Thriller",
@@ -7399,13 +8646,28 @@
         "Una batalla rere l'altra",
         "Una batalla tras otra"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film910030.html",
+          "observedAt": "2026-10-02T07:07:10.590939+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "movie-d763cadbf93cfea1fccb",
       "title": "La invitación",
       "originalTitle": "The Invite",
       "year": 2026,
+      "runtime": 106,
+      "ageRating": {
+        "system": "ES",
+        "code": "16",
+        "label": "Pelicula no recomendada a menores de 16"
+      },
       "director": "Olivia Wilde",
       "genres": [
         "Comedia"
@@ -7476,13 +8738,28 @@
       ],
       "mergedIds": [
         "movie-1d33d58d6115383b479f"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/cinesa-diagonal",
+          "observedAt": "2026-10-16T07:55:56.372989+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "sensacine",
+          "url": "https://www.sensacine.com/cines/cine/E0581/",
+          "observedAt": "2026-10-16T07:56:16.660923+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-3091a46a34ba2f335269",
       "title": "La maleta",
       "originalTitle": "La maleta",
       "year": 2026,
+      "runtime": 107,
       "director": "Carlos Therón",
       "genres": [
         "Comedia"
@@ -7552,13 +8829,22 @@
       ],
       "mergedIds": [
         "movie-82a564a54b60f076abd2"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/cinesa-diagonal",
+          "observedAt": "2026-10-16T07:55:56.372989+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-d35b48449a97af00c317",
       "title": "El mal hijo",
       "originalTitle": "El mal hijo",
       "year": 2026,
+      "runtime": 106,
       "director": "Jaime Lorente",
       "genres": [
         "Drama"
@@ -7629,7 +8915,15 @@
       ],
       "mergedIds": [
         "movie-827b204ab3bb89e1bc09"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/renoir-floridablanca-cines",
+          "observedAt": "2026-10-16T07:56:19.409802+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-04b972b5b62d6ed5e208",
@@ -7707,6 +9001,12 @@
       "title": "Un taxi en Tokio",
       "originalTitle": "Tokyo Taxi",
       "year": 2025,
+      "runtime": 103,
+      "ageRating": {
+        "system": "ES",
+        "code": "12",
+        "label": "Pelicula no recomendada a menores de 12"
+      },
       "director": "Yoji Yamada",
       "genres": [
         "Drama"
@@ -7772,13 +9072,29 @@
       "imdbId": "tt35521394",
       "aliases": [
         "Tokyo Taxi"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film538345.html",
+          "observedAt": "2026-09-15T08:00:44.153501+00:00",
+          "status": "stale",
+          "identityStatus": "verified"
+        },
+        "ageRating": {
+          "source": "sensacine",
+          "url": "https://www.sensacine.com/cines/cine/E0682/",
+          "observedAt": "2026-10-16T07:54:39.135329+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-d1951fca581f6e867b2d",
       "title": "Whalefall",
       "originalTitle": "Whalefall",
       "year": 2026,
+      "runtime": 105,
       "director": "Brian Duffield",
       "genres": [
         "Suspense"
@@ -7848,13 +9164,27 @@
       ],
       "mergedIds": [
         "movie-468ed23628e7bcc2f789"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/cinesa-diagonal",
+          "observedAt": "2026-10-16T07:55:56.372989+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-69390b6eb47a44f166d1",
       "title": "Street Fighter",
       "originalTitle": "Street Fighter",
       "year": 2026,
+      "runtime": 119,
+      "ageRating": {
+        "system": "ES",
+        "code": "16",
+        "label": "Pelicula no recomendada a menores de 16"
+      },
       "director": "Kitao Sakurai",
       "genres": [
         "Acción",
@@ -7925,13 +9255,28 @@
       ],
       "mergedIds": [
         "movie-42a3e7c3d4c2bd7457ac"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/cinesa-diagonal",
+          "observedAt": "2026-10-16T07:55:56.372989+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "sensacine",
+          "url": "https://www.sensacine.com/cines/cine/E0388/",
+          "observedAt": "2026-10-16T07:56:07.919127+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-312bf759b5cda4e4a8b3",
       "title": "TANIT",
       "originalTitle": "Tanit",
       "year": 2026,
+      "runtime": 108,
       "director": "Pep Garrido",
       "genres": [
         "Drama",
@@ -7999,13 +9344,23 @@
       "aliases": [
         "Tanit"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film419872.html",
+          "observedAt": "2026-10-16T08:00:54.090634+00:00",
+          "status": "verified",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "movie-de3cd33a6e892763ae2e",
       "title": "Chopin",
       "originalTitle": "Chopin, Chopin!",
       "year": 2025,
+      "runtime": 113,
       "director": "Michal Kwiecinski",
       "genres": [
         "Drama",
@@ -8076,13 +9431,22 @@
       ],
       "mergedIds": [
         "movie-a31964139bae19121841"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/renoir-floridablanca-cines",
+          "observedAt": "2026-10-16T07:56:19.409802+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-8d3a71deaece60a438c2",
       "title": "Clayface",
       "originalTitle": "Clayface",
       "year": 2026,
+      "runtime": 108,
       "director": "James Watkins",
       "genres": [
         "Acción",
@@ -8150,13 +9514,26 @@
       "aliases": [
         "Clayface"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/cinesa-diagonal",
+          "observedAt": "2026-10-16T07:55:56.372989+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-e4a4bea34cb7f81ea45a",
       "title": "Cars: 20 aniversario",
       "originalTitle": "Cars 20th Anniversary",
       "year": null,
+      "ageRating": {
+        "system": "ES",
+        "code": "TP",
+        "label": "Todos los publicos"
+      },
       "director": "John Lasseter , Joe Ranft",
       "genres": [
         "Animación",
@@ -8217,7 +9594,15 @@
         "https://www.sensacine.com/peliculas/pelicula-1000050003/"
       ],
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "ageRating": {
+          "source": "sensacine",
+          "url": "https://www.sensacine.com/cines/cine/E0388/",
+          "observedAt": "2026-10-16T07:56:07.919127+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-5789ed2b124a0281b8b6",
@@ -8352,6 +9737,11 @@
       "title": "Tiempo de victoria",
       "originalTitle": "Pressure",
       "year": 2025,
+      "ageRating": {
+        "system": "ES",
+        "code": "12",
+        "label": "Pelicula no recomendada a menores de 12"
+      },
       "director": "Anthony Maras",
       "genres": [
         "Guerra",
@@ -8414,13 +9804,22 @@
       "aliases": [],
       "mergedIds": [
         "movie-a31fff1cc7918c82cf9d"
-      ]
+      ],
+      "metadataSources": {
+        "ageRating": {
+          "source": "sensacine",
+          "url": "https://www.sensacine.com/cines/cine/E0447/",
+          "observedAt": "2026-10-16T07:55:47.383206+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-465ad02426d83f2827ce",
       "title": "OMBRA NÒMADA",
       "originalTitle": null,
       "year": 2026,
+      "runtime": 82,
       "director": "Eimi Imanishi",
       "genres": [],
       "synopsis": "La Mariam, una jove sahrauí amb un carisma especial, és deportada d’Espanya i forçada a tornar a la llar familiar al Sàhara Occidental. Desesperada per tornar a Barcelona, la Mariam no aconsegueix adaptar-se al seu lloc de naixement. Els seus intents fallits per millorar la seva situació l’enfrontaran de ple amb la seva identitat: ni el seu arrelament al Sàhara ni el seu vincle amb Espanya resulten suficients per a trobar el seu lloc.",
@@ -8478,13 +9877,22 @@
       ],
       "imdbId": null,
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://espaitexas.cat/pelicula/ombra-nomada/",
+          "observedAt": "2026-10-16T07:54:41.181612+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-9634dde590cd8ae55309",
       "title": "HOMENATGE A CATALUNYA",
       "originalTitle": null,
       "year": 2025,
+      "runtime": 69,
       "director": "Frédéric Goldbronn",
       "genres": [],
       "synopsis": "Homenatge a Catalunya és el llibre de George Orwell en el qual explica el seu compromís amb la revolució i la Guerra Civil Espanyola. El documental és una obra plena d’imatges que procedeixen majoritàriament dels informes dels anarquistes de la CNT. En tornar a mostrar aquestes imatges, la pel·lícula ens permet compartir l’experiència d’Orwell a Espanya a través d’una mirada cinematogràfica.",
@@ -8542,13 +9950,22 @@
       ],
       "imdbId": null,
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://espaitexas.cat/pelicula/homenatge-a-catalunya/",
+          "observedAt": "2026-10-16T07:55:03.781774+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-6049e7d0f34a736fe6a7",
       "title": "INDÒMITA LLUM",
       "originalTitle": "Indòmita llum",
       "year": 2026,
+      "runtime": 78,
       "director": "Luis Sampieri",
       "genres": [],
       "synopsis": "L’Antu és una nena de nou anys que va néixer invident. Gràcies a una sensibilitat i una curiositat inusuals, descobreix amb detall el món que l’envolta. A bord d’un vell camió, recorre l’Argentina amb els seus pares, projectant pel·lícules en petits pobles oblidats i imaginant les històries que mai no podrà veure.",
@@ -8611,7 +10028,15 @@
       ],
       "mergedIds": [
         "movie-9514761c1a95e6f6005c"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://zumzeigcine.coop/cinema/films/indomita-llum/",
+          "observedAt": "2026-10-16T07:55:25.842151+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-76373eef59158e5ee8fb",
@@ -8680,6 +10105,7 @@
       "title": "THE HUMAN SCALE",
       "originalTitle": null,
       "year": 2012,
+      "runtime": 83,
       "director": null,
       "genres": [],
       "synopsis": "Les ciutats modernes eren considerades motors de creixement i van ser projectades entorn de l’automòbil. Ara, els experts reivindiquen un canvi radical de model que prioritzi a les persones.",
@@ -8740,13 +10166,22 @@
       "aliases": [],
       "mergedIds": [
         "movie-0811126d6f0fe0cfcb1b"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://espaitexas.cat/pelicula/the-human-scale/",
+          "observedAt": "2026-10-14T07:41:16.397518+00:00",
+          "status": "stale"
+        }
+      }
     },
     {
       "id": "movie-9bda673e3862497b7870",
       "title": "La Isla Olvidada",
       "originalTitle": "Forgotten Island",
       "year": null,
+      "runtime": 108,
       "director": "Joel Crawford, Januel Mercado",
       "genres": [
         "Animación",
@@ -8811,13 +10246,22 @@
       ],
       "mergedIds": [
         "movie-c702be7430206fc235cf"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/cinesa-diagonal",
+          "observedAt": "2026-10-16T07:55:56.372989+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-8d50e00a76c478798c98",
       "title": "Tadeo Jones Y La Lámpara Maravillosa",
       "originalTitle": "Tadeo Jones y la lámpara maravillosa",
       "year": 2026,
+      "runtime": 94,
       "director": "Enrique Gato",
       "genres": [
         "Animación",
@@ -8884,13 +10328,22 @@
       "aliases": [
         "Tad and the Magic Lamp"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/cinesa-diagonal",
+          "observedAt": "2026-10-16T07:55:56.372989+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-600871fa79efe5281865",
       "title": "L’Emilie i el secret de les tempestes",
       "originalTitle": null,
       "year": 2026,
+      "runtime": 48,
       "director": "VV. AA.",
       "genres": [],
       "synopsis": "Una aventura enigmàtica que desperta els sentits i ens convida a reconnectar amb els llenguatges de la natura i amb allò que ens fa especials, acompanyada de quatre històries sobre diversitat, acceptació i empatia.",
@@ -8948,7 +10401,15 @@
       ],
       "imdbId": null,
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://zumzeigcine.coop/cinema/films/lemilie-i-el-secret-de-les-tempestes/",
+          "observedAt": "2026-10-16T07:54:55.871499+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-f1bb416ca8b4f26251c3",
@@ -9019,6 +10480,7 @@
       "title": "Chicho o Mientras el cuerpo aguante (una comedia didáctica)",
       "originalTitle": "Mienstras el cuerpo aguante",
       "year": 1982,
+      "runtime": 89,
       "director": "Fernando Trueba",
       "genres": [
         "Biopic",
@@ -9088,13 +10550,27 @@
       ],
       "mergedIds": [
         "movie-64ee442fbe9df3f54b15"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://zumzeigcine.coop/cinema/films/chicho-o-mientras-el-cuerpo-aguante-una-comedia-didactica/",
+          "observedAt": "2026-10-16T07:55:13.211216+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-cc92266f738818f322cb",
       "title": "Amílcar",
       "originalTitle": "Amílcar",
       "year": 2026,
+      "runtime": 89,
+      "ageRating": {
+        "system": "ES",
+        "code": "16",
+        "label": "No recomanada per a menors de 16 anys"
+      },
       "director": "Miguel Eek",
       "genres": [
         "Documental"
@@ -9156,7 +10632,21 @@
       "aliases": [],
       "mergedIds": [
         "movie-df8efb3d7e7758ec8429"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://zumzeigcine.coop/cinema/films/amilcar/",
+          "observedAt": "2026-10-16T07:55:17.524476+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "official",
+          "url": "https://zumzeigcine.coop/cinema/films/amilcar/",
+          "observedAt": "2026-10-16T07:55:17.524476+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-bf973d1cdd5a02b141a4",
@@ -9227,6 +10717,12 @@
       "title": "Blue Heron",
       "originalTitle": "Blue Heron",
       "year": 2025,
+      "runtime": 91,
+      "ageRating": {
+        "system": "ES",
+        "code": "16",
+        "label": "No recomanada per a menors de 16 anys"
+      },
       "director": "Sophy Romvari",
       "genres": [],
       "synopsis": "A partir dels seus propis records, la cineasta Sophy Romvari crea un retrat profundament personal de la infància, les ruptures familiars, la fragilitat de la memòria i sobre allò que portem amb nosaltres.",
@@ -9289,13 +10785,28 @@
       "imdbId": "tt32252801",
       "aliases": [
         "Blue Heron"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://zumzeigcine.coop/cinema/films/blue-heron/",
+          "observedAt": "2026-10-16T07:55:33.493726+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "official",
+          "url": "https://zumzeigcine.coop/cinema/films/blue-heron/",
+          "observedAt": "2026-10-16T07:55:33.493726+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-ae408db3250bf5e35556",
       "title": "Wrangler",
       "originalTitle": "Wrangler",
       "year": 2025,
+      "runtime": 107,
       "director": "Seo Eun-sun",
       "genres": [],
       "synopsis": "L'organitzada vida de Ha-young es desestabilitza quan la seva germana, empresonada per assassinat, torna inesperadament a casa. Pel·lícula que forma part de la Secció Oficial de l'Asian Film Festival Barcelona (AFFBCN), un festival especialitzat en cinema asiàtic d'autor.",
@@ -9351,13 +10862,22 @@
       "sources": [
         "https://zumzeigcine.coop/cinema/films/wrangler/"
       ],
-      "imdbId": null
+      "imdbId": null,
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://zumzeigcine.coop/cinema/films/wrangler/",
+          "observedAt": "2026-10-16T07:55:37.364790+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-8f1b5adf1952edde1454",
       "title": "Roid",
       "originalTitle": "Roid",
       "year": 2025,
+      "runtime": 109,
       "director": "Mejbaur Rahman Sumon",
       "genres": [],
       "synopsis": "Un agricultor viu aïllat amb la seva esposa, una dona que cada vegada es desestabilitza més emocionalment. Pel·lícula que forma part de la Secció Oficial de l'Asian Film Festival Barcelona (AFFBCN), un festival especialitzat en cinema asiàtic d'autor.",
@@ -9413,13 +10933,22 @@
       "sources": [
         "https://zumzeigcine.coop/cinema/films/roid/"
       ],
-      "imdbId": null
+      "imdbId": null,
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://zumzeigcine.coop/cinema/films/roid/",
+          "observedAt": "2026-10-16T07:55:41.406177+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-30aaac7510dc446df5bb",
       "title": "Don't Tell Mother",
       "originalTitle": "Don't Tell Mother",
       "year": 2025,
+      "runtime": 88,
       "director": "Anoop Lokkur",
       "genres": [],
       "synopsis": "Una tragèdia inesperada acompanyada d'una narrativa continguda sobre els rols de gènere, la normalització de la violència infantil institucionalitzada i els sacrificis silenciosos de les mares. Pel·lícula que forma part de la Secció Discoveries de l'Asian Film Festival Barcelona (AFFBCN), un festival especialitzat en cinema asiàtic d'autor.",
@@ -9482,13 +11011,22 @@
       "imdbId": "tt35612874",
       "aliases": [
         "Don't Tell Mother"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://zumzeigcine.coop/cinema/films/dont-tell-mother/",
+          "observedAt": "2026-10-16T07:55:45.556369+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-97e972d54cf99e9048a4",
       "title": "Super Mario Galaxy. La Película",
       "originalTitle": null,
       "year": null,
+      "runtime": 98,
       "director": "Aaron Horvath, Michael Jelenic",
       "genres": [
         "Animación",
@@ -9548,13 +11086,22 @@
         "https://www.publicine.net/pelicula/17010/super-mario-galaxy-la-pelicula"
       ],
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/yelmo-westfield-la-maquinista",
+          "observedAt": "2026-10-16T07:56:10.813701+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-768a57a71c4bcd25f821",
       "title": "Vengadores Endgame: Encore",
       "originalTitle": null,
       "year": null,
+      "runtime": 181,
       "director": "Joe Russo, Anthony Russo",
       "genres": [
         "Aventuras",
@@ -9614,13 +11161,27 @@
         "https://www.publicine.net/pelicula/16350/vengadores-endgame-encore"
       ],
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/yelmo-westfield-la-maquinista",
+          "observedAt": "2026-10-16T07:56:10.813701+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-b955e0456493b1a2e4f2",
       "title": "Boiúna: La leyenda del Amazonas",
       "originalTitle": "Beware Boiúna",
       "year": 2026,
+      "runtime": 103,
+      "ageRating": {
+        "system": "ES",
+        "code": "16",
+        "label": "Pelicula no recomendada a menores de 16"
+      },
       "director": "Mike P. Nelson",
       "genres": [
         "Acción",
@@ -9692,13 +11253,28 @@
       ],
       "mergedIds": [
         "movie-fa3b4453efebf986ec32"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/cinesa-som-multiespai-heron-city",
+          "observedAt": "2026-10-16T07:56:13.969517+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "sensacine",
+          "url": "https://www.sensacine.com/cines/cine/E0388/",
+          "observedAt": "2026-10-16T07:56:07.919127+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-7ecb6ac5b913eea4c98c",
       "title": "Arriba Tutto",
       "originalTitle": "Arriba Tutto",
       "year": 2026,
+      "runtime": 102,
       "director": "José Mota",
       "genres": [
         "Comedia",
@@ -9765,13 +11341,22 @@
       "aliases": [
         "Arriba Tutto"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/cinesa-som-multiespai-heron-city",
+          "observedAt": "2026-10-16T07:56:13.969517+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-6686bfc406b8292c22d2",
       "title": "Kakeru",
       "originalTitle": null,
       "year": null,
+      "runtime": 126,
       "director": "Hirokazu Koreeda",
       "genres": [
         "Ciencia ficción",
@@ -9829,13 +11414,27 @@
       "sourceUrl": "https://www.publicine.net/pelicula/16244/kakeru",
       "sources": [
         "https://www.publicine.net/pelicula/16244/kakeru"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/cartelera-cine/barcelona/renoir-floridablanca-cines",
+          "observedAt": "2026-10-16T07:56:19.409802+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-1d9893070e238e5d1538",
       "title": "EL FARO",
       "originalTitle": "The Lighthouse",
       "year": 2019,
+      "runtime": 109,
+      "ageRating": {
+        "system": "ES",
+        "code": "16",
+        "label": "No recomendada para menores de 16 años"
+      },
       "director": "Robert Eggers",
       "genres": [],
       "synopsis": "Un veterano farero recibe a un joven aprendiz. El duro clima y el aislamiento harán que surjan tensiones entre ellos. La tensión irá en aumento hasta convertirse en un duelo de poder físico y psicológico. Proyección en 4K y VOSE",
@@ -9898,13 +11497,33 @@
       "imdbId": "tt7984734",
       "aliases": [
         "The Lighthouse"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=348",
+          "observedAt": "2026-10-16T07:55:16.603287+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=348",
+          "observedAt": "2026-10-16T07:55:16.603287+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-99210a1209b527a16d0a",
       "title": "HEDWIG AND THE ANGRY INCH",
       "originalTitle": "Hedwig and the Angry Inch",
       "year": 2001,
+      "runtime": 92,
+      "ageRating": {
+        "system": "ES",
+        "code": "12",
+        "label": "No recomendada para menores de 12 años"
+      },
       "director": "John Cameron Mitchell",
       "genres": [],
       "synopsis": "La operación de cambio de sexo de Hedwig no salió del todo bien y ha acabado con una irritante pulgada de la que no ha conseguido deshacerse. Después de casarse con un soldado norteamericano y huir de Berlín, Hedwig se convirtió en la pareja de Tommy, un joven músico de gran talento con el que forma un grupo de rock. Pero al poco tiempo, Tommy abandona a Hedwig y le roba sus canciones con las que se convertirá en una estrella del rock. Proyección en 4K y VOSE",
@@ -9968,13 +11587,33 @@
       "aliases": [
         "Hedwig and the Angry Inch"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=1469",
+          "observedAt": "2026-10-16T07:55:42.899796+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=1469",
+          "observedAt": "2026-10-16T07:55:42.899796+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-45e4f238fb5730238959",
       "title": "HOPE",
       "originalTitle": "Hopeu",
       "year": 2026,
+      "runtime": 156,
+      "ageRating": {
+        "system": "ES",
+        "code": "16",
+        "label": "No recomendada para menores de 16 años"
+      },
       "director": "Na Hong-jin",
       "genres": [],
       "synopsis": "La policía investiga una misteriosa criatura que ha estado sembrando el caos en la remota isla de Hope Harbor. Un grupo de cazadores la sigue hacia un bosque cercano y se convierte en su presa involuntaria. El conflicto se intensifica hasta convertirse en una tragedia de proporciones cósmicas. Proyección en Dolby Atmos y VOSE",
@@ -10037,13 +11676,33 @@
       "imdbId": "tt27369017",
       "aliases": [
         "Hope"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=3000",
+          "observedAt": "2026-10-16T07:55:46.913354+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=3000",
+          "observedAt": "2026-10-16T07:55:46.913354+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-34975becc163b2db4312",
       "title": "INTERSTELLAR",
       "originalTitle": "Interstellar",
       "year": 2020,
+      "runtime": 168,
+      "ageRating": {
+        "system": "ES",
+        "code": "12",
+        "label": "No recomendada para menores de 12 años"
+      },
       "director": "Christopher Nolan",
       "genres": [],
       "synopsis": "Al ver que la vida en la Tierra está llegando a su fin, un grupo de exploradores dirigidos por el piloto Cooper (McConaughey) y la científica Amelia (Hathaway) emprende una misión que puede ser la más importante de la historia de la humanidad: viajar más allá de nuestra galaxia para descubrir algún planeta en otra que pueda garantizar el futuro de la raza humana. Proyección en 4K y VOSE.",
@@ -10101,7 +11760,21 @@
       ],
       "imdbId": null,
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=75",
+          "observedAt": "2026-10-16T07:55:51.117299+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=75",
+          "observedAt": "2026-10-16T07:55:51.117299+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-7c8520c987b7b8ceb6e8",
@@ -10172,6 +11845,7 @@
       "title": "PROGRAMA DOBLE SORPRESA CLUB PHENOMENA",
       "originalTitle": null,
       "year": 2014,
+      "runtime": 200,
       "director": "Sorpresa",
       "genres": [],
       "synopsis": "Compras tu entrada. Si formas parte del Club Phenomena, es gratis. Si no, solo cuesta 10 euros. Te sientas en tu butaca. Y te sorprendemos con dos películas. No, no son futuros estrenos. Son títulos de otras décadas que te ayudamos a descubrir y con los que esperamos te lo pases en grande. Como solía suceder con los programas dobles de antaño en los cines de barrio. ¿Te atreves? Proyección en VOSE",
@@ -10229,13 +11903,27 @@
       ],
       "imdbId": null,
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=2356",
+          "observedAt": "2026-10-16T07:56:20.227043+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-c6b5b36df8f4dcd7cb11",
       "title": "PROGRAMA DOBLE SORPRESA HALLOWEEN",
       "originalTitle": "Halloween Surprise Double Bill",
       "year": 2026,
+      "runtime": 200,
+      "ageRating": {
+        "system": "ES",
+        "code": "18",
+        "label": "No recomendada para menores de 18 años"
+      },
       "director": "Director 1 y Director 2",
       "genres": [],
       "synopsis": "\"El verdadero destructor de la paz interior es el miedo\" - Dalai Lama. Este Halloween vamos a destruir tu paz interior. Por partida doble. Proyección en VOSE",
@@ -10293,13 +11981,33 @@
       ],
       "imdbId": null,
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=2368",
+          "observedAt": "2026-10-16T07:56:22.929102+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=2368",
+          "observedAt": "2026-10-16T07:56:22.929102+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-676d90d1b8cebb3a3ec5",
       "title": "THE DEVILS (LOS DEMONIOS)",
       "originalTitle": "The Devils",
       "year": 1971,
+      "runtime": 114,
+      "ageRating": {
+        "system": "ES",
+        "code": "18",
+        "label": "No recomendada para menores de 18 años"
+      },
       "director": "Ken Russell",
       "genres": [],
       "synopsis": "REMASTERIZADA Y RESTAURADA. La película relata vida de Urbain Grandier, un sacerdote católico ejecutado por brujería tras el famoso caso de las endemoniadas de Loudun. Reed interpreta el papel de Grandier en la película y Vanessa Redgrave encarna a una monja reprimida sexualmente. The Devils enfrentó una dura reacción de los sistemas nacionales de clasificación cinematográfica debido a su inquietante contenido violento, sexual y religioso, y originalmente recibió una clasificación X tanto en el Reino Unido como en los Estados Unidos. Fue prohibida en varios países, y finalmente fue editada en gran medida para su publicación en otros. Nunca ha sido estrenada en su forma original y sin cortes en varios países... hasta ahora. Proyección en 4K y VOSE",
@@ -10363,13 +12071,33 @@
       "aliases": [
         "The Devils"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=3019",
+          "observedAt": "2026-10-16T07:56:31.171065+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=3019",
+          "observedAt": "2026-10-16T07:56:31.171065+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-da138255f3e94641c593",
       "title": "V DE VENDETTA",
       "originalTitle": "V for Vendetta",
       "year": 2005,
+      "runtime": 132,
+      "ageRating": {
+        "system": "ES",
+        "code": "12",
+        "label": "No recomendada para menores de 12 años"
+      },
       "director": "James McTeigue",
       "genres": [],
       "synopsis": "\"Recuerden, recuerden, el 5 de noviembre. Conspiración, pólvora y traición. No veo la demora y siempre es la hora de evocarla sin dilación...\". En el futuro, Gran Bretaña se ha convertido en un país totalitario dirigido por un tirano que utiliza a sus agentes para imponer el miedo sobre unos ciudadanos sin ningún tipo de libertad. Una tarde, tras el toque de queda, Evey, a punto de ser atacada por dos agentes, es rescatada por un misterioso enmascarado cuyo nombre es V. El desconocido protegerá a Evey y le contará los planes con los que pretende acabar con el gobierno y recuperar la libertad de la gente. Proyección en 35 mm y VOSE",
@@ -10432,13 +12160,28 @@
       "imdbId": "tt0434409",
       "aliases": [
         "V for Vendetta"
-      ]
+      ],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=2863",
+          "observedAt": "2026-10-16T07:56:36.827100+00:00",
+          "status": "verified"
+        },
+        "ageRating": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=2863",
+          "observedAt": "2026-10-16T07:56:36.827100+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-01b65068c1e910528196",
       "title": "Magnolia",
       "originalTitle": null,
       "year": 1997,
+      "runtime": 188,
       "director": "Paul Thomas Anderson",
       "genres": [],
       "synopsis": "Les vides d’un ancià que, abans de morir, vol tornar a veure el fill al qual va abandonar, de dos presentadors de televisió i d’un agent de policia s’encreuen a Califòrnia en el decurs d’un sol dia…",
@@ -10496,13 +12239,22 @@
       ],
       "imdbId": null,
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/magnolia",
+          "observedAt": "2026-10-16T07:54:49.697161+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-143ef961adb1a4a39a84",
       "title": "Pina (3D)",
       "originalTitle": null,
       "year": 2011,
+      "runtime": 106,
       "director": "Wim Wenders",
       "genres": [],
       "synopsis": "Un homenatge pòstum a la gran ballarina i coreògrafa de la dansa contemporània Pina Bausch en el qual les ballarines i els ballarins de la seva companyia recreen les coreografies que li van donar més reconeixement internacional.",
@@ -10560,13 +12312,22 @@
       ],
       "imdbId": null,
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/pina-3d",
+          "observedAt": "2026-10-16T07:55:21.829284+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-ef0c1851ce880e0cc768",
       "title": "Filibus",
       "originalTitle": null,
       "year": 1915,
+      "runtime": 75,
       "director": "Mario Rocoroni",
       "genres": [],
       "synopsis": "Canvis d'identitat, disfresses, una base d'operacions flotant i una heroïna desvergonyida.",
@@ -10624,13 +12385,22 @@
       ],
       "imdbId": null,
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/filibus",
+          "observedAt": "2026-10-16T07:56:22.578104+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-33862676cee77c9c610e",
       "title": "Mahmoud Darwich: et la terre, comme la langue...",
       "originalTitle": null,
       "year": 1998,
+      "runtime": 59,
       "director": "Simone Bitton",
       "genres": [],
       "synopsis": "El poeta palestí Mahmoud Darwich és un dels poetes més grans del segle XX, traduït a desenes de llengües i recitat de memòria per multituds. Entre entrevistes i fragments de recitals captats en directe, el film s’endinsa en la cadència inimitable dels seus versos i construeix el retrat d’un home que va fer de la paraula la seva única pàtria possible.",
@@ -10688,7 +12458,15 @@
       ],
       "imdbId": null,
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/mahmoud-darwich-et-la-terre-comme-la-langue",
+          "observedAt": "2026-10-16T07:56:25.306299+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-33fa0a40fcd026d3b559",
@@ -10759,6 +12537,7 @@
       "title": "Mur",
       "originalTitle": "Mur",
       "year": 2004,
+      "runtime": 100,
       "director": "Simone Bitton",
       "genres": [],
       "synopsis": "Una meditació cinematogràfica sobre el conflicte israelianopalestí signada per una realitzadora que desafia les fronteres de l’odi reivindicant la seva doble identitat, jueva i àrab.",
@@ -10822,13 +12601,22 @@
       "aliases": [
         "Wall"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/mur",
+          "observedAt": "2026-10-16T07:56:33.506723+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-762ef7d33cea8857e49e",
       "title": "Atenció amb la còlera femenina! | Sessió de curtmetratges",
       "originalTitle": null,
       "year": null,
+      "runtime": 51,
       "director": "Diverses autories",
       "genres": [],
       "synopsis": "Què passa quan les nasty women s’enfaden? Tant si és la teva dona com la veïna, quan una nasty women és a prop teu, procura no fer-la emprenyar!",
@@ -10886,13 +12674,22 @@
       ],
       "imdbId": null,
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/atencio-amb-la-colera-femenina-sessio-de-curtmetratges",
+          "observedAt": "2026-10-16T07:56:39.062058+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-9d9f4de58c1b5f1b1929",
       "title": "Karumen kokyô ni kaeru",
       "originalTitle": "Karumen kokyô ni kaeru",
       "year": 1951,
+      "runtime": 88,
       "director": "Keisuke Kinoshita",
       "genres": [],
       "synopsis": "Un granger que viu a les muntanyes rep una carta d’una filla que viu a la capital en què li anuncia que vindrà de visita amb una amiga. En arribar al poble, la forma de vestir i les maneres de les dones provoquen una autèntica commoció.",
@@ -10956,13 +12753,22 @@
       "aliases": [
         "Carmen Comes Home"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/karumen-kokyo-ni-kaeru",
+          "observedAt": "2026-10-16T07:56:42.054205+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-bf26bcabb2d16ae6eda7",
       "title": "Ziyara",
       "originalTitle": null,
       "year": 2020,
+      "runtime": 99,
       "director": "Simone Bitton",
       "genres": [],
       "synopsis": "El Marroc va tenir una població jueva de més de 300.000 persones fins a la dècada de 1950. A partir de llavors, i fins just després de la Guerra dels Sis Dies, el juny del 1967, aquesta població va emigrar en massa cap a països com França, Israel o els Estats Units. La família de la cineasta Simone Bitton es va instal·lar a França. Com a part d’un pelegrinatge cinematogràfic a les seves arrels jueves, la directora Simone Bitton s’embarca en un viatge per carretera a través del Marroc per reunir-se amb els guardians musulmans de la memòria jueva del país, i un d’ells es pregunta: com seria avui el Marroc si els jueus s’hi haguessin quedat?",
@@ -11020,7 +12826,15 @@
       ],
       "imdbId": null,
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/ziyara",
+          "observedAt": "2026-10-16T07:56:49.901608+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-298e2fa90456ca5b5bf7",
@@ -11091,6 +12905,7 @@
       "title": "Mr. Klein",
       "originalTitle": "Mr. Klein",
       "year": 1976,
+      "runtime": 123,
       "director": "Joseph Losey",
       "genres": [],
       "synopsis": "Al París ocupat pels nazis, un marxant s’aprofita de la situació dels jueus perseguits per comprar, a baix preu, les seves obres d’art. Un dia descobreix que algú, un jueu, ha adoptat el seu nom.",
@@ -11154,7 +12969,15 @@
       "aliases": [
         "Mr. Klein"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/mr-klein",
+          "observedAt": "2026-10-16T07:57:05.069981+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-c9b374fb77421400fc10",
@@ -11225,6 +13048,7 @@
       "title": "The Seasons in Quincy: Four Portraits of John Berger",
       "originalTitle": null,
       "year": 2016,
+      "runtime": 90,
       "director": "Diverses autories",
       "genres": [],
       "synopsis": "Un retrat de John Berger durant els seus últims anys al poble de Quincy, als Alps francesos, on el pensador i escriptor britànic es va adonar que el cultiu de l’agricultura de subsistència practicada durant mil·lennis arribava a la seva fi, i va decidir participar activament en aquesta manera de viure.",
@@ -11282,13 +13106,22 @@
       ],
       "imdbId": null,
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/seasons-quincy-four-portraits-john-berger",
+          "observedAt": "2026-10-16T07:57:13.009871+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-f554d401d217b551ca96",
       "title": "Narayama bushikô",
       "originalTitle": "Narayama bushikô",
       "year": 1958,
+      "runtime": 92,
       "director": "Keisuke Kinoshita",
       "genres": [],
       "synopsis": "Als mísers poblats de camperols, quan els vells deixaven de ser productius, eren portats al mont Narayama per morir-hi amb dignitat. Kinoshita va recrear aquesta antiga llegenda japonesa utilitzant els elements escènics i musicals del teatre kabuki.",
@@ -11352,13 +13185,22 @@
       "aliases": [
         "The Ballad of Narayama"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/narayama-bushiko",
+          "observedAt": "2026-10-16T07:57:16.559926+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-f2e560c4b1a5829b7980",
       "title": "A ritme de clàssics | Sessió de curtmetratges",
       "originalTitle": null,
       "year": null,
+      "runtime": 69,
       "director": "Diverses autories",
       "genres": [],
       "synopsis": "El cinema ha jugat amb la dansa, el ritme i el moviment des dels seus inicis. A través de cinc curtmetratges clàssics plens d’humor, fantasia i creativitat, veurem com els cossos expliquen històries, fan riure i converteixen els gestos més quotidians en una autèntica coreografia.",
@@ -11416,13 +13258,22 @@
       ],
       "imdbId": null,
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/ritme-de-classics-sessio-de-curtmetratges",
+          "observedAt": "2026-10-16T07:57:19.113220+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-373cdf309561c816f613",
       "title": "Soplo de esplendor",
       "originalTitle": null,
       "year": 1972,
+      "runtime": 88,
       "director": "Carlos Benpar",
       "genres": [],
       "synopsis": "Rodada entre el 1968 i el 1973, Soplo de esplendor és una de les obres més singulars sorgides del cinema català independent de finals del franquisme.",
@@ -11480,13 +13331,22 @@
       ],
       "imdbId": null,
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/soplo-de-esplendor",
+          "observedAt": "2026-10-16T07:57:21.669621+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-af9b84675557d0b15a8e",
       "title": "Voluntad que vence / L'indomptée",
       "originalTitle": null,
       "year": 1919,
+      "runtime": 79,
       "director": "Salvador Castelló",
       "genres": [],
       "synopsis": "Rodada el 1919 i estrenada el 1920, Voluntad que vence és una peça excepcional del cinema mut barceloní, dirigida per Salvador Castelló, operador, director i productor actiu en algunes de les principals companyies del cinema català dels anys deu. La restauració que es presenta s’ha dut a terme en col·laboració amb la Cinémathèque Française a partir dels materials conservats per aquesta institució.",
@@ -11544,13 +13404,22 @@
       ],
       "imdbId": null,
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/voluntad-que-vence-lindomptee",
+          "observedAt": "2026-10-16T07:57:24.917662+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-fa0e506d3f84d62e5724",
       "title": "Queen Kelly",
       "originalTitle": null,
       "year": 1928,
+      "runtime": 90,
       "director": "Erich von Stroheim",
       "genres": [],
       "synopsis": "Abdicar La història de Hollywood està plena de les pel·lícules que es van arribar a fer, però també de les restes de totes aquelles que mai no es van poder completar, abandonades per una indústria que als anys vint ja funcionava a ple rendiment.",
@@ -11608,7 +13477,15 @@
       ],
       "imdbId": null,
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/queen-kelly",
+          "observedAt": "2026-10-16T07:57:31.833349+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-57a06b29c44dc6f2ea95",
@@ -11743,6 +13620,7 @@
       "title": "The Secret Life of Words | 100 Years and You Everywhere",
       "originalTitle": null,
       "year": 2005,
+      "runtime": 115,
       "director": "Isabel Coixet",
       "genres": [],
       "synopsis": "Una dona solitària i enigmàtica que intenta fugir del seu passat arriba a una plataforma petroliera enmig del mar per cuidar un home a qui un accident ha deixat temporalment cec.",
@@ -11800,13 +13678,22 @@
       ],
       "imdbId": null,
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/secret-life-words-100-years-and-you-everywhere",
+          "observedAt": "2026-10-16T07:57:42.798516+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-c5c2b03d74688a5d1829",
       "title": "A Woman Under the Influence | Non! Tu ne sortiras pas sans moi!",
       "originalTitle": null,
       "year": 1974,
+      "runtime": 146,
       "director": "John Cassavetes",
       "genres": [],
       "synopsis": "A Woman Under the Influence retrata el desencaix entre les expectatives vitals i els rols socials que estructuren la vida familiar. Mabel Longhetti, mestressa de casa i mare de tres fills, intenta sostenir la seva vida familiar al costat del seu marit Nick, un obrer de la construcció de Los Angeles, mentre el seu comportament cada vegada més erràtic posa en crisi els equilibris afectius i socials que l’envolten.",
@@ -11864,13 +13751,26 @@
       ],
       "imdbId": null,
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/woman-under-influence-non-tu-ne-sortiras-pas-sans-moi",
+          "observedAt": "2026-10-16T07:57:50.613245+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-ed3380dda127a1c50bf2",
       "title": "Autotracking presenta: Palilloween",
       "originalTitle": null,
       "year": null,
+      "ageRating": {
+        "system": "ES",
+        "code": "18",
+        "label": "No recomanada a menors de 18 anys"
+      },
       "director": "Michael Fischa, Olaf Ittenbach",
       "genres": [],
       "synopsis": "Doble sessió de terror projectada en gloriós VHS de la mà dels organitzadors de l’Autotracking, el Festival de Cinema Oblidat en VHS de Barcelona.",
@@ -11930,7 +13830,15 @@
       "aliases": [
         "The Burning Moon"
       ],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "ageRating": {
+          "source": "official",
+          "url": "https://zumzeigcine.coop/cinema/films/autotracking-presenta-palilloween/",
+          "observedAt": "2026-10-14T07:40:56.974288+00:00",
+          "status": "stale"
+        }
+      }
     },
     {
       "id": "movie-bdc8f4fd3983c19d6ffa",

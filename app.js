@@ -80,6 +80,16 @@
   function isStale(value) { const parsed = date(value); return parsed !== null && Date.now() - parsed.getTime() > STALE_MS; }
   function statusName(value) { return STATUS_NAMES[text(value)] || text(value) || 'Pendiente'; }
   function plural(count, singular, multiple) { return `${numberFormat.format(count)} ${count === 1 ? singular : multiple}`; }
+  function runtimeLabel(movie) {
+    return Number.isInteger(movie.runtime) && movie.runtime > 0 ? `${movie.runtime} min` : 'Duración pendiente';
+  }
+  function ageRatingLabel(movie) {
+    const age = movie.ageRating;
+    if (!record(age) || age.system !== 'ES') return 'Edad pendiente';
+    if (age.code === 'TP') return 'Todos los públicos';
+    if (age.code === 'X') return 'Clasificación X';
+    return ['7', '12', '13', '16', '18'].includes(age.code) ? `Edad: ${age.code}+` : 'Edad pendiente';
+  }
 
   function element(tag, className, content) {
     const node = document.createElement(tag);
@@ -480,7 +490,7 @@
     number.setAttribute('aria-hidden', 'true');
     heading.append(title, number);
     main.append(heading);
-    const meta = [identifier(movie.year), text(movie.director), ...strings(movie.genres)].filter(Boolean);
+    const meta = [identifier(movie.year), runtimeLabel(movie), ageRatingLabel(movie), text(movie.director), ...strings(movie.genres)].filter(Boolean);
     if (meta.length) main.append(element('p', 'movie-meta', meta.join(' · ')));
     if (text(movie.synopsis)) main.append(element('p', 'movie-synopsis', text(movie.synopsis)));
     main.append(renderRatings(movie));
@@ -526,6 +536,27 @@
     if (text(movie.originalTitle) && movie.originalTitle !== movie.title) info.append(element('p', 'original-title', text(movie.originalTitle)));
     info.append(element('p', 'movie-meta', `Dirección: ${text(movie.director) || 'pendiente'}`));
     info.append(element('p', 'movie-meta', [identifier(movie.year) || 'Año pendiente', ...strings(movie.genres)].join(' · ')));
+    info.append(element('p', 'movie-meta movie-runtime', `Duración: ${runtimeLabel(movie).replace('Duración pendiente', 'pendiente')}`));
+    const runtimeSource = movie.metadataSources?.runtime;
+    if (Number.isInteger(movie.runtime) && movie.runtime > 0 && record(runtimeSource)) {
+      const sourceLine = element('p', 'small-text runtime-source');
+      const sourceLink = externalLink('Fuente de la duración ↗', runtimeSource.url);
+      if (sourceLink) sourceLine.append(sourceLink);
+      if (date(runtimeSource.observedAt)) sourceLine.append(document.createTextNode(` · Consultado: ${formatDate(runtimeSource.observedAt)}`));
+      if (runtimeSource.status === 'stale') sourceLine.append(document.createTextNode(' · Sin actualizar'));
+      info.append(sourceLine);
+    }
+    const ageKnown = ageRatingLabel(movie) !== 'Edad pendiente';
+    info.append(element('p', 'movie-meta movie-age-rating', `Edad recomendada: ${ageKnown ? text(movie.ageRating.label) : 'pendiente'}`));
+    const ageSource = movie.metadataSources?.ageRating;
+    if (ageKnown && record(ageSource)) {
+      const sourceLine = element('p', 'small-text age-rating-source');
+      const sourceLink = externalLink('Fuente de la edad recomendada ↗', ageSource.url);
+      if (sourceLink) sourceLine.append(sourceLink);
+      if (date(ageSource.observedAt)) sourceLine.append(document.createTextNode(` · Consultado: ${formatDate(ageSource.observedAt)}`));
+      if (ageSource.status === 'stale') sourceLine.append(document.createTextNode(' · Sin actualizar'));
+      info.append(sourceLine);
+    }
     const trailer = externalLink('Ver tráiler ↗', movie.trailer, 'text-button');
     const action = element('div', 'card-actions');
     action.append(trailer || element('p', 'small-text', 'Tráiler pendiente'), watchedButton(movie));
