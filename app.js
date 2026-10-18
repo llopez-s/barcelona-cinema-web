@@ -349,7 +349,7 @@
     for (const movie of state.snapshot.movies) {
       const watched = watchedMovies.has(movie);
       if (filter.watched === 'unwatched' && watched || filter.watched === 'watched' && !watched) continue;
-      const searchText = normalize([text(movie.title), text(movie.originalTitle), text(movie.director)].join(' '));
+      const searchText = normalize([text(movie.title), text(movie.originalTitle), text(movie.director), ...strings(movie.cast)].join(' '));
       if (filter.query && !filter.query.split(/\s+/).every((word) => searchText.includes(word))) continue;
       if (filter.genre && !genreKeys(movie.genres).includes(filter.genre)) continue;
       const rating = ratingData(movie, filter.ratingSource);
@@ -503,6 +503,8 @@
     main.append(heading);
     const meta = [identifier(movie.year), runtimeLabel(movie), ageRatingLabel(movie), text(movie.director), ...strings(movie.genres)].filter(Boolean);
     if (meta.length) main.append(element('p', 'movie-meta', meta.join(' · ')));
+    const cast = strings(movie.cast);
+    if (cast.length) main.append(element('p', 'movie-meta movie-cast', `Reparto: ${cast.slice(0, 3).join(', ')}${cast.length > 3 ? '…' : ''}`));
     if (text(movie.synopsis)) main.append(element('p', 'movie-synopsis', text(movie.synopsis)));
     main.append(renderRatings(movie));
     const actions = element('div', 'card-actions');
@@ -586,10 +588,21 @@
     content.append(header);
     const synopsis = element('section', 'dialog-section');
     synopsis.append(element('h3', '', 'La historia'), element('p', 'dialog-synopsis', text(movie.synopsis) || 'Sinopsis pendiente en la fuente.'));
+    const castSection = element('section', 'dialog-section');
+    castSection.append(element('h3', '', 'Reparto'), element('p', 'dialog-cast', strings(movie.cast).join(', ') || 'Reparto pendiente en la fuente.'));
+    const castSource = movie.metadataSources?.cast;
+    if (strings(movie.cast).length && record(castSource)) {
+      const sourceLine = element('p', 'small-text cast-source');
+      const sourceLink = externalLink('Fuente del reparto ↗', castSource.url);
+      if (sourceLink) sourceLine.append(sourceLink);
+      if (date(castSource.observedAt)) sourceLine.append(document.createTextNode(` · Consultado: ${formatDate(castSource.observedAt)}`));
+      if (castSource.status === 'stale') sourceLine.append(document.createTextNode(' · Sin actualizar'));
+      castSection.append(sourceLine);
+    }
     const ratings = element('section', 'dialog-section');
     ratings.append(element('h3', '', 'Notas y fuentes'), renderRatings(movie, true));
     const note = element('p', 'small-text dialog-session-note', `${plural(sessions.length, 'sesión coincide', 'sesiones coinciden')} con los filtros actuales. Las notas se muestran en su escala original; un enlace a una fuente no verifica una puntuación pendiente.`);
-    content.append(synopsis, ratings, note);
+    content.append(synopsis, castSection, ratings, note);
     els.dialogContent.replaceChildren(content);
     els.dialog.showModal();
     els.dialog.scrollTop = 0;

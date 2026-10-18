@@ -17,6 +17,23 @@
         "label": "Pelicula no recomendada a menores de 12"
       },
       "director": "Destin Daniel Cretton",
+      "cast": [
+        "Tom Holland",
+        "Zendaya",
+        "Sadie Sink",
+        "Jon Bernthal",
+        "Jacob Batalon",
+        "Tramell Tillman",
+        "Mark Ruffalo",
+        "Liza Colón-Zayas",
+        "Florence Pugh",
+        "Michael Mando",
+        "Marvin Jones III",
+        "Eman Esfandi",
+        "Jamaal Burcher",
+        "Ian Chance",
+        "Zarra Kaahn"
+      ],
       "genres": [
         "Acción",
         "Aventuras",
@@ -109,6 +126,12 @@
           "observedAt": "2026-10-18T15:01:30.941857+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film437038.html",
+          "observedAt": "2026-10-06T07:39:54.460528+00:00",
+          "status": "stale"
+        },
         "year": {
           "source": "reviewed_provider_and_cinema",
           "url": "https://www.publicine.net/pelicula/16532/spider-man-brand-new-day",
@@ -141,6 +164,15 @@
         "label": "No recomendada para menores de 16 años"
       },
       "director": "Javier Ambrossi, Javier Calvo",
+      "cast": [
+        "Guitarricadelafuente",
+        "Miguel Bernardeau",
+        "Carlos González",
+        "Milo Quifes",
+        "Lola Dueñas",
+        "Penélope Cruz",
+        "Glenn Close"
+      ],
       "genres": [
         "Drama"
       ],
@@ -235,6 +267,12 @@
           "observedAt": "2026-10-16T07:56:00.991831+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=2997",
+          "observedAt": "2026-10-18T15:02:04.790891+00:00",
+          "status": "verified"
+        },
         "year": {
           "source": "reviewed_provider_and_cinema",
           "url": "https://www.imdb.com/es/title/tt35511966/",
@@ -256,6 +294,21 @@
       "year": 1992,
       "runtime": 130,
       "director": "Francis Ford Coppola",
+      "cast": [
+        "Gary Oldman",
+        "Winona Ryder",
+        "Anthony Hopkins",
+        "Keanu Reeves",
+        "Richard E. Grant",
+        "Cary Elwes",
+        "Sadie Frost",
+        "Tom Waits",
+        "Bill Campbell",
+        "Monica Bellucci",
+        "Jay Robinson",
+        "I.M. Hobson",
+        "Laurie Franks"
+      ],
       "genres": [
         "Terror",
         "Romance",
@@ -338,6 +391,12 @@
           "status": "stale",
           "identityStatus": "verified"
         },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film763705.html",
+          "observedAt": "2026-10-13T09:51:56.118623+00:00",
+          "status": "stale"
+        },
         "originalTitle": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film763705.html",
@@ -353,6 +412,15 @@
       "year": 1964,
       "runtime": 88,
       "director": "Jacques Demy",
+      "cast": [
+        "Catherine Deneuve",
+        "Anne Vernon",
+        "Nino Castelnuovo",
+        "Ellen Farner",
+        "Jean Champion",
+        "Marc Michel",
+        "Mireille Perrey"
+      ],
       "genres": [
         "Musical",
         "Romance",
@@ -434,6 +502,12 @@
           "status": "stale",
           "identityStatus": "verified"
         },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film891194.html",
+          "observedAt": "2026-10-13T09:51:58.787498+00:00",
+          "status": "stale"
+        },
         "originalTitle": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film891194.html",
@@ -449,6 +523,21 @@
       "year": 1946,
       "runtime": 112,
       "director": "Charles Vidor",
+      "cast": [
+        "Rita Hayworth",
+        "Glenn Ford",
+        "George Macready",
+        "Joseph Calleia",
+        "Steven Geray",
+        "Rosa Rey",
+        "Joe Sawyer",
+        "Gerald Mohr",
+        "Mark Roberts",
+        "Ludwig Donath",
+        "Donald Douglas",
+        "Lionel Royce",
+        "Saul Martell"
+      ],
       "genres": [
         "Cine negro",
         "Drama",
@@ -524,7 +613,15 @@
       "mergedIds": [
         "movie-3de349cca9de7ef485d6",
         "movie-dd674e1f9244f75521f9"
-      ]
+      ],
+      "metadataSources": {
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film943832.html",
+          "observedAt": "2026-10-06T07:37:39.300508+00:00",
+          "status": "stale"
+        }
+      }
     },
     {
       "id": "fa-766877",
@@ -533,6 +630,17 @@
       "year": 2026,
       "runtime": 140,
       "director": "Denis Villeneuve",
+      "cast": [
+        "Timothée Chalamet",
+        "Zendaya",
+        "Jason Momoa",
+        "Florence Pugh",
+        "Rebecca Ferguson",
+        "Charlotte Rampling",
+        "Anya Taylor-Joy",
+        "Robert Pattinson",
+        "Javier Bardem"
+      ],
       "genres": [
         "Ciencia ficción",
         "Aventuras",
@@ -619,6 +727,12 @@
           "observedAt": "2026-10-16T07:56:15.111227+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=3016",
+          "observedAt": "2026-10-18T15:02:13.723929+00:00",
+          "status": "verified"
+        },
         "originalTitle": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film766877.html",
@@ -634,6 +748,23 @@
       "year": 1995,
       "runtime": 127,
       "director": "Mick Jackson",
+      "cast": [
+        "James Woods",
+        "Henry Thomas",
+        "Mercedes Ruehl",
+        "Lolita Davidovich",
+        "Sada Thompson",
+        "Shirley Knight",
+        "Mark Blum",
+        "Alison Elliott",
+        "Chelsea Field",
+        "Joe Urla",
+        "Scott Waara",
+        "Valerie Wildman",
+        "Richard Bradford",
+        "Roberta Bassin",
+        "Nicollette Sheridan"
+      ],
       "genres": [
         "Drama",
         "Thriller"
@@ -710,6 +841,12 @@
           "status": "verified",
           "identityStatus": "verified"
         },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film326795.html",
+          "observedAt": "2026-10-18T15:03:55.715490+00:00",
+          "status": "verified"
+        },
         "originalTitle": {
           "source": "reviewed_imdb_dataset",
           "url": "https://www.imdb.com/title/tt0113421/",
@@ -725,6 +862,21 @@
       "year": 1976,
       "runtime": 97,
       "director": "Brian De Palma",
+      "cast": [
+        "Sissy Spacek",
+        "Piper Laurie",
+        "Amy Irving",
+        "William Katt",
+        "Betty Buckley",
+        "John Travolta",
+        "Nancy Allen",
+        "P.J. Soles",
+        "Priscilla Pointer",
+        "Sydney Lassick",
+        "Stefan Gierasch",
+        "Doug Cox",
+        "Michael Talbott"
+      ],
       "genres": [
         "Terror",
         "Drama"
@@ -804,6 +956,12 @@
           "observedAt": "2026-10-06T07:36:00.472965+00:00",
           "status": "stale",
           "identityStatus": "verified"
+        },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film283316.html",
+          "observedAt": "2026-10-06T07:36:00.472965+00:00",
+          "status": "stale"
         }
       }
     },
@@ -814,6 +972,21 @@
       "year": 1995,
       "runtime": 180,
       "director": "Rod Hardy",
+      "cast": [
+        "Anjelica Huston",
+        "Melanie Griffith",
+        "Gabriel Byrne",
+        "Peter Coyote",
+        "Tracey Walter",
+        "Floyd 'Red Crow' Westerman",
+        "Jack Palance",
+        "Sam Elliott",
+        "Charlayne Woodard",
+        "John Diehl",
+        "Liev Schreiber",
+        "Andrew Bicknell",
+        "Paul Lazar"
+      ],
       "genres": [
         "Western"
       ],
@@ -894,6 +1067,12 @@
           "status": "stale",
           "identityStatus": "verified"
         },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film703786.html",
+          "observedAt": "2026-10-06T07:36:06.520580+00:00",
+          "status": "stale"
+        },
         "originalTitle": {
           "source": "reviewed_imdb_dataset",
           "url": "https://www.imdb.com/title/tt0111903/",
@@ -909,6 +1088,20 @@
       "year": 1985,
       "runtime": 130,
       "director": "Roger Young",
+      "cast": [
+        "David Keith",
+        "Malcolm McDowell",
+        "Warren Clarke",
+        "John McEnery",
+        "Nancy Paul",
+        "Brian Pettifer",
+        "George Pravda",
+        "Shane Rimmer",
+        "Bruce Boa",
+        "Eugene Lipinski",
+        "Ray Jewers",
+        "Bogdan Kominowski"
+      ],
       "genres": [
         "Drama"
       ],
@@ -983,6 +1176,12 @@
           "status": "verified",
           "identityStatus": "verified"
         },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film705799.html",
+          "observedAt": "2026-10-18T15:03:57.660424+00:00",
+          "status": "verified"
+        },
         "originalTitle": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film705799.html",
@@ -998,6 +1197,23 @@
       "year": 1995,
       "runtime": 96,
       "director": "Bill D'Elia",
+      "cast": [
+        "Laura Leighton",
+        "Michael Hayden",
+        "Richard Crenna",
+        "Bonnie Bartlett",
+        "Rebeccah Bush",
+        "Akin Babatunde",
+        "Todd Terry",
+        "David Denney",
+        "Neith Hunter",
+        "Travis Davis",
+        "Alissa Alban",
+        "Margaret Bowman",
+        "Rodger Boyce",
+        "Vince Davis",
+        "Todd Duffey"
+      ],
       "genres": [
         "Drama"
       ],
@@ -1072,6 +1288,12 @@
           "status": "verified",
           "identityStatus": "verified"
         },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film728190.html",
+          "observedAt": "2026-10-18T15:03:59.545890+00:00",
+          "status": "verified"
+        },
         "originalTitle": {
           "source": "wikidata",
           "url": "https://www.wikidata.org/wiki/Q12125052",
@@ -1087,6 +1309,21 @@
       "year": 1990,
       "runtime": 98,
       "director": "Tim Burton",
+      "cast": [
+        "Johnny Depp",
+        "Winona Ryder",
+        "Dianne Wiest",
+        "Anthony Michael Hall",
+        "Alan Arkin",
+        "Kathy Baker",
+        "Vincent Price",
+        "Robert Oliveri",
+        "Conchata Ferrell",
+        "Dick Anthony Williams",
+        "Caroline Aaron",
+        "O-Lan Jones",
+        "Susan Blommaert"
+      ],
       "genres": [
         "Fantástico",
         "Drama"
@@ -1169,6 +1406,12 @@
           "observedAt": "2026-10-06T07:36:17.266134+00:00",
           "status": "stale",
           "identityStatus": "verified"
+        },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film827774.html",
+          "observedAt": "2026-10-06T07:36:17.266134+00:00",
+          "status": "stale"
         }
       }
     },
@@ -1179,6 +1422,24 @@
       "year": 1995,
       "runtime": 220,
       "director": "Philip Saville",
+      "cast": [
+        "Carla Gugino",
+        "Alison Elliott",
+        "Mira Sorvino",
+        "Rya Kihlstedt",
+        "Mark Tandy",
+        "Dinsdale Landen",
+        "Cherie Lunghi",
+        "Sophie Dix",
+        "Sienna Guillory",
+        "Rosemary Leach",
+        "Emily Hamilton",
+        "Ronan Vibert",
+        "Michael Kitchen",
+        "Greg Wise",
+        "Connie Booth",
+        "James Frain"
+      ],
       "genres": [
         "Serie de TV",
         "Drama",
@@ -1255,6 +1516,12 @@
           "observedAt": "2026-10-16T07:58:43.152045+00:00",
           "status": "verified",
           "identityStatus": "verified"
+        },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film210498.html",
+          "observedAt": "2026-10-18T15:04:01.608278+00:00",
+          "status": "verified"
         },
         "originalTitle": {
           "source": "reviewed_imdb_dataset",
@@ -1340,6 +1607,12 @@
         "label": "Para todos los públicos"
       },
       "director": "Damien Chazelle",
+      "cast": [
+        "Ryan Gosling",
+        "Emma Stone",
+        "John Legend",
+        "Rosemarie DeWitt"
+      ],
       "genres": [
         "Musical",
         "Romance",
@@ -1428,6 +1701,12 @@
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=1604",
           "observedAt": "2026-10-11T07:10:14.282506+00:00",
           "status": "stale"
+        },
+        "cast": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=1604",
+          "observedAt": "2026-10-11T07:10:14.282506+00:00",
+          "status": "stale"
         }
       }
     },
@@ -1438,6 +1717,21 @@
       "year": 1976,
       "runtime": 119,
       "director": "John G. Avildsen",
+      "cast": [
+        "Sylvester Stallone",
+        "Talia Shire",
+        "Burt Young",
+        "Carl Weathers",
+        "Burgess Meredith",
+        "Thayer David",
+        "Joe Spinell",
+        "Jimmy Gambina",
+        "Bill Baldwin",
+        "Al Silvani",
+        "Jodi Letizia",
+        "George Memmoli",
+        "George O'Hanlon"
+      ],
       "genres": [
         "Drama"
       ],
@@ -1516,6 +1810,12 @@
           "observedAt": "2026-10-06T07:36:38.745633+00:00",
           "status": "stale",
           "identityStatus": "verified"
+        },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film192554.html",
+          "observedAt": "2026-10-06T07:36:38.745633+00:00",
+          "status": "stale"
         }
       }
     },
@@ -1526,6 +1826,21 @@
       "year": 2003,
       "runtime": 128,
       "director": "Richard Curtis",
+      "cast": [
+        "Hugh Grant",
+        "Emma Thompson",
+        "Colin Firth",
+        "Keira Knightley",
+        "Liam Neeson",
+        "Laura Linney",
+        "Alan Rickman",
+        "Bill Nighy",
+        "Chiwetel Ejiofor",
+        "Andrew Lincoln",
+        "Thomas Brodie-Sangster",
+        "Rodrigo Santoro",
+        "Rowan Atkinson"
+      ],
       "genres": [
         "Romance",
         "Comedia"
@@ -1605,6 +1920,12 @@
           "observedAt": "2026-10-06T07:36:47.394521+00:00",
           "status": "stale",
           "identityStatus": "verified"
+        },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film153436.html",
+          "observedAt": "2026-10-06T07:36:47.394521+00:00",
+          "status": "stale"
         }
       }
     },
@@ -1620,6 +1941,18 @@
         "label": "Todos los publicos"
       },
       "director": "Pierre Coffin",
+      "cast": [
+        "Pierre Coffin",
+        "Trey Parker",
+        "Jesse Eisenberg",
+        "Christoph Waltz",
+        "Jeff Bridges",
+        "Zoey Deutch",
+        "Allison Janney",
+        "Bobby Moynihan",
+        "Phil LaMarr",
+        "George Lucas"
+      ],
       "genres": [
         "Animación",
         "Aventura",
@@ -1713,6 +2046,12 @@
           "url": "https://www.sensacine.com/cines/cine/E0764/",
           "observedAt": "2026-10-18T06:58:27.689642+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film879433.html",
+          "observedAt": "2026-10-06T07:37:07.673232+00:00",
+          "status": "stale"
         }
       }
     },
@@ -1723,6 +2062,21 @@
       "year": 2013,
       "runtime": 123,
       "director": "Richard Curtis",
+      "cast": [
+        "Domhnall Gleeson",
+        "Rachel McAdams",
+        "Bill Nighy",
+        "Lydia Wilson",
+        "Lindsay Duncan",
+        "Richard Cordery",
+        "Joshua McGuire",
+        "Tom Hollander",
+        "Margot Robbie",
+        "Vanessa Kirby",
+        "Will Merrick",
+        "Tom Hughes",
+        "Clemmie Dugdale"
+      ],
       "genres": [
         "Romance",
         "Comedia",
@@ -1805,6 +2159,12 @@
           "status": "stale",
           "identityStatus": "verified"
         },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film784063.html",
+          "observedAt": "2026-10-06T07:37:10.938516+00:00",
+          "status": "stale"
+        },
         "originalTitle": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film784063.html",
@@ -1820,6 +2180,23 @@
       "year": 2010,
       "runtime": 109,
       "director": "Darren Aronofsky",
+      "cast": [
+        "Natalie Portman",
+        "Mila Kunis",
+        "Vincent Cassel",
+        "Winona Ryder",
+        "Barbara Hershey",
+        "Tina Sloan",
+        "Christopher Gartin",
+        "Sebastian Stan",
+        "Benjamin Millepied",
+        "Ksenia Solo",
+        "Janet Montgomery",
+        "Kristina Anapau",
+        "Mark Margolis",
+        "Leslie Lyles",
+        "Marcia Jean Kurtz"
+      ],
       "genres": [
         "Drama"
       ],
@@ -1898,6 +2275,12 @@
           "observedAt": "2026-10-06T07:37:16.092713+00:00",
           "status": "stale",
           "identityStatus": "verified"
+        },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film458406.html",
+          "observedAt": "2026-10-06T07:37:16.092713+00:00",
+          "status": "stale"
         }
       }
     },
@@ -1908,6 +2291,20 @@
       "year": 2006,
       "runtime": 116,
       "director": "John Lasseter",
+      "cast": [
+        "Owen Wilson",
+        "Paul Newman",
+        "Bonnie Hunt",
+        "Larry the Cable Guy",
+        "Cheech Marin",
+        "Tony Shalhoub",
+        "Jenifer Lewis",
+        "Paul Dooley",
+        "George Carlin",
+        "Katherine Helmond",
+        "John Ratzenberger",
+        "Joe Ranft"
+      ],
       "genres": [
         "Animación",
         "Comedia",
@@ -1984,6 +2381,12 @@
           "observedAt": "2026-10-16T07:55:56.372989+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film835259.html",
+          "observedAt": "2026-10-06T07:37:20.877031+00:00",
+          "status": "stale"
+        },
         "originalTitle": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film835259.html",
@@ -1999,6 +2402,21 @@
       "year": 1946,
       "runtime": 130,
       "director": "Frank Capra",
+      "cast": [
+        "James Stewart",
+        "Donna Reed",
+        "Lionel Barrymore",
+        "Thomas Mitchell",
+        "Henry Travers",
+        "Beulah Bondi",
+        "Frank Faylen",
+        "Ward Bond",
+        "Gloria Grahame",
+        "H.B. Warner",
+        "Frank Albertson",
+        "Todd Karns",
+        "Samuel S. Hinds"
+      ],
       "genres": [
         "Drama",
         "Fantástico"
@@ -2087,6 +2505,12 @@
           "status": "stale",
           "identityStatus": "verified"
         },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film682814.html",
+          "observedAt": "2026-10-06T07:37:34.685052+00:00",
+          "status": "stale"
+        },
         "originalTitle": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film682814.html",
@@ -2107,6 +2531,17 @@
         "label": "No recomendada para menores de 18 años"
       },
       "director": "Elia Kazan",
+      "cast": [
+        "Vivien Leigh",
+        "Marlon Brando",
+        "Kim Hunter",
+        "Karl Malden",
+        "Rudy Bond",
+        "Nick Dennis",
+        "Peg Hillias",
+        "Richard Garrick",
+        "Ann Dere"
+      ],
       "genres": [
         "Drama"
       ],
@@ -2201,6 +2636,12 @@
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=2847",
           "observedAt": "2026-10-08T06:58:12.417861+00:00",
           "status": "stale"
+        },
+        "cast": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=2847",
+          "observedAt": "2026-10-08T06:58:12.417861+00:00",
+          "status": "stale"
         }
       }
     },
@@ -2211,6 +2652,15 @@
       "year": 2025,
       "runtime": 80,
       "director": "Amanda Sans Pantling",
+      "cast": [
+        "Diane Jobson",
+        "Sally Henzell",
+        "Rohan Marley",
+        "Robert Marley",
+        "Richard Booker",
+        "Khadine",
+        "Omarley Dennis"
+      ],
       "genres": [
         "Documental"
       ],
@@ -2285,6 +2735,12 @@
           "status": "stale",
           "identityStatus": "verified"
         },
+        "cast": {
+          "source": "official",
+          "url": "https://espaitexas.cat/pelicula/miss-jobson-2/",
+          "observedAt": "2026-10-18T15:01:24.241395+00:00",
+          "status": "verified"
+        },
         "originalTitle": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film860554.html",
@@ -2300,6 +2756,17 @@
       "year": 2021,
       "runtime": 88,
       "director": "CAROL RODRÍGUEZ COLÁS",
+      "cast": [
+        "VICKY LUENGO",
+        "CAROLINA YUSTE",
+        "ELISABET CASANOVAS",
+        "ÁNGELA CERVANTES",
+        "JOSÉ MOTA",
+        "ANA FERNÁNDEZ",
+        "MARIO ZORRILLA",
+        "CRISTINA PLAZAS",
+        "BIEL DURÁN"
+      ],
       "genres": [
         "Comedia",
         "Drama"
@@ -2380,6 +2847,12 @@
           "status": "stale",
           "identityStatus": "verified"
         },
+        "cast": {
+          "source": "official",
+          "url": "https://espaitexas.cat/pelicula/chavalas/",
+          "observedAt": "2026-10-18T15:01:30.820709+00:00",
+          "status": "verified"
+        },
         "originalTitle": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film329630.html",
@@ -2395,6 +2868,23 @@
       "year": 2013,
       "runtime": 126,
       "director": "Spike Jonze",
+      "cast": [
+        "Joaquin Phoenix",
+        "Amy Adams",
+        "Rooney Mara",
+        "Olivia Wilde",
+        "Chris Pratt",
+        "Portia Doubleday",
+        "Matt Letscher",
+        "Brian Johnson",
+        "Pramod Kumar",
+        "Steve Zissis",
+        "Luka Jones",
+        "Claudia Choi",
+        "Lisa Cohen",
+        "Laura Kai Chen",
+        "Scarlett Johansson"
+      ],
       "genres": [
         "Ciencia ficción",
         "Romance",
@@ -2478,6 +2968,12 @@
           "observedAt": "2026-10-16T07:55:28.909401+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film889720.html",
+          "observedAt": "2026-10-06T07:38:25.958261+00:00",
+          "status": "stale"
+        },
         "originalTitle": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film889720.html",
@@ -2493,6 +2989,17 @@
       "year": 2025,
       "runtime": 122,
       "director": "José Luis Guerín",
+      "cast": [
+        "Antonio López",
+        "Fátima Dosantos",
+        "Sonia Dosantos",
+        "Norma Coracini",
+        "Nicolás Mozos",
+        "Francesc Nin",
+        "Makome Eñeso",
+        "Rajwinder Kaur",
+        "Jashir Singh"
+      ],
       "genres": [
         "Documental"
       ],
@@ -2576,6 +3083,12 @@
           "observedAt": "2026-10-14T07:41:13.078481+00:00",
           "status": "stale"
         },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film644986.html",
+          "observedAt": "2026-10-06T07:38:32.220573+00:00",
+          "status": "stale"
+        },
         "year": {
           "source": "reviewed_provider_and_cinema",
           "url": "https://www.imdb.com/es-es/title/tt37676219/",
@@ -2603,6 +3116,21 @@
       "year": 2016,
       "runtime": 107,
       "director": "Thomas Vinterberg",
+      "cast": [
+        "Trine Dyrholm",
+        "Ulrich Thomsen",
+        "Martha Sofie Wallstrøm Hansen",
+        "Helene Reingaard Neumann",
+        "Lars Ranthe",
+        "Fares Fares",
+        "Julie Agnete Vang",
+        "Lise Koefoed",
+        "Adam Fischer",
+        "Magnus Millang",
+        "Oliver Methling Søndergaard",
+        "Rasmus Lind Rubin",
+        "Sebastian Grønnegaard Milbrat"
+      ],
       "genres": [
         "Drama"
       ],
@@ -2688,6 +3216,12 @@
           "observedAt": "2026-10-14T07:41:14.803531+00:00",
           "status": "stale"
         },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film855472.html",
+          "observedAt": "2026-10-06T07:38:35.708502+00:00",
+          "status": "stale"
+        },
         "originalTitle": {
           "source": "reviewed_provider_and_cinema",
           "url": "https://www.imdb.com/title/tt3082854/fullcredits/",
@@ -2703,6 +3237,23 @@
       "year": 2013,
       "runtime": 126,
       "director": "Bong Joon-ho",
+      "cast": [
+        "Chris Evans",
+        "Song Kang-ho",
+        "Tilda Swinton",
+        "Jamie Bell",
+        "Octavia Spencer",
+        "Ewen Bremner",
+        "Ko Ah-sung",
+        "John Hurt",
+        "Ed Harris",
+        "Alison Pill",
+        "Luke Pasqualino",
+        "Steve Park",
+        "Adnan Haskovic",
+        "Clark Middleton",
+        "Paul Lazar"
+      ],
       "genres": [
         "Ciencia ficción",
         "Thriller",
@@ -2789,6 +3340,12 @@
           "observedAt": "2026-10-14T07:41:18.324394+00:00",
           "status": "stale"
         },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film245452.html",
+          "observedAt": "2026-10-06T07:38:39.209196+00:00",
+          "status": "stale"
+        },
         "originalTitle": {
           "source": "imdb_dataset",
           "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
@@ -2804,6 +3361,16 @@
       "year": 2025,
       "runtime": 117,
       "director": "Vicent Monsonís",
+      "cast": [
+        "Jordi Ballester",
+        "Jordi Cadellans",
+        "Olga Alamán",
+        "Darío Torrent",
+        "Pep Munné",
+        "Iria Márquez",
+        "Pepa Juan",
+        "Rosa López"
+      ],
       "genres": [
         "Drama"
       ],
@@ -2883,6 +3450,12 @@
           "status": "stale",
           "identityStatus": "verified"
         },
+        "cast": {
+          "source": "official",
+          "url": "https://espaitexas.cat/pelicula/la-invasio-dels-barbars/",
+          "observedAt": "2026-10-18T15:01:23.138501+00:00",
+          "status": "verified"
+        },
         "originalTitle": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film492711.html",
@@ -2903,6 +3476,12 @@
         "label": "Pelicula no recomendada a menores de 12"
       },
       "director": "Hèctor Claramunt",
+      "cast": [
+        "Joel Joan",
+        "Paula Vives",
+        "Ivan Massagué",
+        "Mònica Pérez"
+      ],
       "genres": [
         "Comedia",
         "Thriller",
@@ -2989,6 +3568,12 @@
           "observedAt": "2026-10-16T07:56:07.919127+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "official",
+          "url": "https://espaitexas.cat/pelicula/escape-room-2/",
+          "observedAt": "2026-10-18T15:01:22.042962+00:00",
+          "status": "verified"
+        },
         "originalTitle": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film903140.html",
@@ -3009,6 +3594,11 @@
         "label": "Todos los publicos"
       },
       "director": "Yukiyo Teramoto",
+      "cast": [
+        "Wasabi Mizuta",
+        "Megumi Ōhara",
+        "Yumi Kakazu"
+      ],
       "genres": [
         "Animación",
         "Aventura",
@@ -3101,6 +3691,12 @@
           "url": "https://www.sensacine.com/cines/cine/E0388/",
           "observedAt": "2026-10-16T07:56:07.919127+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "sensacine",
+          "url": "https://www.sensacine.com/cines/cine/E0764/",
+          "observedAt": "2026-10-18T15:01:27.783616+00:00",
+          "status": "verified"
         }
       }
     },
@@ -3111,6 +3707,15 @@
       "year": 2026,
       "runtime": 89,
       "director": "Marga Melià",
+      "cast": [
+        "Joan Aguiló",
+        "Rafa Cortés",
+        "Susy Gómez",
+        "Clara Ingold",
+        "Marga Melià",
+        "Biel Mesquida",
+        "Carmen Riera Fiter"
+      ],
       "genres": [
         "Documental"
       ],
@@ -3187,6 +3792,12 @@
           "observedAt": "2026-10-16T07:58:52.126618+00:00",
           "status": "verified",
           "identityStatus": "verified"
+        },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film973613.html",
+          "observedAt": "2026-10-18T15:04:05.681547+00:00",
+          "status": "verified"
         }
       }
     },
@@ -3197,6 +3808,13 @@
       "year": 2026,
       "runtime": 108,
       "director": "Pep Garrido",
+      "cast": [
+        "Dolça Salvans",
+        "Sara Espígul",
+        "Sergio Caballero",
+        "Isabel Rocatti",
+        "Núria Molas"
+      ],
       "genres": [
         "Drama",
         "Fantástico"
@@ -3277,6 +3895,12 @@
           "status": "verified",
           "identityStatus": "verified"
         },
+        "cast": {
+          "source": "official",
+          "url": "https://espaitexas.cat/pelicula/tanit/",
+          "observedAt": "2026-10-18T15:01:26.599861+00:00",
+          "status": "verified"
+        },
         "originalTitle": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film419872.html",
@@ -3297,6 +3921,12 @@
         "label": "Pelicula no recomendada a menores de 16"
       },
       "director": "Olivia Wilde",
+      "cast": [
+        "Seth Rogen",
+        "Olivia Wilde",
+        "Penélope Cruz",
+        "Edward Norton"
+      ],
       "genres": [
         "Comedia"
       ],
@@ -3386,6 +4016,12 @@
           "observedAt": "2026-10-18T15:01:20.633777+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film554234.html",
+          "observedAt": "2026-10-16T07:59:13.190079+00:00",
+          "status": "stale"
+        },
         "year": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film554234.html",
@@ -3406,6 +4042,19 @@
         "label": "Pelicula no recomendada a menores de 12"
       },
       "director": "Carlos Therón",
+      "cast": [
+        "Lucía Caraballo",
+        "Alejandro Speitzer",
+        "Leonor Watling",
+        "David Lorente",
+        "Víctor Clavijo",
+        "Jon Bermúdez",
+        "Richard Holmes",
+        "Stéphanie Magnin",
+        "Victor Manuel Rosario Peralta",
+        "Pao Soppe",
+        "Raúl Alcalde"
+      ],
       "genres": [
         "Comedia"
       ],
@@ -3488,6 +4137,12 @@
           "observedAt": "2026-10-18T15:01:20.633777+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film331187.html",
+          "observedAt": "2026-10-16T07:59:45.839665+00:00",
+          "status": "stale"
+        },
         "year": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film331187.html",
@@ -3514,6 +4169,21 @@
         "label": "Pelicula no recomendada a menores de 16"
       },
       "director": "Alejandro González Iñárritu",
+      "cast": [
+        "Tom Cruise",
+        "Riz Ahmed",
+        "John Goodman",
+        "Sandra Hüller",
+        "Jesse Plemons",
+        "Michael Stuhlbarg",
+        "Sophie Wilde",
+        "Robert John Burke",
+        "Emma D'Arcy",
+        "Burn Gorman",
+        "Mercedes Hernández",
+        "Pip Torrens",
+        "Danny Kirrane"
+      ],
       "genres": [
         "Acción",
         "Comedia"
@@ -3598,6 +4268,12 @@
           "url": "https://www.sensacine.com/cines/cine/E0608/",
           "observedAt": "2026-10-18T15:01:20.633777+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film440322.html",
+          "observedAt": "2026-10-06T07:38:42.502251+00:00",
+          "status": "stale"
         }
       }
     },
@@ -3613,6 +4289,21 @@
         "label": "Pelicula no recomendada a menores de 12"
       },
       "director": "Susanne Bier",
+      "cast": [
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Joey King",
+        "Lee Pace",
+        "Maisie Williams",
+        "Xolo Maridueña",
+        "Solly McLeod",
+        "Stockard Channing",
+        "Dianne Wiest",
+        "John Polivka",
+        "Christopher Moore",
+        "Stuart Cooke",
+        "Liz Kingsman"
+      ],
       "genres": [
         "Fantasía",
         "Romántico"
@@ -3695,6 +4386,12 @@
           "observedAt": "2026-10-18T15:01:20.633777+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film711879.html",
+          "observedAt": "2026-09-05T10:53:34.270593+00:00",
+          "status": "stale"
+        },
         "year": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film711879.html",
@@ -3715,6 +4412,21 @@
         "label": "Pelicula no recomendada a menores de 12"
       },
       "director": "Rodrigo Sorogoyen",
+      "cast": [
+        "Javier Bardem",
+        "Victoria Luengo",
+        "Raúl Arévalo",
+        "Marina Foïs",
+        "Raúl Prieto",
+        "Pepa Gracia",
+        "Melina Matthews",
+        "Nuria Prims",
+        "Pablo Gómez-Pando",
+        "Malena Villa",
+        "Mourad Ouani",
+        "Miguel Garcés",
+        "Laura Birn"
+      ],
       "genres": [
         "Drama"
       ],
@@ -3809,6 +4521,12 @@
           "url": "https://www.sensacine.com/cines/cine/E0608/",
           "observedAt": "2026-10-18T15:01:20.633777+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film223018.html",
+          "observedAt": "2026-10-06T07:38:52.419702+00:00",
+          "status": "stale"
         }
       }
     },
@@ -3824,6 +4542,23 @@
         "label": "Pelicula no recomendada a menores de 16"
       },
       "director": "Diego Luna",
+      "cast": [
+        "Anna Díaz",
+        "Adriana Paz",
+        "Irene Escolar",
+        "Luisa Huertas",
+        "Laura Gómez",
+        "Charlie Rowe",
+        "Guillermo Ríos",
+        "Dailyn Valdivieso",
+        "Sergio Bautista",
+        "Dan Feria",
+        "Celeste Beas",
+        "Benny Emmanuel",
+        "Adriana Jácome",
+        "Teresa Lozano",
+        "Berner Maynés"
+      ],
       "genres": [
         "Drama"
       ],
@@ -3911,6 +4646,12 @@
           "url": "https://www.sensacine.com/cines/cine/E0608/",
           "observedAt": "2026-10-18T15:01:20.633777+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film503965.html",
+          "observedAt": "2026-10-06T07:36:29.322594+00:00",
+          "status": "stale"
         }
       }
     },
@@ -3926,6 +4667,14 @@
         "label": "Todos los publicos"
       },
       "director": "Enrique Gato",
+      "cast": [
+        "Óscar Barberán",
+        "Michelle Jenner",
+        "Petra Martínez",
+        "Carlos Latre",
+        "Luis Posada",
+        "Ana Esther Alborg"
+      ],
       "genres": [
         "Animación",
         "Aventura",
@@ -4019,6 +4768,12 @@
           "observedAt": "2026-10-18T15:01:20.633777+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film877615.html",
+          "observedAt": "2026-10-06T07:40:15.775598+00:00",
+          "status": "stale"
+        },
         "year": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film877615.html",
@@ -4045,6 +4800,15 @@
         "label": "No recomendada para menores de 12 años"
       },
       "director": "Aaron Sorkin",
+      "cast": [
+        "Jeremy Strong",
+        "Mikey Madison",
+        "Jeremy Allen White",
+        "Wunmi Mosaku",
+        "Betty Gilpin",
+        "Billy Magnussen",
+        "Bill Burr"
+      ],
       "genres": [
         "Drama"
       ],
@@ -4131,6 +4895,12 @@
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=3001",
           "observedAt": "2026-10-18T15:01:44.021205+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=3001",
+          "observedAt": "2026-10-18T15:01:44.021205+00:00",
+          "status": "verified"
         }
       }
     },
@@ -4146,6 +4916,12 @@
         "label": "No recomendada para menores de 16 años"
       },
       "director": "Zach Cregger",
+      "cast": [
+        "Austin Abrams",
+        "Zach Cherry",
+        "Kali Reis",
+        "Paul Walter Hauser"
+      ],
       "genres": [
         "Ciencia ficción",
         "Suspense",
@@ -4239,6 +5015,12 @@
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=2996",
           "observedAt": "2026-10-18T15:02:20.027669+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=2996",
+          "observedAt": "2026-10-18T15:02:20.027669+00:00",
+          "status": "verified"
         }
       }
     },
@@ -4254,6 +5036,18 @@
         "label": "Pelicula no recomendada a menores de 16"
       },
       "director": "Michael Showalter",
+      "cast": [
+        "Anne Hathaway",
+        "Dakota Johnson",
+        "Josh Hartnett",
+        "Ismael Cruz Cordova",
+        "Irina Dvorovenko",
+        "Brady Wagner",
+        "K.K. Moggie",
+        "Michael Abbott Jr",
+        "Daniel Echevarria",
+        "Asel Swango"
+      ],
       "genres": [
         "Drama",
         "Romántico",
@@ -4345,6 +5139,12 @@
           "url": "https://www.sensacine.com/cines/cine/E0608/",
           "observedAt": "2026-10-18T15:01:20.633777+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film740344.html",
+          "observedAt": "2026-10-06T07:37:04.586748+00:00",
+          "status": "stale"
         }
       }
     },
@@ -4360,6 +5160,15 @@
         "label": "Pelicula no recomendada a menores de 7"
       },
       "director": "Emmanuel Patron",
+      "cast": [
+        "André Dussollier",
+        "Miou-Miou",
+        "Arnaud Ducret",
+        "Thomas Solivéres",
+        "Pauline Clément",
+        "Frédérique Tirmont",
+        "Bernard Alane"
+      ],
       "genres": [
         "Comedia"
       ],
@@ -4438,6 +5247,12 @@
           "observedAt": "2026-10-18T15:01:20.633777+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film959467.html",
+          "observedAt": "2026-09-16T21:08:39.659497+00:00",
+          "status": "stale"
+        },
         "year": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film959467.html",
@@ -4458,6 +5273,9 @@
         "label": "No recomanada per a menors de 16 anys"
       },
       "director": "Yuval Abraham , Rachel Szor",
+      "cast": [
+        "Yuval Abraham"
+      ],
       "genres": [
         "Documental"
       ],
@@ -4547,6 +5365,12 @@
           "url": "https://zumzeigcine.coop/cinema/films/naza/",
           "observedAt": "2026-10-18T15:01:27.612521+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film105520.html",
+          "observedAt": "2026-10-06T07:40:02.426004+00:00",
+          "status": "stale"
         }
       }
     },
@@ -4562,6 +5386,18 @@
         "label": "No recomendada para menores de 12 años"
       },
       "director": "Christopher Nolan",
+      "cast": [
+        "Matt Damon",
+        "Tom Holland",
+        "Anne Hathaway",
+        "Zendaya",
+        "Lupita Nyong'o",
+        "Robert Pattinson",
+        "Charlize Theron",
+        "Jon Bernthal",
+        "John Leguizamo",
+        "Benny Safdie"
+      ],
       "genres": [
         "Acción",
         "Fantasía"
@@ -4658,6 +5494,12 @@
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=2964",
           "observedAt": "2026-10-18T15:02:09.536890+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=2964",
+          "observedAt": "2026-10-18T15:02:09.536890+00:00",
+          "status": "verified"
         }
       }
     },
@@ -4673,6 +5515,21 @@
         "label": "Pelicula no recomendada a menores de 12"
       },
       "director": "Fernando González Molina",
+      "cast": [
+        "Enric Auquer",
+        "Diana Gómez",
+        "Xavi Sáez",
+        "Mónica López",
+        "Pablo Derqui",
+        "Israel Elejalde",
+        "José Pérez Ocaña",
+        "David Vert",
+        "Joan Amargós",
+        "Faouzia Chati",
+        "Jordi Martínez",
+        "Joan Pedrola",
+        "Mima Riera"
+      ],
       "genres": [
         "Drama",
         "Suspense"
@@ -4762,6 +5619,12 @@
           "url": "https://www.sensacine.com/cines/cine/E0608/",
           "observedAt": "2026-10-18T15:01:20.633777+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film268103.html",
+          "observedAt": "2026-10-06T07:39:08.546921+00:00",
+          "status": "stale"
         }
       }
     },
@@ -4777,6 +5640,14 @@
         "label": "Pelicula no recomendada a menores de 16"
       },
       "director": "Jaime Lorente",
+      "cast": [
+        "Miguel Ángel Puro",
+        "Susi Sánchez",
+        "Hugo Arbués",
+        "Óscar de la Fuente",
+        "Chechu Salgado",
+        "Abel de la Fuente"
+      ],
       "genres": [
         "Drama"
       ],
@@ -4865,6 +5736,12 @@
           "observedAt": "2026-10-18T15:01:22.788333+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film523744.html",
+          "observedAt": "2026-10-16T08:00:09.106863+00:00",
+          "status": "stale"
+        },
         "year": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film523744.html",
@@ -4891,6 +5768,21 @@
         "label": "Pelicula no recomendada a menores de 12"
       },
       "director": "Charline Bourgeois-Tacquet",
+      "cast": [
+        "Léa Drucker",
+        "Mélanie Thierry",
+        "Charles Berling",
+        "Laurent Capelluto",
+        "Marie-Christine Barrault",
+        "Yumi Narita",
+        "Agathe Dronne",
+        "Nathalie Afferi",
+        "Sandra Colombo",
+        "Edith Saulnier",
+        "Mourad Benassarou",
+        "Lucas Bustos Topage",
+        "Ji Su Jeong"
+      ],
       "genres": [
         "Comedia dramática"
       ],
@@ -4976,6 +5868,12 @@
           "url": "https://www.sensacine.com/cines/cine/E0747/",
           "observedAt": "2026-10-18T15:01:22.788333+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film172492.html",
+          "observedAt": "2026-10-09T07:08:34.891746+00:00",
+          "status": "stale"
         }
       }
     },
@@ -4991,6 +5889,11 @@
         "label": "Pelicula no recomendada a menores de 12"
       },
       "director": "Hirokazu Kore-eda",
+      "cast": [
+        "Haruka Ayase",
+        "Daigo Yamamoto",
+        "Rimu Kuwaki"
+      ],
       "genres": [
         "Drama"
       ],
@@ -5065,6 +5968,12 @@
           "observedAt": "2026-10-18T15:01:24.758758+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "sensacine",
+          "url": "https://www.sensacine.com/cines/cine/E0682/",
+          "observedAt": "2026-10-18T15:01:24.758758+00:00",
+          "status": "verified"
+        },
         "year": {
           "source": "wikidata",
           "url": "https://www.wikidata.org/wiki/Q137640905",
@@ -5085,6 +5994,21 @@
         "label": "Pelicula no recomendada a menores de 16"
       },
       "director": "Kitao Sakurai",
+      "cast": [
+        "Noah Centineo",
+        "Andrew Koji",
+        "Callina Liang",
+        "Joe Anoa'i",
+        "David Dastmalchian",
+        "Cody Rhodes",
+        "Andrew Schulz",
+        "Orville Peck",
+        "Curtis '50 Cent' Jackson",
+        "Jason Momoa",
+        "Vidyut Jamwal",
+        "Olivier Richters",
+        "Rayna Vallandingham"
+      ],
       "genres": [
         "Acción",
         "Artes Marciales"
@@ -5175,6 +6099,12 @@
           "observedAt": "2026-10-18T15:01:27.783616+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film361470.html",
+          "observedAt": "2026-10-16T08:00:47.738697+00:00",
+          "status": "stale"
+        },
         "year": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film361470.html",
@@ -5201,6 +6131,11 @@
         "label": "Pelicula no recomendada a menores de 12"
       },
       "director": "Brian Duffield",
+      "cast": [
+        "Austin Abrams",
+        "Josh Brolin",
+        "Elisabeth Shue"
+      ],
       "genres": [
         "Suspense"
       ],
@@ -5283,6 +6218,12 @@
           "observedAt": "2026-10-18T15:01:27.783616+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "sensacine",
+          "url": "https://www.sensacine.com/cines/cine/E0764/",
+          "observedAt": "2026-10-18T15:01:27.783616+00:00",
+          "status": "verified"
+        },
         "year": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film249049.html",
@@ -5309,6 +6250,11 @@
         "label": "Pelicula no recomendada a menores de 7"
       },
       "director": "Benoît Daffis , Jean-Christian Tassy",
+      "cast": [
+        "Damien Ferrette",
+        "Herve Jolly",
+        "Kaycie Chase"
+      ],
       "genres": [
         "Animación",
         "Aventura",
@@ -5399,6 +6345,12 @@
           "observedAt": "2026-10-18T15:01:27.783616+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "sensacine",
+          "url": "https://www.sensacine.com/cines/cine/E0764/",
+          "observedAt": "2026-10-18T15:01:27.783616+00:00",
+          "status": "verified"
+        },
         "year": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film392961.html",
@@ -5419,6 +6371,11 @@
         "label": "No recomendada para menores de 12 años"
       },
       "director": "David Ayer",
+      "cast": [
+        "Brad Pitt",
+        "J. K. Simmons",
+        "Anna Lambe"
+      ],
       "genres": [
         "Acción",
         "Aventura"
@@ -5511,6 +6468,12 @@
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=3005",
           "observedAt": "2026-10-18T15:01:46.972603+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=3005",
+          "observedAt": "2026-10-18T15:01:46.972603+00:00",
+          "status": "verified"
         }
       }
     },
@@ -5526,6 +6489,20 @@
         "label": "Todos los publicos"
       },
       "director": "Dave Green",
+      "cast": [
+        "Will Forte",
+        "Lana Condor",
+        "John Cena",
+        "P.J. Byrne",
+        "Tone Bell",
+        "Martha Kelly",
+        "Luis Guzmán",
+        "John Early",
+        "Nancy Linehan Charles",
+        "Kenneth Choi",
+        "Eric Bauza",
+        "Candi Milo"
+      ],
       "genres": [
         "Animación",
         "Aventura",
@@ -5618,6 +6595,12 @@
           "observedAt": "2026-10-18T15:01:27.783616+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film523116.html",
+          "observedAt": "2026-10-06T07:39:57.414126+00:00",
+          "status": "stale"
+        },
         "originalTitle": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film523116.html",
@@ -5638,6 +6621,11 @@
         "label": "Pelicula no recomendada a menores de 16"
       },
       "director": "Rob Savage",
+      "cast": [
+        "Jessica Chastain",
+        "Jay Duplass",
+        "Arabella Olivia Clark"
+      ],
       "genres": [
         "Terror"
       ],
@@ -5722,6 +6710,12 @@
           "observedAt": "2026-10-18T15:01:27.783616+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "sensacine",
+          "url": "https://www.sensacine.com/cines/cine/E0764/",
+          "observedAt": "2026-10-18T15:01:27.783616+00:00",
+          "status": "verified"
+        },
         "year": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film301992.html",
@@ -5738,6 +6732,21 @@
       "runtime": 92,
       "ageRating": null,
       "director": "Jesús Franco",
+      "cast": [
+        "Eddie Constantine",
+        "Françoise Brion",
+        "Fernando Rey",
+        "Mara Laso",
+        "Dina Loy",
+        "Aida Power",
+        "Lemmy Constantine",
+        "Sophie Hardy",
+        "Alfredo Mayo",
+        "Marcelo Arroita-Jáuregui",
+        "Vicente Roca",
+        "Ricardo Palacios",
+        "Ramón Centenero"
+      ],
       "genres": [
         "Ciencia ficción",
         "Comedia",
@@ -5815,6 +6824,12 @@
           "status": "verified",
           "identityStatus": "verified"
         },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film345789.html",
+          "observedAt": "2026-10-18T07:00:02.668045+00:00",
+          "status": "stale"
+        },
         "year": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film345789.html",
@@ -5835,6 +6850,21 @@
         "label": "Pelicula no recomendada a menores de 12"
       },
       "director": "Michal Kwiecinski",
+      "cast": [
+        "Eryk Kulm",
+        "Lambert Wilson",
+        "Joséphine de La Baume",
+        "Victor Meutelet",
+        "Theo Grundmann Brechet",
+        "Przemyslaw Kowalski",
+        "Karolina Gruszka",
+        "Kamil Szeptycki",
+        "Michal Pawlik",
+        "Claudia Fortunato",
+        "Roxane Le Texier",
+        "Gabriel Raab",
+        "Clara Eon"
+      ],
       "genres": [
         "Drama",
         "Música"
@@ -5923,6 +6953,12 @@
           "url": "https://www.sensacine.com/cines/cine/E0447/",
           "observedAt": "2026-10-18T15:01:46.494538+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film309577.html",
+          "observedAt": "2026-10-16T08:01:16.607490+00:00",
+          "status": "stale"
         },
         "year": {
           "source": "filmaffinity",
@@ -6220,6 +7256,9 @@
       "year": 2026,
       "runtime": 79,
       "director": "Carlos Casas",
+      "cast": [
+        "Roni Hensilayah"
+      ],
       "genres": [
         "Drama"
       ],
@@ -6293,6 +7332,12 @@
           "observedAt": "2026-10-18T15:02:10.802310+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film454964.html",
+          "observedAt": "2026-10-18T15:04:09.829496+00:00",
+          "status": "verified"
+        },
         "originalTitle": {
           "source": "imdb_dataset",
           "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
@@ -6313,6 +7358,14 @@
         "label": "No recomendada para menores de 18 años"
       },
       "director": "John Carpenter",
+      "cast": [
+        "Austin Stoker",
+        "Darwin Joston",
+        "Laurie Zimmer",
+        "Martin West",
+        "Tony Burton",
+        "Charles Cyphers"
+      ],
       "genres": [
         "Acción",
         "Intriga",
@@ -6398,6 +7451,12 @@
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=539",
           "observedAt": "2026-10-16T07:54:45.309811+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=539",
+          "observedAt": "2026-10-18T15:01:28.517350+00:00",
+          "status": "verified"
         }
       }
     },
@@ -6408,6 +7467,21 @@
       "year": 1982,
       "runtime": 117,
       "director": "Ridley Scott",
+      "cast": [
+        "Harrison Ford",
+        "Rutger Hauer",
+        "Sean Young",
+        "Daryl Hannah",
+        "Edward James Olmos",
+        "Joanna Cassidy",
+        "Brion James",
+        "Joe Turkel",
+        "M. Emmet Walsh",
+        "William Sanderson",
+        "James Hong",
+        "Morgan Paull",
+        "Hy Pyke"
+      ],
       "genres": [
         "Ciencia ficción",
         "Acción"
@@ -6487,6 +7561,12 @@
           "observedAt": "2026-10-18T15:01:30.037629+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film358476.html",
+          "observedAt": "2026-10-08T07:00:01.659853+00:00",
+          "status": "stale"
+        },
         "year": {
           "source": "reviewed_imdb_dataset",
           "url": "https://www.imdb.com/title/tt0083658/",
@@ -6513,6 +7593,14 @@
         "label": "No recomendada para menores de 12 años"
       },
       "director": "Luca Guadagnino",
+      "cast": [
+        "Timothée Chalamet",
+        "Armie Hammer",
+        "Michael Stuhlbarg",
+        "Amira Casar",
+        "Esther Garrel",
+        "Victoire Du Bois"
+      ],
       "genres": [
         "Drama"
       ],
@@ -6602,6 +7690,12 @@
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=64",
           "observedAt": "2026-10-16T07:54:55.330036+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=64",
+          "observedAt": "2026-10-18T15:01:31.615451+00:00",
+          "status": "verified"
         }
       }
     },
@@ -6617,6 +7711,14 @@
         "label": "Para todos los públicos"
       },
       "director": "Ken Hughes",
+      "cast": [
+        "Dick Van Dyke",
+        "Sally Ann Howes",
+        "Lionel Jeffries",
+        "Gert Fröbe",
+        "Anna Quayle",
+        "Benny Hill"
+      ],
       "genres": [
         "Musical",
         "Comedia",
@@ -6699,6 +7801,12 @@
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=3007",
           "observedAt": "2026-10-16T07:55:03.739609+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=3007",
+          "observedAt": "2026-10-18T15:01:33.239928+00:00",
+          "status": "verified"
         }
       }
     },
@@ -6714,6 +7822,15 @@
         "label": "No recomendada para menores de 13 años"
       },
       "director": "John Carpenter",
+      "cast": [
+        "Keith Gordon",
+        "John Stockwell",
+        "Alexandra Paul",
+        "Harry Dean Stanton",
+        "Robert Prosky",
+        "Christine Belford",
+        "Roberts Blossom"
+      ],
       "genres": [
         "Terror",
         "Fantástico"
@@ -6798,6 +7915,12 @@
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=705",
           "observedAt": "2026-10-16T07:55:08.217284+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=705",
+          "observedAt": "2026-10-18T15:01:34.967911+00:00",
+          "status": "verified"
         }
       }
     },
@@ -6813,6 +7936,19 @@
         "label": "No recomendada para menores de 12 años"
       },
       "director": "Christopher Nolan",
+      "cast": [
+        "Fionn Whitehead",
+        "Tom Glynn-Carney",
+        "Jack Lowden",
+        "Harry Styles",
+        "Aneurin Barnard",
+        "James D'Arcy",
+        "Barry Keoghan",
+        "Kenneth Branagh",
+        "Cillian Murphy",
+        "Mark Rylance",
+        "Tom Hardy"
+      ],
       "genres": [
         "Bélico"
       ],
@@ -6905,6 +8041,12 @@
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=254",
           "observedAt": "2026-10-16T07:55:12.684234+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=254",
+          "observedAt": "2026-10-18T15:01:36.994535+00:00",
+          "status": "verified"
         }
       }
     },
@@ -6920,6 +8062,10 @@
         "label": "No recomendada para menores de 16 años"
       },
       "director": "Robert Eggers",
+      "cast": [
+        "Willem Dafoe",
+        "Robert Pattinson"
+      ],
       "genres": [
         "Drama",
         "Fantástico",
@@ -7003,6 +8149,12 @@
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=348",
           "observedAt": "2026-10-16T07:55:16.603287+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=348",
+          "observedAt": "2026-10-18T15:01:39.280698+00:00",
+          "status": "verified"
         }
       }
     },
@@ -7018,6 +8170,13 @@
         "label": "Para todos los públicos"
       },
       "director": "Jean-Jacques Annaud",
+      "cast": [
+        "Bart",
+        "Youk",
+        "Tchéky Karyo",
+        "Jack Wallace",
+        "Andre Lacombe"
+      ],
       "genres": [
         "Aventuras"
       ],
@@ -7105,6 +8264,12 @@
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=3010",
           "observedAt": "2026-10-16T07:55:20.492606+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=3010",
+          "observedAt": "2026-10-18T15:01:41.478297+00:00",
+          "status": "verified"
         }
       }
     },
@@ -7120,6 +8285,17 @@
         "label": "No recomendada para menores de 18 años"
       },
       "director": "Stanley Kubrick",
+      "cast": [
+        "Tom Cruise",
+        "Nicole Kidman",
+        "Sydney Pollack",
+        "Marie Richardson",
+        "Leelee Sobieski",
+        "Rade Serbedzija",
+        "Todd Field",
+        "Vinessa Shaw",
+        "Alan Cumming"
+      ],
       "genres": [
         "Drama"
       ],
@@ -7207,6 +8383,12 @@
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=1237",
           "observedAt": "2026-10-16T07:55:31.701753+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=1237",
+          "observedAt": "2026-10-18T15:01:49.024137+00:00",
+          "status": "verified"
         }
       }
     },
@@ -7217,6 +8399,15 @@
       "year": 2026,
       "runtime": 135,
       "director": "Takashi Yamazaki",
+      "cast": [
+        "Ryunosuke Kamiki",
+        "Minami Hamabe",
+        "Hidetaka Yoshioka",
+        "Yuki Yamada",
+        "Kuranosuke Sasaki",
+        "Sakura Ando",
+        "Min Tanaka"
+      ],
       "genres": [
         "Fantástico",
         "Acción"
@@ -7290,6 +8481,12 @@
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=3002",
           "observedAt": "2026-10-18T15:01:51.493151+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=3002",
+          "observedAt": "2026-10-18T15:01:51.493151+00:00",
+          "status": "verified"
         }
       }
     },
@@ -7305,6 +8502,14 @@
         "label": "No recomendada para menores de 13 años"
       },
       "director": "John Carpenter",
+      "cast": [
+        "Kurt Russell",
+        "Kim Cattrall",
+        "Dennis Dun",
+        "Kate Burton",
+        "Victor Wong",
+        "James Hong"
+      ],
       "genres": [
         "Aventuras",
         "Acción",
@@ -7389,6 +8594,12 @@
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=1414",
           "observedAt": "2026-10-16T07:55:39.760185+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=1414",
+          "observedAt": "2026-10-18T15:01:54.839091+00:00",
+          "status": "verified"
         }
       }
     },
@@ -7404,6 +8615,13 @@
         "label": "No recomendada para menores de 12 años"
       },
       "director": "John Cameron Mitchell",
+      "cast": [
+        "John Cameron Mitchell",
+        "Michael Pitt",
+        "Miriam Shor",
+        "Alberta Watson",
+        "Stephen Trask"
+      ],
       "genres": [
         "Musical",
         "Drama"
@@ -7483,6 +8701,12 @@
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=1469",
           "observedAt": "2026-10-16T07:55:42.899796+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=1469",
+          "observedAt": "2026-10-18T15:01:57.278175+00:00",
+          "status": "verified"
         }
       }
     },
@@ -7498,6 +8722,15 @@
         "label": "No recomendada para menores de 16 años"
       },
       "director": "Na Hong-jin",
+      "cast": [
+        "Hwang Jung-min",
+        "Zo In-sung",
+        "Jung Ho-yeon",
+        "Taylor Russell",
+        "Cameron Britton",
+        "Alicia Vikander",
+        "Michael Fassbender"
+      ],
       "genres": [
         "Acción",
         "Ciencia ficción",
@@ -7581,6 +8814,12 @@
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=3000",
           "observedAt": "2026-10-16T07:55:46.913354+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=3000",
+          "observedAt": "2026-10-18T15:01:59.618804+00:00",
+          "status": "verified"
         }
       }
     },
@@ -7596,6 +8835,18 @@
         "label": "No recomendada para menores de 18 años"
       },
       "director": "Guy Hamilton",
+      "cast": [
+        "Harry Andrews",
+        "Michael Caine",
+        "Trevor Howard",
+        "Curt Jürgens",
+        "Laurence Olivier",
+        "Christopher Plummer",
+        "Michael Redgrave",
+        "Ralph Richardson",
+        "Robert Shaw",
+        "Susannah York"
+      ],
       "genres": [
         "Bélico"
       ],
@@ -7682,6 +8933,12 @@
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=3006",
           "observedAt": "2026-10-16T07:55:55.788847+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=3006",
+          "observedAt": "2026-10-18T15:02:03.202098+00:00",
+          "status": "verified"
         }
       }
     },
@@ -7697,6 +8954,16 @@
         "label": "No recomendada para menores de 18 años"
       },
       "director": "John Carpenter",
+      "cast": [
+        "Jamie Lee Curtis",
+        "Donald Pleasence",
+        "Nancy Loomis",
+        "P.J. Soles",
+        "Charles Cyphers",
+        "Kyle Richards",
+        "John Michael Graham",
+        "Nick Castle"
+      ],
       "genres": [
         "Terror"
       ],
@@ -7783,6 +9050,12 @@
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=1443",
           "observedAt": "2026-10-16T07:56:05.604414+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=1443",
+          "observedAt": "2026-10-18T15:02:07.149044+00:00",
+          "status": "verified"
         }
       }
     },
@@ -7798,6 +9071,19 @@
         "label": "No recomendada para menores de 12 años"
       },
       "director": "Michel Gondry",
+      "cast": [
+        "Jim Carrey",
+        "Kate Winslet",
+        "Kirsten Dunst",
+        "Mark Ruffalo",
+        "Elijah Wood",
+        "Tom Wilkinson",
+        "Thomas Jay Ryan",
+        "Gerry Robert Byrne",
+        "Jane Adams",
+        "David Cross",
+        "Ryan Whitney"
+      ],
       "genres": [
         "Drama",
         "Romance",
@@ -7898,6 +9184,12 @@
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=2120",
           "observedAt": "2026-10-16T07:56:12.251343+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=2120",
+          "observedAt": "2026-10-18T15:02:11.952186+00:00",
+          "status": "verified"
         }
       }
     },
@@ -7913,6 +9205,15 @@
         "label": "No recomendada para menores de 18 años"
       },
       "director": "Darren Aronofsky",
+      "cast": [
+        "Jared Leto",
+        "Jennifer Connelly",
+        "Ellen Burstyn",
+        "Marlon Wayans",
+        "Christopher McDonald",
+        "Dylan Baker",
+        "Keith David"
+      ],
       "genres": [
         "Drama"
       ],
@@ -7998,6 +9299,12 @@
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=2485",
           "observedAt": "2026-10-16T07:56:28.570145+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=2485",
+          "observedAt": "2026-10-18T15:02:21.606614+00:00",
+          "status": "verified"
         }
       }
     },
@@ -8013,6 +9320,12 @@
         "label": "No recomendada para menores de 18 años"
       },
       "director": "Ken Russell",
+      "cast": [
+        "Vanessa Redgrave",
+        "Oliver Reed",
+        "Gemma Jones",
+        "Dudley Sutton"
+      ],
       "genres": [
         "Terror",
         "Drama"
@@ -8094,6 +9407,12 @@
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=3019",
           "observedAt": "2026-10-16T07:56:31.171065+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=3019",
+          "observedAt": "2026-10-18T15:02:22.984913+00:00",
+          "status": "verified"
         }
       }
     },
@@ -8109,6 +9428,18 @@
         "label": "No recomendada para menores de 12 años"
       },
       "director": "James McTeigue",
+      "cast": [
+        "Natalie Portman",
+        "Hugo Weaving",
+        "Stephen Rea",
+        "John Hurt",
+        "Rupert Graves",
+        "Stephen Fry",
+        "Tim Pigott-Smith",
+        "Roger Allam",
+        "Ben Miles",
+        "Sinead Cusack"
+      ],
       "genres": [
         "Ciencia ficción",
         "Acción",
@@ -8190,6 +9521,12 @@
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=2863",
           "observedAt": "2026-10-16T07:56:36.827100+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=2863",
+          "observedAt": "2026-10-18T15:02:25.134570+00:00",
+          "status": "verified"
         }
       }
     },
@@ -8200,6 +9537,15 @@
       "year": 1984,
       "runtime": 95,
       "director": "Montxo Armendáriz",
+      "cast": [
+        "Patxi Bisquert",
+        "Amaia Lasa",
+        "Isidro José Lozano",
+        "Nacho Martínez",
+        "José María Asín",
+        "Miguel Rellán",
+        "Enrique Goicoechea"
+      ],
       "genres": [
         "Drama"
       ],
@@ -8276,6 +9622,12 @@
           "observedAt": "2026-10-18T15:01:42.224252+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/tasio",
+          "observedAt": "2026-10-18T15:01:42.224252+00:00",
+          "status": "verified"
+        },
         "originalTitle": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film524638.html",
@@ -8291,6 +9643,16 @@
       "year": 2000,
       "runtime": 112,
       "director": "Stephen Daldry",
+      "cast": [
+        "Jamie Bell",
+        "Julie Walters",
+        "Jamie Draven",
+        "Gary Lewis",
+        "Jean Heywood",
+        "Mike Elliott",
+        "Stuart Wells",
+        "Janine Birkett"
+      ],
       "genres": [
         "Drama",
         "Comedia"
@@ -8368,6 +9730,12 @@
           "observedAt": "2026-10-18T15:01:51.475059+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/billy-elliot",
+          "observedAt": "2026-10-18T15:01:51.475059+00:00",
+          "status": "verified"
+        },
         "originalTitle": {
           "source": "wikidata",
           "url": "https://www.wikidata.org/wiki/Q458629",
@@ -8383,6 +9751,16 @@
       "year": 2007,
       "runtime": 160,
       "director": "Paul Thomas Anderson",
+      "cast": [
+        "Daniel Day-Lewis",
+        "Paul Dano",
+        "Kevin J. O'Connor",
+        "Ciarán Hinds",
+        "Dillon Freasier",
+        "Randall Carver",
+        "Coco Leigh",
+        "Sydney McCallister"
+      ],
       "genres": [
         "Drama"
       ],
@@ -8464,6 +9842,12 @@
           "observedAt": "2026-10-18T15:01:54.395021+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/there-will-be-blood",
+          "observedAt": "2026-10-18T15:01:54.395021+00:00",
+          "status": "verified"
+        },
         "originalTitle": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film531158.html",
@@ -8479,6 +9863,15 @@
       "year": 2012,
       "runtime": 143,
       "director": "Paul Thomas Anderson",
+      "cast": [
+        "Joaquin Phoenix",
+        "Philip Seymour Hoffman",
+        "Amy Adams",
+        "Laura Dern",
+        "Kevin J. O'Connor",
+        "Rami Malek",
+        "Jesse Plemons"
+      ],
       "genres": [
         "Drama"
       ],
@@ -8557,6 +9950,12 @@
           "observedAt": "2026-10-18T15:02:33.534060+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/master",
+          "observedAt": "2026-10-18T15:02:33.534060+00:00",
+          "status": "verified"
+        },
         "originalTitle": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film112983.html",
@@ -8572,6 +9971,13 @@
       "year": 1962,
       "runtime": 106,
       "director": "Arthur Penn",
+      "cast": [
+        "Anne Bancroft",
+        "Patty Duke",
+        "Víctor Jory",
+        "Inga Swenson",
+        "Andrew Prine"
+      ],
       "genres": [
         "Drama"
       ],
@@ -8651,6 +10057,12 @@
           "observedAt": "2026-10-18T15:02:35.213011+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/miracle-worker",
+          "observedAt": "2026-10-18T15:02:35.213011+00:00",
+          "status": "verified"
+        },
         "originalTitle": {
           "source": "wikidata",
           "url": "https://www.wikidata.org/wiki/Q287536",
@@ -8666,6 +10078,16 @@
       "year": 1956,
       "runtime": 93,
       "director": "Gene Kelly",
+      "cast": [
+        "Gene Kelly",
+        "Igor Iuskèvitx",
+        "Claire Sombert",
+        "Tamara Toumanova",
+        "Diana Adams",
+        "Tommy Rall",
+        "Belita",
+        "David Paltenghi"
+      ],
       "genres": [
         "Musical"
       ],
@@ -8744,6 +10166,12 @@
           "observedAt": "2026-10-18T15:02:39.038275+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/invitation-dance",
+          "observedAt": "2026-10-18T15:02:39.038275+00:00",
+          "status": "verified"
+        },
         "originalTitle": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film427501.html",
@@ -8759,6 +10187,13 @@
       "year": 2024,
       "runtime": 93,
       "director": "Simone Bitton",
+      "cast": [
+        "Mohamed Berrada",
+        "Hassan Bourkia",
+        "Dominique Eddé",
+        "Leila Shahid",
+        "Mohamed Tozy"
+      ],
       "genres": [
         "Documental"
       ],
@@ -8832,6 +10267,12 @@
           "observedAt": "2026-10-18T15:02:42.250755+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film121356.html",
+          "observedAt": "2026-10-18T15:04:16.652050+00:00",
+          "status": "verified"
+        },
         "originalTitle": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film121356.html",
@@ -8847,6 +10288,16 @@
       "year": 1984,
       "runtime": 89,
       "director": "Jim Jarmusch",
+      "cast": [
+        "John Lurie",
+        "Eszter Balint",
+        "Richard Edson",
+        "Sara Driver",
+        "Cecillia Stark",
+        "Danny Rosen",
+        "Tom DiCillo",
+        "Paul Sloane"
+      ],
       "genres": [
         "Comedia",
         "Drama"
@@ -8927,6 +10378,12 @@
           "observedAt": "2026-10-18T15:02:54.774196+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/stranger-paradise",
+          "observedAt": "2026-10-18T15:02:54.774196+00:00",
+          "status": "verified"
+        },
         "originalTitle": {
           "source": "wikidata",
           "url": "https://www.wikidata.org/wiki/Q1345409",
@@ -8942,6 +10399,9 @@
       "year": 2009,
       "runtime": 100,
       "director": "Simone Bitton",
+      "cast": [
+        "Rachel Corrie"
+      ],
       "genres": [
         "Documental"
       ],
@@ -9015,6 +10475,12 @@
           "observedAt": "2026-10-18T15:03:01.948220+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film239609.html",
+          "observedAt": "2026-10-18T15:04:18.665219+00:00",
+          "status": "verified"
+        },
         "originalTitle": {
           "source": "imdb_dataset",
           "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
@@ -9030,6 +10496,11 @@
       "year": 1952,
       "runtime": 103,
       "director": "Keisuke Kinoshita",
+      "cast": [
+        "Hideko Takamine",
+        "Masao Wakahara",
+        "Toshiro Kobayashi"
+      ],
       "genres": [
         "Comedia"
       ],
@@ -9110,6 +10581,12 @@
           "observedAt": "2026-10-18T15:03:04.531494+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/karumen-junjo-su",
+          "observedAt": "2026-10-18T15:03:04.531494+00:00",
+          "status": "verified"
+        },
         "originalTitle": {
           "source": "wikidata",
           "url": "https://www.wikidata.org/wiki/Q17226547",
@@ -9125,6 +10602,14 @@
       "year": 2014,
       "runtime": 148,
       "director": "Paul Thomas Anderson",
+      "cast": [
+        "Joaquin Phoenix",
+        "Josh Brolin",
+        "Katherine Waterstone",
+        "Owen Wilson",
+        "Reese Witherspoon",
+        "Benicio del Toro"
+      ],
       "genres": [
         "Comedia",
         "Intriga"
@@ -9204,6 +10689,12 @@
           "observedAt": "2026-10-18T15:03:12.957033+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/inherent-vice",
+          "observedAt": "2026-10-18T15:03:12.957033+00:00",
+          "status": "verified"
+        },
         "originalTitle": {
           "source": "wikidata",
           "url": "https://www.wikidata.org/wiki/Q13806537",
@@ -9219,6 +10710,9 @@
       "year": 1927,
       "runtime": 95,
       "director": "Abram Room",
+      "cast": [
+        "Nikolai Batalov Ludmilla Semyonova Vladimir Fogel"
+      ],
       "genres": [
         "Drama",
         "Comedia"
@@ -9298,6 +10792,12 @@
           "observedAt": "2026-10-18T15:03:18.250596+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/tretya-meshchanskaya",
+          "observedAt": "2026-10-18T15:03:18.250596+00:00",
+          "status": "verified"
+        },
         "originalTitle": {
           "source": "imdb_dataset",
           "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
@@ -9313,6 +10813,14 @@
       "year": 2013,
       "runtime": 89,
       "director": "Lucía Puenzo",
+      "cast": [
+        "Àlex Brendemühl",
+        "Florencia Bado",
+        "Natalia Oreiro",
+        "Diego Peretti",
+        "Elena Roger",
+        "Guillermo Pfening"
+      ],
       "genres": [
         "Drama",
         "Thriller"
@@ -9393,6 +10901,12 @@
           "observedAt": "2026-10-18T15:03:20.182841+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/wakolda",
+          "observedAt": "2026-10-18T15:03:20.182841+00:00",
+          "status": "verified"
+        },
         "originalTitle": {
           "source": "wikidata",
           "url": "https://www.wikidata.org/wiki/Q13229518",
@@ -9408,6 +10922,12 @@
       "year": 1944,
       "runtime": 85,
       "director": "Keisuke Kinoshita",
+      "cast": [
+        "Kinuyo Tanaka",
+        "Chishû Ryû",
+        "Ken Mitsuda",
+        "Haruko Sugimura"
+      ],
       "genres": [
         "Drama"
       ],
@@ -9482,6 +11002,12 @@
           "observedAt": "2026-10-18T15:03:25.877419+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/rikugun",
+          "observedAt": "2026-10-18T15:03:25.877419+00:00",
+          "status": "verified"
+        },
         "originalTitle": {
           "source": "wikidata",
           "url": "https://www.wikidata.org/wiki/Q11658655",
@@ -9497,6 +11023,15 @@
       "year": 2021,
       "runtime": 133,
       "director": "Paul Thomas Anderson",
+      "cast": [
+        "Alana Haim",
+        "Cooper Hoffman",
+        "Sean Penn",
+        "Bradley Cooper",
+        "Tom Waits",
+        "Ben Safdie",
+        "Joseph Cross"
+      ],
       "genres": [
         "Comedia",
         "Drama",
@@ -9575,6 +11110,12 @@
           "observedAt": "2026-10-18T15:03:44.624966+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/licorice-pizza",
+          "observedAt": "2026-10-18T15:03:44.624966+00:00",
+          "status": "verified"
+        },
         "originalTitle": {
           "source": "wikidata",
           "url": "https://www.wikidata.org/wiki/Q102036245",
@@ -9590,6 +11131,14 @@
       "year": 2017,
       "runtime": 130,
       "director": "Paul Thomas Anderson",
+      "cast": [
+        "Vicky Krieps",
+        "Daniel Day-Lewis",
+        "Lesley Manville",
+        "Julie Vollono",
+        "Sue Clark",
+        "Joan Brown"
+      ],
       "genres": [
         "Drama",
         "Romance"
@@ -9671,6 +11220,12 @@
           "observedAt": "2026-10-18T15:03:48.752934+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/phantom-thread",
+          "observedAt": "2026-10-18T15:03:48.752934+00:00",
+          "status": "verified"
+        },
         "originalTitle": {
           "source": "wikidata",
           "url": "https://www.wikidata.org/wiki/Q28840386",
@@ -9686,6 +11241,16 @@
       "year": 2025,
       "runtime": 161,
       "director": "Paul Thomas Anderson",
+      "cast": [
+        "Leonardo DiCaprio",
+        "Sean Penn",
+        "Chase Infiniti",
+        "Benicio del Toro",
+        "Teyana Taylor",
+        "Regina Hall",
+        "Tony Goldwyn",
+        "John Hoogenakker"
+      ],
       "genres": [
         "Thriller",
         "Acción",
@@ -9772,6 +11337,12 @@
           "observedAt": "2026-10-18T15:03:50.349253+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/one-battle-after-another",
+          "observedAt": "2026-10-18T15:03:50.349253+00:00",
+          "status": "verified"
+        },
         "originalTitle": {
           "source": "wikidata",
           "url": "https://www.wikidata.org/wiki/Q117085614",
@@ -9792,6 +11363,21 @@
         "label": "Pelicula no recomendada a menores de 16"
       },
       "director": "Annemarie Jacir",
+      "cast": [
+        "Yasmine Al Massri",
+        "Karim Anaya",
+        "Robert Aramayo",
+        "Hiam Abbass",
+        "Liam Cunningham",
+        "Jeremy Irons",
+        "Billy Howle",
+        "Dhaffer L'Abidine",
+        "Sam Hoare",
+        "Yumna Marwan",
+        "Saleh Bakri",
+        "Adam Lawrence",
+        "Joanna Arida"
+      ],
       "genres": [
         "Drama"
       ],
@@ -9874,6 +11460,12 @@
           "observedAt": "2026-10-18T15:01:20.633777+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film605590.html",
+          "observedAt": "2026-10-06T07:40:35.364941+00:00",
+          "status": "stale"
+        },
         "year": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film605590.html",
@@ -9890,6 +11482,11 @@
       "runtime": 119,
       "ageRating": null,
       "director": "Damián Szifron",
+      "cast": [
+        "Ricardo Darín",
+        "Oscar Martinez",
+        "Leonardo Sbaraglia"
+      ],
       "genres": [
         "Comedia",
         "Drama"
@@ -9964,6 +11561,12 @@
           "observedAt": "2026-10-18T15:04:36.940368+00:00",
           "status": "verified",
           "identityStatus": "verified"
+        },
+        "cast": {
+          "source": "sensacine",
+          "url": "https://www.sensacine.com/cines/cine/E0747/",
+          "observedAt": "2026-10-18T15:01:22.788333+00:00",
+          "status": "verified"
         },
         "year": {
           "source": "filmaffinity",
@@ -10095,6 +11698,20 @@
         "label": "Pelicula no recomendada a menores de 12"
       },
       "director": "Yoji Yamada",
+      "cast": [
+        "Takuya Kimura",
+        "Chieko Baisho",
+        "Aoi Yû",
+        "Jun",
+        "Takaya Sakoda",
+        "Yûka",
+        "Runa Nakashima",
+        "Misuzu Kanno",
+        "Makita Sports",
+        "Masayasu Kitayama",
+        "Nenji Kobayashi",
+        "Takashi Sasano"
+      ],
       "genres": [
         "Drama"
       ],
@@ -10176,6 +11793,12 @@
           "observedAt": "2026-10-18T15:01:24.758758+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film538345.html",
+          "observedAt": "2026-09-15T08:00:44.153501+00:00",
+          "status": "stale"
+        },
         "year": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film538345.html",
@@ -10196,6 +11819,21 @@
         "label": "No recomendada para menores de 12 años"
       },
       "director": "Christopher Nolan",
+      "cast": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Jessica Chastain",
+        "Michael Caine",
+        "Mackenzie Foy",
+        "Matt Damon",
+        "John Lithgow",
+        "Casey Affleck",
+        "David Gyasi",
+        "Wes Bentley",
+        "Ellen Burstyn",
+        "Timothée Chalamet",
+        "Topher Grace"
+      ],
       "genres": [
         "Ciencia ficción",
         "Drama",
@@ -10280,6 +11918,12 @@
           "observedAt": "2026-10-16T07:55:51.117299+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film704416.html",
+          "observedAt": "2026-10-18T15:05:49.111261+00:00",
+          "status": "verified"
+        },
         "year": {
           "source": "imdb_dataset",
           "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
@@ -10295,6 +11939,21 @@
       "year": 1999,
       "runtime": 188,
       "director": "Paul Thomas Anderson",
+      "cast": [
+        "Tom Cruise",
+        "John C. Reilly",
+        "Philip Baker Hall",
+        "Julianne Moore",
+        "William H. Macy",
+        "Jason Robards",
+        "Philip Seymour Hoffman",
+        "Melora Walters",
+        "Melinda Dillon",
+        "April Grace",
+        "Henry Gibson",
+        "Jeremy Blackman",
+        "Michael Bowen"
+      ],
       "genres": [
         "Drama"
       ],
@@ -10369,6 +12028,12 @@
           "observedAt": "2026-10-18T15:01:39.640896+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film411816.html",
+          "observedAt": "2026-10-18T15:06:01.866620+00:00",
+          "status": "verified"
+        },
         "year": {
           "source": "imdb_dataset",
           "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
@@ -10390,6 +12055,13 @@
       "year": 1915,
       "runtime": 75,
       "director": "Mario Roncoroni",
+      "cast": [
+        "Valeria Creti",
+        "Mario Mariani",
+        "Cristina Ruspoli",
+        "Giovanni Spano",
+        "Filippo Vallino"
+      ],
       "genres": [
         "Intriga"
       ],
@@ -10464,6 +12136,12 @@
           "observedAt": "2026-10-18T15:02:44.996979+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film830161.html",
+          "observedAt": "2026-10-18T15:06:04.204773+00:00",
+          "status": "verified"
+        },
         "director": {
           "source": "imdb_dataset",
           "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
@@ -10490,6 +12168,11 @@
         "label": "Todos los publicos"
       },
       "director": "John Lasseter, Joe Ranft",
+      "cast": [
+        "Owen Wilson",
+        "Paul Newman",
+        "Bonnie Hunt"
+      ],
       "genres": [
         "Animación",
         "Comedia",
@@ -10560,6 +12243,12 @@
       "mergedIds": [],
       "metadataSources": {
         "ageRating": {
+          "source": "sensacine",
+          "url": "https://www.sensacine.com/cines/cine/E0608/",
+          "observedAt": "2026-10-18T15:01:20.633777+00:00",
+          "status": "verified"
+        },
+        "cast": {
           "source": "sensacine",
           "url": "https://www.sensacine.com/cines/cine/E0608/",
           "observedAt": "2026-10-18T15:01:20.633777+00:00",
@@ -10664,6 +12353,11 @@
         "label": "Todos los publicos"
       },
       "director": "Karsten Kiilerich , Stine Marie Buhl",
+      "cast": [
+        "Victor Spanning",
+        "Annevig Schelde Ebbe",
+        "Kirsten Lehfeldt"
+      ],
       "genres": [
         "Animación",
         "Aventura",
@@ -10733,6 +12427,12 @@
       "mergedIds": [],
       "metadataSources": {
         "ageRating": {
+          "source": "sensacine",
+          "url": "https://www.sensacine.com/cines/cine/E0747/",
+          "observedAt": "2026-10-18T15:01:22.788333+00:00",
+          "status": "verified"
+        },
+        "cast": {
           "source": "sensacine",
           "url": "https://www.sensacine.com/cines/cine/E0747/",
           "observedAt": "2026-10-18T15:01:22.788333+00:00",
@@ -10855,6 +12555,21 @@
         "label": "Pelicula no recomendada a menores de 12"
       },
       "director": "Anthony Maras",
+      "cast": [
+        "Andrew Scott",
+        "Brendan Fraser",
+        "Kerry Condon",
+        "Damian Lewis",
+        "Chris Messina",
+        "Tamsin Topolski",
+        "Con O'Neill",
+        "Evgenios Kakolyris",
+        "Wil Coban",
+        "Daniel Quinn Toye",
+        "Joshua Hill",
+        "Toby Williams",
+        "Charlie Bentley"
+      ],
       "genres": [
         "Guerra",
         "Histórico",
@@ -10929,6 +12644,12 @@
           "source": "sensacine",
           "url": "https://www.sensacine.com/cines/cine/E0682/",
           "observedAt": "2026-10-18T15:01:24.758758+00:00",
+          "status": "verified"
+        },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film177067.html",
+          "observedAt": "2026-10-18T15:04:48.350049+00:00",
           "status": "verified"
         },
         "year": {
@@ -11058,6 +12779,11 @@
         "label": "Todos los publicos"
       },
       "director": "Joel Crawford , Januel P. Mercado",
+      "cast": [
+        "H.E.R",
+        "Liza Soberano",
+        "Dave Franco"
+      ],
       "genres": [
         "Animación",
         "Aventura",
@@ -11142,6 +12868,12 @@
           "observedAt": "2026-10-18T15:01:27.783616+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "sensacine",
+          "url": "https://www.sensacine.com/cines/cine/E0764/",
+          "observedAt": "2026-10-18T15:01:27.783616+00:00",
+          "status": "verified"
+        },
         "year": {
           "source": "imdb_dataset",
           "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
@@ -11162,6 +12894,11 @@
         "label": "Pelicula no recomendada a menores de 12"
       },
       "director": "Joe Russo , Anthony Russo",
+      "cast": [
+        "Robert Downey Jr",
+        "Chris Evans",
+        "Mark Ruffalo"
+      ],
       "genres": [
         "Acción",
         "Aventura",
@@ -11238,6 +12975,12 @@
           "observedAt": "2026-10-18T15:01:30.941857+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "sensacine",
+          "url": "https://www.sensacine.com/cines/cine/E0808/",
+          "observedAt": "2026-10-18T15:01:30.941857+00:00",
+          "status": "verified"
+        },
         "year": {
           "source": "imdb_dataset",
           "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
@@ -11253,6 +12996,15 @@
       "year": 2025,
       "runtime": 82,
       "director": "Eimi Imanishi",
+      "cast": [
+        "Nadhira Mohamed",
+        "Suleiman Filali",
+        "Omar Salem",
+        "Eddami Elabed",
+        "Chekh Mehdi",
+        "Khadija Najem Allal",
+        "Ghizlane L’Koucha"
+      ],
       "genres": [],
       "synopsis": "La Mariam, una jove sahrauí amb un carisma especial, és deportada d’Espanya i forçada a tornar a la llar familiar al Sàhara Occidental. Desesperada per tornar a Barcelona, la Mariam no aconsegueix adaptar-se al seu lloc de naixement. Els seus intents fallits per millorar la seva situació l’enfrontaran de ple amb la seva identitat: ni el seu arrelament al Sàhara ni el seu vincle amb Espanya resulten suficients per a trobar el seu lloc.",
       "poster": "https://espaitexas.cat/wp-content/uploads/2026/09/tal-nomad-shadow-poster-2-72.jpg",
@@ -11318,6 +13070,12 @@
       "mergedIds": [],
       "metadataSources": {
         "runtime": {
+          "source": "official",
+          "url": "https://espaitexas.cat/pelicula/ombra-nomada/",
+          "observedAt": "2026-10-18T15:01:25.439891+00:00",
+          "status": "verified"
+        },
+        "cast": {
           "source": "official",
           "url": "https://espaitexas.cat/pelicula/ombra-nomada/",
           "observedAt": "2026-10-18T15:01:25.439891+00:00",
@@ -11663,6 +13421,11 @@
         "label": "Pelicula no recomendada a menores de 16"
       },
       "director": "Mike P. Nelson",
+      "cast": [
+        "Kiana Madeira",
+        "Jessica Rothe",
+        "Logan Marshall-Green"
+      ],
       "genres": [
         "Acción",
         "Aventura",
@@ -11744,6 +13507,12 @@
           "status": "verified"
         },
         "ageRating": {
+          "source": "sensacine",
+          "url": "https://www.sensacine.com/cines/cine/E0388/",
+          "observedAt": "2026-10-18T15:02:01.021863+00:00",
+          "status": "verified"
+        },
+        "cast": {
           "source": "sensacine",
           "url": "https://www.sensacine.com/cines/cine/E0388/",
           "observedAt": "2026-10-18T15:02:01.021863+00:00",
@@ -12062,6 +13831,23 @@
       "runtime": 126,
       "ageRating": null,
       "director": "Hirokazu Koreeda",
+      "cast": [
+        "Haruka Ayase",
+        "Rimu Kuwaki",
+        "Daigo",
+        "Kotaro Daigo",
+        "Rito Kuwaki",
+        "Daigo Yamamoto",
+        "Nana Seino",
+        "Min Tanaka",
+        "Kan'ichirô Satô",
+        "Hinata Hiiragi",
+        "Akihiro Kakuta",
+        "Kayo Noro",
+        "Mari Hoshino",
+        "Ayumu Nakajima",
+        "Kimiko Yo"
+      ],
       "genres": [
         "Ciencia ficción",
         "Drama"
@@ -12133,6 +13919,12 @@
           "source": "publicine",
           "url": "https://www.publicine.net/cartelera-cine/barcelona/renoir-floridablanca-cines",
           "observedAt": "2026-10-18T15:02:07.854058+00:00",
+          "status": "verified"
+        },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film448187.html",
+          "observedAt": "2026-10-18T15:04:07.792908+00:00",
           "status": "verified"
         },
         "year": {
@@ -12404,6 +14196,19 @@
         "label": "No recomanada per a menors de 16 anys"
       },
       "director": "Miguel Eek",
+      "cast": [
+        "Amilcar Cabral",
+        "Carlos Vale Ferraz",
+        "Pedro Pires",
+        "Juliao Soares",
+        "Josep Sanchez Cervelló",
+        "Tomás Medeiros",
+        "Carlos Reis",
+        "Iva Cabral",
+        "Ana Maria Cabral",
+        "José Vicente Lopes",
+        "Antonio Correia"
+      ],
       "genres": [
         "Documental"
       ],
@@ -12482,6 +14287,12 @@
           "source": "official",
           "url": "https://zumzeigcine.coop/cinema/films/amilcar/",
           "observedAt": "2026-10-16T07:55:17.524476+00:00",
+          "status": "verified"
+        },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film855612.html",
+          "observedAt": "2026-10-18T15:05:23.496190+00:00",
           "status": "verified"
         },
         "year": {
@@ -12651,6 +14462,13 @@
       "year": 2026,
       "runtime": 109,
       "director": "Mejbaur Rahman Sumon",
+      "cast": [
+        "Nazifa Tushi",
+        "Mostafizur Noor Imran",
+        "Ahsabul Yamin Riad",
+        "Gazi Rakayet",
+        "Tutul Fakir"
+      ],
       "genres": [],
       "synopsis": "Un agricultor viu aïllat amb la seva esposa, una dona que cada vegada es desestabilitza més emocionalment. Pel·lícula que forma part de la Secció Oficial de l'Asian Film Festival Barcelona (AFFBCN), un festival especialitzat en cinema asiàtic d'autor.",
       "poster": null,
@@ -12719,6 +14537,12 @@
           "source": "official",
           "url": "https://zumzeigcine.coop/cinema/films/roid/",
           "observedAt": "2026-10-18T15:01:51.816598+00:00",
+          "status": "verified"
+        },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film261859.html",
+          "observedAt": "2026-10-18T15:05:30.500614+00:00",
           "status": "verified"
         },
         "year": {
@@ -12894,6 +14718,9 @@
       "year": 2026,
       "runtime": 94,
       "director": "Zhongmin Shen",
+      "cast": [
+        "Cuishan Liang"
+      ],
       "genres": [],
       "synopsis": "A la recerca del passat del seu pare, una dona viatja a una remota plantació. Es trobarà amb diferents persones per intentar localitzar respostes sobre la Revolució Cultural. Pel·lícula que forma part de la Secció Oficial de l'Asian Film Festival Barcelona (AFFBCN), un festival especialitzat en cinema asiàtic d'autor.",
       "poster": null,
@@ -12962,6 +14789,12 @@
           "source": "official",
           "url": "https://zumzeigcine.coop/cinema/films/shanghai-daughter/",
           "observedAt": "2026-10-18T15:02:01.237155+00:00",
+          "status": "verified"
+        },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film301729.html",
+          "observedAt": "2026-10-18T15:05:38.742913+00:00",
           "status": "verified"
         },
         "director": {
@@ -14039,6 +15872,16 @@
       "year": 1976,
       "runtime": 123,
       "director": "Joseph Losey",
+      "cast": [
+        "Alain Delon",
+        "Jeanne Moreau",
+        "Michel Lonsdale",
+        "Juliet Berto",
+        "Suzanne Flon",
+        "Francine Berger",
+        "Francine Racette",
+        "Jean Bouise"
+      ],
       "genres": [],
       "synopsis": "Al París ocupat pels nazis, un marxant s’aprofita de la situació dels jueus perseguits per comprar, a baix preu, les seves obres d’art. Un dia descobreix que algú, un jueu, ha adoptat el seu nom.",
       "poster": null,
@@ -14104,6 +15947,12 @@
       "mergedIds": [],
       "metadataSources": {
         "runtime": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/mr-klein",
+          "observedAt": "2026-10-18T15:03:22.572803+00:00",
+          "status": "verified"
+        },
+        "cast": {
           "source": "official",
           "url": "https://www.filmoteca.cat/web/ca/film/mr-klein",
           "observedAt": "2026-10-18T15:03:22.572803+00:00",
@@ -14191,6 +16040,10 @@
       "year": 2016,
       "runtime": 90,
       "director": "Bartek Dziadosz, Colin MacCabe, Christopher Roth, Tilda Swinton",
+      "cast": [
+        "John Berger",
+        "Tilda Swinton"
+      ],
       "genres": [],
       "synopsis": "Un retrat de John Berger durant els seus últims anys al poble de Quincy, als Alps francesos, on el pensador i escriptor britànic es va adonar que el cultiu de l’agricultura de subsistència practicada durant mil·lennis arribava a la seva fi, i va decidir participar activament en aquesta manera de viure.",
       "poster": null,
@@ -14261,6 +16114,12 @@
           "observedAt": "2026-10-18T15:03:27.662185+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film773579.html",
+          "observedAt": "2026-10-18T15:06:26.898591+00:00",
+          "status": "verified"
+        },
         "director": {
           "source": "imdb_dataset",
           "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
@@ -14282,6 +16141,14 @@
       "year": 1958,
       "runtime": 92,
       "director": "Keisuke Kinoshita",
+      "cast": [
+        "Kinuyo Tanaka",
+        "Teiji Takahashi",
+        "Yûko Mochizuki",
+        "Danko Ichikawa",
+        "Seiji Miyaguchi",
+        "Keiko Ogasawara"
+      ],
       "genres": [],
       "synopsis": "Als mísers poblats de camperols, quan els vells deixaven de ser productius, eren portats al mont Narayama per morir-hi amb dignitat. Kinoshita va recrear aquesta antiga llegenda japonesa utilitzant els elements escènics i musicals del teatre kabuki.",
       "poster": null,
@@ -14347,6 +16214,12 @@
       "mergedIds": [],
       "metadataSources": {
         "runtime": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/narayama-bushiko",
+          "observedAt": "2026-10-18T15:03:29.887897+00:00",
+          "status": "verified"
+        },
+        "cast": {
           "source": "official",
           "url": "https://www.filmoteca.cat/web/ca/film/narayama-bushiko",
           "observedAt": "2026-10-18T15:03:29.887897+00:00",
@@ -14538,6 +16411,15 @@
       "year": 1972,
       "runtime": 88,
       "director": "Carlos Benpar",
+      "cast": [
+        "Josep Castillo Escalona",
+        "Mir Ferry",
+        "Daniel Medrán",
+        "Carlos Benpar",
+        "Mercedes Capell",
+        "Helena Gràcia",
+        "Mary Paz Monterde"
+      ],
       "genres": [],
       "synopsis": "Rodada entre el 1968 i el 1973, Soplo de esplendor és una de les obres més singulars sorgides del cinema català independent de finals del franquisme.",
       "poster": null,
@@ -14601,6 +16483,12 @@
           "url": "https://www.filmoteca.cat/web/ca/film/soplo-de-esplendor",
           "observedAt": "2026-10-18T15:03:33.891277+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/soplo-de-esplendor",
+          "observedAt": "2026-10-18T15:03:33.891277+00:00",
+          "status": "verified"
         }
       }
     },
@@ -14611,6 +16499,10 @@
       "year": 1919,
       "runtime": 79,
       "director": "Salvador Castelló",
+      "cast": [
+        "Alba Tiberio",
+        "Castellani Tiberio"
+      ],
       "genres": [],
       "synopsis": "Rodada el 1919 i estrenada el 1920, Voluntad que vence és una peça excepcional del cinema mut barceloní, dirigida per Salvador Castelló, operador, director i productor actiu en algunes de les principals companyies del cinema català dels anys deu. La restauració que es presenta s’ha dut a terme en col·laboració amb la Cinémathèque Française a partir dels materials conservats per aquesta institució.",
       "poster": null,
@@ -14681,6 +16573,12 @@
           "observedAt": "2026-10-18T15:03:35.571714+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "official",
+          "url": "https://www.filmoteca.cat/web/ca/film/voluntad-que-vence-lindomptee",
+          "observedAt": "2026-10-18T15:03:35.571714+00:00",
+          "status": "verified"
+        },
         "originalTitle": {
           "source": "reviewed_official_sources_and_imdb_dataset",
           "url": "https://www.filmoteca.cat/web/ca/film/voluntad-que-vence-lindomptee",
@@ -14696,6 +16594,15 @@
       "year": 1929,
       "runtime": 90,
       "director": "Erich von Stroheim",
+      "cast": [
+        "Gloria Swanson",
+        "Walter Byron",
+        "Seena Owen",
+        "Wilhelm von Brincken",
+        "Madge Hunt",
+        "Florence Gibson",
+        "Tully Marshall"
+      ],
       "genres": [],
       "synopsis": "Abdicar La història de Hollywood està plena de les pel·lícules que es van arribar a fer, però també de les restes de totes aquelles que mai no es van poder completar, abandonades per una indústria que als anys vint ja funcionava a ple rendiment.",
       "poster": null,
@@ -14758,6 +16665,12 @@
           "source": "official",
           "url": "https://www.filmoteca.cat/web/ca/film/queen-kelly",
           "observedAt": "2026-10-18T15:03:39.256468+00:00",
+          "status": "verified"
+        },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film643231.html",
+          "observedAt": "2026-10-18T15:06:45.686955+00:00",
           "status": "verified"
         },
         "year": {
