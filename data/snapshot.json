@@ -108,6 +108,24 @@
           "url": "https://www.sensacine.com/cines/cine/E0808/",
           "observedAt": "2026-10-18T15:01:30.941857+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "reviewed_provider_and_cinema",
+          "url": "https://www.publicine.net/pelicula/16532/spider-man-brand-new-day",
+          "observedAt": "2026-09-05T18:35:33.392423+00:00",
+          "identityStatus": "verified"
+        },
+        "director": {
+          "source": "reviewed_provider_and_cinema",
+          "url": "https://www.publicine.net/pelicula/16532/spider-man-brand-new-day",
+          "observedAt": "2026-09-05T18:35:33.392423+00:00",
+          "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "reviewed_provider_and_cinema",
+          "url": "https://www.publicine.net/pelicula/16532/spider-man-brand-new-day",
+          "observedAt": "2026-09-05T18:35:33.392423+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -216,6 +234,18 @@
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=2997",
           "observedAt": "2026-10-16T07:56:00.991831+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "reviewed_provider_and_cinema",
+          "url": "https://www.imdb.com/es/title/tt35511966/",
+          "observedAt": "2026-09-05T18:44:20.259505+00:00",
+          "identityStatus": "verified"
+        },
+        "director": {
+          "source": "reviewed_provider_and_cinema",
+          "url": "https://www.imdb.com/es/title/tt35511966/",
+          "observedAt": "2026-09-05T18:44:20.259505+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -307,6 +337,12 @@
           "observedAt": "2026-10-13T09:51:56.118623+00:00",
           "status": "stale",
           "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film763705.html",
+          "observedAt": "2026-10-13T09:51:56.118623+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -396,6 +432,12 @@
           "url": "https://www.filmaffinity.com/es/film891194.html",
           "observedAt": "2026-10-13T09:51:58.787498+00:00",
           "status": "stale",
+          "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film891194.html",
+          "observedAt": "2026-10-13T09:51:58.787498+00:00",
           "identityStatus": "verified"
         }
       }
@@ -576,6 +618,12 @@
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=3016",
           "observedAt": "2026-10-16T07:56:15.111227+00:00",
           "status": "verified"
+        },
+        "originalTitle": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film766877.html",
+          "observedAt": "2026-09-14T07:02:49Z",
+          "identityStatus": "verified"
         }
       }
     },
@@ -660,6 +708,12 @@
           "url": "https://www.filmaffinity.com/es/film326795.html",
           "observedAt": "2026-10-16T07:58:34.175219+00:00",
           "status": "verified",
+          "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "reviewed_imdb_dataset",
+          "url": "https://www.imdb.com/title/tt0113421/",
+          "observedAt": "2026-09-05T18:37:51.793235+00:00",
           "identityStatus": "verified"
         }
       }
@@ -839,6 +893,12 @@
           "observedAt": "2026-10-06T07:36:06.520580+00:00",
           "status": "stale",
           "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "reviewed_imdb_dataset",
+          "url": "https://www.imdb.com/title/tt0111903/",
+          "observedAt": "2026-09-05T18:37:51.793235+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -921,6 +981,12 @@
           "url": "https://www.filmaffinity.com/es/film705799.html",
           "observedAt": "2026-10-16T07:58:37.316113+00:00",
           "status": "verified",
+          "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film705799.html",
+          "observedAt": "2026-09-29T07:44:51.937279+00:00",
           "identityStatus": "verified"
         }
       }
@@ -1005,6 +1071,12 @@
           "observedAt": "2026-10-18T07:22:40Z",
           "status": "verified",
           "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q12125052",
+          "observedAt": "2026-09-29T09:46:22.588614+02:00",
+          "status": "verified"
         }
       }
     },
@@ -1182,6 +1254,12 @@
           "url": "https://www.filmaffinity.com/es/film210498.html",
           "observedAt": "2026-10-16T07:58:43.152045+00:00",
           "status": "verified",
+          "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "reviewed_imdb_dataset",
+          "url": "https://www.imdb.com/title/tt0111902/",
+          "observedAt": "2026-09-05T18:37:51.793235+00:00",
           "identityStatus": "verified"
         }
       }
@@ -1726,6 +1804,12 @@
           "observedAt": "2026-10-06T07:37:10.938516+00:00",
           "status": "stale",
           "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film784063.html",
+          "observedAt": "2026-09-14T07:03:19Z",
+          "identityStatus": "verified"
         }
       }
     },
@@ -1899,6 +1983,12 @@
           "url": "https://www.publicine.net/cartelera-cine/barcelona/cinesa-diagonal",
           "observedAt": "2026-10-16T07:55:56.372989+00:00",
           "status": "verified"
+        },
+        "originalTitle": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film835259.html",
+          "observedAt": "2026-09-18T13:25:32Z",
+          "identityStatus": "verified"
         }
       }
     },
@@ -1995,6 +2085,12 @@
           "url": "https://www.filmaffinity.com/es/film682814.html",
           "observedAt": "2026-10-06T07:37:34.685052+00:00",
           "status": "stale",
+          "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film682814.html",
+          "observedAt": "2026-09-17T09:01:12Z",
           "identityStatus": "verified"
         }
       }
@@ -2188,6 +2284,12 @@
           "observedAt": "2026-10-06T07:38:16.576795+00:00",
           "status": "stale",
           "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film860554.html",
+          "observedAt": "2026-09-22T14:06:25.390363+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -2276,6 +2378,12 @@
           "url": "https://www.filmaffinity.com/es/film329630.html",
           "observedAt": "2026-10-06T07:38:21.008279+00:00",
           "status": "stale",
+          "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film329630.html",
+          "observedAt": "2026-09-14T07:04:48Z",
           "identityStatus": "verified"
         }
       }
@@ -2369,6 +2477,12 @@
           "url": "https://espaitexas.cat/pelicula/her/",
           "observedAt": "2026-10-16T07:55:28.909401+00:00",
           "status": "verified"
+        },
+        "originalTitle": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film889720.html",
+          "observedAt": "2026-09-14T07:04:54Z",
+          "identityStatus": "verified"
         }
       }
     },
@@ -2461,6 +2575,24 @@
           "url": "https://espaitexas.cat/pelicula/historias-del-buen-valle/",
           "observedAt": "2026-10-14T07:41:13.078481+00:00",
           "status": "stale"
+        },
+        "year": {
+          "source": "reviewed_provider_and_cinema",
+          "url": "https://www.imdb.com/es-es/title/tt37676219/",
+          "observedAt": "2026-09-14T09:34:35.620393+02:00",
+          "identityStatus": "verified"
+        },
+        "director": {
+          "source": "reviewed_provider_and_cinema",
+          "url": "https://www.imdb.com/es-es/title/tt37676219/",
+          "observedAt": "2026-09-14T09:34:35.620393+02:00",
+          "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "reviewed_provider_and_cinema",
+          "url": "https://www.imdb.com/es-es/title/tt37676219/",
+          "observedAt": "2026-09-14T09:34:35.620393+02:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -2555,6 +2687,12 @@
           "url": "https://espaitexas.cat/pelicula/kollektivet-la-comuna/",
           "observedAt": "2026-10-14T07:41:14.803531+00:00",
           "status": "stale"
+        },
+        "originalTitle": {
+          "source": "reviewed_provider_and_cinema",
+          "url": "https://www.imdb.com/title/tt3082854/fullcredits/",
+          "observedAt": "2026-09-14T09:34:35.620393+02:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -2650,6 +2788,12 @@
           "url": "https://espaitexas.cat/pelicula/snowpiercer/",
           "observedAt": "2026-10-14T07:41:18.324394+00:00",
           "status": "stale"
+        },
+        "originalTitle": {
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
+          "observedAt": "2026-09-14T07:07:53.913900+00:00",
+          "status": "verified"
         }
       }
     },
@@ -2737,6 +2881,12 @@
           "url": "https://www.filmaffinity.com/es/film492711.html",
           "observedAt": "2026-10-06T07:38:07.739728+00:00",
           "status": "stale",
+          "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film492711.html",
+          "observedAt": "2026-09-25T07:05:43.242425+00:00",
           "identityStatus": "verified"
         }
       }
@@ -2838,6 +2988,12 @@
           "url": "https://www.sensacine.com/cines/cine/E0388/",
           "observedAt": "2026-10-16T07:56:07.919127+00:00",
           "status": "verified"
+        },
+        "originalTitle": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film903140.html",
+          "observedAt": "2026-10-07T07:06:35.844089+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -3120,6 +3276,12 @@
           "observedAt": "2026-10-16T08:00:54.090634+00:00",
           "status": "verified",
           "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film419872.html",
+          "observedAt": "2026-10-16T08:00:54.090634+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -3223,6 +3385,12 @@
           "url": "https://www.sensacine.com/cines/cine/E0608/",
           "observedAt": "2026-10-18T15:01:20.633777+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film554234.html",
+          "observedAt": "2026-10-16T07:59:35.675595+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -3319,6 +3487,18 @@
           "url": "https://www.sensacine.com/cines/cine/E0608/",
           "observedAt": "2026-10-18T15:01:20.633777+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film331187.html",
+          "observedAt": "2026-10-16T07:59:58.450123+00:00",
+          "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film331187.html",
+          "observedAt": "2026-10-16T07:59:58.450123+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -3514,6 +3694,12 @@
           "url": "https://www.sensacine.com/cines/cine/E0608/",
           "observedAt": "2026-10-18T15:01:20.633777+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film711879.html",
+          "observedAt": "2026-10-11T07:11:55.993919+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -3832,6 +4018,18 @@
           "url": "https://www.sensacine.com/cines/cine/E0608/",
           "observedAt": "2026-10-18T15:01:20.633777+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film877615.html",
+          "observedAt": "2026-10-18T07:00:15.830047+00:00",
+          "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film877615.html",
+          "observedAt": "2026-10-18T07:00:15.830047+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -4239,6 +4437,12 @@
           "url": "https://www.sensacine.com/cines/cine/E0608/",
           "observedAt": "2026-10-18T15:01:20.633777+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film959467.html",
+          "observedAt": "2026-10-13T09:52:39.453470+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -4660,6 +4864,18 @@
           "url": "https://www.sensacine.com/cines/cine/E0747/",
           "observedAt": "2026-10-18T15:01:22.788333+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film523744.html",
+          "observedAt": "2026-10-16T08:00:12.192343+00:00",
+          "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film523744.html",
+          "observedAt": "2026-10-16T08:00:12.192343+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -4848,6 +5064,12 @@
           "url": "https://www.sensacine.com/cines/cine/E0682/",
           "observedAt": "2026-10-18T15:01:24.758758+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q137640905",
+          "observedAt": "2026-10-18T09:10:06.061823+02:00",
+          "status": "verified"
         }
       }
     },
@@ -4952,6 +5174,18 @@
           "url": "https://www.sensacine.com/cines/cine/E0764/",
           "observedAt": "2026-10-18T15:01:27.783616+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film361470.html",
+          "observedAt": "2026-10-16T08:00:47.738697+00:00",
+          "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film361470.html",
+          "observedAt": "2026-10-16T08:00:47.738697+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -5048,6 +5282,18 @@
           "url": "https://www.sensacine.com/cines/cine/E0764/",
           "observedAt": "2026-10-18T15:01:27.783616+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film249049.html",
+          "observedAt": "2026-10-16T08:00:39.132191+00:00",
+          "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film249049.html",
+          "observedAt": "2026-10-16T08:00:39.132191+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -5152,6 +5398,12 @@
           "url": "https://www.sensacine.com/cines/cine/E0764/",
           "observedAt": "2026-10-18T15:01:27.783616+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film392961.html",
+          "observedAt": "2026-10-09T07:09:19.797203+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -5365,6 +5617,12 @@
           "url": "https://www.sensacine.com/cines/cine/E0764/",
           "observedAt": "2026-10-18T15:01:27.783616+00:00",
           "status": "verified"
+        },
+        "originalTitle": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film523116.html",
+          "observedAt": "2026-09-16T21:08:28Z",
+          "identityStatus": "verified"
         }
       }
     },
@@ -5463,6 +5721,12 @@
           "url": "https://www.sensacine.com/cines/cine/E0764/",
           "observedAt": "2026-10-18T15:01:27.783616+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film301992.html",
+          "observedAt": "2026-10-09T07:09:14.178684+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -5549,6 +5813,12 @@
           "url": "https://www.filmaffinity.com/es/film345789.html",
           "observedAt": "2026-10-18T07:00:02.668045+00:00",
           "status": "verified",
+          "identityStatus": "verified"
+        },
+        "year": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film345789.html",
+          "observedAt": "2026-10-11T07:12:28.476412+00:00",
           "identityStatus": "verified"
         }
       }
@@ -5653,6 +5923,12 @@
           "url": "https://www.sensacine.com/cines/cine/E0447/",
           "observedAt": "2026-10-18T15:01:46.494538+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film309577.html",
+          "observedAt": "2026-10-16T08:01:16.607490+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -5737,6 +6013,18 @@
           "url": "https://www.publicine.net/cartelera-cine/barcelona/cinesa-diagonal",
           "observedAt": "2026-10-18T15:01:56.536649+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film514364.html",
+          "observedAt": "2026-10-16T08:01:19.865055+00:00",
+          "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film514364.html",
+          "observedAt": "2026-10-16T08:01:19.865055+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -5823,6 +6111,12 @@
           "url": "https://www.publicine.net/cartelera-cine/barcelona/cinesa-som-multiespai-heron-city",
           "observedAt": "2026-10-18T15:02:02.424186+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film369667.html",
+          "observedAt": "2026-10-09T07:09:01.424433+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -5997,6 +6291,12 @@
           "source": "official",
           "url": "https://zumzeigcine.coop/cinema/films/krakatoa/",
           "observedAt": "2026-10-18T15:02:10.802310+00:00",
+          "status": "verified"
+        },
+        "originalTitle": {
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
+          "observedAt": "2026-10-07T07:23:39.315090+00:00",
           "status": "verified"
         }
       }
@@ -6186,6 +6486,18 @@
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=625",
           "observedAt": "2026-10-18T15:01:30.037629+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "reviewed_imdb_dataset",
+          "url": "https://www.imdb.com/title/tt0083658/",
+          "observedAt": "2026-09-05T18:37:51.793235+00:00",
+          "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "reviewed_imdb_dataset",
+          "url": "https://www.imdb.com/title/tt0083658/",
+          "observedAt": "2026-09-05T18:37:51.793235+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -7963,6 +8275,12 @@
           "url": "https://www.filmoteca.cat/web/ca/film/tasio",
           "observedAt": "2026-10-18T15:01:42.224252+00:00",
           "status": "verified"
+        },
+        "originalTitle": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film524638.html",
+          "observedAt": "2026-10-01T07:06:00.758818+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -8048,6 +8366,12 @@
           "source": "official",
           "url": "https://www.filmoteca.cat/web/ca/film/billy-elliot",
           "observedAt": "2026-10-18T15:01:51.475059+00:00",
+          "status": "verified"
+        },
+        "originalTitle": {
+          "source": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q458629",
+          "observedAt": "2026-10-01T09:08:30.813843+02:00",
           "status": "verified"
         }
       }
@@ -8139,6 +8463,12 @@
           "url": "https://www.filmoteca.cat/web/ca/film/there-will-be-blood",
           "observedAt": "2026-10-18T15:01:54.395021+00:00",
           "status": "verified"
+        },
+        "originalTitle": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film531158.html",
+          "observedAt": "2026-10-01T07:06:06.906805+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -8226,6 +8556,12 @@
           "url": "https://www.filmoteca.cat/web/ca/film/master",
           "observedAt": "2026-10-18T15:02:33.534060+00:00",
           "status": "verified"
+        },
+        "originalTitle": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film112983.html",
+          "observedAt": "2026-10-01T07:06:28.285562+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -8314,6 +8650,12 @@
           "url": "https://www.filmoteca.cat/web/ca/film/miracle-worker",
           "observedAt": "2026-10-18T15:02:35.213011+00:00",
           "status": "verified"
+        },
+        "originalTitle": {
+          "source": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q287536",
+          "observedAt": "2026-10-01T09:08:30.813843+02:00",
+          "status": "verified"
         }
       }
     },
@@ -8401,6 +8743,12 @@
           "url": "https://www.filmoteca.cat/web/ca/film/invitation-dance",
           "observedAt": "2026-10-18T15:02:39.038275+00:00",
           "status": "verified"
+        },
+        "originalTitle": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film427501.html",
+          "observedAt": "2026-10-01T07:06:34.428319+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -8483,6 +8831,12 @@
           "url": "https://www.filmoteca.cat/web/ca/film/les-mille-et-un-jours-du-hajj-edmond",
           "observedAt": "2026-10-18T15:02:42.250755+00:00",
           "status": "verified"
+        },
+        "originalTitle": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film121356.html",
+          "observedAt": "2026-10-01T07:06:38.579525+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -8572,6 +8926,12 @@
           "url": "https://www.filmoteca.cat/web/ca/film/stranger-paradise",
           "observedAt": "2026-10-18T15:02:54.774196+00:00",
           "status": "verified"
+        },
+        "originalTitle": {
+          "source": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1345409",
+          "observedAt": "2026-10-01T09:13:29.700939+02:00",
+          "status": "verified"
         }
       }
     },
@@ -8653,6 +9013,12 @@
           "source": "official",
           "url": "https://www.filmoteca.cat/web/ca/film/rachel",
           "observedAt": "2026-10-18T15:03:01.948220+00:00",
+          "status": "verified"
+        },
+        "originalTitle": {
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
+          "observedAt": "2026-10-01T07:17:56.165264+00:00",
           "status": "verified"
         }
       }
@@ -8743,6 +9109,12 @@
           "url": "https://www.filmoteca.cat/web/ca/film/karumen-junjo-su",
           "observedAt": "2026-10-18T15:03:04.531494+00:00",
           "status": "verified"
+        },
+        "originalTitle": {
+          "source": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q17226547",
+          "observedAt": "2026-10-01T09:13:29.700939+02:00",
+          "status": "verified"
         }
       }
     },
@@ -8831,6 +9203,12 @@
           "url": "https://www.filmoteca.cat/web/ca/film/inherent-vice",
           "observedAt": "2026-10-18T15:03:12.957033+00:00",
           "status": "verified"
+        },
+        "originalTitle": {
+          "source": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q13806537",
+          "observedAt": "2026-10-01T09:13:29.700939+02:00",
+          "status": "verified"
         }
       }
     },
@@ -8918,6 +9296,12 @@
           "source": "official",
           "url": "https://www.filmoteca.cat/web/ca/film/tretya-meshchanskaya",
           "observedAt": "2026-10-18T15:03:18.250596+00:00",
+          "status": "verified"
+        },
+        "originalTitle": {
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
+          "observedAt": "2026-10-01T07:17:56.165264+00:00",
           "status": "verified"
         }
       }
@@ -9008,6 +9392,12 @@
           "url": "https://www.filmoteca.cat/web/ca/film/wakolda",
           "observedAt": "2026-10-18T15:03:20.182841+00:00",
           "status": "verified"
+        },
+        "originalTitle": {
+          "source": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q13229518",
+          "observedAt": "2026-10-01T09:13:29.700939+02:00",
+          "status": "verified"
         }
       }
     },
@@ -9090,6 +9480,12 @@
           "source": "official",
           "url": "https://www.filmoteca.cat/web/ca/film/rikugun",
           "observedAt": "2026-10-18T15:03:25.877419+00:00",
+          "status": "verified"
+        },
+        "originalTitle": {
+          "source": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q11658655",
+          "observedAt": "2026-10-01T09:13:29.700939+02:00",
           "status": "verified"
         }
       }
@@ -9177,6 +9573,12 @@
           "source": "official",
           "url": "https://www.filmoteca.cat/web/ca/film/licorice-pizza",
           "observedAt": "2026-10-18T15:03:44.624966+00:00",
+          "status": "verified"
+        },
+        "originalTitle": {
+          "source": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q102036245",
+          "observedAt": "2026-10-01T09:13:29.700939+02:00",
           "status": "verified"
         }
       }
@@ -9267,6 +9669,12 @@
           "source": "official",
           "url": "https://www.filmoteca.cat/web/ca/film/phantom-thread",
           "observedAt": "2026-10-18T15:03:48.752934+00:00",
+          "status": "verified"
+        },
+        "originalTitle": {
+          "source": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q28840386",
+          "observedAt": "2026-10-01T09:13:29.700939+02:00",
           "status": "verified"
         }
       }
@@ -9363,6 +9771,12 @@
           "url": "https://www.filmoteca.cat/web/ca/film/one-battle-after-another",
           "observedAt": "2026-10-18T15:03:50.349253+00:00",
           "status": "verified"
+        },
+        "originalTitle": {
+          "source": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q117085614",
+          "observedAt": "2026-10-01T09:13:29.700939+02:00",
+          "status": "verified"
         }
       }
     },
@@ -9401,15 +9815,16 @@
           "votes": 8488
         },
         "filmaffinity": {
-          "value": null,
+          "value": 6.9,
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film605590.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Palestina+36&stype=title",
-          "observedAt": "2026-10-18T15:25:20Z",
-          "status": "blocked",
+          "observedAt": "2026-10-06T07:40:35.364941+00:00",
+          "status": "verified",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
-          "metric": "user_rating"
+          "metric": "user_rating",
+          "stale": true
         },
         "rottenTomatoes": {
           "value": 98.0,
@@ -9458,6 +9873,12 @@
           "url": "https://www.sensacine.com/cines/cine/E0608/",
           "observedAt": "2026-10-18T15:01:20.633777+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film605590.html",
+          "observedAt": "2026-10-18T15:04:29.163598+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -9542,6 +9963,18 @@
           "url": "https://www.filmaffinity.com/es/film809035.html",
           "observedAt": "2026-10-18T15:04:36.940368+00:00",
           "status": "verified",
+          "identityStatus": "verified"
+        },
+        "year": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film809035.html",
+          "observedAt": "2026-10-18T15:04:36.940368+00:00",
+          "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film809035.html",
+          "observedAt": "2026-10-18T15:04:36.940368+00:00",
           "identityStatus": "verified"
         }
       }
@@ -9635,6 +10068,18 @@
           "url": "https://www.sensacine.com/cines/cine/E0682/",
           "observedAt": "2026-10-18T15:01:24.758758+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film209641.html",
+          "observedAt": "2026-10-18T15:04:39.456781+00:00",
+          "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film209641.html",
+          "observedAt": "2026-10-18T15:04:39.456781+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -9673,15 +10118,16 @@
           "votes": 896
         },
         "filmaffinity": {
-          "value": null,
+          "value": 6.5,
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film538345.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Un+taxi+en+Tokio&stype=title",
-          "observedAt": "2026-10-18T15:32:11Z",
-          "status": "blocked",
+          "observedAt": "2026-09-15T08:00:44.153501+00:00",
+          "status": "verified",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
-          "metric": "user_rating"
+          "metric": "user_rating",
+          "stale": true
         },
         "rottenTomatoes": {
           "value": null,
@@ -9729,6 +10175,12 @@
           "url": "https://www.sensacine.com/cines/cine/E0682/",
           "observedAt": "2026-10-18T15:01:24.758758+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film538345.html",
+          "observedAt": "2026-10-18T15:04:53.569592+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -9827,6 +10279,12 @@
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=75",
           "observedAt": "2026-10-16T07:55:51.117299+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
+          "observedAt": "2026-10-18T07:02:04.085818+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -9910,6 +10368,18 @@
           "url": "https://www.filmoteca.cat/web/ca/film/magnolia",
           "observedAt": "2026-10-18T15:01:39.640896+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
+          "observedAt": "2026-10-18T07:02:20.839857+00:00",
+          "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
+          "observedAt": "2026-10-18T07:02:20.839857+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -9993,6 +10463,18 @@
           "url": "https://www.filmoteca.cat/web/ca/film/filibus",
           "observedAt": "2026-10-18T15:02:44.996979+00:00",
           "status": "verified"
+        },
+        "director": {
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
+          "observedAt": "2026-10-18T07:02:24.970772+00:00",
+          "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
+          "observedAt": "2026-10-18T07:02:24.970772+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -10229,6 +10711,12 @@
           "url": "https://www.sensacine.com/cines/cine/E0747/",
           "observedAt": "2026-10-18T15:01:22.788333+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
+          "observedAt": "2026-10-18T07:20:44.422166+00:00",
+          "status": "verified"
         }
       }
     },
@@ -10313,7 +10801,7 @@
       "id": "movie-6949b34227bdd55c11c9",
       "title": "Tiempo de victoria",
       "originalTitle": "Pressure",
-      "year": 2025,
+      "year": 2026,
       "runtime": null,
       "ageRating": {
         "system": "ES",
@@ -10331,44 +10819,48 @@
       "trailer": "https://www.youtube.com/embed/nzxLVxZDppc?feature=oembed",
       "ratings": {
         "imdb": {
-          "value": null,
+          "value": 7.3,
           "scale": 10,
-          "url": "https://www.imdb.com/find/?q=Pressure&s=tt&ttype=ft",
-          "searchUrl": "https://www.imdb.com/find/?q=Pressure&s=tt&ttype=ft",
-          "observedAt": "2026-10-18T15:25:26Z",
-          "status": "blocked",
-          "source": "imdb",
-          "attribution": "IMDb",
-          "metric": "user_rating"
+          "max": 10,
+          "metric": "user_rating",
+          "status": "verified",
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+          "attribution": "IMDb non-commercial datasets",
+          "observedAt": "2026-10-18T07:22:21Z",
+          "searchUrl": "https://www.imdb.com/find/?q=Pressure&s=tt",
+          "imdbId": "tt32547691",
+          "titleUrl": "https://www.imdb.com/title/tt32547691/",
+          "votes": 39531
         },
         "filmaffinity": {
-          "value": null,
+          "value": 6.8,
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film177067.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Tiempo+de+victoria&stype=title",
-          "observedAt": "2026-10-18T15:25:26Z",
-          "status": "identity_unconfirmed",
+          "observedAt": "2026-10-18T15:04:48.350049+00:00",
+          "status": "verified",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
           "metric": "user_rating"
         },
         "rottenTomatoes": {
-          "value": null,
+          "value": 89.0,
           "scale": 100,
           "url": "https://www.rottentomatoes.com/m/pressure_2026",
           "searchUrl": "https://www.rottentomatoes.com/search?search=Pressure",
-          "observedAt": "2026-10-18T15:25:29Z",
-          "status": "identity_unconfirmed",
+          "observedAt": "2026-10-18T15:25:29.169360+00:00",
+          "status": "verified",
           "source": "rottenTomatoes",
           "attribution": "Rotten Tomatoes",
           "metric": "tomatometer",
           "audience": {
-            "value": null,
+            "value": 95.0,
             "scale": 100,
             "url": "https://www.rottentomatoes.com/m/pressure_2026",
             "searchUrl": "https://www.rottentomatoes.com/search?search=Pressure",
-            "observedAt": "2026-10-18T15:25:29Z",
-            "status": "identity_unconfirmed",
+            "observedAt": "2026-10-18T15:25:29.169360+00:00",
+            "status": "verified",
             "source": "rottenTomatoes",
             "attribution": "Rotten Tomatoes",
             "metric": "popcornmeter"
@@ -10379,7 +10871,10 @@
       "sources": [
         "https://www.sensacine.com/peliculas/pelicula-1000004458/"
       ],
-      "aliases": [],
+      "imdbId": "tt32547691",
+      "aliases": [
+        "Pressure"
+      ],
       "mergedIds": [
         "movie-a31fff1cc7918c82cf9d"
       ],
@@ -10389,6 +10884,12 @@
           "url": "https://www.sensacine.com/cines/cine/E0682/",
           "observedAt": "2026-10-18T15:01:24.758758+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
+          "observedAt": "2026-10-16T08:02:25.024442+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -10568,6 +11069,12 @@
           "url": "https://www.sensacine.com/cines/cine/E0764/",
           "observedAt": "2026-10-18T15:01:27.783616+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
+          "observedAt": "2026-10-18T07:20:44.422166+00:00",
+          "status": "verified"
         }
       }
     },
@@ -10658,14 +11165,20 @@
           "url": "https://www.sensacine.com/cines/cine/E0808/",
           "observedAt": "2026-10-18T15:01:30.941857+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
+          "observedAt": "2026-10-18T14:55:13.346949+00:00",
+          "status": "verified"
         }
       }
     },
     {
       "id": "movie-465ad02426d83f2827ce",
       "title": "OMBRA NÒMADA",
-      "originalTitle": null,
-      "year": 2026,
+      "originalTitle": "Nomad Shadow",
+      "year": 2025,
       "runtime": 82,
       "director": "Eimi Imanishi",
       "genres": [],
@@ -10674,23 +11187,27 @@
       "trailer": null,
       "ratings": {
         "imdb": {
-          "value": null,
+          "value": 6.8,
           "scale": 10,
-          "url": "https://www.imdb.com/find/?q=OMBRA+N%C3%92MADA&s=tt&ttype=ft",
-          "searchUrl": "https://www.imdb.com/find/?q=OMBRA+N%C3%92MADA&s=tt&ttype=ft",
-          "observedAt": "2026-10-18T15:24:51Z",
-          "status": "blocked",
-          "source": "imdb",
-          "attribution": "IMDb",
-          "metric": "user_rating"
+          "max": 10,
+          "metric": "user_rating",
+          "status": "verified",
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+          "attribution": "IMDb non-commercial datasets",
+          "observedAt": "2026-10-18T07:22:21Z",
+          "searchUrl": "https://www.imdb.com/find/?q=Nomad+Shadow&s=tt",
+          "imdbId": "tt37751099",
+          "titleUrl": "https://www.imdb.com/title/tt37751099/",
+          "votes": 44
         },
         "filmaffinity": {
-          "value": null,
+          "value": 6.0,
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film251692.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=OMBRA+N%C3%92MADA&stype=title",
-          "observedAt": "2026-10-18T15:24:51Z",
-          "status": "identity_unconfirmed",
+          "observedAt": "2026-10-18T15:04:59.400661+00:00",
+          "status": "verified",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
           "metric": "user_rating"
@@ -10722,8 +11239,10 @@
       "sources": [
         "https://espaitexas.cat/pelicula/ombra-nomada/"
       ],
-      "imdbId": null,
-      "aliases": [],
+      "imdbId": "tt37751099",
+      "aliases": [
+        "Nomad Shadow"
+      ],
       "mergedIds": [],
       "metadataSources": {
         "runtime": {
@@ -10731,6 +11250,18 @@
           "url": "https://espaitexas.cat/pelicula/ombra-nomada/",
           "observedAt": "2026-10-18T15:01:25.439891+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
+          "observedAt": "2026-10-16T08:02:25.024442+00:00",
+          "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
+          "observedAt": "2026-10-16T08:02:25.024442+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -10949,30 +11480,37 @@
       ],
       "imdbId": null,
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "programmeKind": "festival",
+      "ratingScope": "programme",
+      "components": []
     },
     {
       "id": "movie-0811126d6f0fe0cfcb1b",
       "title": "THE HUMAN SCALE",
-      "originalTitle": null,
+      "originalTitle": "The Human Scale",
       "year": 2012,
       "runtime": 83,
-      "director": null,
+      "director": "Andreas Dalsgaard",
       "genres": [],
       "synopsis": "Les ciutats modernes eren considerades motors de creixement i van ser projectades entorn de l’automòbil. Ara, els experts reivindiquen un canvi radical de model que prioritzi a les persones.",
       "poster": "https://espaitexas.cat/wp-content/uploads/2026/09/cartela-the-human-scale-768x1086.png",
       "trailer": null,
       "ratings": {
         "imdb": {
-          "value": null,
+          "value": 7.2,
           "scale": 10,
-          "url": "https://www.imdb.com/find/?q=THE+HUMAN+SCALE&s=tt&ttype=ft",
-          "searchUrl": "https://www.imdb.com/find/?q=THE+HUMAN+SCALE&s=tt&ttype=ft",
-          "observedAt": "2026-10-18T07:26:41Z",
-          "status": "identity_unconfirmed",
-          "source": "imdb",
-          "attribution": "IMDb",
-          "metric": "user_rating"
+          "max": 10,
+          "metric": "user_rating",
+          "status": "verified",
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+          "attribution": "IMDb non-commercial datasets",
+          "observedAt": "2026-10-18T07:22:21Z",
+          "searchUrl": "https://www.imdb.com/find/?q=The+Human+Scale&s=tt",
+          "imdbId": "tt2414454",
+          "titleUrl": "https://www.imdb.com/title/tt2414454/",
+          "votes": 818
         },
         "filmaffinity": {
           "value": null,
@@ -11013,8 +11551,10 @@
         "https://espaitexas.cat/pelicula/the-human-scale/",
         "https://espaitexas.cat/pelicula/cicle-artec/"
       ],
-      "imdbId": null,
-      "aliases": [],
+      "imdbId": "tt2414454",
+      "aliases": [
+        "The Human Scale"
+      ],
       "mergedIds": [
         "movie-d9b62527296fe5c2d99e"
       ],
@@ -11024,6 +11564,18 @@
           "url": "https://espaitexas.cat/pelicula/the-human-scale/",
           "observedAt": "2026-10-18T15:01:43.528443+00:00",
           "status": "verified"
+        },
+        "director": {
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
+          "observedAt": "2026-10-16T08:02:25.024442+00:00",
+          "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
+          "observedAt": "2026-10-16T08:02:25.024442+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -11124,6 +11676,12 @@
           "url": "https://www.sensacine.com/cines/cine/E0388/",
           "observedAt": "2026-10-18T15:02:01.021863+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
+          "observedAt": "2026-10-16T08:01:55.264247+00:00",
+          "status": "verified"
         }
       }
     },
@@ -11206,6 +11764,18 @@
           "source": "publicine",
           "url": "https://www.publicine.net/cartelera-cine/barcelona/cinesa-som-multiespai-heron-city",
           "observedAt": "2026-10-18T15:02:02.424186+00:00",
+          "status": "verified"
+        },
+        "year": {
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
+          "observedAt": "2026-10-16T08:01:55.264247+00:00",
+          "status": "verified"
+        },
+        "originalTitle": {
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
+          "observedAt": "2026-10-16T08:01:55.264247+00:00",
           "status": "verified"
         }
       }
@@ -11600,7 +12170,7 @@
       "id": "movie-cc92266f738818f322cb",
       "title": "Amílcar",
       "originalTitle": "Amílcar",
-      "year": 2026,
+      "year": 2025,
       "runtime": 89,
       "ageRating": {
         "system": "ES",
@@ -11616,15 +12186,19 @@
       "trailer": null,
       "ratings": {
         "imdb": {
-          "value": null,
+          "value": 6.4,
           "scale": 10,
-          "url": "https://www.imdb.com/find/?q=Am%C3%ADlcar&s=tt&ttype=ft",
-          "searchUrl": "https://www.imdb.com/find/?q=Am%C3%ADlcar&s=tt&ttype=ft",
-          "observedAt": "2026-10-18T15:26:17Z",
-          "status": "blocked",
-          "source": "imdb",
-          "attribution": "IMDb",
-          "metric": "user_rating"
+          "max": 10,
+          "metric": "user_rating",
+          "status": "verified",
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+          "attribution": "IMDb non-commercial datasets",
+          "observedAt": "2026-10-18T07:22:21Z",
+          "searchUrl": "https://www.imdb.com/find/?q=Am%C3%ADlcar&s=tt",
+          "imdbId": "tt6384130",
+          "titleUrl": "https://www.imdb.com/title/tt6384130/",
+          "votes": 29
         },
         "filmaffinity": {
           "value": null,
@@ -11664,8 +12238,10 @@
       "sources": [
         "https://zumzeigcine.coop/cinema/films/amilcar/"
       ],
-      "imdbId": null,
-      "aliases": [],
+      "imdbId": "tt6384130",
+      "aliases": [
+        "Amílcar"
+      ],
       "mergedIds": [
         "movie-df8efb3d7e7758ec8429"
       ],
@@ -11681,6 +12257,12 @@
           "url": "https://zumzeigcine.coop/cinema/films/amilcar/",
           "observedAt": "2026-10-16T07:55:17.524476+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
+          "observedAt": "2026-10-16T08:02:25.024442+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -11746,7 +12328,10 @@
       ],
       "imdbId": null,
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "programmeKind": "programme",
+      "ratingScope": "programme",
+      "components": []
     },
     {
       "id": "movie-ae408db3250bf5e35556",
@@ -11825,7 +12410,7 @@
       "id": "movie-8f1b5adf1952edde1454",
       "title": "Roid",
       "originalTitle": "Roid",
-      "year": 2025,
+      "year": 2026,
       "runtime": 109,
       "director": "Mejbaur Rahman Sumon",
       "genres": [],
@@ -11834,15 +12419,19 @@
       "trailer": null,
       "ratings": {
         "imdb": {
-          "value": null,
+          "value": 7.7,
           "scale": 10,
-          "url": "https://www.imdb.com/find/?q=Roid&s=tt&ttype=ft",
-          "searchUrl": "https://www.imdb.com/find/?q=Roid&s=tt&ttype=ft",
-          "observedAt": "2026-10-18T15:27:34Z",
-          "status": "blocked",
-          "source": "imdb",
-          "attribution": "IMDb",
-          "metric": "user_rating"
+          "max": 10,
+          "metric": "user_rating",
+          "status": "verified",
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+          "attribution": "IMDb non-commercial datasets",
+          "observedAt": "2026-10-18T07:22:21Z",
+          "searchUrl": "https://www.imdb.com/find/?q=Roid&s=tt",
+          "imdbId": "tt39199158",
+          "titleUrl": "https://www.imdb.com/title/tt39199158/",
+          "votes": 342
         },
         "filmaffinity": {
           "value": null,
@@ -11882,8 +12471,10 @@
       "sources": [
         "https://zumzeigcine.coop/cinema/films/roid/"
       ],
-      "imdbId": null,
-      "aliases": [],
+      "imdbId": "tt39199158",
+      "aliases": [
+        "Roid"
+      ],
       "mergedIds": [],
       "metadataSources": {
         "runtime": {
@@ -11891,6 +12482,12 @@
           "url": "https://zumzeigcine.coop/cinema/films/roid/",
           "observedAt": "2026-10-18T15:01:51.816598+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
+          "observedAt": "2026-10-16T08:02:25.024442+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -12208,6 +12805,12 @@
           "url": "https://zumzeigcine.coop/cinema/films/autotracking-presenta-palilloween/",
           "observedAt": "2026-10-14T07:40:56.974288+00:00",
           "status": "stale"
+        },
+        "director": {
+          "source": "official_zumzeig",
+          "url": "https://zumzeigcine.coop/cinema/films/autotracking-presenta-palilloween/",
+          "observedAt": "2026-10-09T07:05:19.526443+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -12273,7 +12876,21 @@
       ],
       "imdbId": null,
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "year": {
+          "source": "official_zumzeig",
+          "url": "https://zumzeigcine.coop/cinema/films/sem-terra-lluita-terra-brasil/",
+          "observedAt": "2026-10-07T07:03:23.758402+00:00",
+          "identityStatus": "verified"
+        },
+        "director": {
+          "source": "official_zumzeig",
+          "url": "https://zumzeigcine.coop/cinema/films/sem-terra-lluita-terra-brasil/",
+          "observedAt": "2026-10-07T07:03:23.758402+00:00",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "movie-db67c2bf555cb34fc827",
@@ -12351,7 +12968,7 @@
     {
       "id": "movie-7c8520c987b7b8ceb6e8",
       "title": "PREESTRENO: GODZILLA MINUS ZERO",
-      "originalTitle": null,
+      "originalTitle": "Godzilla Minus Zero",
       "year": 2026,
       "runtime": 135,
       "director": "Takashi Yamazaki",
@@ -12361,15 +12978,19 @@
       "trailer": null,
       "ratings": {
         "imdb": {
-          "value": null,
+          "value": 8.2,
           "scale": 10,
-          "url": "https://www.imdb.com/find/?q=PREESTRENO%3A+GODZILLA+MINUS+ZERO&s=tt&ttype=ft",
-          "searchUrl": "https://www.imdb.com/find/?q=PREESTRENO%3A+GODZILLA+MINUS+ZERO&s=tt&ttype=ft",
-          "observedAt": "2026-10-18T15:30:43Z",
-          "status": "blocked",
-          "source": "imdb",
-          "attribution": "IMDb",
-          "metric": "user_rating"
+          "max": 10,
+          "metric": "user_rating",
+          "status": "verified",
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+          "attribution": "IMDb non-commercial datasets",
+          "observedAt": "2026-10-18T07:22:21Z",
+          "searchUrl": "https://www.imdb.com/find/?q=Godzilla+Minus+Zero&s=tt",
+          "imdbId": "tt34384661",
+          "titleUrl": "https://www.imdb.com/title/tt34384661/",
+          "votes": 700
         },
         "filmaffinity": {
           "value": null,
@@ -12383,22 +13004,23 @@
           "metric": "user_rating"
         },
         "rottenTomatoes": {
-          "value": null,
+          "value": 95.0,
           "scale": 100,
-          "url": "https://www.rottentomatoes.com/search?search=PREESTRENO%3A+GODZILLA+MINUS+ZERO",
+          "url": "https://www.rottentomatoes.com/m/godzilla_minus_zero",
           "searchUrl": "https://www.rottentomatoes.com/search?search=PREESTRENO%3A+GODZILLA+MINUS+ZERO",
-          "observedAt": "2026-10-18T15:30:46Z",
-          "status": "not_found",
+          "observedAt": "2026-10-18T07:25:19.317886+00:00",
+          "status": "verified",
           "source": "rottenTomatoes",
           "attribution": "Rotten Tomatoes",
           "metric": "tomatometer",
+          "stale": true,
           "audience": {
             "value": null,
             "scale": 100,
-            "url": "https://www.rottentomatoes.com/search?search=PREESTRENO%3A+GODZILLA+MINUS+ZERO",
+            "url": "https://www.rottentomatoes.com/m/godzilla_minus_zero",
             "searchUrl": "https://www.rottentomatoes.com/search?search=PREESTRENO%3A+GODZILLA+MINUS+ZERO",
-            "observedAt": "2026-10-18T15:30:46Z",
-            "status": "not_found",
+            "observedAt": "2026-10-18T16:25:29Z",
+            "status": "blocked",
             "source": "rottenTomatoes",
             "attribution": "Rotten Tomatoes",
             "metric": "popcornmeter"
@@ -12409,8 +13031,10 @@
       "sources": [
         "https://phenomena-experience.com/index?pag=ficha&evento=3018"
       ],
-      "imdbId": null,
-      "aliases": [],
+      "imdbId": "tt34384661",
+      "aliases": [
+        "Godzilla Minus Zero"
+      ],
       "mergedIds": [],
       "metadataSources": {
         "runtime": {
@@ -12418,6 +13042,12 @@
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=3018",
           "observedAt": "2026-10-18T15:02:15.736394+00:00",
           "status": "verified"
+        },
+        "originalTitle": {
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
+          "observedAt": "2026-10-16T08:02:25.024442+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -12485,6 +13115,8 @@
       "imdbId": null,
       "aliases": [],
       "mergedIds": [],
+      "programmeKind": "surprise",
+      "ratingScope": "programme",
       "metadataSources": {
         "runtime": {
           "source": "official",
@@ -12492,7 +13124,8 @@
           "observedAt": "2026-10-18T15:02:17.145292+00:00",
           "status": "verified"
         }
-      }
+      },
+      "components": []
     },
     {
       "id": "movie-c6b5b36df8f4dcd7cb11",
@@ -12563,6 +13196,8 @@
       "imdbId": null,
       "aliases": [],
       "mergedIds": [],
+      "programmeKind": "surprise",
+      "ratingScope": "programme",
       "metadataSources": {
         "runtime": {
           "source": "official",
@@ -12576,7 +13211,8 @@
           "observedAt": "2026-10-16T07:56:22.929102+00:00",
           "status": "verified"
         }
-      }
+      },
+      "components": []
     },
     {
       "id": "movie-33862676cee77c9c610e",
@@ -12727,6 +13363,12 @@
           "url": "https://www.filmoteca.cat/web/ca/film/mur",
           "observedAt": "2026-10-18T15:02:53.223755+00:00",
           "status": "verified"
+        },
+        "originalTitle": {
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
+          "observedAt": "2026-10-01T07:17:56.165264+00:00",
+          "status": "verified"
         }
       }
     },
@@ -12806,8 +13448,8 @@
     {
       "id": "movie-bf26bcabb2d16ae6eda7",
       "title": "Ziyara",
-      "originalTitle": null,
-      "year": 2020,
+      "originalTitle": "Ziyara",
+      "year": 2021,
       "runtime": 99,
       "director": "Simone Bitton",
       "genres": [],
@@ -12816,15 +13458,19 @@
       "trailer": null,
       "ratings": {
         "imdb": {
-          "value": null,
+          "value": 7.8,
           "scale": 10,
-          "url": "https://www.imdb.com/find/?q=Ziyara&s=tt&ttype=ft",
-          "searchUrl": "https://www.imdb.com/find/?q=Ziyara&s=tt&ttype=ft",
-          "observedAt": "2026-10-18T15:29:27Z",
-          "status": "blocked",
-          "source": "imdb",
-          "attribution": "IMDb",
-          "metric": "user_rating"
+          "max": 10,
+          "metric": "user_rating",
+          "status": "verified",
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+          "attribution": "IMDb non-commercial datasets",
+          "observedAt": "2026-10-18T07:22:21Z",
+          "searchUrl": "https://www.imdb.com/find/?q=Ziyara&s=tt",
+          "imdbId": "tt15520396",
+          "titleUrl": "https://www.imdb.com/title/tt15520396/",
+          "votes": 17
         },
         "filmaffinity": {
           "value": null,
@@ -12864,8 +13510,10 @@
       "sources": [
         "https://www.filmoteca.cat/web/ca/film/ziyara"
       ],
-      "imdbId": null,
-      "aliases": [],
+      "imdbId": "tt15520396",
+      "aliases": [
+        "Ziyara"
+      ],
       "mergedIds": [],
       "metadataSources": {
         "runtime": {
@@ -12873,6 +13521,18 @@
           "url": "https://www.filmoteca.cat/web/ca/film/ziyara",
           "observedAt": "2026-10-18T15:03:07.512357+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
+          "observedAt": "2026-10-16T08:02:25.024442+00:00",
+          "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
+          "observedAt": "2026-10-16T08:02:25.024442+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -13016,6 +13676,12 @@
           "url": "https://www.filmoteca.cat/web/ca/film/mr-klein",
           "observedAt": "2026-10-18T15:03:22.572803+00:00",
           "status": "verified"
+        },
+        "originalTitle": {
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
+          "observedAt": "2026-10-01T07:17:56.165264+00:00",
+          "status": "verified"
         }
       }
     },
@@ -13086,54 +13752,58 @@
     {
       "id": "movie-9a1732faee683166fff1",
       "title": "The Seasons in Quincy: Four Portraits of John Berger",
-      "originalTitle": null,
+      "originalTitle": "The Seasons in Quincy: Four Portraits of John Berger",
       "year": 2016,
       "runtime": 90,
-      "director": "Diverses autories",
+      "director": "Bartek Dziadosz, Colin MacCabe, Christopher Roth, Tilda Swinton",
       "genres": [],
       "synopsis": "Un retrat de John Berger durant els seus últims anys al poble de Quincy, als Alps francesos, on el pensador i escriptor britànic es va adonar que el cultiu de l’agricultura de subsistència practicada durant mil·lennis arribava a la seva fi, i va decidir participar activament en aquesta manera de viure.",
       "poster": null,
       "trailer": null,
       "ratings": {
         "imdb": {
-          "value": null,
+          "value": 6.7,
           "scale": 10,
-          "url": "https://www.imdb.com/find/?q=The+Seasons+in+Quincy%3A+Four+Portraits+of+John+Berger&s=tt&ttype=ft",
-          "searchUrl": "https://www.imdb.com/find/?q=The+Seasons+in+Quincy%3A+Four+Portraits+of+John+Berger&s=tt&ttype=ft",
-          "observedAt": "2026-10-18T15:27:05Z",
-          "status": "blocked",
-          "source": "imdb",
-          "attribution": "IMDb",
-          "metric": "user_rating"
+          "max": 10,
+          "metric": "user_rating",
+          "status": "verified",
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+          "attribution": "IMDb non-commercial datasets",
+          "observedAt": "2026-10-18T07:22:21Z",
+          "searchUrl": "https://www.imdb.com/find/?q=The+Seasons+in+Quincy%3A+Four+Portraits+of+John+Berger&s=tt",
+          "imdbId": "tt5298558",
+          "titleUrl": "https://www.imdb.com/title/tt5298558/",
+          "votes": 267
         },
         "filmaffinity": {
-          "value": null,
+          "value": 6.3,
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film773579.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=The+Seasons+in+Quincy%3A+Four+Portraits+of+John+Berger&stype=title",
-          "observedAt": "2026-10-18T15:27:05Z",
-          "status": "identity_unconfirmed",
+          "observedAt": "2026-10-18T15:06:26.898591+00:00",
+          "status": "verified",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
           "metric": "user_rating"
         },
         "rottenTomatoes": {
-          "value": null,
+          "value": 71.0,
           "scale": 100,
           "url": "https://www.rottentomatoes.com/m/the_seasons_in_quincy_four_portraits_of_john_berger",
           "searchUrl": "https://www.rottentomatoes.com/search?search=The+Seasons+in+Quincy%3A+Four+Portraits+of+John+Berger",
-          "observedAt": "2026-10-18T15:27:07Z",
-          "status": "identity_unconfirmed",
+          "observedAt": "2026-10-18T15:27:07.066670+00:00",
+          "status": "verified",
           "source": "rottenTomatoes",
           "attribution": "Rotten Tomatoes",
           "metric": "tomatometer",
           "audience": {
-            "value": null,
+            "value": 49.0,
             "scale": 100,
             "url": "https://www.rottentomatoes.com/m/the_seasons_in_quincy_four_portraits_of_john_berger",
             "searchUrl": "https://www.rottentomatoes.com/search?search=The+Seasons+in+Quincy%3A+Four+Portraits+of+John+Berger",
-            "observedAt": "2026-10-18T15:27:07Z",
-            "status": "identity_unconfirmed",
+            "observedAt": "2026-10-18T15:27:07.066670+00:00",
+            "status": "verified",
             "source": "rottenTomatoes",
             "attribution": "Rotten Tomatoes",
             "metric": "popcornmeter"
@@ -13144,8 +13814,10 @@
       "sources": [
         "https://www.filmoteca.cat/web/ca/film/seasons-quincy-four-portraits-john-berger"
       ],
-      "imdbId": null,
-      "aliases": [],
+      "imdbId": "tt5298558",
+      "aliases": [
+        "The Seasons In Quincy: Four Portraits of John Berger"
+      ],
       "mergedIds": [],
       "metadataSources": {
         "runtime": {
@@ -13153,6 +13825,18 @@
           "url": "https://www.filmoteca.cat/web/ca/film/seasons-quincy-four-portraits-john-berger",
           "observedAt": "2026-10-18T15:03:27.662185+00:00",
           "status": "verified"
+        },
+        "director": {
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
+          "observedAt": "2026-10-16T08:02:25.024442+00:00",
+          "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
+          "observedAt": "2026-10-16T08:02:25.024442+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -13231,6 +13915,12 @@
           "source": "official",
           "url": "https://www.filmoteca.cat/web/ca/film/narayama-bushiko",
           "observedAt": "2026-10-18T15:03:29.887897+00:00",
+          "status": "verified"
+        },
+        "originalTitle": {
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
+          "observedAt": "2026-10-01T07:17:56.165264+00:00",
           "status": "verified"
         }
       }
@@ -13457,8 +14147,8 @@
     {
       "id": "movie-fa0e506d3f84d62e5724",
       "title": "Queen Kelly",
-      "originalTitle": null,
-      "year": 1928,
+      "originalTitle": "Queen Kelly",
+      "year": 1929,
       "runtime": 90,
       "director": "Erich von Stroheim",
       "genres": [],
@@ -13478,12 +14168,12 @@
           "metric": "user_rating"
         },
         "filmaffinity": {
-          "value": null,
+          "value": 7.5,
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film643231.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Queen+Kelly&stype=title",
-          "observedAt": "2026-10-18T15:28:47Z",
-          "status": "identity_unconfirmed",
+          "observedAt": "2026-10-18T15:06:45.686955+00:00",
+          "status": "verified",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
           "metric": "user_rating"
@@ -13524,6 +14214,18 @@
           "url": "https://www.filmoteca.cat/web/ca/film/queen-kelly",
           "observedAt": "2026-10-18T15:03:39.256468+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "afi_catalog_and_venice_classics",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/11491?cp=1&pos=0",
+          "observedAt": "2026-10-18T18:20:55.901612+02:00",
+          "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "afi_catalog_and_venice_classics",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/11491?cp=1&pos=0",
+          "observedAt": "2026-10-18T18:20:55.901612+02:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -13719,6 +14421,8 @@
       "imdbId": null,
       "aliases": [],
       "mergedIds": [],
+      "programmeKind": "composite",
+      "ratingScope": "programme",
       "metadataSources": {
         "runtime": {
           "source": "official",
@@ -13726,7 +14430,45 @@
           "observedAt": "2026-10-18T15:03:46.712598+00:00",
           "status": "verified"
         }
-      }
+      },
+      "components": [
+        {
+          "id": "work-c661e3b89c768a9071b4",
+          "title": "The Secret Life of Words",
+          "year": 2005,
+          "director": "Isabel Coixet",
+          "sourceUrl": "https://www.filmoteca.cat/web/ca/film/secret-life-words-100-years-and-you-everywhere",
+          "runtime": 115,
+          "imdbId": "tt0430576",
+          "originalTitle": "The Secret Life of Words",
+          "ratings": {
+            "imdb": {
+              "value": 7.4,
+              "scale": 10,
+              "max": 10,
+              "metric": "user_rating",
+              "status": "verified",
+              "source": "imdb_dataset",
+              "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+              "attribution": "IMDb non-commercial datasets",
+              "observedAt": "2026-10-18T07:22:21Z",
+              "searchUrl": "https://www.imdb.com/find/?q=The+Secret+Life+of+Words&s=tt",
+              "imdbId": "tt0430576",
+              "titleUrl": "https://www.imdb.com/title/tt0430576/",
+              "votes": 13802
+            }
+          }
+        },
+        {
+          "id": "work-c1092576c1ffd5b816d7",
+          "title": "100 Years and You Everywhere",
+          "year": 2025,
+          "director": "Isabel Coixet",
+          "sourceUrl": "https://www.filmoteca.cat/web/ca/film/secret-life-words-100-years-and-you-everywhere",
+          "runtime": 11,
+          "ratings": {}
+        }
+      ]
     },
     {
       "id": "movie-c5c2b03d74688a5d1829",
@@ -13792,6 +14534,8 @@
       "imdbId": null,
       "aliases": [],
       "mergedIds": [],
+      "programmeKind": "composite",
+      "ratingScope": "programme",
       "metadataSources": {
         "runtime": {
           "source": "official",
@@ -13799,7 +14543,45 @@
           "observedAt": "2026-10-18T15:03:52.423241+00:00",
           "status": "verified"
         }
-      }
+      },
+      "components": [
+        {
+          "id": "work-10c99b8bb3706054f8d5",
+          "title": "A Woman Under the Influence",
+          "year": 1974,
+          "director": "John Cassavetes",
+          "sourceUrl": "https://www.filmoteca.cat/web/ca/film/woman-under-influence-non-tu-ne-sortiras-pas-sans-moi",
+          "runtime": 146,
+          "imdbId": "tt0072417",
+          "originalTitle": "A Woman Under the Influence",
+          "ratings": {
+            "imdb": {
+              "value": 8.0,
+              "scale": 10,
+              "max": 10,
+              "metric": "user_rating",
+              "status": "verified",
+              "source": "imdb_dataset",
+              "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+              "attribution": "IMDb non-commercial datasets",
+              "observedAt": "2026-10-18T07:22:21Z",
+              "searchUrl": "https://www.imdb.com/find/?q=A+Woman+Under+the+Influence&s=tt",
+              "imdbId": "tt0072417",
+              "titleUrl": "https://www.imdb.com/title/tt0072417/",
+              "votes": 34291
+            }
+          }
+        },
+        {
+          "id": "work-2996da54e2d81d4ecda3",
+          "title": "Non! Tu ne sortiras pas sans moi!",
+          "year": 1911,
+          "director": "Jean Durand",
+          "sourceUrl": "https://www.filmoteca.cat/web/ca/film/woman-under-influence-non-tu-ne-sortiras-pas-sans-moi",
+          "runtime": 5,
+          "ratings": {}
+        }
+      ]
     },
     {
       "id": "movie-2b53744b300694765aba",

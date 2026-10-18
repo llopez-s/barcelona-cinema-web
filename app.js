@@ -187,6 +187,16 @@
   }
   function renderRatings(movie, detailed = false) {
     const container = element('div', detailed ? 'dialog-ratings' : 'ratings');
+    if (movie.ratingScope === 'programme') {
+      const works = Array.isArray(movie.components) ? movie.components.filter(record) : [];
+      container.append(element('p', 'small-text', works.length ? 'Las notas corresponden a cada obra, no al programa completo.' : 'Programa o espectáculo: obra o grabación concreta pendiente de identificar.'));
+      if (detailed) for (const work of works) {
+        const section = element('section', 'dialog-section');
+        section.append(element('h4', '', `${text(work.title)}${identifier(work.year) ? ` (${identifier(work.year)})` : ''}`), renderRatings(work, true));
+        container.append(section);
+      }
+      return container;
+    }
     for (const source of SOURCES) {
       const rating = ratingData(movie, source.key);
       const ratingUrl = rating.source === 'imdb_dataset' ? rating.titleUrl || rating.searchUrl : rating.titleUrl || rating.url || rating.searchUrl;
@@ -537,6 +547,16 @@
     if (text(movie.originalTitle) && movie.originalTitle !== movie.title) info.append(element('p', 'original-title', text(movie.originalTitle)));
     info.append(element('p', 'movie-meta', `Dirección: ${text(movie.director) || 'pendiente'}`));
     info.append(element('p', 'movie-meta', [identifier(movie.year) || 'Año pendiente', ...strings(movie.genres)].join(' · ')));
+    for (const [field, label] of [['year', 'Fuente del año'], ['director', 'Fuente de la dirección'], ['originalTitle', 'Fuente del título original']]) {
+      const provenance = movie.metadataSources?.[field];
+      if (!movie[field] || !record(provenance)) continue;
+      const sourceLink = externalLink(`${label} ↗`, provenance.url);
+      if (!sourceLink) continue;
+      const sourceLine = element('p', 'small-text');
+      sourceLine.append(sourceLink);
+      if (date(provenance.observedAt)) sourceLine.append(document.createTextNode(` · Consultado: ${formatDate(provenance.observedAt)}`));
+      info.append(sourceLine);
+    }
     info.append(element('p', 'movie-meta movie-runtime', `Duración: ${runtimeLabel(movie).replace('Duración pendiente', 'pendiente')}`));
     const runtimeSource = movie.metadataSources?.runtime;
     if (Number.isInteger(movie.runtime) && movie.runtime > 0 && record(runtimeSource)) {
