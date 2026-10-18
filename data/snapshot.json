@@ -15529,9 +15529,9 @@
     {
       "id": "movie-684f233896b8113aeff0",
       "title": "El lago de los cisnes. Ballet Ópera de París 26/27",
-      "originalTitle": "El lago de los cisnes. Ballet Ópera de París 26/27",
-      "year": 2026,
-      "director": "Rudolf Nureyev",
+      "originalTitle": "Swan Lake",
+      "year": 2024,
+      "director": "Isabelle Julien",
       "genres": [
         "Ballet"
       ],
@@ -15540,15 +15540,19 @@
       "trailer": null,
       "ratings": {
         "imdb": {
-          "value": null,
+          "value": 7.4,
           "scale": 10,
-          "url": "https://www.imdb.com/find/?q=El+lago+de+los+cisnes.+Ballet+%C3%93pera+de+Par%C3%ADs+26%2F27&s=tt&ttype=ft",
-          "searchUrl": "https://www.imdb.com/find/?q=El+lago+de+los+cisnes.+Ballet+%C3%93pera+de+Par%C3%ADs+26%2F27&s=tt&ttype=ft",
-          "observedAt": "2026-10-18T15:31:38Z",
-          "status": "blocked",
-          "source": "imdb",
-          "attribution": "IMDb",
-          "metric": "user_rating"
+          "max": 10,
+          "metric": "user_rating",
+          "status": "verified",
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+          "attribution": "IMDb non-commercial datasets",
+          "observedAt": "2026-10-18T07:22:21Z",
+          "searchUrl": "https://www.imdb.com/find/?q=Swan+Lake&s=tt",
+          "imdbId": "tt32986839",
+          "titleUrl": "https://www.imdb.com/title/tt32986839/",
+          "votes": 58
         },
         "filmaffinity": {
           "value": null,
@@ -15588,9 +15592,32 @@
       "sources": [
         "https://www.cinemesgirona.cat/el-lago-de-los-cisnes-ballet-opera-de-paris-26-27"
       ],
-      "imdbId": null,
-      "aliases": [],
-      "mergedIds": []
+      "imdbId": "tt32986839",
+      "aliases": [
+        "El lago de los cisnes. Ballet Ópera de París 26/27",
+        "Swan Lake"
+      ],
+      "mergedIds": [],
+      "metadataSources": {
+        "year": {
+          "source": "reviewed_official_sources_and_imdb_dataset",
+          "url": "https://parisoperacinema.com/",
+          "observedAt": "2026-10-18T18:11:05.828665+00:00",
+          "identityStatus": "verified"
+        },
+        "director": {
+          "source": "reviewed_official_sources_and_imdb_dataset",
+          "url": "https://parisoperacinema.com/",
+          "observedAt": "2026-10-18T18:11:05.828665+00:00",
+          "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "reviewed_official_sources_and_imdb_dataset",
+          "url": "https://parisoperacinema.com/",
+          "observedAt": "2026-10-18T18:11:05.828665+00:00",
+          "identityStatus": "verified"
+        }
+      }
     },
     {
       "id": "movie-67580c5baac799f4a727",
