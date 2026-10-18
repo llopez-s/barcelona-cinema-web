@@ -8,6 +8,7 @@
   const SOURCES = [
     { key: 'filmaffinity', name: 'FilmAffinity', short: 'FA' },
     { key: 'imdb', name: 'IMDb', short: 'IMDb' },
+    { key: 'tmdb', name: 'TMDB · público', short: 'TMDB' },
     { key: 'rottenTomatoes', name: 'Rotten Tomatoes · crítica', short: 'RT crítica' },
     { key: 'rottenTomatoesAudience', name: 'Rotten Tomatoes · público', short: 'RT público' },
   ];
@@ -23,12 +24,12 @@
     cancelled: 'Cancelada', canceled: 'Cancelada', sold_out: 'Agotada', soldout: 'Agotada',
     soldOut: 'Agotada', expired: 'Finalizada', skipped: 'Sin consultar', timeout: 'Tiempo agotado',
     no_data: 'Sin datos', no_sessions: 'Sin sesiones', not_found: 'No encontrado', closed: 'Cerrado',
-    identity_unconfirmed: 'Identidad sin confirmar', unrated: 'Sin nota publicada',
+    not_configured: 'Sin configurar', identity_unconfirmed: 'Identidad sin confirmar', unrated: 'Sin nota publicada',
     no_future_sessions: 'Sin pases futuros verificables', stale_only: 'Solo horarios sin actualizar',
   };
   const GOOD = new Set(['ok', 'success', 'available', 'verified', 'complete', 'active', 'confirmed', 'scheduled']);
   const FAILED = new Set(['error', 'failed', 'blocked', 'unavailable', 'timeout']);
-  const PENDING_RATINGS = new Set(['pending', 'unknown', 'missing', 'unavailable', 'error', 'failed', 'blocked', 'not_found', 'no_data', 'identity_unconfirmed', 'unrated']);
+  const PENDING_RATINGS = new Set(['not_configured', 'pending', 'unknown', 'missing', 'unavailable', 'error', 'failed', 'blocked', 'not_found', 'no_data', 'identity_unconfirmed', 'unrated']);
   const UNBOOKABLE = new Set(['cancelled', 'canceled', 'sold_out', 'soldout', 'soldOut', 'expired', 'unavailable']);
   const { STORAGE_KEY, LANGUAGE_FILTERS, languageCategory, languageLabel, languageName, genreKeys, genreOptions, createWatchedStore } = window.CinemaPreferences;
   const watchedMovies = createWatchedStore(() => window.localStorage);
@@ -179,6 +180,10 @@
   function ratingData(movie, source) {
     const rating = movie.ratings?.[source] ?? (source === 'rottenTomatoesAudience' ? movie.ratings?.rottenTomatoes?.audience : null);
     if (!record(rating)) return { available: false, ratio: null };
+    if (source === 'tmdb' && (rating.source !== 'tmdb' || rating.status !== 'verified' ||
+        rating.metric !== 'user_rating' || rating.scale !== 10 || !Number.isInteger(rating.votes) || rating.votes <= 0)) {
+      return { ...rating, available: false, ratio: null };
+    }
     const maximum = rating.max ?? rating.scale;
     const valid = typeof rating.value === 'number' && Number.isFinite(rating.value) && rating.value >= 0;
     const maxValid = typeof maximum === 'number' && Number.isFinite(maximum) && maximum > 0;
@@ -223,6 +228,9 @@
         node.title = `${observed}. No se ha podido actualizar.`;
         node.setAttribute('aria-label', `${node.getAttribute('aria-label')}. Sin actualizar. ${observed}`);
         if (detailed) node.append(element('span', 'rating-pending', observed));
+      }
+      if (detailed && source.key === 'tmdb' && rating.available) {
+        node.append(element('span', 'rating-detail-meta', `${numberFormat.format(rating.votes)} votos · Consultada: ${formatDateTime(rating.observedAt)}`));
       }
       container.append(node);
       if (detailed && rating.source === 'imdb_dataset') {
@@ -349,7 +357,8 @@
     for (const movie of state.snapshot.movies) {
       const watched = watchedMovies.has(movie);
       if (filter.watched === 'unwatched' && watched || filter.watched === 'watched' && !watched) continue;
-      const searchText = normalize([text(movie.title), text(movie.originalTitle), text(movie.director), ...strings(movie.cast)].join(' '));
+      const works = Array.isArray(movie.components) ? movie.components.filter(record) : [];
+      const searchText = normalize([text(movie.title), text(movie.originalTitle), text(movie.director), ...strings(movie.cast), ...works.flatMap(work => [text(work.title), ...strings(work.cast)])].join(' '));
       if (filter.query && !filter.query.split(/\s+/).every((word) => searchText.includes(word))) continue;
       if (filter.genre && !genreKeys(movie.genres).includes(filter.genre)) continue;
       const rating = ratingData(movie, filter.ratingSource);
@@ -536,6 +545,34 @@
     article.append(groups);
     return article;
   }
+  function renderCast(movie) {
+    const section = element('section', 'dialog-section');
+    section.append(element('h3', '', 'Reparto'));
+    function credits(work, target) {
+      const cast = strings(work.cast);
+      target.append(element('p', 'dialog-cast', cast.join(', ') || text(work.castReview?.message) || 'Reparto pendiente en la fuente.'));
+      if (cast.length && text(work.castNote)) target.append(element('p', 'small-text', text(work.castNote)));
+      const source = cast.length ? work.metadataSources?.cast : work.castReview;
+      if (!record(source)) return;
+      const line = element('p', 'small-text cast-source');
+      const link = externalLink(cast.length ? 'Fuente del reparto ↗' : 'Fuente consultada ↗', source.url);
+      if (link) line.append(link);
+      if (date(source.observedAt)) line.append(document.createTextNode(` · Consultado: ${formatDate(source.observedAt)}`));
+      if (source.status === 'stale') line.append(document.createTextNode(' · Sin actualizar'));
+      target.append(line);
+    }
+    if (movie.ratingScope === 'programme') {
+      const works = Array.isArray(movie.components) ? movie.components.filter(record) : [];
+      section.append(element('p', 'small-text', works.length ? 'Cada obra tiene su propio reparto.' : movie.programmeKind === 'surprise' ? 'Las películas de este programa sorpresa aún no están anunciadas.' : 'Este evento o programa no tiene un reparto cinematográfico único.'));
+      for (const work of works) {
+        const row = element('section', 'dialog-section');
+        row.append(element('h4', '', `${text(work.title)}${identifier(work.year) ? ` (${identifier(work.year)})` : ''}`));
+        credits(work, row);
+        section.append(row);
+      }
+    } else credits(movie, section);
+    return section;
+  }
   function openMovie(movie, sessions) {
     state.dialogOpener = document.activeElement;
     state.dialogMovieId = identifier(movie.id);
@@ -588,17 +625,7 @@
     content.append(header);
     const synopsis = element('section', 'dialog-section');
     synopsis.append(element('h3', '', 'La historia'), element('p', 'dialog-synopsis', text(movie.synopsis) || 'Sinopsis pendiente en la fuente.'));
-    const castSection = element('section', 'dialog-section');
-    castSection.append(element('h3', '', 'Reparto'), element('p', 'dialog-cast', strings(movie.cast).join(', ') || 'Reparto pendiente en la fuente.'));
-    const castSource = movie.metadataSources?.cast;
-    if (strings(movie.cast).length && record(castSource)) {
-      const sourceLine = element('p', 'small-text cast-source');
-      const sourceLink = externalLink('Fuente del reparto ↗', castSource.url);
-      if (sourceLink) sourceLine.append(sourceLink);
-      if (date(castSource.observedAt)) sourceLine.append(document.createTextNode(` · Consultado: ${formatDate(castSource.observedAt)}`));
-      if (castSource.status === 'stale') sourceLine.append(document.createTextNode(' · Sin actualizar'));
-      castSection.append(sourceLine);
-    }
+    const castSection = renderCast(movie);
     const ratings = element('section', 'dialog-section');
     ratings.append(element('h3', '', 'Notas y fuentes'), renderRatings(movie, true));
     const note = element('p', 'small-text dialog-session-note', `${plural(sessions.length, 'sesión coincide', 'sesiones coinciden')} con los filtros actuales. Las notas se muestran en su escala original; un enlace a una fuente no verifica una puntuación pendiente.`);

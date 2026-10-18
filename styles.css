@@ -307,3 +307,8 @@ a.session-time:hover { background: var(--yellow); }
   html { scroll-behavior: auto; }
   *, *::before, *::after { animation: none !important; transition: none !important; }
 }
+
+.tmdb-attribution { margin-top: 32px; padding-top: 20px; border-top: 1px solid var(--line, #dedbd4); font-size: 12px; line-height: 1.6; }
+.tmdb-attribution img { display: block; width: 94px; height: auto; margin-bottom: 8px; }
+.tmdb-attribution p { margin: 4px 0; }
+.rating-detail-meta { flex-basis: 100%; font-size: 11px; line-height: 1.5; color: var(--muted); }

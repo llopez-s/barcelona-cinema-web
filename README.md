@@ -6,4 +6,4 @@ Web generada con películas, sesiones, puntuaciones y eventos de Barcelona ciuda
 
 Los datos se publican desde el monitor local. GitHub Pages no ejecuta el rastreo. Las películas vistas se guardan solo en el navegador de cada visitante.
 
-Puntuaciones y metadatos: FilmAffinity, Rotten Tomatoes, IMDb y fuentes de los cines; la atribución y la fecha se conservan en cada ficha. Uso personal y no comercial.
+Puntuaciones y metadatos: FilmAffinity, Rotten Tomatoes, IMDb, TMDB y fuentes de los cines; la atribución y la fecha se conservan en cada ficha. Uso personal y no comercial.

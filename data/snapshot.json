@@ -271,7 +271,7 @@
           "source": "official",
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=2997",
           "observedAt": "2026-10-18T15:02:04.790891+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "year": {
           "source": "reviewed_provider_and_cinema",
@@ -731,7 +731,7 @@
           "source": "official",
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=3016",
           "observedAt": "2026-10-18T15:02:13.723929+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "originalTitle": {
           "source": "filmaffinity",
@@ -845,7 +845,7 @@
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film326795.html",
           "observedAt": "2026-10-18T15:03:55.715490+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "originalTitle": {
           "source": "reviewed_imdb_dataset",
@@ -1180,7 +1180,7 @@
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film705799.html",
           "observedAt": "2026-10-18T15:03:57.660424+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "originalTitle": {
           "source": "filmaffinity",
@@ -1292,7 +1292,7 @@
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film728190.html",
           "observedAt": "2026-10-18T15:03:59.545890+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "originalTitle": {
           "source": "wikidata",
@@ -1521,7 +1521,7 @@
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film210498.html",
           "observedAt": "2026-10-18T15:04:01.608278+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "originalTitle": {
           "source": "reviewed_imdb_dataset",
@@ -1537,6 +1537,12 @@
       "originalTitle": null,
       "year": 1995,
       "director": "Allan Arkush",
+      "castReview": {
+        "status": "identity_unconfirmed",
+        "message": "La ficha enlazada corresponde a una serie; falta confirmar qué obra o episodio se proyecta antes de trasladar su reparto.",
+        "url": "https://www.filmaffinity.com/es/film931958.html",
+        "observedAt": "2026-10-18T15:04:03.557571+00:00"
+      },
       "genres": [],
       "synopsis": null,
       "poster": "https://pics.filmaffinity.com/central_park_west-783865351-large.jpg",
@@ -2739,7 +2745,7 @@
           "source": "official",
           "url": "https://espaitexas.cat/pelicula/miss-jobson-2/",
           "observedAt": "2026-10-18T15:01:24.241395+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "originalTitle": {
           "source": "filmaffinity",
@@ -2851,7 +2857,7 @@
           "source": "official",
           "url": "https://espaitexas.cat/pelicula/chavalas/",
           "observedAt": "2026-10-18T15:01:30.820709+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "originalTitle": {
           "source": "filmaffinity",
@@ -3454,7 +3460,7 @@
           "source": "official",
           "url": "https://espaitexas.cat/pelicula/la-invasio-dels-barbars/",
           "observedAt": "2026-10-18T15:01:23.138501+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "originalTitle": {
           "source": "filmaffinity",
@@ -3572,7 +3578,7 @@
           "source": "official",
           "url": "https://espaitexas.cat/pelicula/escape-room-2/",
           "observedAt": "2026-10-18T15:01:22.042962+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "originalTitle": {
           "source": "filmaffinity",
@@ -3694,9 +3700,9 @@
         },
         "cast": {
           "source": "sensacine",
-          "url": "https://www.sensacine.com/cines/cine/E0764/",
-          "observedAt": "2026-10-18T15:01:27.783616+00:00",
-          "status": "verified"
+          "url": "https://www.sensacine.com/cines/cine/E0388/",
+          "observedAt": "2026-10-18T15:02:01.021863+00:00",
+          "status": "stale"
         }
       }
     },
@@ -3797,7 +3803,7 @@
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film973613.html",
           "observedAt": "2026-10-18T15:04:05.681547+00:00",
-          "status": "verified"
+          "status": "stale"
         }
       }
     },
@@ -3899,7 +3905,7 @@
           "source": "official",
           "url": "https://espaitexas.cat/pelicula/tanit/",
           "observedAt": "2026-10-18T15:01:26.599861+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "originalTitle": {
           "source": "filmaffinity",
@@ -4017,9 +4023,9 @@
           "status": "verified"
         },
         "cast": {
-          "source": "filmaffinity",
-          "url": "https://www.filmaffinity.com/es/film554234.html",
-          "observedAt": "2026-10-16T07:59:13.190079+00:00",
+          "source": "publicine",
+          "url": "https://www.publicine.net/pelicula/16248/la-invitacion",
+          "observedAt": "2026-10-16T07:58:03.451169+00:00",
           "status": "stale"
         },
         "year": {
@@ -4047,13 +4053,7 @@
         "Alejandro Speitzer",
         "Leonor Watling",
         "David Lorente",
-        "Víctor Clavijo",
-        "Jon Bermúdez",
-        "Richard Holmes",
-        "Stéphanie Magnin",
-        "Victor Manuel Rosario Peralta",
-        "Pao Soppe",
-        "Raúl Alcalde"
+        "Víctor Clavijo"
       ],
       "genres": [
         "Comedia"
@@ -4138,9 +4138,9 @@
           "status": "verified"
         },
         "cast": {
-          "source": "filmaffinity",
-          "url": "https://www.filmaffinity.com/es/film331187.html",
-          "observedAt": "2026-10-16T07:59:45.839665+00:00",
+          "source": "publicine",
+          "url": "https://www.publicine.net/pelicula/16256/la-maleta",
+          "observedAt": "2026-10-16T07:58:06.429831+00:00",
           "status": "stale"
         },
         "year": {
@@ -4171,18 +4171,12 @@
       "director": "Alejandro González Iñárritu",
       "cast": [
         "Tom Cruise",
-        "Riz Ahmed",
-        "John Goodman",
-        "Sandra Hüller",
         "Jesse Plemons",
+        "John Goodman",
         "Michael Stuhlbarg",
         "Sophie Wilde",
-        "Robert John Burke",
-        "Emma D'Arcy",
-        "Burn Gorman",
-        "Mercedes Hernández",
-        "Pip Torrens",
-        "Danny Kirrane"
+        "Sandra Hüller",
+        "Riz Ahmed"
       ],
       "genres": [
         "Acción",
@@ -4270,9 +4264,9 @@
           "status": "verified"
         },
         "cast": {
-          "source": "filmaffinity",
-          "url": "https://www.filmaffinity.com/es/film440322.html",
-          "observedAt": "2026-10-06T07:38:42.502251+00:00",
+          "source": "publicine",
+          "url": "https://www.publicine.net/pelicula/16322/digger",
+          "observedAt": "2026-10-02T07:06:06.612209+00:00",
           "status": "stale"
         }
       }
@@ -4389,7 +4383,7 @@
         "cast": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film711879.html",
-          "observedAt": "2026-09-05T10:53:34.270593+00:00",
+          "observedAt": "2026-10-11T07:11:50.446125+00:00",
           "status": "stale"
         },
         "year": {
@@ -4414,18 +4408,16 @@
       "director": "Rodrigo Sorogoyen",
       "cast": [
         "Javier Bardem",
-        "Victoria Luengo",
+        "Vicky Luengo",
         "Raúl Arévalo",
         "Marina Foïs",
-        "Raúl Prieto",
-        "Pepa Gracia",
-        "Melina Matthews",
-        "Nuria Prims",
-        "Pablo Gómez-Pando",
-        "Malena Villa",
         "Mourad Ouani",
-        "Miguel Garcés",
-        "Laura Birn"
+        "Raúl Prieto",
+        "Melina Matthews",
+        "Laura Birn",
+        "Núria Prims",
+        "Pablo Gómez-Pando",
+        "Malena Villa"
       ],
       "genres": [
         "Drama"
@@ -4523,9 +4515,9 @@
           "status": "verified"
         },
         "cast": {
-          "source": "filmaffinity",
-          "url": "https://www.filmaffinity.com/es/film223018.html",
-          "observedAt": "2026-10-06T07:38:52.419702+00:00",
+          "source": "publicine",
+          "url": "https://www.publicine.net/pelicula/16429/el-ser-querido",
+          "observedAt": "2026-09-06T07:09:32.468883+00:00",
           "status": "stale"
         }
       }
@@ -4650,7 +4642,7 @@
         "cast": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film503965.html",
-          "observedAt": "2026-10-06T07:36:29.322594+00:00",
+          "observedAt": "2026-10-10T07:04:55.196892+00:00",
           "status": "stale"
         }
       }
@@ -4771,7 +4763,7 @@
         "cast": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film877615.html",
-          "observedAt": "2026-10-06T07:40:15.775598+00:00",
+          "observedAt": "2026-10-18T07:00:15.830047+00:00",
           "status": "stale"
         },
         "year": {
@@ -4900,7 +4892,7 @@
           "source": "official",
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=3001",
           "observedAt": "2026-10-18T15:01:44.021205+00:00",
-          "status": "verified"
+          "status": "stale"
         }
       }
     },
@@ -5020,7 +5012,7 @@
           "source": "official",
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=2996",
           "observedAt": "2026-10-18T15:02:20.027669+00:00",
-          "status": "verified"
+          "status": "stale"
         }
       }
     },
@@ -5250,7 +5242,7 @@
         "cast": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film959467.html",
-          "observedAt": "2026-09-16T21:08:39.659497+00:00",
+          "observedAt": "2026-10-13T09:52:36.653662+00:00",
           "status": "stale"
         },
         "year": {
@@ -5499,7 +5491,7 @@
           "source": "official",
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=2964",
           "observedAt": "2026-10-18T15:02:09.536890+00:00",
-          "status": "verified"
+          "status": "stale"
         }
       }
     },
@@ -5645,7 +5637,6 @@
         "Susi Sánchez",
         "Hugo Arbués",
         "Óscar de la Fuente",
-        "Chechu Salgado",
         "Abel de la Fuente"
       ],
       "genres": [
@@ -5737,9 +5728,9 @@
           "status": "verified"
         },
         "cast": {
-          "source": "filmaffinity",
-          "url": "https://www.filmaffinity.com/es/film523744.html",
-          "observedAt": "2026-10-16T08:00:09.106863+00:00",
+          "source": "publicine",
+          "url": "https://www.publicine.net/pelicula/16239/el-mal-hijo",
+          "observedAt": "2026-10-16T07:58:09.092855+00:00",
           "status": "stale"
         },
         "year": {
@@ -5774,14 +5765,14 @@
         "Charles Berling",
         "Laurent Capelluto",
         "Marie-Christine Barrault",
-        "Yumi Narita",
         "Agathe Dronne",
         "Nathalie Afferi",
         "Sandra Colombo",
-        "Edith Saulnier",
-        "Mourad Benassarou",
-        "Lucas Bustos Topage",
-        "Ji Su Jeong"
+        "Bernard Blancan",
+        "Léna Breban",
+        "Arcadi Radeff",
+        "Yumi Narita",
+        "Guillaume Costanza"
       ],
       "genres": [
         "Comedia dramática"
@@ -5870,9 +5861,9 @@
           "status": "verified"
         },
         "cast": {
-          "source": "filmaffinity",
-          "url": "https://www.filmaffinity.com/es/film172492.html",
-          "observedAt": "2026-10-09T07:08:34.891746+00:00",
+          "source": "publicine",
+          "url": "https://www.publicine.net/pelicula/16265/la-vida-de-una-mujer",
+          "observedAt": "2026-10-09T07:07:25.568465+00:00",
           "status": "stale"
         }
       }
@@ -5970,9 +5961,9 @@
         },
         "cast": {
           "source": "sensacine",
-          "url": "https://www.sensacine.com/cines/cine/E0682/",
-          "observedAt": "2026-10-18T15:01:24.758758+00:00",
-          "status": "verified"
+          "url": "https://www.sensacine.com/cines/cine/E0581/",
+          "observedAt": "2026-10-18T15:02:05.538883+00:00",
+          "status": "stale"
         },
         "year": {
           "source": "wikidata",
@@ -5998,16 +5989,17 @@
         "Noah Centineo",
         "Andrew Koji",
         "Callina Liang",
-        "Joe Anoa'i",
-        "David Dastmalchian",
-        "Cody Rhodes",
-        "Andrew Schulz",
-        "Orville Peck",
-        "Curtis '50 Cent' Jackson",
         "Jason Momoa",
-        "Vidyut Jamwal",
+        "50 Cent",
+        "David Dastmalchian",
+        "Eric André",
         "Olivier Richters",
-        "Rayna Vallandingham"
+        "Cody Rhodes",
+        "Joe Anoa'i",
+        "Orville Peck",
+        "Andrew Schulz",
+        "Vidyut Jammwal",
+        "Hirooki Goto"
       ],
       "genres": [
         "Acción",
@@ -6100,9 +6092,9 @@
           "status": "verified"
         },
         "cast": {
-          "source": "filmaffinity",
-          "url": "https://www.filmaffinity.com/es/film361470.html",
-          "observedAt": "2026-10-16T08:00:47.738697+00:00",
+          "source": "publicine",
+          "url": "https://www.publicine.net/pelicula/16254/street-fighter",
+          "observedAt": "2026-10-16T07:58:13.654688+00:00",
           "status": "stale"
         },
         "year": {
@@ -6134,7 +6126,10 @@
       "cast": [
         "Austin Abrams",
         "Josh Brolin",
-        "Elisabeth Shue"
+        "Elisabeth Shue",
+        "John Ortiz",
+        "Jane Levy",
+        "Emily Rudd"
       ],
       "genres": [
         "Suspense"
@@ -6219,10 +6214,10 @@
           "status": "verified"
         },
         "cast": {
-          "source": "sensacine",
-          "url": "https://www.sensacine.com/cines/cine/E0764/",
-          "observedAt": "2026-10-18T15:01:27.783616+00:00",
-          "status": "verified"
+          "source": "publicine",
+          "url": "https://www.publicine.net/pelicula/16251/whalefall",
+          "observedAt": "2026-10-16T07:58:11.277944+00:00",
+          "status": "stale"
         },
         "year": {
           "source": "filmaffinity",
@@ -6347,9 +6342,9 @@
         },
         "cast": {
           "source": "sensacine",
-          "url": "https://www.sensacine.com/cines/cine/E0764/",
-          "observedAt": "2026-10-18T15:01:27.783616+00:00",
-          "status": "verified"
+          "url": "https://www.sensacine.com/cines/cine/E0388/",
+          "observedAt": "2026-10-18T15:02:01.021863+00:00",
+          "status": "stale"
         },
         "year": {
           "source": "filmaffinity",
@@ -6473,7 +6468,7 @@
           "source": "official",
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=3005",
           "observedAt": "2026-10-18T15:01:46.972603+00:00",
-          "status": "verified"
+          "status": "stale"
         }
       }
     },
@@ -6624,7 +6619,12 @@
       "cast": [
         "Jessica Chastain",
         "Jay Duplass",
-        "Arabella Olivia Clark"
+        "Dichen Lachman",
+        "Sean Kaufman",
+        "Adam Silver",
+        "Karen Allen",
+        "Carrie Dimaculangan",
+        "Travis Nelson"
       ],
       "genres": [
         "Terror"
@@ -6711,10 +6711,10 @@
           "status": "verified"
         },
         "cast": {
-          "source": "sensacine",
-          "url": "https://www.sensacine.com/cines/cine/E0764/",
-          "observedAt": "2026-10-18T15:01:27.783616+00:00",
-          "status": "verified"
+          "source": "publicine",
+          "url": "https://www.publicine.net/pelicula/16295/la-otra-madre",
+          "observedAt": "2026-10-09T07:07:29.989107+00:00",
+          "status": "stale"
         },
         "year": {
           "source": "filmaffinity",
@@ -6852,9 +6852,9 @@
       "director": "Michal Kwiecinski",
       "cast": [
         "Eryk Kulm",
-        "Lambert Wilson",
         "Joséphine de La Baume",
         "Victor Meutelet",
+        "Lambert Wilson",
         "Theo Grundmann Brechet",
         "Przemyslaw Kowalski",
         "Karolina Gruszka",
@@ -6862,8 +6862,7 @@
         "Michal Pawlik",
         "Claudia Fortunato",
         "Roxane Le Texier",
-        "Gabriel Raab",
-        "Clara Eon"
+        "Maja Ostaszewska"
       ],
       "genres": [
         "Drama",
@@ -6955,9 +6954,9 @@
           "status": "verified"
         },
         "cast": {
-          "source": "filmaffinity",
-          "url": "https://www.filmaffinity.com/es/film309577.html",
-          "observedAt": "2026-10-16T08:01:16.607490+00:00",
+          "source": "publicine",
+          "url": "https://www.publicine.net/pelicula/16246/chopin",
+          "observedAt": "2026-10-16T07:58:15.659832+00:00",
           "status": "stale"
         },
         "year": {
@@ -6976,6 +6975,15 @@
       "runtime": 108,
       "ageRating": null,
       "director": "James Watkins",
+      "cast": [
+        "Tom Rhys Harries",
+        "Naomi Ackie",
+        "David Dencik",
+        "Max Minghella",
+        "Eddie Marsan",
+        "Nancy Carroll",
+        "Joshua James"
+      ],
       "genres": [
         "Acción",
         "Terror",
@@ -7050,6 +7058,12 @@
           "observedAt": "2026-10-18T15:01:56.536649+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/pelicula/16232/clayface",
+          "observedAt": "2026-10-16T07:58:17.652181+00:00",
+          "status": "stale"
+        },
         "year": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film514364.html",
@@ -7072,6 +7086,20 @@
       "runtime": 101,
       "ageRating": null,
       "director": "Igor Legarreta",
+      "cast": [
+        "Urko Olazabal",
+        "Itziar Ituño",
+        "Josean Bengoetxea",
+        "Miren Gaztañaga",
+        "Unax Hayden",
+        "Patxi Bisquert",
+        "Carlos Santos",
+        "Dani Cabrera",
+        "Kimetz Etxabe",
+        "Markel Martínez",
+        "Anuk Puértolas",
+        "Elena Úriz"
+      ],
       "genres": [
         "Drama"
       ],
@@ -7148,6 +7176,12 @@
           "observedAt": "2026-10-18T15:02:02.424186+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/pelicula/16269/las-ciegas-hormigas",
+          "observedAt": "2026-10-09T07:07:27.842015+00:00",
+          "status": "stale"
+        },
         "year": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film369667.html",
@@ -7168,6 +7202,17 @@
         "label": "No recomanada per a menors de 16 anys"
       },
       "director": "Sophy Romvari",
+      "cast": [
+        "Eylul Guven",
+        "Réti Iringó",
+        "Ádám Tompa",
+        "Edik Beddoes",
+        "Amy Zimmer",
+        "Liam Serg",
+        "Preston Drabble",
+        "Lucy Turnbull",
+        "Jecca Beauchamp"
+      ],
       "genres": [
         "Drama"
       ],
@@ -7246,6 +7291,12 @@
           "url": "https://zumzeigcine.coop/cinema/films/blue-heron/",
           "observedAt": "2026-10-16T07:55:33.493726+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film490840.html",
+          "observedAt": "2026-10-18T07:01:07.184326+00:00",
+          "status": "stale"
         }
       }
     },
@@ -7336,7 +7387,7 @@
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film454964.html",
           "observedAt": "2026-10-18T15:04:09.829496+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "originalTitle": {
           "source": "imdb_dataset",
@@ -7456,7 +7507,7 @@
           "source": "official",
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=539",
           "observedAt": "2026-10-18T15:01:28.517350+00:00",
-          "status": "verified"
+          "status": "stale"
         }
       }
     },
@@ -7695,7 +7746,7 @@
           "source": "official",
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=64",
           "observedAt": "2026-10-18T15:01:31.615451+00:00",
-          "status": "verified"
+          "status": "stale"
         }
       }
     },
@@ -7806,7 +7857,7 @@
           "source": "official",
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=3007",
           "observedAt": "2026-10-18T15:01:33.239928+00:00",
-          "status": "verified"
+          "status": "stale"
         }
       }
     },
@@ -7920,7 +7971,7 @@
           "source": "official",
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=705",
           "observedAt": "2026-10-18T15:01:34.967911+00:00",
-          "status": "verified"
+          "status": "stale"
         }
       }
     },
@@ -8046,7 +8097,7 @@
           "source": "official",
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=254",
           "observedAt": "2026-10-18T15:01:36.994535+00:00",
-          "status": "verified"
+          "status": "stale"
         }
       }
     },
@@ -8154,7 +8205,7 @@
           "source": "official",
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=348",
           "observedAt": "2026-10-18T15:01:39.280698+00:00",
-          "status": "verified"
+          "status": "stale"
         }
       }
     },
@@ -8269,7 +8320,7 @@
           "source": "official",
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=3010",
           "observedAt": "2026-10-18T15:01:41.478297+00:00",
-          "status": "verified"
+          "status": "stale"
         }
       }
     },
@@ -8388,7 +8439,7 @@
           "source": "official",
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=1237",
           "observedAt": "2026-10-18T15:01:49.024137+00:00",
-          "status": "verified"
+          "status": "stale"
         }
       }
     },
@@ -8486,7 +8537,7 @@
           "source": "official",
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=3002",
           "observedAt": "2026-10-18T15:01:51.493151+00:00",
-          "status": "verified"
+          "status": "stale"
         }
       }
     },
@@ -8599,7 +8650,7 @@
           "source": "official",
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=1414",
           "observedAt": "2026-10-18T15:01:54.839091+00:00",
-          "status": "verified"
+          "status": "stale"
         }
       }
     },
@@ -8706,7 +8757,7 @@
           "source": "official",
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=1469",
           "observedAt": "2026-10-18T15:01:57.278175+00:00",
-          "status": "verified"
+          "status": "stale"
         }
       }
     },
@@ -8819,7 +8870,7 @@
           "source": "official",
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=3000",
           "observedAt": "2026-10-18T15:01:59.618804+00:00",
-          "status": "verified"
+          "status": "stale"
         }
       }
     },
@@ -8938,7 +8989,7 @@
           "source": "official",
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=3006",
           "observedAt": "2026-10-18T15:02:03.202098+00:00",
-          "status": "verified"
+          "status": "stale"
         }
       }
     },
@@ -9055,7 +9106,7 @@
           "source": "official",
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=1443",
           "observedAt": "2026-10-18T15:02:07.149044+00:00",
-          "status": "verified"
+          "status": "stale"
         }
       }
     },
@@ -9189,7 +9240,7 @@
           "source": "official",
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=2120",
           "observedAt": "2026-10-18T15:02:11.952186+00:00",
-          "status": "verified"
+          "status": "stale"
         }
       }
     },
@@ -9304,7 +9355,7 @@
           "source": "official",
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=2485",
           "observedAt": "2026-10-18T15:02:21.606614+00:00",
-          "status": "verified"
+          "status": "stale"
         }
       }
     },
@@ -9412,7 +9463,7 @@
           "source": "official",
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=3019",
           "observedAt": "2026-10-18T15:02:22.984913+00:00",
-          "status": "verified"
+          "status": "stale"
         }
       }
     },
@@ -9526,7 +9577,7 @@
           "source": "official",
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=2863",
           "observedAt": "2026-10-18T15:02:25.134570+00:00",
-          "status": "verified"
+          "status": "stale"
         }
       }
     },
@@ -9626,7 +9677,7 @@
           "source": "official",
           "url": "https://www.filmoteca.cat/web/ca/film/tasio",
           "observedAt": "2026-10-18T15:01:42.224252+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "originalTitle": {
           "source": "filmaffinity",
@@ -9734,7 +9785,7 @@
           "source": "official",
           "url": "https://www.filmoteca.cat/web/ca/film/billy-elliot",
           "observedAt": "2026-10-18T15:01:51.475059+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "originalTitle": {
           "source": "wikidata",
@@ -9846,7 +9897,7 @@
           "source": "official",
           "url": "https://www.filmoteca.cat/web/ca/film/there-will-be-blood",
           "observedAt": "2026-10-18T15:01:54.395021+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "originalTitle": {
           "source": "filmaffinity",
@@ -9954,7 +10005,7 @@
           "source": "official",
           "url": "https://www.filmoteca.cat/web/ca/film/master",
           "observedAt": "2026-10-18T15:02:33.534060+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "originalTitle": {
           "source": "filmaffinity",
@@ -10061,7 +10112,7 @@
           "source": "official",
           "url": "https://www.filmoteca.cat/web/ca/film/miracle-worker",
           "observedAt": "2026-10-18T15:02:35.213011+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "originalTitle": {
           "source": "wikidata",
@@ -10170,7 +10221,7 @@
           "source": "official",
           "url": "https://www.filmoteca.cat/web/ca/film/invitation-dance",
           "observedAt": "2026-10-18T15:02:39.038275+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "originalTitle": {
           "source": "filmaffinity",
@@ -10271,7 +10322,7 @@
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film121356.html",
           "observedAt": "2026-10-18T15:04:16.652050+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "originalTitle": {
           "source": "filmaffinity",
@@ -10382,7 +10433,7 @@
           "source": "official",
           "url": "https://www.filmoteca.cat/web/ca/film/stranger-paradise",
           "observedAt": "2026-10-18T15:02:54.774196+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "originalTitle": {
           "source": "wikidata",
@@ -10479,7 +10530,7 @@
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film239609.html",
           "observedAt": "2026-10-18T15:04:18.665219+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "originalTitle": {
           "source": "imdb_dataset",
@@ -10585,7 +10636,7 @@
           "source": "official",
           "url": "https://www.filmoteca.cat/web/ca/film/karumen-junjo-su",
           "observedAt": "2026-10-18T15:03:04.531494+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "originalTitle": {
           "source": "wikidata",
@@ -10693,7 +10744,7 @@
           "source": "official",
           "url": "https://www.filmoteca.cat/web/ca/film/inherent-vice",
           "observedAt": "2026-10-18T15:03:12.957033+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "originalTitle": {
           "source": "wikidata",
@@ -10796,7 +10847,7 @@
           "source": "official",
           "url": "https://www.filmoteca.cat/web/ca/film/tretya-meshchanskaya",
           "observedAt": "2026-10-18T15:03:18.250596+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "originalTitle": {
           "source": "imdb_dataset",
@@ -10905,7 +10956,7 @@
           "source": "official",
           "url": "https://www.filmoteca.cat/web/ca/film/wakolda",
           "observedAt": "2026-10-18T15:03:20.182841+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "originalTitle": {
           "source": "wikidata",
@@ -11006,7 +11057,7 @@
           "source": "official",
           "url": "https://www.filmoteca.cat/web/ca/film/rikugun",
           "observedAt": "2026-10-18T15:03:25.877419+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "originalTitle": {
           "source": "wikidata",
@@ -11114,7 +11165,7 @@
           "source": "official",
           "url": "https://www.filmoteca.cat/web/ca/film/licorice-pizza",
           "observedAt": "2026-10-18T15:03:44.624966+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "originalTitle": {
           "source": "wikidata",
@@ -11224,7 +11275,7 @@
           "source": "official",
           "url": "https://www.filmoteca.cat/web/ca/film/phantom-thread",
           "observedAt": "2026-10-18T15:03:48.752934+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "originalTitle": {
           "source": "wikidata",
@@ -11341,7 +11392,7 @@
           "source": "official",
           "url": "https://www.filmoteca.cat/web/ca/film/one-battle-after-another",
           "observedAt": "2026-10-18T15:03:50.349253+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "originalTitle": {
           "source": "wikidata",
@@ -11463,7 +11514,7 @@
         "cast": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film605590.html",
-          "observedAt": "2026-10-06T07:40:35.364941+00:00",
+          "observedAt": "2026-10-18T15:04:25.623265+00:00",
           "status": "stale"
         },
         "year": {
@@ -11484,8 +11535,18 @@
       "director": "Damián Szifron",
       "cast": [
         "Ricardo Darín",
-        "Oscar Martinez",
-        "Leonardo Sbaraglia"
+        "Darío Grandinetti",
+        "Leonardo Sbaraglia",
+        "Érica Rivas",
+        "Oscar Martínez",
+        "Julieta Zylberberg",
+        "Rita Cortese",
+        "María Onetto",
+        "Osmar Nuñez",
+        "Nancy Dupláa",
+        "María Marull",
+        "Germán de Silva",
+        "Marcelo Pozzi"
       ],
       "genres": [
         "Comedia",
@@ -11563,10 +11624,10 @@
           "identityStatus": "verified"
         },
         "cast": {
-          "source": "sensacine",
-          "url": "https://www.sensacine.com/cines/cine/E0747/",
-          "observedAt": "2026-10-18T15:01:22.788333+00:00",
-          "status": "verified"
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film809035.html",
+          "observedAt": "2026-10-18T15:04:36.940368+00:00",
+          "status": "stale"
         },
         "year": {
           "source": "filmaffinity",
@@ -11594,6 +11655,18 @@
         "label": "Pelicula no recomendada a menores de 12"
       },
       "director": "Manuel Menchón",
+      "cast": [
+        "Álvaro Morte",
+        "Francesco Carril",
+        "Joaquín Notario",
+        "Pedro Casablanc",
+        "Verónica Sánchez",
+        "Víctor Clavijo",
+        "María Galiana",
+        "Alberto San Juan",
+        "Federico García Lorca",
+        "Juan Ramírez de Lucas"
+      ],
       "genres": [
         "Documental"
       ],
@@ -11670,6 +11743,12 @@
           "source": "sensacine",
           "url": "https://www.sensacine.com/cines/cine/E0682/",
           "observedAt": "2026-10-18T15:01:24.758758+00:00",
+          "status": "verified"
+        },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film209641.html",
+          "observedAt": "2026-10-18T21:05:05.155909+00:00",
           "status": "verified"
         },
         "year": {
@@ -11796,7 +11875,7 @@
         "cast": {
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film538345.html",
-          "observedAt": "2026-09-15T08:00:44.153501+00:00",
+          "observedAt": "2026-10-18T15:04:51.160506+00:00",
           "status": "stale"
         },
         "year": {
@@ -11922,7 +12001,7 @@
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film704416.html",
           "observedAt": "2026-10-18T15:05:49.111261+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "year": {
           "source": "imdb_dataset",
@@ -12032,7 +12111,7 @@
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film411816.html",
           "observedAt": "2026-10-18T15:06:01.866620+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "year": {
           "source": "imdb_dataset",
@@ -12140,7 +12219,7 @@
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film830161.html",
           "observedAt": "2026-10-18T15:06:04.204773+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "director": {
           "source": "imdb_dataset",
@@ -12250,9 +12329,9 @@
         },
         "cast": {
           "source": "sensacine",
-          "url": "https://www.sensacine.com/cines/cine/E0608/",
-          "observedAt": "2026-10-18T15:01:20.633777+00:00",
-          "status": "verified"
+          "url": "https://www.sensacine.com/cines/cine/E0388/",
+          "observedAt": "2026-10-18T15:02:01.021863+00:00",
+          "status": "stale"
         },
         "year": {
           "source": "reviewed_official_sources_and_imdb_dataset",
@@ -12282,6 +12361,12 @@
       "runtime": null,
       "ageRating": null,
       "director": null,
+      "castReview": {
+        "status": "edition_unconfirmed",
+        "message": "Falta confirmar la versión de esta proyección: el título coincide con películas y grabaciones de ópera diferentes.",
+        "url": "https://www.sensacine.com/peliculas/pelicula-6443/",
+        "observedAt": "2026-10-18T17:02:51.153889+00:00"
+      },
       "genres": [
         "Comedia dramática"
       ],
@@ -12436,7 +12521,7 @@
           "source": "sensacine",
           "url": "https://www.sensacine.com/cines/cine/E0747/",
           "observedAt": "2026-10-18T15:01:22.788333+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "year": {
           "source": "imdb_dataset",
@@ -12458,6 +12543,14 @@
         "label": "Pelicula no recomendada a menores de 12"
       },
       "director": "Areeb Zuaiter",
+      "cast": [
+        "Areeb Zuaiter",
+        "Ahmad Matar",
+        "Ibrahim Maher",
+        "Maha Maturo",
+        "Nadia Mata",
+        "Isabel Mata"
+      ],
       "genres": [
         "Documental"
       ],
@@ -12528,6 +12621,12 @@
           "url": "https://www.sensacine.com/cines/cine/E0682/",
           "observedAt": "2026-10-18T15:01:24.758758+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film377115.html",
+          "observedAt": "2026-10-18T15:04:42.122808+00:00",
+          "status": "stale"
         },
         "year": {
           "source": "reviewed_official_sources_and_imdb_dataset",
@@ -12650,7 +12749,7 @@
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film177067.html",
           "observedAt": "2026-10-18T15:04:48.350049+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "year": {
           "source": "imdb_dataset",
@@ -12672,6 +12771,17 @@
         "label": "Pelicula no recomendada a menores de 12"
       },
       "director": "Takahiro Hasui",
+      "cast": [
+        "Minami Takayama",
+        "Wakana Yamazaki",
+        "Rikiya Koyama",
+        "Megumi Hayashibara",
+        "Miyuki Sawashiro",
+        "Shin'ichirô Miki",
+        "Nobutoshi Canna",
+        "Mei Hata",
+        "Ryûsei Yokohama"
+      ],
       "genres": [
         "Acción",
         "Animación",
@@ -12745,6 +12855,12 @@
           "source": "sensacine",
           "url": "https://www.sensacine.com/cines/cine/E0764/",
           "observedAt": "2026-10-18T15:01:27.783616+00:00",
+          "status": "verified"
+        },
+        "cast": {
+          "source": "reviewed_public_source",
+          "url": "https://www.bbfc.co.uk/release/detective-conan-fallen-angel-of-the-highway-q29sbgvjdglvbjpwwc0xmte3mtkx",
+          "observedAt": "2026-10-18T21:07:51.860327+00:00",
           "status": "verified"
         },
         "year": {
@@ -12870,9 +12986,9 @@
         },
         "cast": {
           "source": "sensacine",
-          "url": "https://www.sensacine.com/cines/cine/E0764/",
-          "observedAt": "2026-10-18T15:01:27.783616+00:00",
-          "status": "verified"
+          "url": "https://www.sensacine.com/cines/cine/E0388/",
+          "observedAt": "2026-10-18T15:02:01.021863+00:00",
+          "status": "stale"
         },
         "year": {
           "source": "imdb_dataset",
@@ -12979,7 +13095,7 @@
           "source": "sensacine",
           "url": "https://www.sensacine.com/cines/cine/E0808/",
           "observedAt": "2026-10-18T15:01:30.941857+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "year": {
           "source": "imdb_dataset",
@@ -13079,7 +13195,7 @@
           "source": "official",
           "url": "https://espaitexas.cat/pelicula/ombra-nomada/",
           "observedAt": "2026-10-18T15:01:25.439891+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "year": {
           "source": "imdb_dataset",
@@ -13102,6 +13218,9 @@
       "year": 2025,
       "runtime": 69,
       "director": "Frédéric Goldbronn",
+      "cast": [
+        "Bruno Podalydès"
+      ],
       "genres": [],
       "synopsis": "Homenatge a Catalunya és el llibre de George Orwell en el qual explica el seu compromís amb la revolució i la Guerra Civil Espanyola. El documental és una obra plena d’imatges que procedeixen majoritàriament dels informes dels anarquistes de la CNT. En tornar a mostrar aquestes imatges, la pel·lícula ens permet compartir l’experiència d’Orwell a Espanya a través d’una mirada cinematogràfica.",
       "poster": "https://espaitexas.cat/wp-content/uploads/2026/09/poster-homenatge-a-catalunya-bcn-film-fest-page-0001.jpg",
@@ -13165,6 +13284,12 @@
           "url": "https://espaitexas.cat/pelicula/homenatge-a-catalunya/",
           "observedAt": "2026-10-18T15:01:28.159472+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "reviewed_public_source",
+          "url": "https://presson-harold.fr/fr/en-production/1311-hommage-a-la-catalogne.html",
+          "observedAt": "2026-10-18T21:07:50.806192+00:00",
+          "status": "verified"
         }
       }
     },
@@ -13175,6 +13300,11 @@
       "year": 2026,
       "runtime": 78,
       "director": "Luis Sampieri",
+      "cast": [
+        "Antu Carrizo",
+        "Cecília Pastoret",
+        "Santi Carrizo"
+      ],
       "genres": [],
       "synopsis": "L’Antu és una nena de nou anys que va néixer invident. Gràcies a una sensibilitat i una curiositat inusuals, descobreix amb detall el món que l’envolta. A bord d’un vell camió, recorre l’Argentina amb els seus pares, projectant pel·lícules en petits pobles oblidats i imaginant les històries que mai no podrà veure.",
       "poster": "https://espaitexas.cat/wp-content/uploads/2026/05/poster-indomita-llum-768x1086.jpg",
@@ -13244,6 +13374,12 @@
           "source": "official",
           "url": "https://espaitexas.cat/es/pelicula/indomita-llum/",
           "observedAt": "2026-10-18T13:36:29.825933+00:00",
+          "status": "verified"
+        },
+        "cast": {
+          "source": "reviewed_public_source",
+          "url": "https://www.colibristudio.tv/indomita-luz",
+          "observedAt": "2026-10-18T21:12:28.992186+00:00",
           "status": "verified"
         }
       }
@@ -13322,6 +13458,14 @@
       "year": 2012,
       "runtime": 83,
       "director": "Andreas Dalsgaard",
+      "cast": [
+        "Jan Gehl",
+        "Iqbal Habib",
+        "A K M Abul Kalam",
+        "Jiangyan Wang",
+        "Bob Parker",
+        "Ruhan Shama"
+      ],
       "genres": [],
       "synopsis": "Les ciutats modernes eren considerades motors de creixement i van ser projectades entorn de l’automòbil. Ara, els experts reivindiquen un canvi radical de model que prioritzi a les persones.",
       "poster": "https://espaitexas.cat/wp-content/uploads/2026/09/cartela-the-human-scale-768x1086.png",
@@ -13395,6 +13539,12 @@
           "observedAt": "2026-10-18T15:01:43.528443+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "reviewed_public_source",
+          "url": "https://www.filmfesthamburg.de/en/film-info/the-human-scale/",
+          "observedAt": "2026-10-18T21:12:31.999440+00:00",
+          "status": "verified"
+        },
         "director": {
           "source": "imdb_dataset",
           "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
@@ -13422,9 +13572,18 @@
       },
       "director": "Mike P. Nelson",
       "cast": [
-        "Kiana Madeira",
         "Jessica Rothe",
-        "Logan Marshall-Green"
+        "Logan Marshall-Green",
+        "Kiana Madeira",
+        "Jackson Bews",
+        "Juan Pablo Shuk",
+        "Vicente Peña",
+        "Jaime Newball",
+        "Nelson Camayo",
+        "Will Close",
+        "Sergio Herrera",
+        "Mateo Moreno",
+        "Christophe de Geest"
       ],
       "genres": [
         "Acción",
@@ -13513,10 +13672,10 @@
           "status": "verified"
         },
         "cast": {
-          "source": "sensacine",
-          "url": "https://www.sensacine.com/cines/cine/E0388/",
-          "observedAt": "2026-10-18T15:02:01.021863+00:00",
-          "status": "verified"
+          "source": "publicine",
+          "url": "https://www.publicine.net/pelicula/16241/boiuna-la-leyenda-del-amazonas",
+          "observedAt": "2026-10-16T07:58:23.341116+00:00",
+          "status": "stale"
         },
         "year": {
           "source": "imdb_dataset",
@@ -13534,6 +13693,18 @@
       "runtime": 102,
       "ageRating": null,
       "director": "José Mota",
+      "cast": [
+        "José Mota",
+        "Pablo Cabello",
+        "Karra Elejalde",
+        "Olivia Molina",
+        "Diego Anido",
+        "Mila Borràs",
+        "Luciano Scarpa",
+        "Eugenio Barona",
+        "Carlos Serrano",
+        "Avelino Piedad"
+      ],
       "genres": [
         "Comedia",
         "Drama"
@@ -13607,6 +13778,12 @@
           "observedAt": "2026-10-18T15:02:02.424186+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/pelicula/16328/arriba-tutto",
+          "observedAt": "2026-10-16T07:58:26.033808+00:00",
+          "status": "stale"
+        },
         "year": {
           "source": "imdb_dataset",
           "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
@@ -13629,6 +13806,20 @@
       "runtime": 98,
       "ageRating": null,
       "director": "Aaron Horvath, Michael Jelenic, Pierre Leduc, Fabien Polack",
+      "cast": [
+        "Chris Pratt",
+        "Anya Taylor-Joy",
+        "Charlie Day",
+        "Jack Black",
+        "Keegan-Michael Key",
+        "Benny Safdie",
+        "Donald Glover",
+        "Issa Rae",
+        "Luis Guzmán",
+        "Kevin Michael Richardson",
+        "Brie Larson"
+      ],
+      "castNote": "Voces de la versión original en inglés.",
       "genres": [
         "Animación",
         "Aventuras"
@@ -13702,6 +13893,12 @@
           "observedAt": "2026-10-18T15:02:04.105716+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "reviewed_public_source",
+          "url": "https://www.nintendo.com/ph/movie/super-mario-galaxy/index.html",
+          "observedAt": "2026-10-18T21:15:06.529581+00:00",
+          "status": "verified"
+        },
         "year": {
           "source": "reviewed_official_sources_and_imdb_dataset",
           "url": "https://www.universalpictures.es/micro/super-mario-galaxy",
@@ -13730,6 +13927,28 @@
       "runtime": 181,
       "ageRating": null,
       "director": "Anthony Russo, Joe Russo",
+      "cast": [
+        "Brie Larson",
+        "Josh Brolin",
+        "Chris Hemsworth",
+        "Scarlett Johansson",
+        "Chris Evans",
+        "Jon Favreau",
+        "Karen Gillan",
+        "Benedict Cumberbatch",
+        "Mark Ruffalo",
+        "Bradley Cooper",
+        "Danai Gurira",
+        "Paul Rudd",
+        "Evangeline Lilly",
+        "Sebastian Stan",
+        "Benedict Wong",
+        "Gwyneth Paltrow",
+        "Robert Downey Jnr",
+        "Jeremy Renner",
+        "Don Cheadle",
+        "Terry Notary"
+      ],
       "genres": [
         "Aventuras",
         "Fantástico"
@@ -13803,6 +14022,12 @@
           "observedAt": "2026-10-18T15:02:04.105716+00:00",
           "status": "verified"
         },
+        "cast": {
+          "source": "publicine",
+          "url": "https://www.publicine.net/pelicula/16350/vengadores-endgame-encore",
+          "observedAt": "2026-09-25T07:04:54.283826+00:00",
+          "status": "stale"
+        },
         "year": {
           "source": "reviewed_official_sources_and_imdb_dataset",
           "url": "https://movies.disney.com/avengers-endgame/",
@@ -13833,20 +14058,17 @@
       "director": "Hirokazu Koreeda",
       "cast": [
         "Haruka Ayase",
-        "Rimu Kuwaki",
-        "Daigo",
-        "Kotaro Daigo",
-        "Rito Kuwaki",
         "Daigo Yamamoto",
+        "Rimu Kuwaki",
         "Nana Seino",
-        "Min Tanaka",
-        "Kan'ichirô Satô",
+        "Kan'ichiro Sato",
         "Hinata Hiiragi",
         "Akihiro Kakuta",
         "Kayo Noro",
         "Mari Hoshino",
         "Ayumu Nakajima",
-        "Kimiko Yo"
+        "Kimiko Yo",
+        "Min Tanaka"
       ],
       "genres": [
         "Ciencia ficción",
@@ -13922,10 +14144,10 @@
           "status": "verified"
         },
         "cast": {
-          "source": "filmaffinity",
-          "url": "https://www.filmaffinity.com/es/film448187.html",
-          "observedAt": "2026-10-18T15:04:07.792908+00:00",
-          "status": "verified"
+          "source": "publicine",
+          "url": "https://www.publicine.net/pelicula/16244/kakeru",
+          "observedAt": "2026-10-16T07:58:28.167826+00:00",
+          "status": "stale"
         },
         "year": {
           "source": "reviewed_official_sources_and_imdb_dataset",
@@ -14025,6 +14247,12 @@
           "runtime": 26,
           "originalTitle": "Le chant des orages",
           "imdbId": "tt39109035",
+          "castReview": {
+            "status": "not_published",
+            "message": "La ficha del programa identifica esta obra, pero no publica su reparto.",
+            "url": "https://zumzeigcine.coop/cinema/films/lemilie-i-el-secret-de-les-tempestes/",
+            "observedAt": "2026-10-18T15:01:25.911391+00:00"
+          },
           "ratings": {
             "imdb": {
               "value": 7.4,
@@ -14052,6 +14280,12 @@
           "runtime": null,
           "originalTitle": "Black & White",
           "imdbId": "tt34692120",
+          "castReview": {
+            "status": "not_published",
+            "message": "La ficha del programa identifica esta obra, pero no publica su reparto.",
+            "url": "https://zumzeigcine.coop/cinema/films/lemilie-i-el-secret-de-les-tempestes/",
+            "observedAt": "2026-10-18T15:01:25.911391+00:00"
+          },
           "ratings": {
             "imdb": {
               "value": 6.0,
@@ -14077,6 +14311,12 @@
           "director": "Piers Goffart, Eric Giessmann",
           "sourceUrl": "https://zumzeigcine.coop/cinema/films/lemilie-i-el-secret-de-les-tempestes/",
           "runtime": null,
+          "castReview": {
+            "status": "not_published",
+            "message": "La ficha del programa identifica esta obra, pero no publica su reparto.",
+            "url": "https://zumzeigcine.coop/cinema/films/lemilie-i-el-secret-de-les-tempestes/",
+            "observedAt": "2026-10-18T15:01:25.911391+00:00"
+          },
           "ratings": {}
         },
         {
@@ -14086,6 +14326,12 @@
           "director": "Bret Parker",
           "sourceUrl": "https://zumzeigcine.coop/cinema/films/lemilie-i-el-secret-de-les-tempestes/",
           "runtime": 7,
+          "castReview": {
+            "status": "not_published",
+            "message": "La ficha del programa identifica esta obra, pero no publica su reparto.",
+            "url": "https://zumzeigcine.coop/cinema/films/lemilie-i-el-secret-de-les-tempestes/",
+            "observedAt": "2026-10-18T15:01:25.911391+00:00"
+          },
           "ratings": {}
         },
         {
@@ -14095,6 +14341,12 @@
           "director": "Natalia Chernysheva",
           "sourceUrl": "https://zumzeigcine.coop/cinema/films/lemilie-i-el-secret-de-les-tempestes/",
           "runtime": null,
+          "castReview": {
+            "status": "not_published",
+            "message": "La ficha del programa identifica esta obra, pero no publica su reparto.",
+            "url": "https://zumzeigcine.coop/cinema/films/lemilie-i-el-secret-de-les-tempestes/",
+            "observedAt": "2026-10-18T15:01:25.911391+00:00"
+          },
           "ratings": {}
         }
       ]
@@ -14106,6 +14358,9 @@
       "year": 1982,
       "runtime": 89,
       "director": "Fernando Trueba",
+      "cast": [
+        "Chicho Sánchez Ferlosio"
+      ],
       "genres": [
         "Biopic",
         "Documental"
@@ -14181,6 +14436,12 @@
           "url": "https://zumzeigcine.coop/cinema/films/chicho-o-mientras-el-cuerpo-aguante-una-comedia-didactica/",
           "observedAt": "2026-10-18T15:01:34.193532+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "filmaffinity",
+          "url": "https://www.filmaffinity.com/es/film757289.html",
+          "observedAt": "2026-10-18T15:05:20.092603+00:00",
+          "status": "stale"
         }
       }
     },
@@ -14293,7 +14554,7 @@
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film855612.html",
           "observedAt": "2026-10-18T15:05:23.496190+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "year": {
           "source": "imdb_dataset",
@@ -14377,6 +14638,13 @@
       "year": 2025,
       "runtime": 107,
       "director": "Eun-Sun Seo",
+      "cast": [
+        "Choi Seung-yoon",
+        "Kim Seung-hwa",
+        "Jung Hwan",
+        "Kim Dasol",
+        "Joo Ye-rin"
+      ],
       "genres": [],
       "synopsis": "L'organitzada vida de Ha-young es desestabilitza quan la seva germana, empresonada per assassinat, torna inesperadament a casa. Pel·lícula que forma part de la Secció Oficial de l'Asian Film Festival Barcelona (AFFBCN), un festival especialitzat en cinema asiàtic d'autor.",
       "poster": null,
@@ -14445,6 +14713,12 @@
           "source": "official",
           "url": "https://zumzeigcine.coop/cinema/films/wrangler/",
           "observedAt": "2026-10-18T15:01:49.028137+00:00",
+          "status": "verified"
+        },
+        "cast": {
+          "source": "reviewed_public_source",
+          "url": "https://program.goteborgfilmfestival.se/en/program/wrangler",
+          "observedAt": "2026-10-18T21:05:04.710959+00:00",
           "status": "verified"
         },
         "director": {
@@ -14543,7 +14817,7 @@
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film261859.html",
           "observedAt": "2026-10-18T15:05:30.500614+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "year": {
           "source": "imdb_dataset",
@@ -14560,6 +14834,11 @@
       "year": 2025,
       "runtime": 88,
       "director": "Anoop Lokkur",
+      "cast": [
+        "Siddarth Swaroop",
+        "Aishwarya Dinesh",
+        "Anirudh P. Keserker"
+      ],
       "genres": [],
       "synopsis": "Una tragèdia inesperada acompanyada d'una narrativa continguda sobre els rols de gènere, la normalització de la violència infantil institucionalitzada i els sacrificis silenciosos de les mares. Pel·lícula que forma part de la Secció Discoveries de l'Asian Film Festival Barcelona (AFFBCN), un festival especialitzat en cinema asiàtic d'autor.",
       "poster": null,
@@ -14629,6 +14908,12 @@
           "url": "https://zumzeigcine.coop/cinema/films/dont-tell-mother/",
           "observedAt": "2026-10-18T15:01:55.168077+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "official_festival",
+          "url": "https://cms.sff.org.au/wp-content/uploads/2026/05/SFF_2026_ProgramGuide_FA_Digital-1.pdf#page=21",
+          "observedAt": "2026-10-18T21:10:38.210325+00:00",
+          "status": "verified"
         }
       }
     },
@@ -14639,6 +14924,11 @@
       "year": 2025,
       "runtime": 89,
       "director": "Taratoa Stappard",
+      "cast": [
+        "Ariāna Osborne",
+        "Toby Stephens",
+        "Umi Myers"
+      ],
       "genres": [],
       "synopsis": "Una jove maori arriba a una mansió victoriana per intentar descobrir els seus orígens. La seva estada anirà revelant gradualment que la llar amaga un gran secret. Pel·lícula que forma part de la Secció Panorama de l'Asian Film Festival Barcelona (AFFBCN), un festival especialitzat en cinema asiàtic d'autor.",
       "poster": null,
@@ -14707,6 +14997,12 @@
           "source": "official",
           "url": "https://zumzeigcine.coop/cinema/films/marama/",
           "observedAt": "2026-10-18T15:01:57.669656+00:00",
+          "status": "verified"
+        },
+        "cast": {
+          "source": "reviewed_public_source",
+          "url": "https://www.nzfilm.co.nz/films/m%C4%81rama-2",
+          "observedAt": "2026-10-18T21:05:04.013272+00:00",
           "status": "verified"
         }
       }
@@ -14795,7 +15091,7 @@
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film301729.html",
           "observedAt": "2026-10-18T15:05:38.742913+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "director": {
           "source": "reviewed_official_sources_and_imdb_dataset",
@@ -14914,6 +15210,12 @@
           "runtime": 88,
           "originalTitle": "Death Spa",
           "imdbId": "tt0099384",
+          "castReview": {
+            "status": "not_published",
+            "message": "La ficha del programa identifica esta obra, pero no publica su reparto.",
+            "url": "https://zumzeigcine.coop/cinema/films/autotracking-presenta-palilloween/",
+            "observedAt": "2026-10-18T15:02:05.413116+00:00"
+          },
           "ratings": {
             "imdb": {
               "value": 5.2,
@@ -14941,6 +15243,12 @@
           "runtime": 86,
           "originalTitle": "The Burning Moon",
           "imdbId": "tt0103898",
+          "castReview": {
+            "status": "not_published",
+            "message": "La ficha del programa identifica esta obra, pero no publica su reparto.",
+            "url": "https://zumzeigcine.coop/cinema/films/autotracking-presenta-palilloween/",
+            "observedAt": "2026-10-18T15:02:05.413116+00:00"
+          },
           "ratings": {
             "imdb": {
               "value": 5.2,
@@ -14967,6 +15275,12 @@
       "originalTitle": null,
       "year": 2026,
       "director": "Ferran Domènech Tona",
+      "castReview": {
+        "status": "not_published",
+        "message": "La ficha consultada no publica una relación de intérpretes o participantes de este documental.",
+        "url": "https://zumzeigcine.coop/cinema/films/sem-terra-lluita-terra-brasil/",
+        "observedAt": "2026-10-18T15:02:08.452063+00:00"
+      },
       "genres": [],
       "synopsis": "Una exploració sobre la importància de posar la propietat de la terra a debat, tant per la situació actual de l'habitatge, com a l'àmbit rural. A través dels testimonis dels membres del Moviment dels Treballadors Rurals Sense Terra (MST), del Brasil, la pel·lícula fa un seguiment d'una situació que fa anys que afecta aquesta comunitat.",
       "poster": null,
@@ -15046,6 +15360,12 @@
       "year": 2025,
       "runtime": 88,
       "director": "Chus Domínguez",
+      "castReview": {
+        "status": "not_published",
+        "message": "La ficha consultada no publica una relación de intérpretes o participantes de este documental.",
+        "url": "https://zumzeigcine.coop/cinema/films/glass-bottom-ferry/",
+        "observedAt": "2026-10-18T13:36:32.130784+00:00"
+      },
       "genres": [],
       "synopsis": "Una exploració de la complexitat de l’espai fronterer a partir de tres enclavaments europeus situats en territori africà: Ceuta, Melilla i les illes Canàries.",
       "poster": null,
@@ -15119,6 +15439,15 @@
       "year": 2026,
       "runtime": 135,
       "director": "Takashi Yamazaki",
+      "cast": [
+        "Ryunosuke Kamiki",
+        "Minami Hamabe",
+        "Hidetaka Yoshioka",
+        "Yuki Yamada",
+        "Kuranosuke Sasaki",
+        "Sakura Ando",
+        "Min Tanaka"
+      ],
       "genres": [],
       "synopsis": "SESIÓN ESPECIAL DE PREESTRENO. La guerra redujo a Japón a cero, y Godzilla lo hundió por debajo de cero. Han pasado dos años desde entonces, durante los cuales el país ha librado una dolorosa batalla para recuperarse y lograr, por fin, volver a la normalidad. Cuando la humanidad parecía haber alcanzado una paz conquistada a duras penas, surge una nueva amenaza que destruye toda esperanza en un instante. No habrá una tercera vez. Todo termina aquí. Proyección en VOSE.",
       "poster": "https://phenomena-experience.com/obj/LCinesD_dat/eventos/JPg000gr.jpg",
@@ -15189,6 +15518,12 @@
           "url": "https://phenomena-experience.com/index?pag=ficha&evento=3018",
           "observedAt": "2026-10-18T15:02:15.736394+00:00",
           "status": "verified"
+        },
+        "cast": {
+          "source": "official",
+          "url": "https://phenomena-experience.com/index?pag=ficha&evento=3018",
+          "observedAt": "2026-10-18T15:02:15.736394+00:00",
+          "status": "stale"
         },
         "originalTitle": {
           "source": "imdb_dataset",
@@ -15368,6 +15703,12 @@
       "year": 1998,
       "runtime": 59,
       "director": "Simone Bitton, Elias Sanbar",
+      "castReview": {
+        "status": "not_published",
+        "message": "La ficha consultada no publica una relación de intérpretes o participantes de este documental.",
+        "url": "https://www.filmoteca.cat/web/ca/film/mahmoud-darwich-et-la-terre-comme-la-langue",
+        "observedAt": "2026-10-18T15:02:47.452905+00:00"
+      },
       "genres": [],
       "synopsis": "El poeta palestí Mahmoud Darwich és un dels poetes més grans del segle XX, traduït a desenes de llengües i recitat de memòria per multituds. Entre entrevistes i fragments de recitals captats en directe, el film s’endinsa en la cadència inimitable dels seus versos i construeix el retrat d’un home que va fer de la paraula la seva única pàtria possible.",
       "poster": null,
@@ -15459,6 +15800,12 @@
       "year": 2004,
       "runtime": 100,
       "director": "Simone Bitton",
+      "castReview": {
+        "status": "not_published",
+        "message": "La ficha consultada no publica una relación de intérpretes o participantes de este documental.",
+        "url": "https://www.filmoteca.cat/web/ca/film/mur",
+        "observedAt": "2026-10-18T15:02:53.223755+00:00"
+      },
       "genres": [],
       "synopsis": "Una meditació cinematogràfica sobre el conflicte israelianopalestí signada per una realitzadora que desafia les fronteres de l’odi reivindicant la seva doble identitat, jueva i àrab.",
       "poster": null,
@@ -15620,6 +15967,9 @@
           "sourceUrl": "https://www.filmoteca.cat/web/ca/film/atencio-amb-la-colera-femenina-sessio-de-curtmetratges",
           "originalTitle": "Le torchon brûle ou Une querelle de ménage",
           "imdbId": "tt0481240",
+          "cast": [
+            "Sarah Duhamel"
+          ],
           "ratings": {
             "imdb": {
               "value": 6.1,
@@ -15636,6 +15986,14 @@
               "titleUrl": "https://www.imdb.com/title/tt0481240/",
               "votes": 37
             }
+          },
+          "metadataSources": {
+            "cast": {
+              "source": "reviewed_public_source",
+              "url": "https://www.filmoteca.cat/web/ca/film/atencio-amb-la-colera-femenina-sessio-de-curtmetratges",
+              "observedAt": "2026-10-18T15:02:57.312195+00:00",
+              "status": "stale"
+            }
           }
         },
         {
@@ -15644,7 +16002,18 @@
           "year": 1912,
           "director": "Little Chrysia",
           "sourceUrl": "https://www.filmoteca.cat/web/ca/film/atencio-amb-la-colera-femenina-sessio-de-curtmetratges",
-          "ratings": {}
+          "cast": [
+            "Little Chrysia"
+          ],
+          "ratings": {},
+          "metadataSources": {
+            "cast": {
+              "source": "reviewed_public_source",
+              "url": "https://www.filmoteca.cat/web/ca/film/atencio-amb-la-colera-femenina-sessio-de-curtmetratges",
+              "observedAt": "2026-10-18T15:02:57.312195+00:00",
+              "status": "stale"
+            }
+          }
         },
         {
           "id": "work-1160df527f3a7315ba98",
@@ -15654,6 +16023,12 @@
           "sourceUrl": "https://www.filmoteca.cat/web/ca/film/atencio-amb-la-colera-femenina-sessio-de-curtmetratges",
           "originalTitle": "La paresse de Polycarpe",
           "imdbId": "tt3835018",
+          "castReview": {
+            "status": "not_published",
+            "message": "La ficha del programa identifica esta obra, pero no publica su reparto.",
+            "url": "https://www.filmoteca.cat/web/ca/film/atencio-amb-la-colera-femenina-sessio-de-curtmetratges",
+            "observedAt": "2026-10-18T15:02:57.312195+00:00"
+          },
           "ratings": {
             "imdb": {
               "value": null,
@@ -15677,7 +16052,18 @@
           "year": 1905,
           "director": "Eugen Skladanowski",
           "sourceUrl": "https://www.filmoteca.cat/web/ca/film/atencio-amb-la-colera-femenina-sessio-de-curtmetratges",
-          "ratings": {}
+          "cast": [
+            "Frida Cotrelli"
+          ],
+          "ratings": {},
+          "metadataSources": {
+            "cast": {
+              "source": "reviewed_public_source",
+              "url": "https://www.filmoteca.cat/web/ca/film/atencio-amb-la-colera-femenina-sessio-de-curtmetratges",
+              "observedAt": "2026-10-18T15:02:57.312195+00:00",
+              "status": "stale"
+            }
+          }
         },
         {
           "id": "work-fdf02930d3dae9ca9a28",
@@ -15687,6 +16073,9 @@
           "sourceUrl": "https://www.filmoteca.cat/web/ca/film/atencio-amb-la-colera-femenina-sessio-de-curtmetratges",
           "originalTitle": "Fatty and Minnie He-Haw",
           "imdbId": "tt0003943",
+          "cast": [
+            "Minnie Devereaux"
+          ],
           "ratings": {
             "imdb": {
               "value": 5.1,
@@ -15703,6 +16092,14 @@
               "titleUrl": "https://www.imdb.com/title/tt0003943/",
               "votes": 113
             }
+          },
+          "metadataSources": {
+            "cast": {
+              "source": "reviewed_public_source",
+              "url": "https://www.filmoteca.cat/web/ca/film/atencio-amb-la-colera-femenina-sessio-de-curtmetratges",
+              "observedAt": "2026-10-18T15:02:57.312195+00:00",
+              "status": "stale"
+            }
           }
         }
       ]
@@ -15714,6 +16111,12 @@
       "year": 2021,
       "runtime": 99,
       "director": "Simone Bitton",
+      "castReview": {
+        "status": "not_published",
+        "message": "La ficha consultada no publica una relación de intérpretes o participantes de este documental.",
+        "url": "https://www.filmaffinity.com/es/film885240.html",
+        "observedAt": "2026-10-18T15:06:19.387810+00:00"
+      },
       "genres": [],
       "synopsis": "El Marroc va tenir una població jueva de més de 300.000 persones fins a la dècada de 1950. A partir de llavors, i fins just després de la Guerra dels Sis Dies, el juny del 1967, aquesta població va emigrar en massa cap a països com França, Israel o els Estats Units. La família de la cineasta Simone Bitton es va instal·lar a França. Com a part d’un pelegrinatge cinematogràfic a les seves arrels jueves, la directora Simone Bitton s’embarca en un viatge per carretera a través del Marroc per reunir-se amb els guardians musulmans de la memòria jueva del país, i un d’ells es pregunta: com seria avui el Marroc si els jueus s’hi haguessin quedat?",
       "poster": null,
@@ -15956,7 +16359,7 @@
           "source": "official",
           "url": "https://www.filmoteca.cat/web/ca/film/mr-klein",
           "observedAt": "2026-10-18T15:03:22.572803+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "originalTitle": {
           "source": "imdb_dataset",
@@ -16118,7 +16521,7 @@
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film773579.html",
           "observedAt": "2026-10-18T15:06:26.898591+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "director": {
           "source": "imdb_dataset",
@@ -16223,7 +16626,7 @@
           "source": "official",
           "url": "https://www.filmoteca.cat/web/ca/film/narayama-bushiko",
           "observedAt": "2026-10-18T15:03:29.887897+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "originalTitle": {
           "source": "imdb_dataset",
@@ -16316,6 +16719,12 @@
           "sourceUrl": "https://www.filmoteca.cat/web/ca/film/ritme-de-classics-sessio-de-curtmetratges",
           "originalTitle": "Annabelle Serpentine Dance",
           "imdbId": "tt0154152",
+          "castReview": {
+            "status": "not_published",
+            "message": "La ficha del programa identifica esta obra, pero no publica su reparto.",
+            "url": "https://www.filmoteca.cat/web/ca/film/ritme-de-classics-sessio-de-curtmetratges",
+            "observedAt": "2026-10-18T15:03:32.054007+00:00"
+          },
           "ratings": {
             "imdb": {
               "value": 6.5,
@@ -16340,6 +16749,12 @@
           "year": 1908,
           "director": "Segundo de Chomón",
           "sourceUrl": "https://www.filmoteca.cat/web/ca/film/ritme-de-classics-sessio-de-curtmetratges",
+          "castReview": {
+            "status": "not_published",
+            "message": "La ficha del programa identifica esta obra, pero no publica su reparto.",
+            "url": "https://www.filmoteca.cat/web/ca/film/ritme-de-classics-sessio-de-curtmetratges",
+            "observedAt": "2026-10-18T15:03:32.054007+00:00"
+          },
           "ratings": {}
         },
         {
@@ -16348,6 +16763,12 @@
           "year": 1918,
           "director": "Roscoe “Fatty” Arbuckle, Buster Keaton",
           "sourceUrl": "https://www.filmoteca.cat/web/ca/film/ritme-de-classics-sessio-de-curtmetratges",
+          "castReview": {
+            "status": "not_published",
+            "message": "La ficha del programa identifica esta obra, pero no publica su reparto.",
+            "url": "https://www.filmoteca.cat/web/ca/film/ritme-de-classics-sessio-de-curtmetratges",
+            "observedAt": "2026-10-18T15:03:32.054007+00:00"
+          },
           "ratings": {}
         },
         {
@@ -16358,6 +16779,12 @@
           "sourceUrl": "https://www.filmoteca.cat/web/ca/film/ritme-de-classics-sessio-de-curtmetratges",
           "originalTitle": "Fatal Footsteps",
           "imdbId": "tt0016845",
+          "castReview": {
+            "status": "not_published",
+            "message": "La ficha del programa identifica esta obra, pero no publica su reparto.",
+            "url": "https://www.filmoteca.cat/web/ca/film/ritme-de-classics-sessio-de-curtmetratges",
+            "observedAt": "2026-10-18T15:03:32.054007+00:00"
+          },
           "ratings": {
             "imdb": {
               "value": 6.9,
@@ -16384,6 +16811,12 @@
           "sourceUrl": "https://www.filmoteca.cat/web/ca/film/ritme-de-classics-sessio-de-curtmetratges",
           "originalTitle": "L'école des facteurs",
           "imdbId": "tt0040019",
+          "castReview": {
+            "status": "not_published",
+            "message": "La ficha del programa identifica esta obra, pero no publica su reparto.",
+            "url": "https://www.filmoteca.cat/web/ca/film/ritme-de-classics-sessio-de-curtmetratges",
+            "observedAt": "2026-10-18T15:03:32.054007+00:00"
+          },
           "ratings": {
             "imdb": {
               "value": 7.2,
@@ -16488,7 +16921,7 @@
           "source": "official",
           "url": "https://www.filmoteca.cat/web/ca/film/soplo-de-esplendor",
           "observedAt": "2026-10-18T15:03:33.891277+00:00",
-          "status": "verified"
+          "status": "stale"
         }
       }
     },
@@ -16577,7 +17010,7 @@
           "source": "official",
           "url": "https://www.filmoteca.cat/web/ca/film/voluntad-que-vence-lindomptee",
           "observedAt": "2026-10-18T15:03:35.571714+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "originalTitle": {
           "source": "reviewed_official_sources_and_imdb_dataset",
@@ -16671,7 +17104,7 @@
           "source": "filmaffinity",
           "url": "https://www.filmaffinity.com/es/film643231.html",
           "observedAt": "2026-10-18T15:06:45.686955+00:00",
-          "status": "verified"
+          "status": "stale"
         },
         "year": {
           "source": "afi_catalog_and_venice_classics",
@@ -16905,6 +17338,15 @@
           "runtime": 115,
           "imdbId": "tt0430576",
           "originalTitle": "The Secret Life of Words",
+          "cast": [
+            "Sarah Polley",
+            "Tim Robbins",
+            "Javier Cámara",
+            "Sverre Anker Ousdal",
+            "Steven MacKintosh",
+            "Julie Christie",
+            "Leonor Watling"
+          ],
           "ratings": {
             "imdb": {
               "value": 7.4,
@@ -16921,6 +17363,14 @@
               "titleUrl": "https://www.imdb.com/title/tt0430576/",
               "votes": 13802
             }
+          },
+          "metadataSources": {
+            "cast": {
+              "source": "reviewed_public_source",
+              "url": "https://www.filmoteca.cat/web/ca/film/secret-life-words-100-years-and-you-everywhere",
+              "observedAt": "2026-10-18T15:03:46.712598+00:00",
+              "status": "stale"
+            }
           }
         },
         {
@@ -16930,6 +17380,12 @@
           "director": "Isabel Coixet",
           "sourceUrl": "https://www.filmoteca.cat/web/ca/film/secret-life-words-100-years-and-you-everywhere",
           "runtime": 11,
+          "castReview": {
+            "status": "not_published",
+            "message": "La ficha del programa identifica esta obra, pero no publica su reparto.",
+            "url": "https://www.filmoteca.cat/web/ca/film/secret-life-words-100-years-and-you-everywhere",
+            "observedAt": "2026-10-18T15:03:46.712598+00:00"
+          },
           "ratings": {}
         }
       ]
@@ -17018,6 +17474,15 @@
           "runtime": 146,
           "imdbId": "tt0072417",
           "originalTitle": "A Woman Under the Influence",
+          "cast": [
+            "Gena Rowlands",
+            "Peter Falk",
+            "Vince Barbi",
+            "Sonny Aprile",
+            "Katherine Cassavetes",
+            "Nick Cassavetes",
+            "Fred Draper"
+          ],
           "ratings": {
             "imdb": {
               "value": 8.0,
@@ -17034,6 +17499,14 @@
               "titleUrl": "https://www.imdb.com/title/tt0072417/",
               "votes": 34291
             }
+          },
+          "metadataSources": {
+            "cast": {
+              "source": "reviewed_public_source",
+              "url": "https://www.filmoteca.cat/web/ca/film/woman-under-influence-non-tu-ne-sortiras-pas-sans-moi",
+              "observedAt": "2026-10-18T15:03:52.423241+00:00",
+              "status": "stale"
+            }
           }
         },
         {
@@ -17043,6 +17516,12 @@
           "director": "Jean Durand",
           "sourceUrl": "https://www.filmoteca.cat/web/ca/film/woman-under-influence-non-tu-ne-sortiras-pas-sans-moi",
           "runtime": 5,
+          "castReview": {
+            "status": "not_published",
+            "message": "La ficha del programa identifica esta obra, pero no publica su reparto.",
+            "url": "https://www.filmoteca.cat/web/ca/film/woman-under-influence-non-tu-ne-sortiras-pas-sans-moi",
+            "observedAt": "2026-10-18T15:03:52.423241+00:00"
+          },
           "ratings": {}
         }
       ]
@@ -17053,6 +17532,12 @@
       "originalTitle": "L’Elisir d'amore (Wiener Staatsoper)",
       "year": null,
       "director": null,
+      "cast": [
+        "Maria Nazarova",
+        "Bogdan Volkov",
+        "Davide Luciano",
+        "Alex Esposito"
+      ],
       "genres": [
         "Òpera"
       ],
@@ -17111,7 +17596,15 @@
       ],
       "imdbId": null,
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "cast": {
+          "source": "reviewed_public_source",
+          "url": "https://www.operayballetencine.es/espectaculo/opera/lelisir-damore-viena/",
+          "observedAt": "2026-10-18T18:11:07.698643+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-6887dc0d428e549ff768",
@@ -17119,6 +17612,10 @@
       "originalTitle": "The Royal Ballet: Manon (2026-27)",
       "year": 2026,
       "director": "Kenneth MacMilan, Koen Kessels",
+      "cast": [
+        "Yasmine Naghdi",
+        "William Bracewell"
+      ],
       "genres": [],
       "synopsis": "Als baixos fons del París del segle XVIII, els diners són el rei. Res no és sagrat, fins i tot l'amor té un preu. Manon, assídua d'aquest submón hedonista, es veu atrapada entre dos desitjos quan s'enamora de l'estudiant Des Grieux. Des Grieux, lleial i abnegat, us ofereix la possibilitat d'una vida honorable. I tot i així, la riquesa que promet el món de la societat parisenca continua sent temptadora... La lluita i l'angoixa de Manon per sobreviure es troben al devastador epicentre de l'adaptació de Kenneth MacMillan de la novel·la del 1974 d'Abbé Prévost. En aquesta obra cimera de The Royal Ballet, la visió analítica de MacMillan de la psicologia de l'ésser humà ofereix un retrat honest de la degradació del París de Manon, alhora que la seva decadència i declivi prenen vida gràcies a la partitura de Jules Massenet i el vestuari de Nicholas Georgiadis.",
       "poster": "https://www.bizcochito.es/img/tt111914-es-pos.webp",
@@ -17175,7 +17672,15 @@
       ],
       "imdbId": null,
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "cast": {
+          "source": "reviewed_public_source",
+          "url": "https://www.rbo.org.uk/latest-news/royal-ballet-and-opera-announces-2026-27-cinema-season",
+          "observedAt": "2026-10-18T21:07:50.010422+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-18d0c7df00e4a70de1c6",
@@ -17183,6 +17688,14 @@
       "originalTitle": "The Royal Opera: Carmen (2026-27)",
       "year": 2026,
       "director": "Sesto Quatrini",
+      "cast": [
+        "Ginger Costa-Jackson",
+        "Russell Thomas",
+        "Adriana González",
+        "Alexander Vinogradov",
+        "Seohyun Go",
+        "Ellen Pearson"
+      ],
       "genres": [
         "Òpera"
       ],
@@ -17241,7 +17754,15 @@
       ],
       "imdbId": null,
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "cast": {
+          "source": "reviewed_public_source",
+          "url": "https://www.rbo.org.uk/production/carmen-damiano-michieletto?mode=cinema",
+          "observedAt": "2026-10-18T18:11:07.309049+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-380645c15d140878f514",
@@ -17249,6 +17770,15 @@
       "originalTitle": "Romeo y Julieta. Ballet Ópera de París 26/27",
       "year": 2026,
       "director": "Rudolf Nureyev",
+      "cast": [
+        "Paul Marque",
+        "Sae Eun Park",
+        "Francesco Mura",
+        "Jérémy-Loup Quer",
+        "Jack Gasztowtt",
+        "Silvia Saint-Martin",
+        "Andrea Sarri"
+      ],
       "genres": [
         "Ballet"
       ],
@@ -17307,7 +17837,15 @@
       ],
       "imdbId": null,
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "cast": {
+          "source": "reviewed_public_source",
+          "url": "https://www.operadeparis.fr/info/cinema-radio-tv",
+          "observedAt": "2026-10-18T21:11:04.142758+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-d8271b40829d4eed2274",
@@ -17315,6 +17853,12 @@
       "originalTitle": "Pavarotti 90 The Great Tribute",
       "year": 2025,
       "director": null,
+      "cast": [
+        "Andrea Bocelli",
+        "José Carreras",
+        "Laura Pausini",
+        "Plácido Domingo"
+      ],
       "genres": [],
       "synopsis": "\"Pavarotti 90\" va ser un gran concert de tribut mundial celebrat el 30 de setembre de 2025 a l'Arena di Verona per honrar el 90è aniversari del naixement del llegendari tenor Luciano Pavarotti. L'esdeveniment va reunir figures estel·lars com Andrea Bocelli, Plácido Domingo, José Carreras i Laura Pausini.",
       "poster": "https://www.bizcochito.es/img/tt113404-es-pos.webp",
@@ -17371,7 +17915,15 @@
       ],
       "imdbId": null,
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "cast": {
+          "source": "reviewed_public_source",
+          "url": "https://www.quimediaset.it/comunicati/pavarotti-90-l-uomo-che-emoziono-il-mondo_41314.html",
+          "observedAt": "2026-10-18T21:09:46.581981+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-bb52224df7ffb27919a9",
@@ -17379,6 +17931,12 @@
       "originalTitle": "The Nutcracker (ROH)",
       "year": null,
       "director": null,
+      "cast": [
+        "Mayara Magri",
+        "Reece Clarke",
+        "Marianna Tsembenhoi",
+        "Taisuke Nakao"
+      ],
       "genres": [
         "Ballet"
       ],
@@ -17437,7 +17995,15 @@
       ],
       "imdbId": null,
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "cast": {
+          "source": "reviewed_public_source",
+          "url": "https://www.rbo.org.uk/latest-news/royal-ballet-and-opera-announces-2026-27-cinema-season",
+          "observedAt": "2026-10-18T21:07:50.010422+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-684f233896b8113aeff0",
@@ -17445,6 +18011,11 @@
       "originalTitle": "Swan Lake",
       "year": 2024,
       "director": "Isabelle Julien",
+      "cast": [
+        "Sae Eun Park",
+        "Paul Marque",
+        "Pablo Legasa"
+      ],
       "genres": [
         "Ballet"
       ],
@@ -17512,6 +18083,12 @@
       ],
       "mergedIds": [],
       "metadataSources": {
+        "cast": {
+          "source": "reviewed_public_source",
+          "url": "https://www.operadeparis.fr/info/cinema-radio-tv",
+          "observedAt": "2026-10-18T21:11:04.142758+00:00",
+          "status": "verified"
+        },
         "year": {
           "source": "reviewed_official_sources_and_imdb_dataset",
           "url": "https://parisoperacinema.com/",
@@ -17538,6 +18115,12 @@
       "originalTitle": "Concierto de Fin de Año de la Filarmónica de Berlín 2026",
       "year": 2026,
       "director": null,
+      "cast": [
+        "Berliner Philharmoniker",
+        "Kirill Petrenko",
+        "Alexander Malofeev",
+        "David Guerrier"
+      ],
       "genres": [],
       "synopsis": null,
       "poster": "https://www.bizcochito.es/img/tt113410-es-pos.webp",
@@ -17594,7 +18177,15 @@
       ],
       "imdbId": null,
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "cast": {
+          "source": "reviewed_public_source",
+          "url": "https://www.berliner-philharmoniker.de/konzerte/kalender/57080/",
+          "observedAt": "2026-10-18T21:09:45.528592+00:00",
+          "status": "verified"
+        }
+      }
     },
     {
       "id": "movie-9d02cc747b9d8e9418d6",
@@ -17602,6 +18193,12 @@
       "originalTitle": "Christmas in Versailles. Sonya Yoncheva",
       "year": 2024,
       "director": null,
+      "cast": [
+        "Sonya Yoncheva",
+        "Orchestre de l'Opéra Royal",
+        "Chœur de l'Opéra Royal",
+        "Stefan Plewniak"
+      ],
       "genres": [
         "Conciertos"
       ],
@@ -17660,7 +18257,15 @@
       ],
       "imdbId": null,
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "metadataSources": {
+        "cast": {
+          "source": "reviewed_public_source",
+          "url": "https://www.stage-plus.com/video/vod_concert_APNM8GRFDPHMASJKBSRJED8",
+          "observedAt": "2026-10-18T18:11:06.552258+00:00",
+          "status": "verified"
+        }
+      }
     }
   ],
   "cinemas": [
