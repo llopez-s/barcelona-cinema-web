@@ -10750,14 +10750,14 @@
       "id": "movie-a8e9585827fca4a773c2",
       "title": "Parkour en Gaza",
       "originalTitle": "Yalla Parkour",
-      "year": null,
+      "year": 2024,
       "runtime": null,
       "ageRating": {
         "system": "ES",
         "code": "12",
         "label": "Pelicula no recomendada a menores de 12"
       },
-      "director": "Abbas Zuaiter",
+      "director": "Areeb Zuaiter",
       "genres": [
         "Documental"
       ],
@@ -10766,15 +10766,19 @@
       "trailer": null,
       "ratings": {
         "imdb": {
-          "value": null,
+          "value": 7.4,
           "scale": 10,
-          "url": "https://www.imdb.com/find/?q=Yalla+Parkour&s=tt&ttype=ft",
-          "searchUrl": "https://www.imdb.com/find/?q=Yalla+Parkour&s=tt&ttype=ft",
-          "observedAt": "2026-10-18T15:24:38Z",
-          "status": "identity_unconfirmed",
-          "source": "imdb",
-          "attribution": "IMDb",
-          "metric": "user_rating"
+          "max": 10,
+          "metric": "user_rating",
+          "status": "verified",
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+          "attribution": "IMDb non-commercial datasets",
+          "observedAt": "2026-10-18T07:22:21Z",
+          "searchUrl": "https://www.imdb.com/find/?q=Yalla+Parkour&s=tt",
+          "imdbId": "tt12402876",
+          "titleUrl": "https://www.imdb.com/title/tt12402876/",
+          "votes": 100
         },
         "filmaffinity": {
           "value": null,
@@ -10814,12 +10818,28 @@
       "sources": [
         "https://www.sensacine.com/peliculas/pelicula-1000018999/"
       ],
+      "imdbId": "tt12402876",
+      "aliases": [
+        "Yalla Parkour"
+      ],
       "metadataSources": {
         "ageRating": {
           "source": "sensacine",
           "url": "https://www.sensacine.com/cines/cine/E0682/",
           "observedAt": "2026-10-18T15:01:24.758758+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "reviewed_official_sources_and_imdb_dataset",
+          "url": "https://www.docnyc.net/film/yalla-parkour/",
+          "observedAt": "2026-10-18T17:03:58.071403+00:00",
+          "identityStatus": "verified"
+        },
+        "director": {
+          "source": "reviewed_official_sources_and_imdb_dataset",
+          "url": "https://www.docnyc.net/film/yalla-parkour/",
+          "observedAt": "2026-10-18T17:03:58.071403+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -10922,15 +10942,15 @@
     {
       "id": "movie-7b128af562e24c1cf2b6",
       "title": "Detective Conan: El ángel caído de la carretera",
-      "originalTitle": "Meitantei Conan: Highway no Datenshi",
-      "year": null,
+      "originalTitle": "Meitantei Konan haiwei no datenshi",
+      "year": 2026,
       "runtime": null,
       "ageRating": {
         "system": "ES",
         "code": "12",
         "label": "Pelicula no recomendada a menores de 12"
       },
-      "director": null,
+      "director": "Takahiro Hasui",
       "genres": [
         "Acción",
         "Animación",
@@ -10941,15 +10961,19 @@
       "trailer": null,
       "ratings": {
         "imdb": {
-          "value": null,
+          "value": 6.2,
           "scale": 10,
-          "url": "https://www.imdb.com/find/?q=Meitantei+Conan%3A+Highway+no+Datenshi&s=tt&ttype=ft",
-          "searchUrl": "https://www.imdb.com/find/?q=Meitantei+Conan%3A+Highway+no+Datenshi&s=tt&ttype=ft",
-          "observedAt": "2026-10-18T07:26:35Z",
-          "status": "identity_unconfirmed",
-          "source": "imdb",
-          "attribution": "IMDb",
-          "metric": "user_rating"
+          "max": 10,
+          "metric": "user_rating",
+          "status": "verified",
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+          "attribution": "IMDb non-commercial datasets",
+          "observedAt": "2026-10-18T07:22:21Z",
+          "searchUrl": "https://www.imdb.com/find/?q=Meitantei+Konan+haiwei+no+datenshi&s=tt",
+          "imdbId": "tt39123115",
+          "titleUrl": "https://www.imdb.com/title/tt39123115/",
+          "votes": 603
         },
         "filmaffinity": {
           "value": null,
@@ -10989,7 +11013,11 @@
       "sources": [
         "https://www.sensacine.com/peliculas/pelicula-1000037846/"
       ],
-      "aliases": [],
+      "imdbId": "tt39123115",
+      "aliases": [
+        "Detective Conan: Fallen Angel of the Highway",
+        "Meitantei Conan: Highway no Datenshi"
+      ],
       "mergedIds": [],
       "metadataSources": {
         "ageRating": {
@@ -10997,6 +11025,24 @@
           "url": "https://www.sensacine.com/cines/cine/E0764/",
           "observedAt": "2026-10-18T15:01:27.783616+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "reviewed_official_sources_and_imdb_dataset",
+          "url": "https://alfapictures.com/sp/amy_movie/detective-conan-el-angel-caido-de-la-carretera/",
+          "observedAt": "2026-10-18T17:02:48.774922+00:00",
+          "identityStatus": "verified"
+        },
+        "director": {
+          "source": "reviewed_official_sources_and_imdb_dataset",
+          "url": "https://alfapictures.com/sp/amy_movie/detective-conan-el-angel-caido-de-la-carretera/",
+          "observedAt": "2026-10-18T17:02:48.774922+00:00",
+          "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "reviewed_official_sources_and_imdb_dataset",
+          "url": "https://alfapictures.com/sp/amy_movie/detective-conan-el-angel-caido-de-la-carretera/",
+          "observedAt": "2026-10-18T17:02:48.774922+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -11809,11 +11855,11 @@
     {
       "id": "movie-97e972d54cf99e9048a4",
       "title": "Super Mario Galaxy. La Película",
-      "originalTitle": null,
-      "year": null,
+      "originalTitle": "The Super Mario Galaxy Movie",
+      "year": 2026,
       "runtime": 98,
       "ageRating": null,
-      "director": "Aaron Horvath, Michael Jelenic",
+      "director": "Aaron Horvath, Michael Jelenic, Pierre Leduc, Fabien Polack",
       "genres": [
         "Animación",
         "Aventuras"
@@ -11823,15 +11869,19 @@
       "trailer": "https://www.youtube.com/watch?v=Hz57G2KaAp8",
       "ratings": {
         "imdb": {
-          "value": null,
+          "value": 6.2,
           "scale": 10,
-          "url": "https://www.imdb.com/find/?q=Super+Mario+Galaxy.+La+Pel%C3%ADcula&s=tt&ttype=ft",
-          "searchUrl": "https://www.imdb.com/find/?q=Super+Mario+Galaxy.+La+Pel%C3%ADcula&s=tt&ttype=ft",
-          "observedAt": "2026-10-18T07:26:45Z",
-          "status": "identity_unconfirmed",
-          "source": "imdb",
-          "attribution": "IMDb",
-          "metric": "user_rating"
+          "max": 10,
+          "metric": "user_rating",
+          "status": "verified",
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+          "attribution": "IMDb non-commercial datasets",
+          "observedAt": "2026-10-18T07:22:21Z",
+          "searchUrl": "https://www.imdb.com/find/?q=The+Super+Mario+Galaxy+Movie&s=tt",
+          "imdbId": "tt28650488",
+          "titleUrl": "https://www.imdb.com/title/tt28650488/",
+          "votes": 77150
         },
         "filmaffinity": {
           "value": null,
@@ -11871,7 +11921,10 @@
       "sources": [
         "https://www.publicine.net/pelicula/17010/super-mario-galaxy-la-pelicula"
       ],
-      "aliases": [],
+      "imdbId": "tt28650488",
+      "aliases": [
+        "The Super Mario Galaxy Movie"
+      ],
       "mergedIds": [],
       "metadataSources": {
         "runtime": {
@@ -11879,6 +11932,24 @@
           "url": "https://www.publicine.net/cartelera-cine/barcelona/yelmo-westfield-la-maquinista",
           "observedAt": "2026-10-18T15:02:04.105716+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "reviewed_official_sources_and_imdb_dataset",
+          "url": "https://www.universalpictures.es/micro/super-mario-galaxy",
+          "observedAt": "2026-10-18T17:02:47.728435+00:00",
+          "identityStatus": "verified"
+        },
+        "director": {
+          "source": "reviewed_official_sources_and_imdb_dataset",
+          "url": "https://www.universalpictures.es/micro/super-mario-galaxy",
+          "observedAt": "2026-10-18T17:02:47.728435+00:00",
+          "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "reviewed_official_sources_and_imdb_dataset",
+          "url": "https://www.universalpictures.es/micro/super-mario-galaxy",
+          "observedAt": "2026-10-18T17:02:47.728435+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -11986,8 +12057,8 @@
     {
       "id": "movie-6686bfc406b8292c22d2",
       "title": "Kakeru",
-      "originalTitle": null,
-      "year": null,
+      "originalTitle": "Hako no naka no hitsuji",
+      "year": 2026,
       "runtime": 126,
       "ageRating": null,
       "director": "Hirokazu Koreeda",
@@ -12000,44 +12071,48 @@
       "trailer": "https://www.youtube.com/watch?v=a21F3Y10edw",
       "ratings": {
         "imdb": {
-          "value": null,
+          "value": 5.9,
           "scale": 10,
-          "url": "https://www.imdb.com/find/?q=Kakeru&s=tt&ttype=ft",
-          "searchUrl": "https://www.imdb.com/find/?q=Kakeru&s=tt&ttype=ft",
-          "observedAt": "2026-10-18T07:26:45Z",
-          "status": "identity_unconfirmed",
-          "source": "imdb",
-          "attribution": "IMDb",
-          "metric": "user_rating"
+          "max": 10,
+          "metric": "user_rating",
+          "status": "verified",
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+          "attribution": "IMDb non-commercial datasets",
+          "observedAt": "2026-10-18T07:22:21Z",
+          "searchUrl": "https://www.imdb.com/find/?q=Hako+no+naka+no+hitsuji&s=tt",
+          "imdbId": "tt38551209",
+          "titleUrl": "https://www.imdb.com/title/tt38551209/",
+          "votes": 1195
         },
         "filmaffinity": {
-          "value": null,
+          "value": 5.5,
           "scale": 10,
-          "url": "https://www.filmaffinity.com/es/search.php?stext=Kakeru&stype=title",
+          "url": "https://www.filmaffinity.com/es/film448187.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Kakeru&stype=title",
-          "observedAt": "2026-10-18T07:26:45Z",
-          "status": "identity_unconfirmed",
+          "observedAt": "2026-10-18T15:04:07.792908+00:00",
+          "status": "verified",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
           "metric": "user_rating"
         },
         "rottenTomatoes": {
-          "value": null,
+          "value": 43.0,
           "scale": 100,
-          "url": "https://www.rottentomatoes.com/search?search=Kakeru",
+          "url": "https://www.rottentomatoes.com/m/sheep_in_the_box",
           "searchUrl": "https://www.rottentomatoes.com/search?search=Kakeru",
-          "observedAt": "2026-10-18T07:26:45Z",
-          "status": "identity_unconfirmed",
+          "observedAt": "2026-10-18T15:24:25.692877+00:00",
+          "status": "verified",
           "source": "rottenTomatoes",
           "attribution": "Rotten Tomatoes",
           "metric": "tomatometer",
           "audience": {
             "value": null,
             "scale": 100,
-            "url": "https://www.rottentomatoes.com/search?search=Kakeru",
+            "url": "https://www.rottentomatoes.com/m/sheep_in_the_box",
             "searchUrl": "https://www.rottentomatoes.com/search?search=Kakeru",
-            "observedAt": "2026-10-18T07:26:45Z",
-            "status": "identity_unconfirmed",
+            "observedAt": "2026-10-18T15:24:25.692877+00:00",
+            "status": "unrated",
             "source": "rottenTomatoes",
             "attribution": "Rotten Tomatoes",
             "metric": "popcornmeter"
@@ -12048,7 +12123,10 @@
       "sources": [
         "https://www.publicine.net/pelicula/16244/kakeru"
       ],
-      "aliases": [],
+      "imdbId": "tt38551209",
+      "aliases": [
+        "Sheep in the Box"
+      ],
       "mergedIds": [],
       "metadataSources": {
         "runtime": {
@@ -12056,6 +12134,18 @@
           "url": "https://www.publicine.net/cartelera-cine/barcelona/renoir-floridablanca-cines",
           "observedAt": "2026-10-18T15:02:07.854058+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "reviewed_official_sources_and_imdb_dataset",
+          "url": "https://www.golem.es/golem/pelicula/Kakeru",
+          "observedAt": "2026-10-18T17:02:41.456089+00:00",
+          "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "reviewed_official_sources_and_imdb_dataset",
+          "url": "https://www.golem.es/golem/pelicula/Kakeru",
+          "observedAt": "2026-10-18T17:02:41.456089+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -12123,6 +12213,8 @@
       "imdbId": null,
       "aliases": [],
       "mergedIds": [],
+      "programmeKind": "composite",
+      "ratingScope": "programme",
       "metadataSources": {
         "runtime": {
           "source": "official",
@@ -12130,7 +12222,90 @@
           "observedAt": "2026-10-18T15:01:25.911391+00:00",
           "status": "verified"
         }
-      }
+      },
+      "components": [
+        {
+          "id": "work-7c911e1b196a680ebae5",
+          "title": "Le chant des orages",
+          "year": 2025,
+          "director": "Caroline Attia Larivière",
+          "sourceUrl": "https://zumzeigcine.coop/cinema/films/lemilie-i-el-secret-de-les-tempestes/",
+          "runtime": 26,
+          "originalTitle": "Le chant des orages",
+          "imdbId": "tt39109035",
+          "ratings": {
+            "imdb": {
+              "value": 7.4,
+              "scale": 10,
+              "max": 10,
+              "metric": "user_rating",
+              "status": "verified",
+              "source": "imdb_dataset",
+              "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+              "attribution": "IMDb non-commercial datasets",
+              "observedAt": "2026-10-18T07:22:21Z",
+              "searchUrl": "https://www.imdb.com/find/?q=Le+chant+des+orages&s=tt",
+              "imdbId": "tt39109035",
+              "titleUrl": "https://www.imdb.com/title/tt39109035/",
+              "votes": 6
+            }
+          }
+        },
+        {
+          "id": "work-f542f5e83e1607ff6165",
+          "title": "Black & White",
+          "year": 2020,
+          "director": "Gerd Gockell, Jesús Pérez",
+          "sourceUrl": "https://zumzeigcine.coop/cinema/films/lemilie-i-el-secret-de-les-tempestes/",
+          "runtime": null,
+          "originalTitle": "Black & White",
+          "imdbId": "tt34692120",
+          "ratings": {
+            "imdb": {
+              "value": 6.0,
+              "scale": 10,
+              "max": 10,
+              "metric": "user_rating",
+              "status": "verified",
+              "source": "imdb_dataset",
+              "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+              "attribution": "IMDb non-commercial datasets",
+              "observedAt": "2026-10-18T07:22:21Z",
+              "searchUrl": "https://www.imdb.com/find/?q=Black+%26+White&s=tt",
+              "imdbId": "tt34692120",
+              "titleUrl": "https://www.imdb.com/title/tt34692120/",
+              "votes": 27
+            }
+          }
+        },
+        {
+          "id": "work-9551a0b40185911632ca",
+          "title": "Monster",
+          "year": 2024,
+          "director": "Piers Goffart, Eric Giessmann",
+          "sourceUrl": "https://zumzeigcine.coop/cinema/films/lemilie-i-el-secret-de-les-tempestes/",
+          "runtime": null,
+          "ratings": {}
+        },
+        {
+          "id": "work-3d0b2ff3d61e0d2d41ff",
+          "title": "Pete",
+          "year": 2022,
+          "director": "Bret Parker",
+          "sourceUrl": "https://zumzeigcine.coop/cinema/films/lemilie-i-el-secret-de-les-tempestes/",
+          "runtime": 7,
+          "ratings": {}
+        },
+        {
+          "id": "work-c5f9809d7b20ac6126c4",
+          "title": "Tournesol",
+          "year": 2023,
+          "director": "Natalia Chernysheva",
+          "sourceUrl": "https://zumzeigcine.coop/cinema/films/lemilie-i-el-secret-de-les-tempestes/",
+          "runtime": null,
+          "ratings": {}
+        }
+      ]
     },
     {
       "id": "movie-7fa39dee660d66556472",
@@ -12874,6 +13049,8 @@
         "The Burning Moon"
       ],
       "mergedIds": [],
+      "programmeKind": "composite",
+      "ratingScope": "programme",
       "metadataSources": {
         "runtime": {
           "source": "official",
@@ -12893,7 +13070,63 @@
           "observedAt": "2026-10-09T07:05:19.526443+00:00",
           "identityStatus": "verified"
         }
-      }
+      },
+      "components": [
+        {
+          "id": "work-481c0f6ed30c8c08aa0a",
+          "title": "Death Spa",
+          "year": 1988,
+          "director": "Michael Fischa",
+          "sourceUrl": "https://zumzeigcine.coop/cinema/films/autotracking-presenta-palilloween/",
+          "runtime": 88,
+          "originalTitle": "Death Spa",
+          "imdbId": "tt0099384",
+          "ratings": {
+            "imdb": {
+              "value": 5.2,
+              "scale": 10,
+              "max": 10,
+              "metric": "user_rating",
+              "status": "verified",
+              "source": "imdb_dataset",
+              "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+              "attribution": "IMDb non-commercial datasets",
+              "observedAt": "2026-10-18T07:22:21Z",
+              "searchUrl": "https://www.imdb.com/find/?q=Death+Spa&s=tt",
+              "imdbId": "tt0099384",
+              "titleUrl": "https://www.imdb.com/title/tt0099384/",
+              "votes": 4504
+            }
+          }
+        },
+        {
+          "id": "work-229f8e8a0e6cdd4cd7e2",
+          "title": "The Burning Moon",
+          "year": 1992,
+          "director": "Olaf Ittenbach",
+          "sourceUrl": "https://zumzeigcine.coop/cinema/films/autotracking-presenta-palilloween/",
+          "runtime": 86,
+          "originalTitle": "The Burning Moon",
+          "imdbId": "tt0103898",
+          "ratings": {
+            "imdb": {
+              "value": 5.2,
+              "scale": 10,
+              "max": 10,
+              "metric": "user_rating",
+              "status": "verified",
+              "source": "imdb_dataset",
+              "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+              "attribution": "IMDb non-commercial datasets",
+              "observedAt": "2026-10-18T07:22:21Z",
+              "searchUrl": "https://www.imdb.com/find/?q=The+Burning+Moon&s=tt",
+              "imdbId": "tt0103898",
+              "titleUrl": "https://www.imdb.com/title/tt0103898/",
+              "votes": 1430
+            }
+          }
+        }
+      ]
     },
     {
       "id": "movie-bdc8f4fd3983c19d6ffa",
@@ -13517,6 +13750,8 @@
       "imdbId": null,
       "aliases": [],
       "mergedIds": [],
+      "programmeKind": "composite",
+      "ratingScope": "programme",
       "metadataSources": {
         "runtime": {
           "source": "official",
@@ -13524,7 +13759,102 @@
           "observedAt": "2026-10-18T15:02:57.312195+00:00",
           "status": "verified"
         }
-      }
+      },
+      "components": [
+        {
+          "id": "work-4b12e508e92c16b89a3b",
+          "title": "Le torchon brûle ou Une querelle de ménage",
+          "year": 1911,
+          "director": "Romeo Bosetti",
+          "sourceUrl": "https://www.filmoteca.cat/web/ca/film/atencio-amb-la-colera-femenina-sessio-de-curtmetratges",
+          "originalTitle": "Le torchon brûle ou Une querelle de ménage",
+          "imdbId": "tt0481240",
+          "ratings": {
+            "imdb": {
+              "value": 6.1,
+              "scale": 10,
+              "max": 10,
+              "metric": "user_rating",
+              "status": "verified",
+              "source": "imdb_dataset",
+              "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+              "attribution": "IMDb non-commercial datasets",
+              "observedAt": "2026-10-18T07:22:21Z",
+              "searchUrl": "https://www.imdb.com/find/?q=Le+torchon+br%C3%BBle+ou+Une+querelle+de+m%C3%A9nage&s=tt",
+              "imdbId": "tt0481240",
+              "titleUrl": "https://www.imdb.com/title/tt0481240/",
+              "votes": 37
+            }
+          }
+        },
+        {
+          "id": "work-dc703d6705e1519d0f0a",
+          "title": "Cunégonde femme-crampon",
+          "year": 1912,
+          "director": "Little Chrysia",
+          "sourceUrl": "https://www.filmoteca.cat/web/ca/film/atencio-amb-la-colera-femenina-sessio-de-curtmetratges",
+          "ratings": {}
+        },
+        {
+          "id": "work-1160df527f3a7315ba98",
+          "title": "La paresse de Polycarpe",
+          "year": 1914,
+          "director": "Ernest Servaès",
+          "sourceUrl": "https://www.filmoteca.cat/web/ca/film/atencio-amb-la-colera-femenina-sessio-de-curtmetratges",
+          "originalTitle": "La paresse de Polycarpe",
+          "imdbId": "tt3835018",
+          "ratings": {
+            "imdb": {
+              "value": null,
+              "scale": 10,
+              "max": 10,
+              "metric": "user_rating",
+              "status": "unrated",
+              "source": "imdb_dataset",
+              "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+              "attribution": "IMDb non-commercial datasets",
+              "observedAt": "2026-10-18T07:22:21Z",
+              "searchUrl": "https://www.imdb.com/find/?q=La+paresse+de+Polycarpe&s=tt",
+              "imdbId": "tt3835018",
+              "titleUrl": "https://www.imdb.com/title/tt3835018/"
+            }
+          }
+        },
+        {
+          "id": "work-8e28bce3092c9ee98905",
+          "title": "Eine Fliegenjagd oder Die Rache der Frau Schultze",
+          "year": 1905,
+          "director": "Eugen Skladanowski",
+          "sourceUrl": "https://www.filmoteca.cat/web/ca/film/atencio-amb-la-colera-femenina-sessio-de-curtmetratges",
+          "ratings": {}
+        },
+        {
+          "id": "work-fdf02930d3dae9ca9a28",
+          "title": "Fatty and Minnie He-Haw",
+          "year": 1914,
+          "director": "Roscoe 'Fatty' Arbuckle",
+          "sourceUrl": "https://www.filmoteca.cat/web/ca/film/atencio-amb-la-colera-femenina-sessio-de-curtmetratges",
+          "originalTitle": "Fatty and Minnie He-Haw",
+          "imdbId": "tt0003943",
+          "ratings": {
+            "imdb": {
+              "value": 5.1,
+              "scale": 10,
+              "max": 10,
+              "metric": "user_rating",
+              "status": "verified",
+              "source": "imdb_dataset",
+              "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+              "attribution": "IMDb non-commercial datasets",
+              "observedAt": "2026-10-18T07:22:21Z",
+              "searchUrl": "https://www.imdb.com/find/?q=Fatty+and+Minnie+He-Haw&s=tt",
+              "imdbId": "tt0003943",
+              "titleUrl": "https://www.imdb.com/title/tt0003943/",
+              "votes": 113
+            }
+          }
+        }
+      ]
     },
     {
       "id": "movie-bf26bcabb2d16ae6eda7",
@@ -13679,7 +14009,10 @@
       ],
       "imdbId": null,
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "programmeKind": "talk",
+      "ratingScope": "programme",
+      "components": []
     },
     {
       "id": "movie-30ce1213b83995db313e",
@@ -13828,7 +14161,10 @@
       ],
       "imdbId": null,
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "programmeKind": "talk",
+      "ratingScope": "programme",
+      "components": []
     },
     {
       "id": "movie-9a1732faee683166fff1",
@@ -14070,6 +14406,8 @@
       "imdbId": null,
       "aliases": [],
       "mergedIds": [],
+      "programmeKind": "composite",
+      "ratingScope": "programme",
       "metadataSources": {
         "runtime": {
           "source": "official",
@@ -14077,7 +14415,103 @@
           "observedAt": "2026-10-18T15:03:32.054007+00:00",
           "status": "verified"
         }
-      }
+      },
+      "components": [
+        {
+          "id": "work-b6469c9b576375e5fbc6",
+          "title": "Annabelle Serpentine Dance",
+          "year": 1895,
+          "director": "William K.L. Dickson, William Heise",
+          "sourceUrl": "https://www.filmoteca.cat/web/ca/film/ritme-de-classics-sessio-de-curtmetratges",
+          "originalTitle": "Annabelle Serpentine Dance",
+          "imdbId": "tt0154152",
+          "ratings": {
+            "imdb": {
+              "value": 6.5,
+              "scale": 10,
+              "max": 10,
+              "metric": "user_rating",
+              "status": "verified",
+              "source": "imdb_dataset",
+              "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+              "attribution": "IMDb non-commercial datasets",
+              "observedAt": "2026-10-18T07:22:21Z",
+              "searchUrl": "https://www.imdb.com/find/?q=Annabelle+Serpentine+Dance&s=tt",
+              "imdbId": "tt0154152",
+              "titleUrl": "https://www.imdb.com/title/tt0154152/",
+              "votes": 2666
+            }
+          }
+        },
+        {
+          "id": "work-339b49b18218541986ce",
+          "title": "La création de la serpentine",
+          "year": 1908,
+          "director": "Segundo de Chomón",
+          "sourceUrl": "https://www.filmoteca.cat/web/ca/film/ritme-de-classics-sessio-de-curtmetratges",
+          "ratings": {}
+        },
+        {
+          "id": "work-0e52ec7f11c30ecda4e8",
+          "title": "The Cook",
+          "year": 1918,
+          "director": "Roscoe “Fatty” Arbuckle, Buster Keaton",
+          "sourceUrl": "https://www.filmoteca.cat/web/ca/film/ritme-de-classics-sessio-de-curtmetratges",
+          "ratings": {}
+        },
+        {
+          "id": "work-bf53e924b78809dda413",
+          "title": "Fatal Footsteps",
+          "year": 1926,
+          "director": "Charles R. Bowers",
+          "sourceUrl": "https://www.filmoteca.cat/web/ca/film/ritme-de-classics-sessio-de-curtmetratges",
+          "originalTitle": "Fatal Footsteps",
+          "imdbId": "tt0016845",
+          "ratings": {
+            "imdb": {
+              "value": 6.9,
+              "scale": 10,
+              "max": 10,
+              "metric": "user_rating",
+              "status": "verified",
+              "source": "imdb_dataset",
+              "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+              "attribution": "IMDb non-commercial datasets",
+              "observedAt": "2026-10-18T07:22:21Z",
+              "searchUrl": "https://www.imdb.com/find/?q=Fatal+Footsteps&s=tt",
+              "imdbId": "tt0016845",
+              "titleUrl": "https://www.imdb.com/title/tt0016845/",
+              "votes": 119
+            }
+          }
+        },
+        {
+          "id": "work-7202cd2ac82fbca67050",
+          "title": "L’école des facteurs",
+          "year": 1947,
+          "director": "Jacques Tati",
+          "sourceUrl": "https://www.filmoteca.cat/web/ca/film/ritme-de-classics-sessio-de-curtmetratges",
+          "originalTitle": "L'école des facteurs",
+          "imdbId": "tt0040019",
+          "ratings": {
+            "imdb": {
+              "value": 7.2,
+              "scale": 10,
+              "max": 10,
+              "metric": "user_rating",
+              "status": "verified",
+              "source": "imdb_dataset",
+              "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+              "attribution": "IMDb non-commercial datasets",
+              "observedAt": "2026-10-18T07:22:21Z",
+              "searchUrl": "https://www.imdb.com/find/?q=L%27%C3%A9cole+des+facteurs&s=tt",
+              "imdbId": "tt0040019",
+              "titleUrl": "https://www.imdb.com/title/tt0040019/",
+              "votes": 2594
+            }
+          }
+        }
+      ]
     },
     {
       "id": "movie-373cdf309561c816f613",
@@ -14155,7 +14589,7 @@
     {
       "id": "movie-af9b84675557d0b15a8e",
       "title": "Voluntad que vence / L'indomptée",
-      "originalTitle": null,
+      "originalTitle": "Voluntad que vence",
       "year": 1919,
       "runtime": 79,
       "director": "Salvador Castelló",
@@ -14165,15 +14599,19 @@
       "trailer": null,
       "ratings": {
         "imdb": {
-          "value": null,
+          "value": 5.5,
           "scale": 10,
-          "url": "https://www.imdb.com/find/?q=Voluntad+que+vence+%2F+L%27indompt%C3%A9e&s=tt&ttype=ft",
-          "searchUrl": "https://www.imdb.com/find/?q=Voluntad+que+vence+%2F+L%27indompt%C3%A9e&s=tt&ttype=ft",
-          "observedAt": "2026-10-18T15:27:54Z",
-          "status": "blocked",
-          "source": "imdb",
-          "attribution": "IMDb",
-          "metric": "user_rating"
+          "max": 10,
+          "metric": "user_rating",
+          "status": "verified",
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+          "attribution": "IMDb non-commercial datasets",
+          "observedAt": "2026-10-18T07:22:21Z",
+          "searchUrl": "https://www.imdb.com/find/?q=Voluntad+que+vence&s=tt",
+          "imdbId": "tt0176299",
+          "titleUrl": "https://www.imdb.com/title/tt0176299/",
+          "votes": 13
         },
         "filmaffinity": {
           "value": null,
@@ -14213,8 +14651,10 @@
       "sources": [
         "https://www.filmoteca.cat/web/ca/film/voluntad-que-vence-lindomptee"
       ],
-      "imdbId": null,
-      "aliases": [],
+      "imdbId": "tt0176299",
+      "aliases": [
+        "Voluntad que vence"
+      ],
       "mergedIds": [],
       "metadataSources": {
         "runtime": {
@@ -14222,6 +14662,12 @@
           "url": "https://www.filmoteca.cat/web/ca/film/voluntad-que-vence-lindomptee",
           "observedAt": "2026-10-18T15:03:35.571714+00:00",
           "status": "verified"
+        },
+        "originalTitle": {
+          "source": "reviewed_official_sources_and_imdb_dataset",
+          "url": "https://www.filmoteca.cat/web/ca/film/voluntad-que-vence-lindomptee",
+          "observedAt": "2026-10-18T15:03:35.571714+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -14372,7 +14818,10 @@
       ],
       "imdbId": null,
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "programmeKind": "talk",
+      "ratingScope": "programme",
+      "components": []
     },
     {
       "id": "movie-0db72d55042a91c0754e",
@@ -14436,7 +14885,10 @@
       ],
       "imdbId": null,
       "aliases": [],
-      "mergedIds": []
+      "mergedIds": [],
+      "programmeKind": "talk",
+      "ratingScope": "programme",
+      "components": []
     },
     {
       "id": "movie-81499f499be03cd85551",
