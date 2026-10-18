@@ -24,6 +24,7 @@
     soldOut: 'Agotada', expired: 'Finalizada', skipped: 'Sin consultar', timeout: 'Tiempo agotado',
     no_data: 'Sin datos', no_sessions: 'Sin sesiones', not_found: 'No encontrado', closed: 'Cerrado',
     identity_unconfirmed: 'Identidad sin confirmar', unrated: 'Sin nota publicada',
+    no_future_sessions: 'Sin pases futuros verificables', stale_only: 'Solo horarios sin actualizar',
   };
   const GOOD = new Set(['ok', 'success', 'available', 'verified', 'complete', 'active', 'confirmed', 'scheduled']);
   const FAILED = new Set(['error', 'failed', 'blocked', 'unavailable', 'timeout']);
@@ -676,7 +677,8 @@
     entries.sort((a, b) => collator.compare(text(a.cinema?.name), text(b.cinema?.name)));
     for (const { cinema, coverage } of entries) {
       const card = element('article', 'coverage-card');
-      card.append(statusBadge(coverage?.status || 'pending'));
+      const programmeStatus = coverage?.programmeStatus || (coverage?.status === 'ok' && coverage.sessions === 0 ? 'no_future_sessions' : coverage?.status);
+      card.append(statusBadge(programmeStatus || 'pending'));
       card.append(element('h3', '', text(cinema?.name) || 'Cine sin identificar'));
       card.append(element('p', 'coverage-address', text(cinema?.address) || 'Dirección pendiente'));
       if (text(cinema?.status)) card.append(element('p', 'small-text', `Estado del cine: ${statusName(cinema.status)}`));
@@ -685,6 +687,8 @@
       count.append(element('strong', '', reported ? numberFormat.format(coverage.sessions) : '—'), document.createTextNode(reported ? 'sesiones informadas por la fuente' : 'Recuento pendiente'));
       card.append(count);
       card.append(element('p', 'coverage-message', text(coverage?.message) || (coverage ? 'La fuente no ha proporcionado un mensaje adicional.' : 'No hay informe de cobertura para este cine.')));
+      if (programmeStatus === 'no_future_sessions') card.append(element('p', 'coverage-message', 'Fuente consultada, sin pases futuros verificables. Esto no confirma que el cine no tenga programación.'));
+      if (typeof coverage?.staleSessions === 'number' && coverage.staleSessions > 0) card.append(element('p', 'data-stale', `${numberFormat.format(coverage.staleSessions)} sesiones conservadas sin actualizar; confirmar en la fuente.`));
       const links = element('div', 'coverage-links');
       const source = externalLink('Fuente de programación ↗', coverage?.sourceUrl);
       const web = externalLink('Web del cine ↗', cinema?.url);

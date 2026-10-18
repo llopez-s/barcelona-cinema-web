@@ -51057,7 +51057,10 @@
       "sessions": 0,
       "message": "Cerrado",
       "checkedAt": "2026-10-18T08:58:20.205772+02:00",
-      "sourceUrl": null
+      "sourceUrl": null,
+      "programmeStatus": "closed",
+      "verifiedSessions": 0,
+      "staleSessions": 0
     },
     {
       "cinemaId": "boliche",
@@ -51065,7 +51068,10 @@
       "sessions": 0,
       "message": "Cerrado",
       "checkedAt": "2026-10-18T08:58:20.205772+02:00",
-      "sourceUrl": null
+      "sourceUrl": null,
+      "programmeStatus": "closed",
+      "verifiedSessions": 0,
+      "staleSessions": 0
     },
     {
       "cinemaId": "casa-montjuic",
@@ -51073,7 +51079,10 @@
       "sessions": 0,
       "message": "No se han podido verificar horarios. Consultar la web del cine.",
       "checkedAt": "2026-10-18T08:58:20.205772+02:00",
-      "sourceUrl": "https://www.casamontjuic.com/agenda/"
+      "sourceUrl": "https://www.casamontjuic.com/agenda/",
+      "programmeStatus": "unavailable",
+      "verifiedSessions": 0,
+      "staleSessions": 0
     },
     {
       "cinemaId": "cinesa-diagonal",
@@ -51081,7 +51090,10 @@
       "sessions": 161,
       "message": "Horarios de fuente secundaria; confirmar cambios en la web del cine.",
       "checkedAt": "2026-10-18T08:58:20.205772+02:00",
-      "sourceUrl": "https://www.sensacine.com/cines/cine/E0381/"
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0381/",
+      "programmeStatus": "available",
+      "verifiedSessions": 159,
+      "staleSessions": 2
     },
     {
       "cinemaId": "cinesa-diagonal-mar",
@@ -51089,7 +51101,10 @@
       "sessions": 181,
       "message": "Horarios de fuente secundaria; confirmar cambios en la web del cine.",
       "checkedAt": "2026-10-18T08:58:20.205772+02:00",
-      "sourceUrl": "https://www.sensacine.com/cines/cine/E0382/"
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0382/",
+      "programmeStatus": "available",
+      "verifiedSessions": 178,
+      "staleSessions": 3
     },
     {
       "cinemaId": "cinesa-maremagnum",
@@ -51097,7 +51112,10 @@
       "sessions": 0,
       "message": "Cerrado",
       "checkedAt": "2026-10-18T08:58:20.205772+02:00",
-      "sourceUrl": null
+      "sourceUrl": null,
+      "programmeStatus": "closed",
+      "verifiedSessions": 0,
+      "staleSessions": 0
     },
     {
       "cinemaId": "cinesa-som",
@@ -51105,7 +51123,10 @@
       "sessions": 189,
       "message": "Horarios de fuente secundaria; confirmar cambios en la web del cine.",
       "checkedAt": "2026-10-18T08:58:20.205772+02:00",
-      "sourceUrl": "https://www.sensacine.com/cines/cine/E0388/"
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0388/",
+      "programmeStatus": "available",
+      "verifiedSessions": 187,
+      "staleSessions": 2
     },
     {
       "cinemaId": "filmoteca",
@@ -51113,7 +51134,10 @@
       "sessions": 54,
       "message": "Horarios publicados importados; el cine puede añadir o cambiar sesiones.",
       "checkedAt": "2026-10-18T08:58:20.205772+02:00",
-      "sourceUrl": "https://www.filmoteca.cat/web/ca/view-agenda-mensual"
+      "sourceUrl": "https://www.filmoteca.cat/web/ca/view-agenda-mensual",
+      "programmeStatus": "available",
+      "verifiedSessions": 54,
+      "staleSessions": 0
     },
     {
       "cinemaId": "girona",
@@ -51121,7 +51145,10 @@
       "sessions": 20,
       "message": "Horarios de fuente secundaria; confirmar cambios en la web del cine.",
       "checkedAt": "2026-10-18T08:58:20.205772+02:00",
-      "sourceUrl": "https://www.sensacine.com/cines/cine/E0747/"
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0747/",
+      "programmeStatus": "available",
+      "verifiedSessions": 7,
+      "staleSessions": 13
     },
     {
       "cinemaId": "lauren-universitat",
@@ -51129,7 +51156,10 @@
       "sessions": 0,
       "message": "Cerrado",
       "checkedAt": "2026-10-18T08:58:20.205772+02:00",
-      "sourceUrl": null
+      "sourceUrl": null,
+      "programmeStatus": "closed",
+      "verifiedSessions": 0,
+      "staleSessions": 0
     },
     {
       "cinemaId": "malda",
@@ -51137,7 +51167,10 @@
       "sessions": 0,
       "message": "Horarios de fuente secundaria; confirmar cambios en la web del cine.",
       "checkedAt": "2026-10-18T08:58:20.205772+02:00",
-      "sourceUrl": "https://www.sensacine.com/cines/cine/E0682/"
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0682/",
+      "programmeStatus": "no_future_sessions",
+      "verifiedSessions": 0,
+      "staleSessions": 0
     },
     {
       "cinemaId": "melies",
@@ -51145,7 +51178,10 @@
       "sessions": 0,
       "message": "Cerrado",
       "checkedAt": "2026-10-18T08:58:20.205772+02:00",
-      "sourceUrl": null
+      "sourceUrl": null,
+      "programmeStatus": "closed",
+      "verifiedSessions": 0,
+      "staleSessions": 0
     },
     {
       "cinemaId": "mooby-arenas",
@@ -51153,7 +51189,10 @@
       "sessions": 52,
       "message": "Horarios de fuente secundaria; confirmar cambios en la web del cine.",
       "checkedAt": "2026-10-18T08:58:20.205772+02:00",
-      "sourceUrl": "https://www.sensacine.com/cines/cine/E0764/"
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0764/",
+      "programmeStatus": "available",
+      "verifiedSessions": 49,
+      "staleSessions": 3
     },
     {
       "cinemaId": "mooby-aribau",
@@ -51161,7 +51200,10 @@
       "sessions": 26,
       "message": "Horarios de fuente secundaria; confirmar cambios en la web del cine.",
       "checkedAt": "2026-10-18T08:58:20.205772+02:00",
-      "sourceUrl": "https://www.sensacine.com/cines/cine/E0091/"
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0091/",
+      "programmeStatus": "available",
+      "verifiedSessions": 16,
+      "staleSessions": 10
     },
     {
       "cinemaId": "mooby-balmes",
@@ -51169,7 +51211,10 @@
       "sessions": 51,
       "message": "Horarios de fuente secundaria; confirmar cambios en la web del cine.",
       "checkedAt": "2026-10-18T08:58:20.205772+02:00",
-      "sourceUrl": "https://www.sensacine.com/cines/cine/E0808/"
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0808/",
+      "programmeStatus": "available",
+      "verifiedSessions": 48,
+      "staleSessions": 3
     },
     {
       "cinemaId": "mooby-bosque",
@@ -51177,7 +51222,10 @@
       "sessions": 35,
       "message": "Horarios de fuente secundaria; confirmar cambios en la web del cine.",
       "checkedAt": "2026-10-18T08:58:20.205772+02:00",
-      "sourceUrl": "https://www.sensacine.com/cines/cine/E0136/"
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0136/",
+      "programmeStatus": "available",
+      "verifiedSessions": 26,
+      "staleSessions": 9
     },
     {
       "cinemaId": "mooby-glories",
@@ -51185,7 +51233,10 @@
       "sessions": 20,
       "message": "Horarios de fuente secundaria; confirmar cambios en la web del cine.",
       "checkedAt": "2026-10-18T08:58:20.205772+02:00",
-      "sourceUrl": "https://www.sensacine.com/cines/cine/E0442/"
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0442/",
+      "programmeStatus": "available",
+      "verifiedSessions": 19,
+      "staleSessions": 1
     },
     {
       "cinemaId": "mooby-gran-sarria",
@@ -51193,7 +51244,10 @@
       "sessions": 29,
       "message": "Horarios de fuente secundaria; confirmar cambios en la web del cine.",
       "checkedAt": "2026-10-18T08:58:20.205772+02:00",
-      "sourceUrl": "https://www.sensacine.com/cines/cine/E0447/"
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0447/",
+      "programmeStatus": "available",
+      "verifiedSessions": 25,
+      "staleSessions": 4
     },
     {
       "cinemaId": "palau-balana",
@@ -51201,7 +51255,10 @@
       "sessions": 0,
       "message": "Cerrado",
       "checkedAt": "2026-10-18T08:58:20.205772+02:00",
-      "sourceUrl": null
+      "sourceUrl": null,
+      "programmeStatus": "closed",
+      "verifiedSessions": 0,
+      "staleSessions": 0
     },
     {
       "cinemaId": "phenomena",
@@ -51209,7 +51266,10 @@
       "sessions": 49,
       "message": "Horarios publicados importados; el cine puede añadir o cambiar sesiones.",
       "checkedAt": "2026-10-18T08:58:20.205772+02:00",
-      "sourceUrl": "https://phenomena-experience.com/index?pag=cartelera"
+      "sourceUrl": "https://phenomena-experience.com/index?pag=cartelera",
+      "programmeStatus": "available",
+      "verifiedSessions": 49,
+      "staleSessions": 0
     },
     {
       "cinemaId": "renoir-floridablanca",
@@ -51217,7 +51277,10 @@
       "sessions": 133,
       "message": "Horarios de fuente secundaria; confirmar cambios en la web del cine.",
       "checkedAt": "2026-10-18T08:58:20.205772+02:00",
-      "sourceUrl": "https://www.sensacine.com/cines/cine/E0581/"
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0581/",
+      "programmeStatus": "available",
+      "verifiedSessions": 131,
+      "staleSessions": 2
     },
     {
       "cinemaId": "texas",
@@ -51225,7 +51288,10 @@
       "sessions": 40,
       "message": "Importación parcial: algunos detalles no han podido verificarse. Consultar la fuente.",
       "checkedAt": "2026-10-18T08:58:20.205772+02:00",
-      "sourceUrl": "https://espaitexas.cat/cartellera-cinema/"
+      "sourceUrl": "https://espaitexas.cat/cartellera-cinema/",
+      "programmeStatus": "partial",
+      "verifiedSessions": 40,
+      "staleSessions": 0
     },
     {
       "cinemaId": "verdi",
@@ -51233,7 +51299,10 @@
       "sessions": 39,
       "message": "Horarios de fuente secundaria; confirmar cambios en la web del cine.",
       "checkedAt": "2026-10-18T08:58:20.205772+02:00",
-      "sourceUrl": "https://www.sensacine.com/cines/cine/E0608/"
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0608/",
+      "programmeStatus": "available",
+      "verifiedSessions": 36,
+      "staleSessions": 3
     },
     {
       "cinemaId": "yelmo-comedia",
@@ -51241,7 +51310,10 @@
       "sessions": 0,
       "message": "Cerrado",
       "checkedAt": "2026-10-18T08:58:20.205772+02:00",
-      "sourceUrl": null
+      "sourceUrl": null,
+      "programmeStatus": "closed",
+      "verifiedSessions": 0,
+      "staleSessions": 0
     },
     {
       "cinemaId": "yelmo-icaria",
@@ -51249,7 +51321,10 @@
       "sessions": 0,
       "message": "Cerrado",
       "checkedAt": "2026-10-18T08:58:20.205772+02:00",
-      "sourceUrl": null
+      "sourceUrl": null,
+      "programmeStatus": "closed",
+      "verifiedSessions": 0,
+      "staleSessions": 0
     },
     {
       "cinemaId": "yelmo-maquinista",
@@ -51257,7 +51332,10 @@
       "sessions": 204,
       "message": "Horarios de fuente secundaria; confirmar cambios en la web del cine.",
       "checkedAt": "2026-10-18T08:58:20.205772+02:00",
-      "sourceUrl": "https://www.publicine.net/cartelera-cine/barcelona/yelmo-westfield-la-maquinista"
+      "sourceUrl": "https://www.publicine.net/cartelera-cine/barcelona/yelmo-westfield-la-maquinista",
+      "programmeStatus": "available",
+      "verifiedSessions": 199,
+      "staleSessions": 5
     },
     {
       "cinemaId": "zumzeig",
@@ -51265,7 +51343,10 @@
       "sessions": 27,
       "message": "Horarios publicados importados; el cine puede añadir o cambiar sesiones.",
       "checkedAt": "2026-10-18T08:58:20.205772+02:00",
-      "sourceUrl": "https://zumzeigcine.coop/cinema/sessions/"
+      "sourceUrl": "https://zumzeigcine.coop/cinema/sessions/",
+      "programmeStatus": "available",
+      "verifiedSessions": 27,
+      "staleSessions": 0
     }
   ]
 }
