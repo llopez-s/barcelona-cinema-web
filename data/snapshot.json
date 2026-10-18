@@ -10481,15 +10481,15 @@
     {
       "id": "movie-e4a4bea34cb7f81ea45a",
       "title": "Cars: 20 aniversario",
-      "originalTitle": "Cars 20th Anniversary",
-      "year": null,
+      "originalTitle": "Cars",
+      "year": 2006,
       "runtime": null,
       "ageRating": {
         "system": "ES",
         "code": "TP",
         "label": "Todos los publicos"
       },
-      "director": "John Lasseter , Joe Ranft",
+      "director": "John Lasseter, Joe Ranft",
       "genres": [
         "Animación",
         "Comedia",
@@ -10500,15 +10500,19 @@
       "trailer": null,
       "ratings": {
         "imdb": {
-          "value": null,
+          "value": 7.3,
           "scale": 10,
-          "url": "https://www.imdb.com/find/?q=Cars+20th+Anniversary&s=tt&ttype=ft",
-          "searchUrl": "https://www.imdb.com/find/?q=Cars+20th+Anniversary&s=tt&ttype=ft",
-          "observedAt": "2026-10-18T07:26:09Z",
-          "status": "identity_unconfirmed",
-          "source": "imdb",
-          "attribution": "IMDb",
-          "metric": "user_rating"
+          "max": 10,
+          "metric": "user_rating",
+          "status": "verified",
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+          "attribution": "IMDb non-commercial datasets",
+          "observedAt": "2026-10-18T07:22:21Z",
+          "searchUrl": "https://www.imdb.com/find/?q=Cars&s=tt",
+          "imdbId": "tt0317219",
+          "titleUrl": "https://www.imdb.com/title/tt0317219/",
+          "votes": 552121
         },
         "filmaffinity": {
           "value": null,
@@ -10522,22 +10526,22 @@
           "metric": "user_rating"
         },
         "rottenTomatoes": {
-          "value": null,
+          "value": 75.0,
           "scale": 100,
-          "url": "https://www.rottentomatoes.com/search?search=Cars+20th+Anniversary",
+          "url": "https://www.rottentomatoes.com/m/cars",
           "searchUrl": "https://www.rottentomatoes.com/search?search=Cars+20th+Anniversary",
-          "observedAt": "2026-10-18T07:26:09Z",
-          "status": "identity_unconfirmed",
+          "observedAt": "2026-10-18T15:24:03.322489+00:00",
+          "status": "verified",
           "source": "rottenTomatoes",
           "attribution": "Rotten Tomatoes",
           "metric": "tomatometer",
           "audience": {
-            "value": null,
+            "value": 80.0,
             "scale": 100,
-            "url": "https://www.rottentomatoes.com/search?search=Cars+20th+Anniversary",
+            "url": "https://www.rottentomatoes.com/m/cars",
             "searchUrl": "https://www.rottentomatoes.com/search?search=Cars+20th+Anniversary",
-            "observedAt": "2026-10-18T07:26:09Z",
-            "status": "identity_unconfirmed",
+            "observedAt": "2026-10-18T15:24:03.322489+00:00",
+            "status": "verified",
             "source": "rottenTomatoes",
             "attribution": "Rotten Tomatoes",
             "metric": "popcornmeter"
@@ -10548,7 +10552,11 @@
       "sources": [
         "https://www.sensacine.com/peliculas/pelicula-1000050003/"
       ],
-      "aliases": [],
+      "imdbId": "tt0317219",
+      "aliases": [
+        "Cars",
+        "Cars 20th Anniversary"
+      ],
       "mergedIds": [],
       "metadataSources": {
         "ageRating": {
@@ -10556,6 +10564,24 @@
           "url": "https://www.sensacine.com/cines/cine/E0608/",
           "observedAt": "2026-10-18T15:01:20.633777+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "reviewed_official_sources_and_imdb_dataset",
+          "url": "https://prensa.disney.es/noticias/disneyypixarcelebranel20.%C2%BAaniversariodecarsconsuregreso.16deoctubresoloencines.",
+          "observedAt": "2026-10-18T16:50:13.895582+00:00",
+          "identityStatus": "verified"
+        },
+        "director": {
+          "source": "reviewed_official_sources_and_imdb_dataset",
+          "url": "https://prensa.disney.es/noticias/disneyypixarcelebranel20.%C2%BAaniversariodecarsconsuregreso.16deoctubresoloencines.",
+          "observedAt": "2026-10-18T16:50:13.895582+00:00",
+          "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "reviewed_official_sources_and_imdb_dataset",
+          "url": "https://prensa.disney.es/noticias/disneyypixarcelebranel20.%C2%BAaniversariodecarsconsuregreso.16deoctubresoloencines.",
+          "observedAt": "2026-10-18T16:50:13.895582+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -11859,11 +11885,11 @@
     {
       "id": "movie-768a57a71c4bcd25f821",
       "title": "Vengadores Endgame: Encore",
-      "originalTitle": null,
-      "year": null,
+      "originalTitle": "Avengers: Endgame",
+      "year": 2019,
       "runtime": 181,
       "ageRating": null,
-      "director": "Joe Russo, Anthony Russo",
+      "director": "Anthony Russo, Joe Russo",
       "genres": [
         "Aventuras",
         "Fantástico"
@@ -11873,15 +11899,19 @@
       "trailer": "https://www.youtube.com/watch?v=kJeJTYHUtW0",
       "ratings": {
         "imdb": {
-          "value": null,
+          "value": 8.4,
           "scale": 10,
-          "url": "https://www.imdb.com/find/?q=Vengadores+Endgame%3A+Encore&s=tt&ttype=ft",
-          "searchUrl": "https://www.imdb.com/find/?q=Vengadores+Endgame%3A+Encore&s=tt&ttype=ft",
-          "observedAt": "2026-10-18T07:26:45Z",
-          "status": "identity_unconfirmed",
-          "source": "imdb",
-          "attribution": "IMDb",
-          "metric": "user_rating"
+          "max": 10,
+          "metric": "user_rating",
+          "status": "verified",
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+          "attribution": "IMDb non-commercial datasets",
+          "observedAt": "2026-10-18T07:22:21Z",
+          "searchUrl": "https://www.imdb.com/find/?q=Avengers%3A+Endgame&s=tt",
+          "imdbId": "tt4154796",
+          "titleUrl": "https://www.imdb.com/title/tt4154796/",
+          "votes": 1500745
         },
         "filmaffinity": {
           "value": null,
@@ -11895,22 +11925,22 @@
           "metric": "user_rating"
         },
         "rottenTomatoes": {
-          "value": null,
+          "value": 94.0,
           "scale": 100,
-          "url": "https://www.rottentomatoes.com/search?search=Vengadores+Endgame%3A+Encore",
+          "url": "https://www.rottentomatoes.com/m/avengers_endgame",
           "searchUrl": "https://www.rottentomatoes.com/search?search=Vengadores+Endgame%3A+Encore",
-          "observedAt": "2026-10-18T07:26:45Z",
-          "status": "identity_unconfirmed",
+          "observedAt": "2026-10-18T15:32:18.797994+00:00",
+          "status": "verified",
           "source": "rottenTomatoes",
           "attribution": "Rotten Tomatoes",
           "metric": "tomatometer",
           "audience": {
-            "value": null,
+            "value": 96.0,
             "scale": 100,
-            "url": "https://www.rottentomatoes.com/search?search=Vengadores+Endgame%3A+Encore",
+            "url": "https://www.rottentomatoes.com/m/avengers_endgame",
             "searchUrl": "https://www.rottentomatoes.com/search?search=Vengadores+Endgame%3A+Encore",
-            "observedAt": "2026-10-18T07:26:45Z",
-            "status": "identity_unconfirmed",
+            "observedAt": "2026-10-18T15:32:18.797994+00:00",
+            "status": "verified",
             "source": "rottenTomatoes",
             "attribution": "Rotten Tomatoes",
             "metric": "popcornmeter"
@@ -11921,7 +11951,10 @@
       "sources": [
         "https://www.publicine.net/pelicula/16350/vengadores-endgame-encore"
       ],
-      "aliases": [],
+      "imdbId": "tt4154796",
+      "aliases": [
+        "Avengers: Endgame"
+      ],
       "mergedIds": [],
       "metadataSources": {
         "runtime": {
@@ -11929,6 +11962,24 @@
           "url": "https://www.publicine.net/cartelera-cine/barcelona/yelmo-westfield-la-maquinista",
           "observedAt": "2026-10-18T15:02:04.105716+00:00",
           "status": "verified"
+        },
+        "year": {
+          "source": "reviewed_official_sources_and_imdb_dataset",
+          "url": "https://movies.disney.com/avengers-endgame/",
+          "observedAt": "2026-10-18T16:50:18.165380+00:00",
+          "identityStatus": "verified"
+        },
+        "director": {
+          "source": "reviewed_official_sources_and_imdb_dataset",
+          "url": "https://movies.disney.com/avengers-endgame/",
+          "observedAt": "2026-10-18T16:50:18.165380+00:00",
+          "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "reviewed_official_sources_and_imdb_dataset",
+          "url": "https://movies.disney.com/avengers-endgame/",
+          "observedAt": "2026-10-18T16:50:18.165380+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -12339,22 +12390,26 @@
       "originalTitle": "Wrangler",
       "year": 2025,
       "runtime": 107,
-      "director": "Seo Eun-sun",
+      "director": "Eun-Sun Seo",
       "genres": [],
       "synopsis": "L'organitzada vida de Ha-young es desestabilitza quan la seva germana, empresonada per assassinat, torna inesperadament a casa. Pel·lícula que forma part de la Secció Oficial de l'Asian Film Festival Barcelona (AFFBCN), un festival especialitzat en cinema asiàtic d'autor.",
       "poster": null,
       "trailer": null,
       "ratings": {
         "imdb": {
-          "value": null,
+          "value": 5.2,
           "scale": 10,
-          "url": "https://www.imdb.com/find/?q=Wrangler&s=tt&ttype=ft",
-          "searchUrl": "https://www.imdb.com/find/?q=Wrangler&s=tt&ttype=ft",
-          "observedAt": "2026-10-18T15:27:24Z",
-          "status": "blocked",
-          "source": "imdb",
-          "attribution": "IMDb",
-          "metric": "user_rating"
+          "max": 10,
+          "metric": "user_rating",
+          "status": "verified",
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+          "attribution": "IMDb non-commercial datasets",
+          "observedAt": "2026-10-18T07:22:21Z",
+          "searchUrl": "https://www.imdb.com/find/?q=Wrangler&s=tt",
+          "imdbId": "tt38448241",
+          "titleUrl": "https://www.imdb.com/title/tt38448241/",
+          "votes": 31
         },
         "filmaffinity": {
           "value": null,
@@ -12394,8 +12449,10 @@
       "sources": [
         "https://zumzeigcine.coop/cinema/films/wrangler/"
       ],
-      "imdbId": null,
-      "aliases": [],
+      "imdbId": "tt38448241",
+      "aliases": [
+        "Wrangler"
+      ],
       "mergedIds": [],
       "metadataSources": {
         "runtime": {
@@ -12403,6 +12460,12 @@
           "url": "https://zumzeigcine.coop/cinema/films/wrangler/",
           "observedAt": "2026-10-18T15:01:49.028137+00:00",
           "status": "verified"
+        },
+        "director": {
+          "source": "reviewed_official_sources_and_imdb_dataset",
+          "url": "https://www.koreanfilm.or.kr/eng/films/index/peopleView2.jsp?peopleCd=20174045",
+          "observedAt": "2026-10-18T16:50:30.196923+00:00",
+          "identityStatus": "verified"
         }
       }
     },
@@ -12652,25 +12715,29 @@
     {
       "id": "movie-b06694d3688c777fe5c8",
       "title": "Shanghai Daughter",
-      "originalTitle": null,
+      "originalTitle": "Shanghai Daughter",
       "year": 2026,
       "runtime": 94,
-      "director": "Agnis Shen Zhongmin",
+      "director": "Zhongmin Shen",
       "genres": [],
       "synopsis": "A la recerca del passat del seu pare, una dona viatja a una remota plantació. Es trobarà amb diferents persones per intentar localitzar respostes sobre la Revolució Cultural. Pel·lícula que forma part de la Secció Oficial de l'Asian Film Festival Barcelona (AFFBCN), un festival especialitzat en cinema asiàtic d'autor.",
       "poster": null,
       "trailer": null,
       "ratings": {
         "imdb": {
-          "value": null,
+          "value": 5.9,
           "scale": 10,
-          "url": "https://www.imdb.com/find/?q=Shanghai+Daughter&s=tt&ttype=ft",
-          "searchUrl": "https://www.imdb.com/find/?q=Shanghai+Daughter&s=tt&ttype=ft",
-          "observedAt": "2026-10-18T15:28:54Z",
-          "status": "blocked",
-          "source": "imdb",
-          "attribution": "IMDb",
-          "metric": "user_rating"
+          "max": 10,
+          "metric": "user_rating",
+          "status": "verified",
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+          "attribution": "IMDb non-commercial datasets",
+          "observedAt": "2026-10-18T07:22:21Z",
+          "searchUrl": "https://www.imdb.com/find/?q=Shanghai+Daughter&s=tt",
+          "imdbId": "tt39368543",
+          "titleUrl": "https://www.imdb.com/title/tt39368543/",
+          "votes": 16
         },
         "filmaffinity": {
           "value": null,
@@ -12710,8 +12777,10 @@
       "sources": [
         "https://zumzeigcine.coop/cinema/films/shanghai-daughter/"
       ],
-      "imdbId": null,
-      "aliases": [],
+      "imdbId": "tt39368543",
+      "aliases": [
+        "Shanghai Daughter"
+      ],
       "mergedIds": [],
       "metadataSources": {
         "runtime": {
@@ -12719,6 +12788,18 @@
           "url": "https://zumzeigcine.coop/cinema/films/shanghai-daughter/",
           "observedAt": "2026-10-18T15:02:01.237155+00:00",
           "status": "verified"
+        },
+        "director": {
+          "source": "reviewed_official_sources_and_imdb_dataset",
+          "url": "https://www.midnightblurfilms.com/shanghai-daughter",
+          "observedAt": "2026-10-18T16:50:20.326267+00:00",
+          "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "reviewed_official_sources_and_imdb_dataset",
+          "url": "https://www.midnightblurfilms.com/shanghai-daughter",
+          "observedAt": "2026-10-18T16:50:20.326267+00:00",
+          "identityStatus": "verified"
         }
       }
     },
