@@ -13531,25 +13531,29 @@
     {
       "id": "movie-33862676cee77c9c610e",
       "title": "Mahmoud Darwich: et la terre, comme la langue...",
-      "originalTitle": null,
+      "originalTitle": "Mahmoud Darwich et la terre comme la langue",
       "year": 1998,
       "runtime": 59,
-      "director": "Simone Bitton",
+      "director": "Simone Bitton, Elias Sanbar",
       "genres": [],
       "synopsis": "El poeta palestí Mahmoud Darwich és un dels poetes més grans del segle XX, traduït a desenes de llengües i recitat de memòria per multituds. Entre entrevistes i fragments de recitals captats en directe, el film s’endinsa en la cadència inimitable dels seus versos i construeix el retrat d’un home que va fer de la paraula la seva única pàtria possible.",
       "poster": null,
       "trailer": null,
       "ratings": {
         "imdb": {
-          "value": null,
+          "value": 7.6,
           "scale": 10,
-          "url": "https://www.imdb.com/find/?q=Mahmoud+Darwich%3A+et+la+terre%2C+comme+la+langue...&s=tt&ttype=ft",
-          "searchUrl": "https://www.imdb.com/find/?q=Mahmoud+Darwich%3A+et+la+terre%2C+comme+la+langue...&s=tt&ttype=ft",
-          "observedAt": "2026-10-18T15:26:32Z",
-          "status": "blocked",
-          "source": "imdb",
-          "attribution": "IMDb",
-          "metric": "user_rating"
+          "max": 10,
+          "metric": "user_rating",
+          "status": "verified",
+          "source": "imdb_dataset",
+          "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+          "attribution": "IMDb non-commercial datasets",
+          "observedAt": "2026-10-18T07:22:21Z",
+          "searchUrl": "https://www.imdb.com/find/?q=Mahmoud+Darwich+et+la+terre+comme+la+langue&s=tt",
+          "imdbId": "tt0163730",
+          "titleUrl": "https://www.imdb.com/title/tt0163730/",
+          "votes": 11
         },
         "filmaffinity": {
           "value": null,
@@ -13589,8 +13593,10 @@
       "sources": [
         "https://www.filmoteca.cat/web/ca/film/mahmoud-darwich-et-la-terre-comme-la-langue"
       ],
-      "imdbId": null,
-      "aliases": [],
+      "imdbId": "tt0163730",
+      "aliases": [
+        "Mahmoud Darwich et la terre comme la langue"
+      ],
       "mergedIds": [],
       "metadataSources": {
         "runtime": {
@@ -13598,6 +13604,18 @@
           "url": "https://www.filmoteca.cat/web/ca/film/mahmoud-darwich-et-la-terre-comme-la-langue",
           "observedAt": "2026-10-18T15:02:47.452905+00:00",
           "status": "verified"
+        },
+        "director": {
+          "source": "reviewed_official_sources_and_imdb_dataset",
+          "url": "https://www.cinemadureel.org/wp-content/uploads/2026/03/programme-cinema-du-reel-web-complet.pdf",
+          "observedAt": "2026-10-18T17:37:04.090286+00:00",
+          "identityStatus": "verified"
+        },
+        "originalTitle": {
+          "source": "reviewed_official_sources_and_imdb_dataset",
+          "url": "https://www.cinemadureel.org/wp-content/uploads/2026/03/programme-cinema-du-reel-web-complet.pdf",
+          "observedAt": "2026-10-18T17:37:04.090286+00:00",
+          "identityStatus": "verified"
         }
       }
     },
