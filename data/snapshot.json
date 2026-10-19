@@ -657,7 +657,7 @@
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film766877.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Dune%3A+Parte+Tres&stype=title",
-          "observedAt": "2026-10-18T15:31:40Z",
+          "observedAt": "2026-10-19T07:01:48Z",
           "status": "blocked",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
@@ -672,7 +672,7 @@
           "source": "imdb_dataset",
           "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
           "attribution": "IMDb non-commercial datasets",
-          "observedAt": "2026-10-18T07:22:21Z",
+          "observedAt": "2026-10-19T07:00:48Z",
           "searchUrl": "https://www.imdb.com/find/?q=Dune%3A+Part+Three&s=tt",
           "imdbId": "tt31378509",
           "titleUrl": "https://www.imdb.com/title/tt31378509/"
@@ -1226,7 +1226,7 @@
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film728190.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=In+the+Name+of+Love%3A+A+Texas+Tragedy&stype=title",
-          "observedAt": "2026-10-18T15:31:44Z",
+          "observedAt": "2026-10-19T07:03:30Z",
           "status": "blocked",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
@@ -2694,7 +2694,7 @@
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film860554.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=MISS+JOBSON&stype=title",
-          "observedAt": "2026-10-18T15:24:45Z",
+          "observedAt": "2026-10-19T07:03:32Z",
           "status": "blocked",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
@@ -2932,25 +2932,27 @@
           }
         },
         "rottenTomatoes": {
-          "value": null,
+          "value": 95.0,
           "scale": 100,
           "url": "https://www.rottentomatoes.com/m/her",
           "searchUrl": "https://www.rottentomatoes.com/search?search=Her",
-          "observedAt": "2026-10-18T15:27:40Z",
-          "status": "identity_unconfirmed",
+          "observedAt": "2026-10-18T15:27:40.351503+00:00",
+          "status": "verified",
           "source": "rottenTomatoes",
           "attribution": "Rotten Tomatoes",
           "metric": "tomatometer",
+          "stale": true,
           "audience": {
-            "value": null,
+            "value": 82.0,
             "scale": 100,
             "url": "https://www.rottentomatoes.com/m/her",
             "searchUrl": "https://www.rottentomatoes.com/search?search=Her",
-            "observedAt": "2026-10-18T15:27:40Z",
-            "status": "identity_unconfirmed",
+            "observedAt": "2026-10-18T15:27:40.351503+00:00",
+            "status": "verified",
             "source": "rottenTomatoes",
             "attribution": "Rotten Tomatoes",
-            "metric": "popcornmeter"
+            "metric": "popcornmeter",
+            "stale": true
           }
         }
       },
@@ -3176,25 +3178,27 @@
           }
         },
         "rottenTomatoes": {
-          "value": null,
+          "value": 71.0,
           "scale": 100,
           "url": "https://www.rottentomatoes.com/m/the_commune_2017",
           "searchUrl": "https://www.rottentomatoes.com/search?search=Kollektivet",
-          "observedAt": "2026-10-18T15:31:18Z",
-          "status": "identity_unconfirmed",
+          "observedAt": "2026-10-18T15:31:17.953666+00:00",
+          "status": "verified",
           "source": "rottenTomatoes",
           "attribution": "Rotten Tomatoes",
           "metric": "tomatometer",
+          "stale": true,
           "audience": {
-            "value": null,
+            "value": 60.0,
             "scale": 100,
             "url": "https://www.rottentomatoes.com/m/the_commune_2017",
             "searchUrl": "https://www.rottentomatoes.com/search?search=Kollektivet",
-            "observedAt": "2026-10-18T15:31:18Z",
-            "status": "identity_unconfirmed",
+            "observedAt": "2026-10-18T15:31:17.953666+00:00",
+            "status": "verified",
             "source": "rottenTomatoes",
             "attribution": "Rotten Tomatoes",
-            "metric": "popcornmeter"
+            "metric": "popcornmeter",
+            "stale": true
           }
         }
       },
@@ -3301,25 +3305,27 @@
           }
         },
         "rottenTomatoes": {
-          "value": null,
+          "value": 94.0,
           "scale": 100,
           "url": "https://www.rottentomatoes.com/m/snowpiercer",
           "searchUrl": "https://www.rottentomatoes.com/search?search=Snowpiercer",
-          "observedAt": "2026-10-18T15:31:30Z",
-          "status": "identity_unconfirmed",
+          "observedAt": "2026-10-18T15:31:29.680920+00:00",
+          "status": "verified",
           "source": "rottenTomatoes",
           "attribution": "Rotten Tomatoes",
           "metric": "tomatometer",
+          "stale": true,
           "audience": {
-            "value": null,
+            "value": 72.0,
             "scale": 100,
             "url": "https://www.rottentomatoes.com/m/snowpiercer",
             "searchUrl": "https://www.rottentomatoes.com/search?search=Snowpiercer",
-            "observedAt": "2026-10-18T15:31:30Z",
-            "status": "identity_unconfirmed",
+            "observedAt": "2026-10-18T15:31:29.680920+00:00",
+            "status": "verified",
             "source": "rottenTomatoes",
             "attribution": "Rotten Tomatoes",
-            "metric": "popcornmeter"
+            "metric": "popcornmeter",
+            "stale": true
           }
         }
       },
@@ -3513,12 +3519,12 @@
           "votes": 8
         },
         "filmaffinity": {
-          "value": null,
+          "value": 5.9,
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film903140.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=ESCAPE+ROOM+2&stype=title",
-          "observedAt": "2026-10-18T15:24:09Z",
-          "status": "blocked",
+          "observedAt": "2026-10-19T07:01:58.808980+00:00",
+          "status": "verified",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
           "metric": "user_rating"
@@ -3630,12 +3636,12 @@
           "votes": 1260
         },
         "filmaffinity": {
-          "value": null,
+          "value": 6.4,
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film253341.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Doraemon%3A+Aventuras+en+el+mundo+del+arte&stype=title",
-          "observedAt": "2026-10-18T15:32:03Z",
-          "status": "blocked",
+          "observedAt": "2026-10-19T07:03:34.095251+00:00",
+          "status": "verified",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
           "metric": "user_rating"
@@ -3738,7 +3744,7 @@
           "source": "imdb_dataset",
           "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
           "attribution": "IMDb non-commercial datasets",
-          "observedAt": "2026-10-18T07:22:21Z",
+          "observedAt": "2026-10-19T07:00:48Z",
           "searchUrl": "https://www.imdb.com/find/?q=Suportant+el+parad%C3%ADs&s=tt",
           "imdbId": "tt43672890",
           "titleUrl": "https://www.imdb.com/title/tt43672890/"
@@ -3748,7 +3754,7 @@
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film973613.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Suportant+el+parad%C3%ADs&stype=title",
-          "observedAt": "2026-10-18T15:29:51Z",
+          "observedAt": "2026-10-19T07:01:33Z",
           "status": "blocked",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
@@ -4063,26 +4069,27 @@
       "trailer": "https://www.youtube.com/watch?v=irSBaadK2qM",
       "ratings": {
         "imdb": {
-          "value": null,
+          "value": 6.4,
           "scale": 10,
           "max": 10,
           "metric": "user_rating",
-          "status": "unrated",
+          "status": "verified",
           "source": "imdb_dataset",
           "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
           "attribution": "IMDb non-commercial datasets",
-          "observedAt": "2026-10-18T07:22:21Z",
+          "observedAt": "2026-10-19T07:00:48Z",
           "searchUrl": "https://www.imdb.com/find/?q=La+maleta&s=tt",
           "imdbId": "tt37202171",
-          "titleUrl": "https://www.imdb.com/title/tt37202171/"
+          "titleUrl": "https://www.imdb.com/title/tt37202171/",
+          "votes": 7
         },
         "filmaffinity": {
-          "value": null,
+          "value": 5.1,
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film331187.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=La+maleta&stype=title",
-          "observedAt": "2026-10-18T15:23:55Z",
-          "status": "blocked",
+          "observedAt": "2026-10-19T07:01:54.743907+00:00",
+          "status": "verified",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
           "metric": "user_rating"
@@ -4322,12 +4329,12 @@
           "votes": 14186
         },
         "filmaffinity": {
-          "value": null,
+          "value": 5.1,
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film711879.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Pr%C3%A1cticamente+magia+2&stype=title",
-          "observedAt": "2026-10-18T15:25:15Z",
-          "status": "blocked",
+          "observedAt": "2026-10-19T07:02:02.833892+00:00",
+          "status": "verified",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
           "metric": "user_rating"
@@ -4809,12 +4816,12 @@
       "trailer": "https://www.youtube.com/watch?v=cNbAPdz04UE",
       "ratings": {
         "filmaffinity": {
-          "value": null,
+          "value": 6.5,
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film279550.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=El+precio+de+la+red&stype=title",
-          "observedAt": "2026-10-18T15:24:18Z",
-          "status": "blocked",
+          "observedAt": "2026-10-19T07:01:56.745767+00:00",
+          "status": "verified",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
           "metric": "user_rating"
@@ -5184,12 +5191,12 @@
           "votes": 427
         },
         "filmaffinity": {
-          "value": null,
+          "value": 5.4,
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film959467.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Mis+querid%C3%ADsimos+padres&stype=title",
-          "observedAt": "2026-10-18T15:24:33Z",
-          "status": "blocked",
+          "observedAt": "2026-10-19T07:03:36.055627+00:00",
+          "status": "verified",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
           "metric": "user_rating"
@@ -5782,12 +5789,12 @@
       "trailer": "https://www.youtube.com/watch?v=0O9OOVAmq4k",
       "ratings": {
         "filmaffinity": {
-          "value": null,
+          "value": 6.2,
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film172492.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=La+vida+de+una+mujer&stype=title",
-          "observedAt": "2026-10-18T15:24:19Z",
-          "status": "blocked",
+          "observedAt": "2026-10-19T07:02:00.769186+00:00",
+          "status": "verified",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
           "metric": "user_rating"
@@ -6154,12 +6161,12 @@
           "votes": 2382
         },
         "filmaffinity": {
-          "value": null,
+          "value": 5.9,
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film249049.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Whalefall&stype=title",
-          "observedAt": "2026-10-18T15:23:55Z",
-          "status": "blocked",
+          "observedAt": "2026-10-19T07:01:52.760913+00:00",
+          "status": "verified",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
           "metric": "user_rating"
@@ -6275,12 +6282,12 @@
           "votes": 1607
         },
         "filmaffinity": {
-          "value": null,
+          "value": 5.5,
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film392961.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Mascotas+al+rescate&stype=title",
-          "observedAt": "2026-10-18T15:26:20Z",
-          "status": "blocked",
+          "observedAt": "2026-10-19T07:02:13.901537+00:00",
+          "status": "verified",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
           "metric": "user_rating"
@@ -6649,12 +6656,12 @@
           "votes": 9925
         },
         "filmaffinity": {
-          "value": null,
+          "value": 4.7,
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film301992.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=La+otra+madre&stype=title",
-          "observedAt": "2026-10-18T15:24:18Z",
-          "status": "blocked",
+          "observedAt": "2026-10-19T07:01:50.701964+00:00",
+          "status": "verified",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
           "metric": "user_rating"
@@ -7002,7 +7009,7 @@
           "source": "imdb_dataset",
           "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
           "attribution": "IMDb non-commercial datasets",
-          "observedAt": "2026-10-18T07:22:21Z",
+          "observedAt": "2026-10-19T07:00:48Z",
           "searchUrl": "https://www.imdb.com/find/?q=Clayface&s=tt",
           "imdbId": "tt34890576",
           "titleUrl": "https://www.imdb.com/title/tt34890576/"
@@ -7012,7 +7019,7 @@
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film514364.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Clayface&stype=title",
-          "observedAt": "2026-10-18T15:26:48Z",
+          "observedAt": "2026-10-19T07:00:57Z",
           "status": "blocked",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
@@ -7123,12 +7130,12 @@
           "votes": 26
         },
         "filmaffinity": {
-          "value": null,
+          "value": 6.4,
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film369667.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Las+Ciegas+Hormigas&stype=title",
-          "observedAt": "2026-10-18T15:25:31Z",
-          "status": "blocked",
+          "observedAt": "2026-10-19T07:02:05.073264+00:00",
+          "status": "verified",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
           "metric": "user_rating"
@@ -7236,36 +7243,38 @@
           "votes": 3893
         },
         "filmaffinity": {
-          "value": null,
+          "value": 6.6,
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film490840.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Blue+Heron&stype=title",
-          "observedAt": "2026-10-18T15:27:09Z",
-          "status": "blocked",
+          "observedAt": "2026-10-19T07:02:34.737679+00:00",
+          "status": "verified",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
           "metric": "user_rating"
         },
         "rottenTomatoes": {
-          "value": null,
+          "value": 97.0,
           "scale": 100,
           "url": "https://www.rottentomatoes.com/m/blue_heron",
           "searchUrl": "https://www.rottentomatoes.com/search?search=Blue+Heron",
-          "observedAt": "2026-10-18T15:27:12Z",
-          "status": "identity_unconfirmed",
+          "observedAt": "2026-10-18T15:27:12.039297+00:00",
+          "status": "verified",
           "source": "rottenTomatoes",
           "attribution": "Rotten Tomatoes",
           "metric": "tomatometer",
+          "stale": true,
           "audience": {
-            "value": null,
+            "value": 68.0,
             "scale": 100,
             "url": "https://www.rottentomatoes.com/m/blue_heron",
             "searchUrl": "https://www.rottentomatoes.com/search?search=Blue+Heron",
-            "observedAt": "2026-10-18T15:27:12Z",
-            "status": "identity_unconfirmed",
+            "observedAt": "2026-10-18T15:27:12.039297+00:00",
+            "status": "verified",
             "source": "rottenTomatoes",
             "attribution": "Rotten Tomatoes",
-            "metric": "popcornmeter"
+            "metric": "popcornmeter",
+            "stale": true
           }
         }
       },
@@ -7442,12 +7451,12 @@
           "votes": 62024
         },
         "filmaffinity": {
-          "value": null,
+          "value": 6.9,
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film561806.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=ASALTO+A+LA+COMISARIA+DEL+DISTRITO+13&stype=title",
-          "observedAt": "2026-10-18T15:28:45Z",
-          "status": "blocked",
+          "observedAt": "2026-10-19T07:03:03.501086+00:00",
+          "status": "verified",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
           "metric": "user_rating"
@@ -7691,25 +7700,27 @@
           }
         },
         "rottenTomatoes": {
-          "value": null,
+          "value": 95.0,
           "scale": 100,
           "url": "https://www.rottentomatoes.com/m/call_me_by_your_name",
           "searchUrl": "https://www.rottentomatoes.com/search?search=Call+Me+by+Your+Name",
-          "observedAt": "2026-10-18T15:26:48Z",
-          "status": "identity_unconfirmed",
+          "observedAt": "2026-10-18T15:26:47.943931+00:00",
+          "status": "verified",
           "source": "rottenTomatoes",
           "attribution": "Rotten Tomatoes",
           "metric": "tomatometer",
+          "stale": true,
           "audience": {
-            "value": null,
+            "value": 86.0,
             "scale": 100,
             "url": "https://www.rottentomatoes.com/m/call_me_by_your_name",
             "searchUrl": "https://www.rottentomatoes.com/search?search=Call+Me+by+Your+Name",
-            "observedAt": "2026-10-18T15:26:48Z",
-            "status": "identity_unconfirmed",
+            "observedAt": "2026-10-18T15:26:47.943931+00:00",
+            "status": "verified",
             "source": "rottenTomatoes",
             "attribution": "Rotten Tomatoes",
-            "metric": "popcornmeter"
+            "metric": "popcornmeter",
+            "stale": true
           }
         }
       },
@@ -7797,12 +7808,12 @@
           "votes": 55763
         },
         "filmaffinity": {
-          "value": null,
+          "value": 6.3,
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film809620.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=CHITTY+CHITTY+BANG+BANG&stype=title",
-          "observedAt": "2026-10-18T15:30:59Z",
-          "status": "blocked",
+          "observedAt": "2026-10-19T07:03:23.772187+00:00",
+          "status": "verified",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
           "metric": "user_rating"
@@ -8267,25 +8278,27 @@
           }
         },
         "rottenTomatoes": {
-          "value": null,
+          "value": 88.0,
           "scale": 100,
           "url": "https://www.rottentomatoes.com/m/the_bear_1989",
           "searchUrl": "https://www.rottentomatoes.com/search?search=L%27ours",
-          "observedAt": "2026-10-18T15:27:15Z",
-          "status": "identity_unconfirmed",
+          "observedAt": "2026-10-18T15:27:15.208292+00:00",
+          "status": "verified",
           "source": "rottenTomatoes",
           "attribution": "Rotten Tomatoes",
           "metric": "tomatometer",
+          "stale": true,
           "audience": {
-            "value": null,
+            "value": 82.0,
             "scale": 100,
             "url": "https://www.rottentomatoes.com/m/the_bear_1989",
             "searchUrl": "https://www.rottentomatoes.com/search?search=L%27ours",
-            "observedAt": "2026-10-18T15:27:15Z",
-            "status": "identity_unconfirmed",
+            "observedAt": "2026-10-18T15:27:15.208292+00:00",
+            "status": "verified",
             "source": "rottenTomatoes",
             "attribution": "Rotten Tomatoes",
-            "metric": "popcornmeter"
+            "metric": "popcornmeter",
+            "stale": true
           }
         }
       },
@@ -8487,7 +8500,7 @@
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film624236.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=GODZILLA+MINUS+ZERO&stype=title",
-          "observedAt": "2026-10-18T15:30:58Z",
+          "observedAt": "2026-10-19T07:03:21Z",
           "status": "blocked",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
@@ -8587,12 +8600,12 @@
           "votes": 169979
         },
         "filmaffinity": {
-          "value": null,
+          "value": 6.4,
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film826914.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=GOLPE+EN+LA+PEQUE%C3%91A+CHINA&stype=title",
-          "observedAt": "2026-10-18T15:27:40Z",
-          "status": "blocked",
+          "observedAt": "2026-10-19T07:02:54.248607+00:00",
+          "status": "verified",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
           "metric": "user_rating"
@@ -8808,12 +8821,12 @@
           "votes": 17589
         },
         "filmaffinity": {
-          "value": null,
+          "value": 6.3,
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film761467.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=HOPE&stype=title",
-          "observedAt": "2026-10-18T15:30:21Z",
-          "status": "blocked",
+          "observedAt": "2026-10-19T07:03:11.554678+00:00",
+          "status": "verified",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
           "metric": "user_rating"
@@ -9288,12 +9301,12 @@
           "votes": 987736
         },
         "filmaffinity": {
-          "value": null,
+          "value": 7.8,
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film747961.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=R%C3%89QUIEM+POR+UN+SUE%C3%91O&stype=title",
-          "observedAt": "2026-10-18T15:27:40Z",
-          "status": "blocked",
+          "observedAt": "2026-10-19T07:02:56.326619+00:00",
+          "status": "verified",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
           "metric": "user_rating"
@@ -9516,36 +9529,38 @@
           "votes": 1258880
         },
         "filmaffinity": {
-          "value": null,
+          "value": 7.5,
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film662169.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=V+DE+VENDETTA&stype=title",
-          "observedAt": "2026-10-18T15:30:47Z",
-          "status": "blocked",
+          "observedAt": "2026-10-19T07:03:19.917684+00:00",
+          "status": "verified",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
           "metric": "user_rating"
         },
         "rottenTomatoes": {
-          "value": null,
+          "value": 73.0,
           "scale": 100,
           "url": "https://www.rottentomatoes.com/m/v_for_vendetta",
           "searchUrl": "https://www.rottentomatoes.com/search?search=V+for+Vendetta",
-          "observedAt": "2026-10-18T15:30:50Z",
-          "status": "identity_unconfirmed",
+          "observedAt": "2026-10-18T15:30:49.989410+00:00",
+          "status": "verified",
           "source": "rottenTomatoes",
           "attribution": "Rotten Tomatoes",
           "metric": "tomatometer",
+          "stale": true,
           "audience": {
-            "value": null,
+            "value": 90.0,
             "scale": 100,
             "url": "https://www.rottentomatoes.com/m/v_for_vendetta",
             "searchUrl": "https://www.rottentomatoes.com/search?search=V+for+Vendetta",
-            "observedAt": "2026-10-18T15:30:50Z",
-            "status": "identity_unconfirmed",
+            "observedAt": "2026-10-18T15:30:49.989410+00:00",
+            "status": "verified",
             "source": "rottenTomatoes",
             "attribution": "Rotten Tomatoes",
-            "metric": "popcornmeter"
+            "metric": "popcornmeter",
+            "stale": true
           }
         }
       },
@@ -9851,25 +9866,27 @@
           }
         },
         "rottenTomatoes": {
-          "value": null,
+          "value": 91.0,
           "scale": 100,
           "url": "https://www.rottentomatoes.com/m/there_will_be_blood",
           "searchUrl": "https://www.rottentomatoes.com/search?search=There+Will+Be+Blood",
-          "observedAt": "2026-10-18T15:27:31Z",
-          "status": "identity_unconfirmed",
+          "observedAt": "2026-10-18T15:27:31.067634+00:00",
+          "status": "verified",
           "source": "rottenTomatoes",
           "attribution": "Rotten Tomatoes",
           "metric": "tomatometer",
+          "stale": true,
           "audience": {
-            "value": null,
+            "value": 86.0,
             "scale": 100,
             "url": "https://www.rottentomatoes.com/m/there_will_be_blood",
             "searchUrl": "https://www.rottentomatoes.com/search?search=There+Will+Be+Blood",
-            "observedAt": "2026-10-18T15:27:31Z",
-            "status": "identity_unconfirmed",
+            "observedAt": "2026-10-18T15:27:31.067634+00:00",
+            "status": "verified",
             "source": "rottenTomatoes",
             "attribution": "Rotten Tomatoes",
-            "metric": "popcornmeter"
+            "metric": "popcornmeter",
+            "stale": true
           }
         }
       },
@@ -10272,7 +10289,7 @@
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film121356.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Les+mille+et+un+jours+du+Hajj+Edmond&stype=title",
-          "observedAt": "2026-10-18T15:24:57Z",
+          "observedAt": "2026-10-19T07:03:38Z",
           "status": "blocked",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
@@ -10480,7 +10497,7 @@
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film239609.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Rachel&stype=title",
-          "observedAt": "2026-10-18T15:27:07Z",
+          "observedAt": "2026-10-19T07:02:32Z",
           "status": "blocked",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
@@ -10701,25 +10718,27 @@
           }
         },
         "rottenTomatoes": {
-          "value": null,
+          "value": 73.0,
           "scale": 100,
           "url": "https://www.rottentomatoes.com/m/inherent_vice",
           "searchUrl": "https://www.rottentomatoes.com/search?search=Inherent+Vice",
-          "observedAt": "2026-10-18T15:26:31Z",
-          "status": "identity_unconfirmed",
+          "observedAt": "2026-10-18T15:26:31.448681+00:00",
+          "status": "verified",
           "source": "rottenTomatoes",
           "attribution": "Rotten Tomatoes",
           "metric": "tomatometer",
+          "stale": true,
           "audience": {
-            "value": null,
+            "value": 53.0,
             "scale": 100,
             "url": "https://www.rottentomatoes.com/m/inherent_vice",
             "searchUrl": "https://www.rottentomatoes.com/search?search=Inherent+Vice",
-            "observedAt": "2026-10-18T15:26:31Z",
-            "status": "identity_unconfirmed",
+            "observedAt": "2026-10-18T15:26:31.448681+00:00",
+            "status": "verified",
             "source": "rottenTomatoes",
             "attribution": "Rotten Tomatoes",
-            "metric": "popcornmeter"
+            "metric": "popcornmeter",
+            "stale": true
           }
         }
       },
@@ -11230,25 +11249,27 @@
           }
         },
         "rottenTomatoes": {
-          "value": null,
+          "value": 91.0,
           "scale": 100,
           "url": "https://www.rottentomatoes.com/m/phantom_thread",
           "searchUrl": "https://www.rottentomatoes.com/search?search=Phantom+Thread",
-          "observedAt": "2026-10-18T15:30:25Z",
-          "status": "identity_unconfirmed",
+          "observedAt": "2026-10-18T15:30:25.306417+00:00",
+          "status": "verified",
           "source": "rottenTomatoes",
           "attribution": "Rotten Tomatoes",
           "metric": "tomatometer",
+          "stale": true,
           "audience": {
-            "value": null,
+            "value": 71.0,
             "scale": 100,
             "url": "https://www.rottentomatoes.com/m/phantom_thread",
             "searchUrl": "https://www.rottentomatoes.com/search?search=Phantom+Thread",
-            "observedAt": "2026-10-18T15:30:25Z",
-            "status": "identity_unconfirmed",
+            "observedAt": "2026-10-18T15:30:25.306417+00:00",
+            "status": "verified",
             "source": "rottenTomatoes",
             "attribution": "Rotten Tomatoes",
-            "metric": "popcornmeter"
+            "metric": "popcornmeter",
+            "stale": true
           }
         }
       },
@@ -11572,12 +11593,12 @@
           "votes": 242413
         },
         "filmaffinity": {
-          "value": null,
+          "value": 7.7,
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film809035.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Relatos+Salvajes&stype=title",
-          "observedAt": "2026-10-18T15:25:51Z",
-          "status": "blocked",
+          "observedAt": "2026-10-19T07:02:07.371907+00:00",
+          "status": "verified",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
           "metric": "user_rating"
@@ -11675,26 +11696,27 @@
       "trailer": "https://www.filmaffinity.com/es/evideos.php?movie_id=209641",
       "ratings": {
         "imdb": {
-          "value": null,
+          "value": 6.5,
           "scale": 10,
           "max": 10,
           "metric": "user_rating",
-          "status": "unrated",
+          "status": "verified",
           "source": "imdb_dataset",
           "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
           "attribution": "IMDb non-commercial datasets",
-          "observedAt": "2026-10-18T07:22:21Z",
+          "observedAt": "2026-10-19T07:00:48Z",
           "searchUrl": "https://www.imdb.com/find/?q=La+voz+quebrada&s=tt",
           "imdbId": "tt42055039",
-          "titleUrl": "https://www.imdb.com/title/tt42055039/"
+          "titleUrl": "https://www.imdb.com/title/tt42055039/",
+          "votes": 7
         },
         "filmaffinity": {
-          "value": null,
+          "value": 6.8,
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film209641.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=La+voz+quebrada&stype=title",
-          "observedAt": "2026-10-18T15:24:38Z",
-          "status": "blocked",
+          "observedAt": "2026-10-19T07:03:39.951346+00:00",
+          "status": "verified",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
           "metric": "user_rating"
@@ -12068,25 +12090,27 @@
           "stale": true
         },
         "rottenTomatoes": {
-          "value": null,
+          "value": 82.0,
           "scale": 100,
           "url": "https://www.rottentomatoes.com/m/magnolia",
           "searchUrl": "https://www.rottentomatoes.com/search?search=Magnolia",
-          "observedAt": "2026-10-18T15:30:11Z",
-          "status": "identity_unconfirmed",
+          "observedAt": "2026-10-18T15:30:11.393123+00:00",
+          "status": "verified",
           "source": "rottenTomatoes",
           "attribution": "Rotten Tomatoes",
           "metric": "tomatometer",
+          "stale": true,
           "audience": {
-            "value": null,
+            "value": 89.0,
             "scale": 100,
             "url": "https://www.rottentomatoes.com/m/magnolia",
             "searchUrl": "https://www.rottentomatoes.com/search?search=Magnolia",
-            "observedAt": "2026-10-18T15:30:11Z",
-            "status": "identity_unconfirmed",
+            "observedAt": "2026-10-18T15:30:11.393123+00:00",
+            "status": "verified",
             "source": "rottenTomatoes",
             "attribution": "Rotten Tomatoes",
-            "metric": "popcornmeter"
+            "metric": "popcornmeter",
+            "stale": true
           }
         }
       },
@@ -12470,10 +12494,10 @@
         "filmaffinity": {
           "value": null,
           "scale": 10,
-          "url": "https://www.filmaffinity.com/es/search.php?stext=Mumbo+Jumbo&stype=title",
-          "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Mumbo+Jumbo&stype=title",
-          "observedAt": "2026-10-18T15:32:07Z",
-          "status": "blocked",
+          "url": "https://www.filmaffinity.com/es/film631962.html",
+          "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Mumbo+Jumbo+se+hace+enorme&stype=title",
+          "observedAt": "2026-10-19T07:03:42Z",
+          "status": "identity_unconfirmed",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
           "metric": "user_rating"
@@ -12929,8 +12953,8 @@
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film507872.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=La+isla+olvidada&stype=title",
-          "observedAt": "2026-10-18T15:26:00Z",
-          "status": "blocked",
+          "observedAt": "2026-10-19T07:02:09Z",
+          "status": "identity_unconfirmed",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
           "metric": "user_rating"
@@ -13040,12 +13064,12 @@
           "votes": 1500745
         },
         "filmaffinity": {
-          "value": null,
+          "value": 7.3,
           "scale": 10,
-          "url": "https://www.filmaffinity.com/es/search.php?stext=Vengadores%3A+Endgame+%28Reestreno%29&stype=title",
-          "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Vengadores%3A+Endgame+%28Reestreno%29&stype=title",
-          "observedAt": "2026-10-18T15:32:15Z",
-          "status": "blocked",
+          "url": "https://www.filmaffinity.com/es/film993884.html",
+          "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Avengers+Endgame%3A+Encore&stype=title",
+          "observedAt": "2026-10-19T07:03:53.187588+00:00",
+          "status": "verified",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
           "metric": "user_rating"
@@ -13242,7 +13266,7 @@
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/search.php?stext=HOMENATGE+A+CATALUNYA&stype=title",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=HOMENATGE+A+CATALUNYA&stype=title",
-          "observedAt": "2026-10-18T15:25:40Z",
+          "observedAt": "2026-10-19T07:00:50Z",
           "status": "blocked",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
@@ -13326,7 +13350,7 @@
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/search.php?stext=IND%C3%92MITA+LLUM&stype=title",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=IND%C3%92MITA+LLUM&stype=title",
-          "observedAt": "2026-10-18T15:26:24Z",
+          "observedAt": "2026-10-19T07:00:53Z",
           "status": "blocked",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
@@ -13610,12 +13634,12 @@
           "votes": 944
         },
         "filmaffinity": {
-          "value": null,
+          "value": 5.2,
           "scale": 10,
-          "url": "https://www.filmaffinity.com/es/search.php?stext=Boi%C3%BAna%3A+La+leyenda+del+Amazonas&stype=title",
+          "url": "https://www.filmaffinity.com/es/film192931.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Boi%C3%BAna%3A+La+leyenda+del+Amazonas&stype=title",
-          "observedAt": "2026-10-18T15:25:06Z",
-          "status": "blocked",
+          "observedAt": "2026-10-19T07:02:11.845797+00:00",
+          "status": "verified",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
           "metric": "user_rating"
@@ -13729,12 +13753,12 @@
           "votes": 20
         },
         "filmaffinity": {
-          "value": null,
+          "value": 5.6,
           "scale": 10,
-          "url": "https://www.filmaffinity.com/es/search.php?stext=Arriba+Tutto&stype=title",
+          "url": "https://www.filmaffinity.com/es/film232354.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Arriba+Tutto&stype=title",
-          "observedAt": "2026-10-18T15:26:50Z",
-          "status": "blocked",
+          "observedAt": "2026-10-19T07:02:26.583633+00:00",
+          "status": "verified",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
           "metric": "user_rating"
@@ -14268,6 +14292,39 @@
               "imdbId": "tt39109035",
               "titleUrl": "https://www.imdb.com/title/tt39109035/",
               "votes": 6
+            },
+            "filmaffinity": {
+              "value": null,
+              "scale": 10,
+              "url": "https://www.filmaffinity.com/es/film699709.html",
+              "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Le+chant+des+orages&stype=title",
+              "observedAt": "2026-10-19T07:02:37Z",
+              "status": "blocked",
+              "source": "filmaffinity",
+              "attribution": "FilmAffinity",
+              "metric": "user_rating"
+            },
+            "rottenTomatoes": {
+              "value": null,
+              "scale": 100,
+              "url": "https://www.rottentomatoes.com/search?search=Le+chant+des+orages",
+              "searchUrl": "https://www.rottentomatoes.com/search?search=Le+chant+des+orages",
+              "observedAt": "2026-10-19T07:04:23Z",
+              "status": "not_found",
+              "source": "rottenTomatoes",
+              "attribution": "Rotten Tomatoes",
+              "metric": "tomatometer",
+              "audience": {
+                "value": null,
+                "scale": 100,
+                "url": "https://www.rottentomatoes.com/search?search=Le+chant+des+orages",
+                "searchUrl": "https://www.rottentomatoes.com/search?search=Le+chant+des+orages",
+                "observedAt": "2026-10-19T07:04:23Z",
+                "status": "not_found",
+                "source": "rottenTomatoes",
+                "attribution": "Rotten Tomatoes",
+                "metric": "popcornmeter"
+              }
             }
           }
         },
@@ -14301,6 +14358,39 @@
               "imdbId": "tt34692120",
               "titleUrl": "https://www.imdb.com/title/tt34692120/",
               "votes": 27
+            },
+            "filmaffinity": {
+              "value": null,
+              "scale": 10,
+              "url": "https://www.filmaffinity.com/es/search.php?stext=Black+%26+White&stype=title",
+              "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Black+%26+White&stype=title",
+              "observedAt": "2026-10-19T07:02:39Z",
+              "status": "not_found",
+              "source": "filmaffinity",
+              "attribution": "FilmAffinity",
+              "metric": "user_rating"
+            },
+            "rottenTomatoes": {
+              "value": null,
+              "scale": 100,
+              "url": "https://www.rottentomatoes.com/search?search=Black+%26+White",
+              "searchUrl": "https://www.rottentomatoes.com/search?search=Black+%26+White",
+              "observedAt": "2026-10-19T07:04:25Z",
+              "status": "not_found",
+              "source": "rottenTomatoes",
+              "attribution": "Rotten Tomatoes",
+              "metric": "tomatometer",
+              "audience": {
+                "value": null,
+                "scale": 100,
+                "url": "https://www.rottentomatoes.com/search?search=Black+%26+White",
+                "searchUrl": "https://www.rottentomatoes.com/search?search=Black+%26+White",
+                "observedAt": "2026-10-19T07:04:25Z",
+                "status": "not_found",
+                "source": "rottenTomatoes",
+                "attribution": "Rotten Tomatoes",
+                "metric": "popcornmeter"
+              }
             }
           }
         },
@@ -14317,7 +14407,41 @@
             "url": "https://zumzeigcine.coop/cinema/films/lemilie-i-el-secret-de-les-tempestes/",
             "observedAt": "2026-10-18T15:01:25.911391+00:00"
           },
-          "ratings": {}
+          "ratings": {
+            "filmaffinity": {
+              "value": null,
+              "scale": 10,
+              "url": "https://www.filmaffinity.com/es/film977091.html",
+              "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Monster&stype=title",
+              "observedAt": "2026-10-19T07:01:09Z",
+              "status": "identity_unconfirmed",
+              "source": "filmaffinity",
+              "attribution": "FilmAffinity",
+              "metric": "user_rating"
+            },
+            "rottenTomatoes": {
+              "value": null,
+              "scale": 100,
+              "url": "https://www.rottentomatoes.com/m/monster_2023",
+              "searchUrl": "https://www.rottentomatoes.com/search?search=Monster",
+              "observedAt": "2026-10-19T07:04:00Z",
+              "status": "identity_unconfirmed",
+              "source": "rottenTomatoes",
+              "attribution": "Rotten Tomatoes",
+              "metric": "tomatometer",
+              "audience": {
+                "value": null,
+                "scale": 100,
+                "url": "https://www.rottentomatoes.com/m/monster_2023",
+                "searchUrl": "https://www.rottentomatoes.com/search?search=Monster",
+                "observedAt": "2026-10-19T07:04:00Z",
+                "status": "identity_unconfirmed",
+                "source": "rottenTomatoes",
+                "attribution": "Rotten Tomatoes",
+                "metric": "popcornmeter"
+              }
+            }
+          }
         },
         {
           "id": "work-3d0b2ff3d61e0d2d41ff",
@@ -14332,7 +14456,41 @@
             "url": "https://zumzeigcine.coop/cinema/films/lemilie-i-el-secret-de-les-tempestes/",
             "observedAt": "2026-10-18T15:01:25.911391+00:00"
           },
-          "ratings": {}
+          "ratings": {
+            "filmaffinity": {
+              "value": null,
+              "scale": 10,
+              "url": "https://www.filmaffinity.com/es/film147264.html",
+              "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Pete&stype=title",
+              "observedAt": "2026-10-19T07:01:14Z",
+              "status": "identity_unconfirmed",
+              "source": "filmaffinity",
+              "attribution": "FilmAffinity",
+              "metric": "user_rating"
+            },
+            "rottenTomatoes": {
+              "value": null,
+              "scale": 100,
+              "url": "https://www.rottentomatoes.com/search?search=Pete",
+              "searchUrl": "https://www.rottentomatoes.com/search?search=Pete",
+              "observedAt": "2026-10-19T07:04:04Z",
+              "status": "not_found",
+              "source": "rottenTomatoes",
+              "attribution": "Rotten Tomatoes",
+              "metric": "tomatometer",
+              "audience": {
+                "value": null,
+                "scale": 100,
+                "url": "https://www.rottentomatoes.com/search?search=Pete",
+                "searchUrl": "https://www.rottentomatoes.com/search?search=Pete",
+                "observedAt": "2026-10-19T07:04:04Z",
+                "status": "not_found",
+                "source": "rottenTomatoes",
+                "attribution": "Rotten Tomatoes",
+                "metric": "popcornmeter"
+              }
+            }
+          }
         },
         {
           "id": "work-c5f9809d7b20ac6126c4",
@@ -14347,7 +14505,41 @@
             "url": "https://zumzeigcine.coop/cinema/films/lemilie-i-el-secret-de-les-tempestes/",
             "observedAt": "2026-10-18T15:01:25.911391+00:00"
           },
-          "ratings": {}
+          "ratings": {
+            "filmaffinity": {
+              "value": null,
+              "scale": 10,
+              "url": "https://www.filmaffinity.com/es/search.php?stext=Tournesol&stype=title",
+              "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Tournesol&stype=title",
+              "observedAt": "2026-10-19T07:01:16Z",
+              "status": "not_found",
+              "source": "filmaffinity",
+              "attribution": "FilmAffinity",
+              "metric": "user_rating"
+            },
+            "rottenTomatoes": {
+              "value": null,
+              "scale": 100,
+              "url": "https://www.rottentomatoes.com/search?search=Tournesol",
+              "searchUrl": "https://www.rottentomatoes.com/search?search=Tournesol",
+              "observedAt": "2026-10-19T07:04:05Z",
+              "status": "not_found",
+              "source": "rottenTomatoes",
+              "attribution": "Rotten Tomatoes",
+              "metric": "tomatometer",
+              "audience": {
+                "value": null,
+                "scale": 100,
+                "url": "https://www.rottentomatoes.com/search?search=Tournesol",
+                "searchUrl": "https://www.rottentomatoes.com/search?search=Tournesol",
+                "observedAt": "2026-10-19T07:04:05Z",
+                "status": "not_found",
+                "source": "rottenTomatoes",
+                "attribution": "Rotten Tomatoes",
+                "metric": "popcornmeter"
+              }
+            }
+          }
         }
       ]
     },
@@ -15231,6 +15423,39 @@
               "imdbId": "tt0099384",
               "titleUrl": "https://www.imdb.com/title/tt0099384/",
               "votes": 4504
+            },
+            "filmaffinity": {
+              "value": null,
+              "scale": 10,
+              "url": "https://www.filmaffinity.com/es/search.php?stext=Death+Spa&stype=title",
+              "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Death+Spa&stype=title",
+              "observedAt": "2026-10-19T07:03:07Z",
+              "status": "not_found",
+              "source": "filmaffinity",
+              "attribution": "FilmAffinity",
+              "metric": "user_rating"
+            },
+            "rottenTomatoes": {
+              "value": null,
+              "scale": 100,
+              "url": "https://www.rottentomatoes.com/m/death_spa",
+              "searchUrl": "https://www.rottentomatoes.com/search?search=Death+Spa",
+              "observedAt": "2026-10-19T07:04:39Z",
+              "status": "identity_unconfirmed",
+              "source": "rottenTomatoes",
+              "attribution": "Rotten Tomatoes",
+              "metric": "tomatometer",
+              "audience": {
+                "value": null,
+                "scale": 100,
+                "url": "https://www.rottentomatoes.com/m/death_spa",
+                "searchUrl": "https://www.rottentomatoes.com/search?search=Death+Spa",
+                "observedAt": "2026-10-19T07:04:39Z",
+                "status": "identity_unconfirmed",
+                "source": "rottenTomatoes",
+                "attribution": "Rotten Tomatoes",
+                "metric": "popcornmeter"
+              }
             }
           }
         },
@@ -15264,6 +15489,39 @@
               "imdbId": "tt0103898",
               "titleUrl": "https://www.imdb.com/title/tt0103898/",
               "votes": 1430
+            },
+            "filmaffinity": {
+              "value": 4.4,
+              "scale": 10,
+              "url": "https://www.filmaffinity.com/es/film691238.html",
+              "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=The+Burning+Moon&stype=title",
+              "observedAt": "2026-10-19T07:03:09.654505+00:00",
+              "status": "verified",
+              "source": "filmaffinity",
+              "attribution": "FilmAffinity",
+              "metric": "user_rating"
+            },
+            "rottenTomatoes": {
+              "value": null,
+              "scale": 100,
+              "url": "https://www.rottentomatoes.com/m/burning_moon",
+              "searchUrl": "https://www.rottentomatoes.com/search?search=The+Burning+Moon",
+              "observedAt": "2026-10-19T07:04:42Z",
+              "status": "identity_unconfirmed",
+              "source": "rottenTomatoes",
+              "attribution": "Rotten Tomatoes",
+              "metric": "tomatometer",
+              "audience": {
+                "value": null,
+                "scale": 100,
+                "url": "https://www.rottentomatoes.com/m/burning_moon",
+                "searchUrl": "https://www.rottentomatoes.com/search?search=The+Burning+Moon",
+                "observedAt": "2026-10-19T07:04:42Z",
+                "status": "identity_unconfirmed",
+                "source": "rottenTomatoes",
+                "attribution": "Rotten Tomatoes",
+                "metric": "popcornmeter"
+              }
             }
           }
         }
@@ -15302,7 +15560,7 @@
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/search.php?stext=Sem+terra%3A+La+lluita+per+la+terra+al+Brasil&stype=title",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Sem+terra%3A+La+lluita+per+la+terra+al+Brasil&stype=title",
-          "observedAt": "2026-10-18T15:30:51Z",
+          "observedAt": "2026-10-19T07:01:40Z",
           "status": "blocked",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
@@ -15471,9 +15729,9 @@
         "filmaffinity": {
           "value": null,
           "scale": 10,
-          "url": "https://www.filmaffinity.com/es/search.php?stext=PREESTRENO%3A+GODZILLA+MINUS+ZERO&stype=title",
-          "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=PREESTRENO%3A+GODZILLA+MINUS+ZERO&stype=title",
-          "observedAt": "2026-10-18T15:30:43Z",
+          "url": "https://www.filmaffinity.com/es/film624236.html",
+          "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Godzilla+Minus+Zero&stype=title",
+          "observedAt": "2026-10-19T07:03:18Z",
           "status": "blocked",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
@@ -15734,7 +15992,7 @@
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/search.php?stext=Mahmoud+Darwich%3A+et+la+terre%2C+comme+la+langue...&stype=title",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Mahmoud+Darwich%3A+et+la+terre%2C+comme+la+langue...&stype=title",
-          "observedAt": "2026-10-18T15:26:32Z",
+          "observedAt": "2026-10-19T07:02:16Z",
           "status": "blocked",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
@@ -15829,10 +16087,10 @@
         "filmaffinity": {
           "value": null,
           "scale": 10,
-          "url": "https://www.filmaffinity.com/es/search.php?stext=Wall&stype=title",
-          "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Wall&stype=title",
-          "observedAt": "2026-10-18T15:26:43Z",
-          "status": "blocked",
+          "url": "https://www.filmaffinity.com/es/search.php?stext=Mur&stype=title",
+          "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Mur&stype=title",
+          "observedAt": "2026-10-19T07:02:22Z",
+          "status": "not_found",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
           "metric": "user_rating"
@@ -15985,6 +16243,39 @@
               "imdbId": "tt0481240",
               "titleUrl": "https://www.imdb.com/title/tt0481240/",
               "votes": 37
+            },
+            "filmaffinity": {
+              "value": null,
+              "scale": 10,
+              "url": "https://www.filmaffinity.com/es/film521769.html",
+              "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Le+torchon+br%C3%BBle+ou+Une+querelle+de+m%C3%A9nage&stype=title",
+              "observedAt": "2026-10-19T07:02:28Z",
+              "status": "blocked",
+              "source": "filmaffinity",
+              "attribution": "FilmAffinity",
+              "metric": "user_rating"
+            },
+            "rottenTomatoes": {
+              "value": null,
+              "scale": 100,
+              "url": "https://www.rottentomatoes.com/search?search=Le+torchon+br%C3%BBle+ou+Une+querelle+de+m%C3%A9nage",
+              "searchUrl": "https://www.rottentomatoes.com/search?search=Le+torchon+br%C3%BBle+ou+Une+querelle+de+m%C3%A9nage",
+              "observedAt": "2026-10-19T07:04:19Z",
+              "status": "not_found",
+              "source": "rottenTomatoes",
+              "attribution": "Rotten Tomatoes",
+              "metric": "tomatometer",
+              "audience": {
+                "value": null,
+                "scale": 100,
+                "url": "https://www.rottentomatoes.com/search?search=Le+torchon+br%C3%BBle+ou+Une+querelle+de+m%C3%A9nage",
+                "searchUrl": "https://www.rottentomatoes.com/search?search=Le+torchon+br%C3%BBle+ou+Une+querelle+de+m%C3%A9nage",
+                "observedAt": "2026-10-19T07:04:19Z",
+                "status": "not_found",
+                "source": "rottenTomatoes",
+                "attribution": "Rotten Tomatoes",
+                "metric": "popcornmeter"
+              }
             }
           },
           "metadataSources": {
@@ -16005,7 +16296,41 @@
           "cast": [
             "Little Chrysia"
           ],
-          "ratings": {},
+          "ratings": {
+            "filmaffinity": {
+              "value": null,
+              "scale": 10,
+              "url": "https://www.filmaffinity.com/es/film314005.html",
+              "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Cun%C3%A9gonde+femme-crampon&stype=title",
+              "observedAt": "2026-10-19T07:00:59Z",
+              "status": "identity_unconfirmed",
+              "source": "filmaffinity",
+              "attribution": "FilmAffinity",
+              "metric": "user_rating"
+            },
+            "rottenTomatoes": {
+              "value": null,
+              "scale": 100,
+              "url": "https://www.rottentomatoes.com/search?search=Cun%C3%A9gonde+femme-crampon",
+              "searchUrl": "https://www.rottentomatoes.com/search?search=Cun%C3%A9gonde+femme-crampon",
+              "observedAt": "2026-10-19T07:03:54Z",
+              "status": "not_found",
+              "source": "rottenTomatoes",
+              "attribution": "Rotten Tomatoes",
+              "metric": "tomatometer",
+              "audience": {
+                "value": null,
+                "scale": 100,
+                "url": "https://www.rottentomatoes.com/search?search=Cun%C3%A9gonde+femme-crampon",
+                "searchUrl": "https://www.rottentomatoes.com/search?search=Cun%C3%A9gonde+femme-crampon",
+                "observedAt": "2026-10-19T07:03:54Z",
+                "status": "not_found",
+                "source": "rottenTomatoes",
+                "attribution": "Rotten Tomatoes",
+                "metric": "popcornmeter"
+              }
+            }
+          },
           "metadataSources": {
             "cast": {
               "source": "reviewed_public_source",
@@ -16039,10 +16364,43 @@
               "source": "imdb_dataset",
               "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
               "attribution": "IMDb non-commercial datasets",
-              "observedAt": "2026-10-18T07:22:21Z",
+              "observedAt": "2026-10-19T07:00:48Z",
               "searchUrl": "https://www.imdb.com/find/?q=La+paresse+de+Polycarpe&s=tt",
               "imdbId": "tt3835018",
               "titleUrl": "https://www.imdb.com/title/tt3835018/"
+            },
+            "filmaffinity": {
+              "value": null,
+              "scale": 10,
+              "url": "https://www.filmaffinity.com/es/search.php?stext=La+paresse+de+Polycarpe&stype=title",
+              "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=La+paresse+de+Polycarpe&stype=title",
+              "observedAt": "2026-10-19T07:01:02Z",
+              "status": "blocked",
+              "source": "filmaffinity",
+              "attribution": "FilmAffinity",
+              "metric": "user_rating"
+            },
+            "rottenTomatoes": {
+              "value": null,
+              "scale": 100,
+              "url": "https://www.rottentomatoes.com/search?search=La+paresse+de+Polycarpe",
+              "searchUrl": "https://www.rottentomatoes.com/search?search=La+paresse+de+Polycarpe",
+              "observedAt": "2026-10-19T07:03:56Z",
+              "status": "not_found",
+              "source": "rottenTomatoes",
+              "attribution": "Rotten Tomatoes",
+              "metric": "tomatometer",
+              "audience": {
+                "value": null,
+                "scale": 100,
+                "url": "https://www.rottentomatoes.com/search?search=La+paresse+de+Polycarpe",
+                "searchUrl": "https://www.rottentomatoes.com/search?search=La+paresse+de+Polycarpe",
+                "observedAt": "2026-10-19T07:03:56Z",
+                "status": "not_found",
+                "source": "rottenTomatoes",
+                "attribution": "Rotten Tomatoes",
+                "metric": "popcornmeter"
+              }
             }
           }
         },
@@ -16055,7 +16413,41 @@
           "cast": [
             "Frida Cotrelli"
           ],
-          "ratings": {},
+          "ratings": {
+            "filmaffinity": {
+              "value": null,
+              "scale": 10,
+              "url": "https://www.filmaffinity.com/es/search.php?stext=Eine+Fliegenjagd+oder+Die+Rache+der+Frau+Schultze&stype=title",
+              "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Eine+Fliegenjagd+oder+Die+Rache+der+Frau+Schultze&stype=title",
+              "observedAt": "2026-10-19T07:01:05Z",
+              "status": "blocked",
+              "source": "filmaffinity",
+              "attribution": "FilmAffinity",
+              "metric": "user_rating"
+            },
+            "rottenTomatoes": {
+              "value": null,
+              "scale": 100,
+              "url": "https://www.rottentomatoes.com/search?search=Eine+Fliegenjagd+oder+Die+Rache+der+Frau+Schultze",
+              "searchUrl": "https://www.rottentomatoes.com/search?search=Eine+Fliegenjagd+oder+Die+Rache+der+Frau+Schultze",
+              "observedAt": "2026-10-19T07:03:57Z",
+              "status": "not_found",
+              "source": "rottenTomatoes",
+              "attribution": "Rotten Tomatoes",
+              "metric": "tomatometer",
+              "audience": {
+                "value": null,
+                "scale": 100,
+                "url": "https://www.rottentomatoes.com/search?search=Eine+Fliegenjagd+oder+Die+Rache+der+Frau+Schultze",
+                "searchUrl": "https://www.rottentomatoes.com/search?search=Eine+Fliegenjagd+oder+Die+Rache+der+Frau+Schultze",
+                "observedAt": "2026-10-19T07:03:57Z",
+                "status": "not_found",
+                "source": "rottenTomatoes",
+                "attribution": "Rotten Tomatoes",
+                "metric": "popcornmeter"
+              }
+            }
+          },
           "metadataSources": {
             "cast": {
               "source": "reviewed_public_source",
@@ -16091,6 +16483,39 @@
               "imdbId": "tt0003943",
               "titleUrl": "https://www.imdb.com/title/tt0003943/",
               "votes": 113
+            },
+            "filmaffinity": {
+              "value": null,
+              "scale": 10,
+              "url": "https://www.filmaffinity.com/es/film295081.html",
+              "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Fatty+and+Minnie+He-Haw&stype=title",
+              "observedAt": "2026-10-19T07:02:30Z",
+              "status": "blocked",
+              "source": "filmaffinity",
+              "attribution": "FilmAffinity",
+              "metric": "user_rating"
+            },
+            "rottenTomatoes": {
+              "value": null,
+              "scale": 100,
+              "url": "https://www.rottentomatoes.com/search?search=Fatty+and+Minnie+He-Haw",
+              "searchUrl": "https://www.rottentomatoes.com/search?search=Fatty+and+Minnie+He-Haw",
+              "observedAt": "2026-10-19T07:04:21Z",
+              "status": "not_found",
+              "source": "rottenTomatoes",
+              "attribution": "Rotten Tomatoes",
+              "metric": "tomatometer",
+              "audience": {
+                "value": null,
+                "scale": 100,
+                "url": "https://www.rottentomatoes.com/search?search=Fatty+and+Minnie+He-Haw",
+                "searchUrl": "https://www.rottentomatoes.com/search?search=Fatty+and+Minnie+He-Haw",
+                "observedAt": "2026-10-19T07:04:21Z",
+                "status": "not_found",
+                "source": "rottenTomatoes",
+                "attribution": "Rotten Tomatoes",
+                "metric": "popcornmeter"
+              }
             }
           },
           "metadataSources": {
@@ -16575,10 +17000,10 @@
         "filmaffinity": {
           "value": null,
           "scale": 10,
-          "url": "https://www.filmaffinity.com/es/search.php?stext=The+Ballad+of+Narayama&stype=title",
+          "url": "https://www.filmaffinity.com/es/film673496.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=The+Ballad+of+Narayama&stype=title",
-          "observedAt": "2026-10-18T15:27:32Z",
-          "status": "blocked",
+          "observedAt": "2026-10-19T07:02:43Z",
+          "status": "identity_unconfirmed",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
           "metric": "user_rating"
@@ -16740,6 +17165,39 @@
               "imdbId": "tt0154152",
               "titleUrl": "https://www.imdb.com/title/tt0154152/",
               "votes": 2666
+            },
+            "filmaffinity": {
+              "value": 5.6,
+              "scale": 10,
+              "url": "https://www.filmaffinity.com/es/film631517.html",
+              "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Annabelle+Serpentine+Dance&stype=title",
+              "observedAt": "2026-10-19T07:02:47.612205+00:00",
+              "status": "verified",
+              "source": "filmaffinity",
+              "attribution": "FilmAffinity",
+              "metric": "user_rating"
+            },
+            "rottenTomatoes": {
+              "value": null,
+              "scale": 100,
+              "url": "https://www.rottentomatoes.com/search?search=Annabelle+Serpentine+Dance",
+              "searchUrl": "https://www.rottentomatoes.com/search?search=Annabelle+Serpentine+Dance",
+              "observedAt": "2026-10-19T07:04:27Z",
+              "status": "not_found",
+              "source": "rottenTomatoes",
+              "attribution": "Rotten Tomatoes",
+              "metric": "tomatometer",
+              "audience": {
+                "value": null,
+                "scale": 100,
+                "url": "https://www.rottentomatoes.com/search?search=Annabelle+Serpentine+Dance",
+                "searchUrl": "https://www.rottentomatoes.com/search?search=Annabelle+Serpentine+Dance",
+                "observedAt": "2026-10-19T07:04:27Z",
+                "status": "not_found",
+                "source": "rottenTomatoes",
+                "attribution": "Rotten Tomatoes",
+                "metric": "popcornmeter"
+              }
             }
           }
         },
@@ -16755,7 +17213,41 @@
             "url": "https://www.filmoteca.cat/web/ca/film/ritme-de-classics-sessio-de-curtmetratges",
             "observedAt": "2026-10-18T15:03:32.054007+00:00"
           },
-          "ratings": {}
+          "ratings": {
+            "filmaffinity": {
+              "value": null,
+              "scale": 10,
+              "url": "https://www.filmaffinity.com/es/film101121.html",
+              "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=La+cr%C3%A9ation+de+la+serpentine&stype=title",
+              "observedAt": "2026-10-19T07:01:18Z",
+              "status": "identity_unconfirmed",
+              "source": "filmaffinity",
+              "attribution": "FilmAffinity",
+              "metric": "user_rating"
+            },
+            "rottenTomatoes": {
+              "value": null,
+              "scale": 100,
+              "url": "https://www.rottentomatoes.com/search?search=La+cr%C3%A9ation+de+la+serpentine",
+              "searchUrl": "https://www.rottentomatoes.com/search?search=La+cr%C3%A9ation+de+la+serpentine",
+              "observedAt": "2026-10-19T07:04:07Z",
+              "status": "not_found",
+              "source": "rottenTomatoes",
+              "attribution": "Rotten Tomatoes",
+              "metric": "tomatometer",
+              "audience": {
+                "value": null,
+                "scale": 100,
+                "url": "https://www.rottentomatoes.com/search?search=La+cr%C3%A9ation+de+la+serpentine",
+                "searchUrl": "https://www.rottentomatoes.com/search?search=La+cr%C3%A9ation+de+la+serpentine",
+                "observedAt": "2026-10-19T07:04:07Z",
+                "status": "not_found",
+                "source": "rottenTomatoes",
+                "attribution": "Rotten Tomatoes",
+                "metric": "popcornmeter"
+              }
+            }
+          }
         },
         {
           "id": "work-0e52ec7f11c30ecda4e8",
@@ -16769,7 +17261,41 @@
             "url": "https://www.filmoteca.cat/web/ca/film/ritme-de-classics-sessio-de-curtmetratges",
             "observedAt": "2026-10-18T15:03:32.054007+00:00"
           },
-          "ratings": {}
+          "ratings": {
+            "filmaffinity": {
+              "value": null,
+              "scale": 10,
+              "url": "https://www.filmaffinity.com/es/film522816.html",
+              "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=The+Cook&stype=title",
+              "observedAt": "2026-10-19T07:01:23Z",
+              "status": "identity_unconfirmed",
+              "source": "filmaffinity",
+              "attribution": "FilmAffinity",
+              "metric": "user_rating"
+            },
+            "rottenTomatoes": {
+              "value": null,
+              "scale": 100,
+              "url": "https://www.rottentomatoes.com/m/cook",
+              "searchUrl": "https://www.rottentomatoes.com/search?search=The+Cook",
+              "observedAt": "2026-10-19T07:04:11Z",
+              "status": "identity_unconfirmed",
+              "source": "rottenTomatoes",
+              "attribution": "Rotten Tomatoes",
+              "metric": "tomatometer",
+              "audience": {
+                "value": null,
+                "scale": 100,
+                "url": "https://www.rottentomatoes.com/m/cook",
+                "searchUrl": "https://www.rottentomatoes.com/search?search=The+Cook",
+                "observedAt": "2026-10-19T07:04:11Z",
+                "status": "identity_unconfirmed",
+                "source": "rottenTomatoes",
+                "attribution": "Rotten Tomatoes",
+                "metric": "popcornmeter"
+              }
+            }
+          }
         },
         {
           "id": "work-bf53e924b78809dda413",
@@ -16800,6 +17326,39 @@
               "imdbId": "tt0016845",
               "titleUrl": "https://www.imdb.com/title/tt0016845/",
               "votes": 119
+            },
+            "filmaffinity": {
+              "value": null,
+              "scale": 10,
+              "url": "https://www.filmaffinity.com/es/film854745.html",
+              "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Fatal+Footsteps&stype=title",
+              "observedAt": "2026-10-19T07:02:49Z",
+              "status": "blocked",
+              "source": "filmaffinity",
+              "attribution": "FilmAffinity",
+              "metric": "user_rating"
+            },
+            "rottenTomatoes": {
+              "value": null,
+              "scale": 100,
+              "url": "https://www.rottentomatoes.com/search?search=Fatal+Footsteps",
+              "searchUrl": "https://www.rottentomatoes.com/search?search=Fatal+Footsteps",
+              "observedAt": "2026-10-19T07:04:29Z",
+              "status": "not_found",
+              "source": "rottenTomatoes",
+              "attribution": "Rotten Tomatoes",
+              "metric": "tomatometer",
+              "audience": {
+                "value": null,
+                "scale": 100,
+                "url": "https://www.rottentomatoes.com/search?search=Fatal+Footsteps",
+                "searchUrl": "https://www.rottentomatoes.com/search?search=Fatal+Footsteps",
+                "observedAt": "2026-10-19T07:04:29Z",
+                "status": "not_found",
+                "source": "rottenTomatoes",
+                "attribution": "Rotten Tomatoes",
+                "metric": "popcornmeter"
+              }
             }
           }
         },
@@ -16832,6 +17391,39 @@
               "imdbId": "tt0040019",
               "titleUrl": "https://www.imdb.com/title/tt0040019/",
               "votes": 2594
+            },
+            "filmaffinity": {
+              "value": 6.8,
+              "scale": 10,
+              "url": "https://www.filmaffinity.com/es/film340770.html",
+              "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=L%E2%80%99%C3%A9cole+des+facteurs&stype=title",
+              "observedAt": "2026-10-19T07:02:52.196949+00:00",
+              "status": "verified",
+              "source": "filmaffinity",
+              "attribution": "FilmAffinity",
+              "metric": "user_rating"
+            },
+            "rottenTomatoes": {
+              "value": null,
+              "scale": 100,
+              "url": "https://www.rottentomatoes.com/search?search=L%27%C3%A9cole+des+facteurs",
+              "searchUrl": "https://www.rottentomatoes.com/search?search=L%27%C3%A9cole+des+facteurs",
+              "observedAt": "2026-10-19T07:04:30Z",
+              "status": "not_found",
+              "source": "rottenTomatoes",
+              "attribution": "Rotten Tomatoes",
+              "metric": "tomatometer",
+              "audience": {
+                "value": null,
+                "scale": 100,
+                "url": "https://www.rottentomatoes.com/search?search=L%27%C3%A9cole+des+facteurs",
+                "searchUrl": "https://www.rottentomatoes.com/search?search=L%27%C3%A9cole+des+facteurs",
+                "observedAt": "2026-10-19T07:04:30Z",
+                "status": "not_found",
+                "source": "rottenTomatoes",
+                "attribution": "Rotten Tomatoes",
+                "metric": "popcornmeter"
+              }
             }
           }
         }
@@ -16874,7 +17466,7 @@
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/search.php?stext=Soplo+de+esplendor&stype=title",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Soplo+de+esplendor&stype=title",
-          "observedAt": "2026-10-18T15:27:44Z",
+          "observedAt": "2026-10-19T07:01:28Z",
           "status": "blocked",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
@@ -16959,9 +17551,9 @@
         "filmaffinity": {
           "value": null,
           "scale": 10,
-          "url": "https://www.filmaffinity.com/es/search.php?stext=Voluntad+que+vence+%2F+L%27indompt%C3%A9e&stype=title",
-          "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Voluntad+que+vence+%2F+L%27indompt%C3%A9e&stype=title",
-          "observedAt": "2026-10-18T15:27:54Z",
+          "url": "https://www.filmaffinity.com/es/film581911.html",
+          "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Voluntad+que+vence&stype=title",
+          "observedAt": "2026-10-19T07:03:01Z",
           "status": "blocked",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
@@ -17362,6 +17954,39 @@
               "imdbId": "tt0430576",
               "titleUrl": "https://www.imdb.com/title/tt0430576/",
               "votes": 13802
+            },
+            "filmaffinity": {
+              "value": null,
+              "scale": 10,
+              "url": "https://www.filmaffinity.com/es/film492064.html",
+              "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=The+Secret+Life+of+Words&stype=title",
+              "observedAt": "2026-10-19T07:03:05Z",
+              "status": "identity_unconfirmed",
+              "source": "filmaffinity",
+              "attribution": "FilmAffinity",
+              "metric": "user_rating"
+            },
+            "rottenTomatoes": {
+              "value": 71.0,
+              "scale": 100,
+              "url": "https://www.rottentomatoes.com/m/the_secret_life_of_words",
+              "searchUrl": "https://www.rottentomatoes.com/search?search=The+Secret+Life+of+Words",
+              "observedAt": "2026-10-19T07:04:35.644449+00:00",
+              "status": "verified",
+              "source": "rottenTomatoes",
+              "attribution": "Rotten Tomatoes",
+              "metric": "tomatometer",
+              "audience": {
+                "value": 86.0,
+                "scale": 100,
+                "url": "https://www.rottentomatoes.com/m/the_secret_life_of_words",
+                "searchUrl": "https://www.rottentomatoes.com/search?search=The+Secret+Life+of+Words",
+                "observedAt": "2026-10-19T07:04:35.644449+00:00",
+                "status": "verified",
+                "source": "rottenTomatoes",
+                "attribution": "Rotten Tomatoes",
+                "metric": "popcornmeter"
+              }
             }
           },
           "metadataSources": {
@@ -17386,7 +18011,41 @@
             "url": "https://www.filmoteca.cat/web/ca/film/secret-life-words-100-years-and-you-everywhere",
             "observedAt": "2026-10-18T15:03:46.712598+00:00"
           },
-          "ratings": {}
+          "ratings": {
+            "filmaffinity": {
+              "value": null,
+              "scale": 10,
+              "url": "https://www.filmaffinity.com/es/search.php?stext=100+Years+and+You+Everywhere&stype=title",
+              "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=100+Years+and+You+Everywhere&stype=title",
+              "observedAt": "2026-10-19T07:01:35Z",
+              "status": "blocked",
+              "source": "filmaffinity",
+              "attribution": "FilmAffinity",
+              "metric": "user_rating"
+            },
+            "rottenTomatoes": {
+              "value": null,
+              "scale": 100,
+              "url": "https://www.rottentomatoes.com/search?search=100+Years+and+You+Everywhere",
+              "searchUrl": "https://www.rottentomatoes.com/search?search=100+Years+and+You+Everywhere",
+              "observedAt": "2026-10-19T07:04:16Z",
+              "status": "not_found",
+              "source": "rottenTomatoes",
+              "attribution": "Rotten Tomatoes",
+              "metric": "tomatometer",
+              "audience": {
+                "value": null,
+                "scale": 100,
+                "url": "https://www.rottentomatoes.com/search?search=100+Years+and+You+Everywhere",
+                "searchUrl": "https://www.rottentomatoes.com/search?search=100+Years+and+You+Everywhere",
+                "observedAt": "2026-10-19T07:04:16Z",
+                "status": "not_found",
+                "source": "rottenTomatoes",
+                "attribution": "Rotten Tomatoes",
+                "metric": "popcornmeter"
+              }
+            }
+          }
         }
       ]
     },
@@ -17498,6 +18157,39 @@
               "imdbId": "tt0072417",
               "titleUrl": "https://www.imdb.com/title/tt0072417/",
               "votes": 34291
+            },
+            "filmaffinity": {
+              "value": null,
+              "scale": 10,
+              "url": "https://www.filmaffinity.com/es/search.php?stext=A+Woman+Under+the+Influence&stype=title",
+              "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=A+Woman+Under+the+Influence&stype=title",
+              "observedAt": "2026-10-19T07:03:13Z",
+              "status": "not_found",
+              "source": "filmaffinity",
+              "attribution": "FilmAffinity",
+              "metric": "user_rating"
+            },
+            "rottenTomatoes": {
+              "value": 88.0,
+              "scale": 100,
+              "url": "https://www.rottentomatoes.com/m/woman_under_the_influence",
+              "searchUrl": "https://www.rottentomatoes.com/search?search=A+Woman+Under+the+Influence",
+              "observedAt": "2026-10-19T07:04:45.275139+00:00",
+              "status": "verified",
+              "source": "rottenTomatoes",
+              "attribution": "Rotten Tomatoes",
+              "metric": "tomatometer",
+              "audience": {
+                "value": 91.0,
+                "scale": 100,
+                "url": "https://www.rottentomatoes.com/m/woman_under_the_influence",
+                "searchUrl": "https://www.rottentomatoes.com/search?search=A+Woman+Under+the+Influence",
+                "observedAt": "2026-10-19T07:04:45.275139+00:00",
+                "status": "verified",
+                "source": "rottenTomatoes",
+                "attribution": "Rotten Tomatoes",
+                "metric": "popcornmeter"
+              }
             }
           },
           "metadataSources": {
@@ -17522,7 +18214,41 @@
             "url": "https://www.filmoteca.cat/web/ca/film/woman-under-influence-non-tu-ne-sortiras-pas-sans-moi",
             "observedAt": "2026-10-18T15:03:52.423241+00:00"
           },
-          "ratings": {}
+          "ratings": {
+            "filmaffinity": {
+              "value": null,
+              "scale": 10,
+              "url": "https://www.filmaffinity.com/es/film406445.html",
+              "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Non%21+Tu+ne+sortiras+pas+sans+moi%21&stype=title",
+              "observedAt": "2026-10-19T07:01:37Z",
+              "status": "blocked",
+              "source": "filmaffinity",
+              "attribution": "FilmAffinity",
+              "metric": "user_rating"
+            },
+            "rottenTomatoes": {
+              "value": null,
+              "scale": 100,
+              "url": "https://www.rottentomatoes.com/search?search=Non%21+Tu+ne+sortiras+pas+sans+moi%21",
+              "searchUrl": "https://www.rottentomatoes.com/search?search=Non%21+Tu+ne+sortiras+pas+sans+moi%21",
+              "observedAt": "2026-10-19T07:04:18Z",
+              "status": "not_found",
+              "source": "rottenTomatoes",
+              "attribution": "Rotten Tomatoes",
+              "metric": "tomatometer",
+              "audience": {
+                "value": null,
+                "scale": 100,
+                "url": "https://www.rottentomatoes.com/search?search=Non%21+Tu+ne+sortiras+pas+sans+moi%21",
+                "searchUrl": "https://www.rottentomatoes.com/search?search=Non%21+Tu+ne+sortiras+pas+sans+moi%21",
+                "observedAt": "2026-10-19T07:04:18Z",
+                "status": "not_found",
+                "source": "rottenTomatoes",
+                "attribution": "Rotten Tomatoes",
+                "metric": "popcornmeter"
+              }
+            }
+          }
         }
       ]
     },
@@ -17637,7 +18363,7 @@
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/search.php?stext=The+Royal+Ballet%3A+Manon+%282026-27%29&stype=title",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=The+Royal+Ballet%3A+Manon+%282026-27%29&stype=title",
-          "observedAt": "2026-10-18T15:28:34Z",
+          "observedAt": "2026-10-19T07:01:31Z",
           "status": "blocked",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
@@ -17719,7 +18445,7 @@
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/search.php?stext=The+Royal+Opera%3A+Carmen+%282026-27%29&stype=title",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=The+Royal+Opera%3A+Carmen+%282026-27%29&stype=title",
-          "observedAt": "2026-10-18T15:31:09Z",
+          "observedAt": "2026-10-19T07:01:43Z",
           "status": "blocked",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
@@ -17802,7 +18528,7 @@
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/search.php?stext=Romeo+y+Julieta.+Ballet+%C3%93pera+de+Par%C3%ADs+26%2F27&stype=title",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Romeo+y+Julieta.+Ballet+%C3%93pera+de+Par%C3%ADs+26%2F27&stype=title",
-          "observedAt": "2026-10-18T15:31:11Z",
+          "observedAt": "2026-10-19T07:01:46Z",
           "status": "blocked",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
@@ -18043,7 +18769,7 @@
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/search.php?stext=El+lago+de+los+cisnes.+Ballet+%C3%93pera+de+Par%C3%ADs+26%2F27&stype=title",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=El+lago+de+los+cisnes.+Ballet+%C3%93pera+de+Par%C3%ADs+26%2F27&stype=title",
-          "observedAt": "2026-10-18T15:31:38Z",
+          "observedAt": "2026-10-19T07:03:26Z",
           "status": "blocked",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
