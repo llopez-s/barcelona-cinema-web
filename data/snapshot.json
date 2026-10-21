@@ -8459,15 +8459,16 @@
           "votes": 1501605
         },
         "filmaffinity": {
-          "value": null,
+          "value": 7.3,
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film993884.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Vengadores+Endgame%3A+Encore&stype=title",
-          "observedAt": "2026-10-21T08:52:54Z",
-          "status": "blocked",
+          "observedAt": "2026-09-05T10:47:54.485066+00:00",
+          "status": "verified",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
-          "metric": "user_rating"
+          "metric": "user_rating",
+          "stale": true
         },
         "rottenTomatoes": {
           "value": 94.0,
@@ -14070,6 +14071,7 @@
       "title": "Sem terra: La lluita per la terra al Brasil",
       "originalTitle": null,
       "year": 2026,
+      "runtime": 55,
       "director": "Ferran Domènech Tona",
       "castReview": {
         "status": "not_published",
@@ -14135,6 +14137,12 @@
       "aliases": [],
       "mergedIds": [],
       "metadataSources": {
+        "runtime": {
+          "source": "official",
+          "url": "https://zumzeigcine.coop/cinema/films/sem-terra-lluita-terra-brasil/",
+          "observedAt": "2026-10-21T07:02:56.580382+00:00",
+          "status": "verified"
+        },
         "year": {
           "source": "official_zumzeig",
           "url": "https://zumzeigcine.coop/cinema/films/sem-terra-lluita-terra-brasil/",
