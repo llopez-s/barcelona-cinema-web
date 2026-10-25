@@ -656,33 +656,47 @@
     entries.forEach((entry, index) => fragment.append(movieCard(entry, index)));
     els.movies.replaceChildren(fragment);
   }
-  function eventMatches(event, filter) {
+  function eventTiming(event, cinema = '', now = Date.now()) {
+    const period = cinema && Array.isArray(event.venuePeriods) ? event.venuePeriods.find((p) => identifier(p.cinemaId) === cinema) : null;
+    const startsAt = period ? period.startsAt : event.startsAt;
+    const endDate = period ? period.endDate : event.endDate;
+    const start = dayDate(startsAt), end = dayDate(endDate);
+    const startDay = dayKey(startsAt), endDay = dayKey(endDate) || startDay;
+    const today = dayKey(new Date(now));
+    const isDay = (value) => /^\d{4}-\d{2}-\d{2}$/.test(text(value));
+    const passed = (value, parsed) => isDay(value) ? dayKey(value) < today : parsed.getTime() < now;
+    const past = end ? passed(endDate, end) : start ? passed(startsAt, start) : false;
+    const started = start && (isDay(startsAt) ? startDay <= today : start.getTime() <= now);
+    const phase = past ? 'past' : !start ? 'pending' : end && started ? 'ongoing' : 'upcoming';
+    const sortAt = (phase === 'ongoing' || phase === 'past' ? end || start : start)?.getTime() ?? Infinity;
+    return { startsAt, endDate, start, startDay, endDay, period, phase, sortAt };
+  }
+  function eventMatches(event, filter, now = Date.now()) {
     if (filter.eventType && eventType(event) !== filter.eventType) return false;
     if (cinemaIsClosed(event.cinemaId)) return false;
-    const period = Array.isArray(event.venuePeriods) ? event.venuePeriods.find((p) => identifier(p.cinemaId) === filter.cinema) : null;
+    const { period, startDay, endDay, phase } = eventTiming(event, filter.cinema, now);
     if (filter.cinema && identifier(event.cinemaId) !== filter.cinema && !period) return false;
-    const startDay = dayKey(period?.startsAt || event.startsAt);
-    const endDay = dayKey(period?.endDate || event.endDate) || startDay;
     if (filter.day && (!startDay || filter.day < startDay || filter.day > endDay)) return false;
-    if (!filter.past) {
-      if (text(event.endDate)) {
-        if (endDay && endDay < dayKey(new Date())) return false;
-      } else if (/^\d{4}-\d{2}-\d{2}$/.test(text(event.startsAt))) {
-        if (startDay < dayKey(new Date())) return false;
-      } else {
-        const start = date(event.startsAt);
-        if (start && start.getTime() < Date.now()) return false;
-      }
-    }
-    return true;
+    return filter.past || phase !== 'past';
+  }
+  function matchingEvents(filter, now = Date.now()) {
+    const order = { upcoming: 0, ongoing: 1, pending: 2, past: 3 };
+    return state.snapshot.events.filter((event) => eventMatches(event, filter, now))
+      .map((event) => ({ event, timing: eventTiming(event, filter.cinema, now) }))
+      .sort((a, b) => {
+        if (a.timing.phase !== b.timing.phase) return order[a.timing.phase] - order[b.timing.phase];
+        if (a.timing.sortAt !== b.timing.sortAt) return (a.timing.sortAt < b.timing.sortAt ? -1 : 1) * (a.timing.phase === 'past' ? -1 : 1);
+        return collator.compare(text(a.event.title), text(b.event.title));
+      });
   }
   function renderEvents() {
     if (!state.snapshot) {
       els.events.replaceChildren(emptyState('Eventos pendientes', 'Todavía no hay una instantánea disponible.'));
       return;
     }
-    const entries = state.snapshot.events.filter((event) => eventMatches(event, filters())).sort((a, b) => (dayDate(a.startsAt)?.getTime() ?? Infinity) - (dayDate(b.startsAt)?.getTime() ?? Infinity));
-    const summary = `${plural(entries.length, 'evento', 'eventos')} · Filtros de tipo, cine, fecha y programación pasada`;
+    const filter = filters();
+    const entries = matchingEvents(filter);
+    const summary = `${plural(entries.length, 'evento', 'eventos')} · Próximos por fecha; después, los ciclos en curso${filter.past ? ' y los finalizados' : ''}`;
     $('events-summary').textContent = summary;
     $('results-announcement').textContent = summary;
     if (!entries.length) {
@@ -690,16 +704,23 @@
       return;
     }
     const fragment = document.createDocumentFragment();
-    for (const event of entries) {
+    const groups = { upcoming: 'Próximos eventos', ongoing: 'Ciclos y eventos en curso', pending: 'Fecha pendiente', past: 'Eventos finalizados' };
+    let group = '';
+    for (const { event, timing } of entries) {
+      if (timing.phase !== group) {
+        group = timing.phase;
+        fragment.append(element('h3', 'event-group-heading', groups[group]));
+      }
       const article = element('article', 'event-card');
       const calendar = element('div', 'event-date');
-      const start = dayDate(event.startsAt);
+      const start = timing.start;
       calendar.append(element('span', 'event-day', start ? new Intl.DateTimeFormat('es-ES', { timeZone: TIME_ZONE, day: '2-digit' }).format(start) : '—'));
       calendar.append(element('span', 'event-month', start ? monthFormat.format(start) : 'Sin fecha'));
       const body = element('div');
-      body.append(element('p', 'eyebrow', eventTypeLabel(eventType(event))), element('h3', 'event-title', text(event.title) || 'Título pendiente'));
-      const venue = strings(event.venues).join(' · ') || (event.cinemaId ? cinemaName(event.cinemaId) : 'Sedes pendientes de confirmar');
-      body.append(element('p', 'event-meta', `${venue} · ${formatDateTime(event.startsAt)}${text(event.endDate) ? ` · Hasta ${formatDateTime(event.endDate)}` : ''}`));
+      const phaseLabel = timing.phase === 'ongoing' ? ' · En curso' : timing.phase === 'past' ? ' · Finalizado' : '';
+      body.append(element('p', 'eyebrow', eventTypeLabel(eventType(event)) + phaseLabel), element('h4', 'event-title', text(event.title) || 'Título pendiente'));
+      const venue = timing.period ? cinemaName(filter.cinema) : strings(event.venues).join(' · ') || (event.cinemaId ? cinemaName(event.cinemaId) : 'Sedes pendientes de confirmar');
+      body.append(element('p', 'event-meta', `${venue} · ${formatDateTime(timing.startsAt)}${text(timing.endDate) ? ` · Hasta ${formatDateTime(timing.endDate)}` : ''}`));
       // Eventos conservados por retain_failed_events tras fallar u omitirse su ficha.
       if (['stale', 'outdated'].includes(text(event.status))) body.append(element('p', 'data-stale', 'Sin actualizar · confirmar en la fuente'));
       body.append(element('p', 'event-description', text(event.description) || 'Descripción pendiente.'));

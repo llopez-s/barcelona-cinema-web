@@ -170,6 +170,8 @@ a.session-time:hover { background: var(--yellow); }
 .empty-state p { font-size: 13px; color: var(--muted); max-width: 480px; margin: 13px auto 0; }
 .empty-state .button { margin-top: 23px; }
 .event-list { border-top: 1px solid var(--ink); }
+.event-group-heading { padding-block: 18px 10px; border-bottom: 1px solid var(--line); font-size: 12px; font-weight: 600; letter-spacing: 1px; text-transform: uppercase; }
+.event-group-heading:not(:first-child) { margin-top: 24px; }
 .event-card { display: grid; grid-template-columns: 80px minmax(0, 1fr); gap: 25px; padding-block: 27px; border-bottom: 1px solid var(--line); }
 .event-date { display: flex; flex-direction: column; align-items: flex-start; border-right: 1px solid var(--line); gap: 3px; }
 .event-day { font: 45px/1 var(--serif); }
