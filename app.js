@@ -12,7 +12,7 @@
     { key: 'rottenTomatoes', name: 'Rotten Tomatoes · crítica', short: 'RT crítica' },
     { key: 'rottenTomatoesAudience', name: 'Rotten Tomatoes · público', short: 'RT público' },
   ];
-  const EVENT_TYPES = { colloquium: 'Coloquio', 'special-screening': 'Sesión especial', cycle: 'Ciclo', festival: 'Festival', premiere: 'Estreno', preview: 'Preestreno', family: 'Cine familiar', retrospective: 'Retrospectiva', visita: 'Visita' };
+  const EVENT_TYPES = { talk: 'Charla', colloquium: 'Coloquio', 'special-screening': 'Sesión especial', cycle: 'Ciclo', festival: 'Festival', premiere: 'Estreno', preview: 'Preestreno', family: 'Cine familiar', retrospective: 'Retrospectiva', visita: 'Visita' };
   function eventType(event) { return text(event.type) || '__unspecified__'; }
   function eventTypeLabel(type) { return EVENT_TYPES[type] || (type === '__unspecified__' ? 'Sin tipo especificado' : type); }
   const STATUS_NAMES = {
@@ -419,6 +419,7 @@
     const languageDetails = [audio ? `Audio: ${audio}` : '', text(session.language?.subtitles) ? `Subtítulos: ${languageName(session.language.subtitles)}` : ''].filter(Boolean).join(' · ');
     if (languageDetails) ticket.append(element('p', 'session-language', languageDetails));
     ticket.append(element('p', 'session-price', priceLabel(session.price)));
+    if (text(session.notes)) ticket.append(element('p', 'session-language', text(session.notes)));
     if (past) ticket.append(element('span', 'session-state', 'Sesión pasada'));
     if (text(session.status) && !GOOD.has(text(session.status))) ticket.append(element('span', 'session-state', statusName(session.status)));
     if (!booking && !past && !UNBOOKABLE.has(text(session.status))) ticket.append(element('span', 'session-state', 'Enlace de entradas no disponible'));
