@@ -311,22 +311,38 @@
     fillOptions('event-type', [...new Set(events.map(eventType))].map((type) => [type, eventTypeLabel(type)]).sort((a, b) => collator.compare(a[1], b[1])), 'Todos los tipos');
     const alphabetic = (values) => [...new Set(values)].sort(collator.compare).map((value) => [value, value]);
     fillOptions('cinema', data.cinemas.filter((cinema) => !cinemaIsClosed(cinema.id)).map((cinema) => [identifier(cinema.id), text(cinema.name) || 'Cine sin nombre']).sort((a, b) => collator.compare(a[1], b[1])), 'Todos los cines', false);
-    const dates = [...new Set([...sessions.map((session) => dayKey(session.startsAt)), ...events.flatMap((event) => [dayKey(event.startsAt), dayKey(event.endDate)])].filter(Boolean))].sort();
-    // Incluir también los días intermedios de ciclos fechados, con límite para datos anómalos.
-    for (const event of events) {
-      const start = dayDate(dayKey(event.startsAt));
-      const end = dayDate(dayKey(event.endDate));
-      if (!start || !end) continue;
-      const cursor = new Date(start);
-      for (let count = 0; cursor <= end && count < 366; count += 1) {
-        dates.push(dayKey(cursor));
-        cursor.setUTCDate(cursor.getUTCDate() + 1);
-      }
-    }
-    fillOptions('date', [...new Set(dates)].sort().map((value) => [value, formatDate(value)]), 'Todas las fechas');
     fillOptions('language', LANGUAGE_FILTERS, 'Todas las versiones', false);
     fillOptions('format', alphabetic(sessions.flatMap((session) => strings(session.formats))), 'Todos los formatos');
     fillOptions('genre', genreOptions(data.movies), 'Todos los géneros');
+  }
+  function updateDateOptions(now = Date.now()) {
+    if (!state.snapshot) return;
+    const cinema = $('cinema').value, past = $('include-past').checked;
+    const today = dayKey(new Date(now));
+    const dates = [];
+    const add = (value) => { if (value && (past || value >= today)) dates.push(value); };
+    for (const session of state.snapshot.sessions) {
+      if (cinemaIsClosed(session.cinemaId) || (cinema && identifier(session.cinemaId) !== cinema)) continue;
+      if (!past && (date(session.startsAt)?.getTime() ?? Infinity) < now) continue;
+      add(dayKey(session.startsAt));
+    }
+    for (const event of state.snapshot.events) {
+      if (!eventMatches(event, { cinema, past }, now)) continue;
+      const timing = eventTiming(event, cinema, now);
+      add(timing.startDay);
+      add(timing.endDay);
+      // Recortar ciclos en curso al día local antes de expandir su rango.
+      const start = dayDate(!past && timing.startDay < today ? today : timing.startDay);
+      const end = dayDate(timing.endDay);
+      if (!start || !end) continue;
+      const cursor = new Date(start);
+      for (let count = 0; cursor <= end && count < 366; count += 1) {
+        add(dayKey(cursor));
+        cursor.setUTCDate(cursor.getUTCDate() + 1);
+      }
+    }
+    // No reinsertar una selección antigua que ya no pertenece a las opciones visibles.
+    fillOptions('date', [...new Set(dates)].sort().map((value) => [value, formatDate(value)]), 'Todas las fechas', false);
   }
   function matchesTimeRange(starts, from, until) {
     if (!from && !until) return true;
@@ -845,6 +861,7 @@
   function renderView() {
     // Una respuesta de red o la búsqueda diferida no deben quitar el foco de una ficha abierta.
     if (els.dialog.open) { state.deferredRender = true; return; }
+    updateDateOptions();
     if (state.view === 'listings') renderListings();
     if (state.view === 'events') renderEvents();
     if (state.view === 'coverage') renderCoverage();
