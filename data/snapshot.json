@@ -371,573 +371,6 @@
       }
     },
     {
-      "id": "fa-326795",
-      "title": "El caso McMartin",
-      "originalTitle": "Indictment: The McMartin Trial",
-      "year": 1995,
-      "runtime": 127,
-      "director": "Mick Jackson",
-      "cast": [
-        "James Woods",
-        "Henry Thomas",
-        "Mercedes Ruehl",
-        "Lolita Davidovich",
-        "Sada Thompson",
-        "Shirley Knight",
-        "Mark Blum",
-        "Alison Elliott",
-        "Chelsea Field",
-        "Joe Urla",
-        "Scott Waara",
-        "Valerie Wildman",
-        "Richard Bradford",
-        "Roberta Bassin",
-        "Nicollette Sheridan"
-      ],
-      "genres": [
-        "Drama",
-        "Thriller"
-      ],
-      "synopsis": "Judy Johnson, madre de un niño que iba al jardín de infancia McMartin, llamó a la policía de Manhattan en julio de 1983. Le dijo al oficial que su hijo tenía una mancha roja, y le mencionó el nombre de Ray, un hombre que trabajaba en el jardín de infancia. (FILMAFFINITY)",
-      "poster": "https://pics.filmaffinity.com/indictment_the_mcmartin_trial-578269889-large.jpg",
-      "trailer": null,
-      "ratings": {
-        "filmaffinity": {
-          "value": 6.5,
-          "scale": 10,
-          "url": "https://www.filmaffinity.com/es/film326795.html",
-          "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=El+caso+McMartin&stype=title",
-          "observedAt": "2026-11-05T08:05:53.300929+00:00",
-          "status": "verified",
-          "source": "filmaffinity",
-          "attribution": "FilmAffinity",
-          "metric": "user_rating"
-        },
-        "imdb": {
-          "value": 7.5,
-          "scale": 10,
-          "max": 10,
-          "metric": "user_rating",
-          "status": "verified",
-          "source": "imdb_dataset",
-          "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
-          "attribution": "IMDb non-commercial datasets",
-          "observedAt": "2026-11-05T08:25:17Z",
-          "searchUrl": "https://www.imdb.com/find/?q=Indictment%3A+The+McMartin+Trial&s=tt",
-          "imdbId": "tt0113421",
-          "titleUrl": "https://www.imdb.com/title/tt0113421/",
-          "votes": 5172
-        },
-        "rottenTomatoes": {
-          "value": null,
-          "scale": 100,
-          "url": "https://www.rottentomatoes.com/m/indictment_the_mcmartin_trial",
-          "searchUrl": "https://www.rottentomatoes.com/search?search=Indictment%3A+The+McMartin+Trial",
-          "observedAt": "2026-11-05T08:31:30.979580+00:00",
-          "status": "unrated",
-          "source": "rottenTomatoes",
-          "attribution": "Rotten Tomatoes",
-          "metric": "tomatometer",
-          "audience": {
-            "value": 80.0,
-            "scale": 100,
-            "url": "https://www.rottentomatoes.com/m/indictment_the_mcmartin_trial",
-            "searchUrl": "https://www.rottentomatoes.com/search?search=Indictment%3A+The+McMartin+Trial",
-            "observedAt": "2026-11-05T08:31:30.979580+00:00",
-            "status": "verified",
-            "source": "rottenTomatoes",
-            "attribution": "Rotten Tomatoes",
-            "metric": "popcornmeter"
-          }
-        }
-      },
-      "sourceUrl": "https://www.filmaffinity.com/es/film326795.html",
-      "sources": [
-        "https://www.filmaffinity.com/es/film326795.html"
-      ],
-      "filmaffinityId": "326795",
-      "imdbId": "tt0113421",
-      "aliases": [
-        "Enjuiciamiento: El Caso McMartin",
-        "Indictment: The McMartin Trial"
-      ],
-      "mergedIds": [],
-      "metadataSources": {
-        "runtime": {
-          "source": "filmaffinity",
-          "url": "https://www.filmaffinity.com/es/film326795.html",
-          "observedAt": "2026-10-16T07:58:34.175219+00:00",
-          "status": "verified",
-          "identityStatus": "verified"
-        },
-        "cast": {
-          "source": "filmaffinity",
-          "url": "https://www.filmaffinity.com/es/film326795.html",
-          "observedAt": "2026-11-05T08:05:53.300929+00:00",
-          "status": "verified"
-        },
-        "originalTitle": {
-          "source": "reviewed_imdb_dataset",
-          "url": "https://www.imdb.com/title/tt0113421/",
-          "observedAt": "2026-09-05T18:37:51.793235+00:00",
-          "identityStatus": "verified"
-        }
-      }
-    },
-    {
-      "id": "fa-703786",
-      "title": "Buffalo Girls (TV)",
-      "originalTitle": "Buffalo Girls",
-      "year": 1995,
-      "runtime": 180,
-      "director": "Rod Hardy",
-      "cast": [
-        "Anjelica Huston",
-        "Melanie Griffith",
-        "Gabriel Byrne",
-        "Peter Coyote",
-        "Tracey Walter",
-        "Floyd 'Red Crow' Westerman",
-        "Jack Palance",
-        "Sam Elliott",
-        "Charlayne Woodard",
-        "John Diehl",
-        "Liev Schreiber",
-        "Andrew Bicknell",
-        "Paul Lazar"
-      ],
-      "genres": [
-        "Western"
-      ],
-      "synopsis": "Basada en la vida de la heroina del salvaje Oeste: Calamity Jane y de su mejor amiga Dora Du Fran que regenta un burdel. La historia ocupa, desde finales de 1879, una década y sigue los respectivos amores entre Dora y el cowboy Teddy Blue y Jane y Wild Hickock, más conocido como Buffalo Bill Cody y su espectáculo que llevó por todo el mundo sobre el viejo Oeste. (FILMAFFINITY)",
-      "poster": "https://pics.filmaffinity.com/buffalo_girls_tv-851129344-large.jpg",
-      "trailer": "https://www.filmaffinity.com/es/evideos.php?movie_id=703786",
-      "ratings": {
-        "filmaffinity": {
-          "value": 5.5,
-          "scale": 10,
-          "url": "https://www.filmaffinity.com/es/film703786.html",
-          "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Buffalo+Girls+%28TV%29&stype=title",
-          "observedAt": "2026-10-06T07:36:06.520580+00:00",
-          "status": "verified",
-          "source": "filmaffinity",
-          "attribution": "FilmAffinity",
-          "metric": "user_rating",
-          "stale": true,
-          "lastAttempt": {
-            "status": "blocked",
-            "observedAt": "2026-11-05T08:31:50Z"
-          }
-        },
-        "imdb": {
-          "value": 6.5,
-          "scale": 10,
-          "max": 10,
-          "metric": "user_rating",
-          "status": "verified",
-          "source": "imdb_dataset",
-          "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
-          "attribution": "IMDb non-commercial datasets",
-          "observedAt": "2026-11-05T08:25:17Z",
-          "searchUrl": "https://www.imdb.com/find/?q=Buffalo+Girls&s=tt",
-          "imdbId": "tt0111903",
-          "titleUrl": "https://www.imdb.com/title/tt0111903/",
-          "votes": 1114
-        },
-        "rottenTomatoes": {
-          "value": null,
-          "scale": 100,
-          "url": "https://www.rottentomatoes.com/m/buffalo_girls",
-          "searchUrl": "https://www.rottentomatoes.com/search?search=Buffalo+Girls",
-          "observedAt": "2026-11-05T08:31:51.577541+00:00",
-          "status": "unrated",
-          "source": "rottenTomatoes",
-          "attribution": "Rotten Tomatoes",
-          "metric": "tomatometer",
-          "audience": {
-            "value": 68.0,
-            "scale": 100,
-            "url": "https://www.rottentomatoes.com/m/buffalo_girls",
-            "searchUrl": "https://www.rottentomatoes.com/search?search=Buffalo+Girls",
-            "observedAt": "2026-11-05T08:31:51.577541+00:00",
-            "status": "verified",
-            "source": "rottenTomatoes",
-            "attribution": "Rotten Tomatoes",
-            "metric": "popcornmeter"
-          }
-        }
-      },
-      "sourceUrl": "https://www.filmaffinity.com/es/film703786.html",
-      "sources": [
-        "https://www.filmaffinity.com/es/film703786.html"
-      ],
-      "filmaffinityId": "703786",
-      "imdbId": "tt0111903",
-      "aliases": [
-        "Buffalo Girls",
-        "Mujeres de Búfalo"
-      ],
-      "mergedIds": [],
-      "metadataSources": {
-        "runtime": {
-          "source": "filmaffinity",
-          "url": "https://www.filmaffinity.com/es/film703786.html",
-          "observedAt": "2026-10-06T07:36:06.520580+00:00",
-          "status": "stale",
-          "identityStatus": "verified"
-        },
-        "cast": {
-          "source": "filmaffinity",
-          "url": "https://www.filmaffinity.com/es/film703786.html",
-          "observedAt": "2026-10-06T07:36:06.520580+00:00",
-          "status": "stale"
-        },
-        "originalTitle": {
-          "source": "reviewed_imdb_dataset",
-          "url": "https://www.imdb.com/title/tt0111903/",
-          "observedAt": "2026-09-05T18:37:51.793235+00:00",
-          "identityStatus": "verified"
-        }
-      }
-    },
-    {
-      "id": "fa-705799",
-      "title": "Gulag",
-      "originalTitle": "Gulag",
-      "year": 1985,
-      "runtime": 130,
-      "director": "Roger Young",
-      "cast": [
-        "David Keith",
-        "Malcolm McDowell",
-        "Warren Clarke",
-        "John McEnery",
-        "Nancy Paul",
-        "Brian Pettifer",
-        "George Pravda",
-        "Shane Rimmer",
-        "Bruce Boa",
-        "Eugene Lipinski",
-        "Ray Jewers",
-        "Bogdan Kominowski"
-      ],
-      "genres": [
-        "Drama"
-      ],
-      "synopsis": "Mickey Almon es un popular reportero deportivo que se encuentra cubriendo los Juegos Olímpicos de Moscú. Engañado por la KGB y forzado a confesar que es un espía, es detenido y enviado a Gulag, una prisión situada en Siberia. Incapaz de probar su propia inocencia, Mickey deberá afrontar condiciones inhumanas o comenzar a pensar en un plan de fuga. (FILMAFFINITY)",
-      "poster": "https://pics.filmaffinity.com/gulag_tv-579617964-large.jpg",
-      "trailer": null,
-      "ratings": {
-        "filmaffinity": {
-          "value": 6.1,
-          "scale": 10,
-          "url": "https://www.filmaffinity.com/es/film705799.html",
-          "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Gulag&stype=title",
-          "observedAt": "2026-11-05T08:05:55.288426+00:00",
-          "status": "verified",
-          "source": "filmaffinity",
-          "attribution": "FilmAffinity",
-          "metric": "user_rating"
-        },
-        "imdb": {
-          "value": 6.5,
-          "scale": 10,
-          "max": 10,
-          "metric": "user_rating",
-          "status": "verified",
-          "source": "imdb_dataset",
-          "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
-          "attribution": "IMDb non-commercial datasets",
-          "observedAt": "2026-11-05T08:25:17Z",
-          "searchUrl": "https://www.imdb.com/find/?q=Gulag&s=tt",
-          "imdbId": "tt0089240",
-          "titleUrl": "https://www.imdb.com/title/tt0089240/",
-          "votes": 877
-        },
-        "rottenTomatoes": {
-          "value": null,
-          "scale": 100,
-          "url": "https://www.rottentomatoes.com/m/gulag",
-          "searchUrl": "https://www.rottentomatoes.com/search?search=Gulag",
-          "observedAt": "2026-11-05T08:31:49.814950+00:00",
-          "status": "unrated",
-          "source": "rottenTomatoes",
-          "attribution": "Rotten Tomatoes",
-          "metric": "tomatometer",
-          "audience": {
-            "value": 58.0,
-            "scale": 100,
-            "url": "https://www.rottentomatoes.com/m/gulag",
-            "searchUrl": "https://www.rottentomatoes.com/search?search=Gulag",
-            "observedAt": "2026-11-05T08:31:49.814950+00:00",
-            "status": "verified",
-            "source": "rottenTomatoes",
-            "attribution": "Rotten Tomatoes",
-            "metric": "popcornmeter"
-          }
-        }
-      },
-      "sourceUrl": "https://www.filmaffinity.com/es/film705799.html",
-      "sources": [
-        "https://www.filmaffinity.com/es/film705799.html"
-      ],
-      "filmaffinityId": "705799",
-      "imdbId": "tt0089240",
-      "aliases": [
-        "Gulag"
-      ],
-      "mergedIds": [],
-      "metadataSources": {
-        "runtime": {
-          "source": "filmaffinity",
-          "url": "https://www.filmaffinity.com/es/film705799.html",
-          "observedAt": "2026-10-16T07:58:37.316113+00:00",
-          "status": "verified",
-          "identityStatus": "verified"
-        },
-        "cast": {
-          "source": "filmaffinity",
-          "url": "https://www.filmaffinity.com/es/film705799.html",
-          "observedAt": "2026-11-05T08:05:55.288426+00:00",
-          "status": "verified"
-        },
-        "originalTitle": {
-          "source": "filmaffinity",
-          "url": "https://www.filmaffinity.com/es/film705799.html",
-          "observedAt": "2026-09-29T07:44:51.937279+00:00",
-          "identityStatus": "verified"
-        }
-      }
-    },
-    {
-      "id": "fa-728190",
-      "title": "In the Name of Love: A Texas Tragedy",
-      "originalTitle": "In the Name of Love: A Texas Tragedy",
-      "year": 1995,
-      "runtime": 96,
-      "director": "Bill D'Elia",
-      "cast": [
-        "Laura Leighton",
-        "Michael Hayden",
-        "Richard Crenna",
-        "Bonnie Bartlett",
-        "Rebeccah Bush",
-        "Akin Babatunde",
-        "Todd Terry",
-        "David Denney",
-        "Neith Hunter",
-        "Travis Davis",
-        "Alissa Alban",
-        "Margaret Bowman",
-        "Rodger Boyce",
-        "Vince Davis",
-        "Todd Duffey"
-      ],
-      "genres": [
-        "Drama"
-      ],
-      "synopsis": "Luke parece tenerlo todo: prestigio y una novia atractiva. Sin embargo, cuando un accidente le deja paralítico, su prometida rompe con él. (FILMAFFINITY)",
-      "poster": "https://pics.filmaffinity.com/tragedia_de_amor-742332323-large.jpg",
-      "trailer": null,
-      "ratings": {
-        "filmaffinity": {
-          "value": null,
-          "scale": 10,
-          "url": "https://www.filmaffinity.com/es/film728190.html",
-          "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=In+the+Name+of+Love%3A+A+Texas+Tragedy&stype=title",
-          "observedAt": "2026-11-05T08:31:44Z",
-          "status": "blocked",
-          "source": "filmaffinity",
-          "attribution": "FilmAffinity",
-          "metric": "user_rating"
-        },
-        "imdb": {
-          "value": 6.1,
-          "scale": 10,
-          "max": 10,
-          "metric": "user_rating",
-          "status": "verified",
-          "source": "imdb_dataset",
-          "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
-          "attribution": "IMDb non-commercial datasets",
-          "observedAt": "2026-11-05T08:25:17Z",
-          "searchUrl": "https://www.imdb.com/find/?q=In+the+Name+of+Love%3A+A+Texas+Tragedy&s=tt",
-          "imdbId": "tt0113410",
-          "titleUrl": "https://www.imdb.com/title/tt0113410/",
-          "votes": 263
-        },
-        "rottenTomatoes": {
-          "value": null,
-          "scale": 100,
-          "url": "https://www.rottentomatoes.com/m/in_the_name_of_love_a_texas_tragedy",
-          "searchUrl": "https://www.rottentomatoes.com/search?search=In+the+Name+of+Love%3A+A+Texas+Tragedy",
-          "observedAt": "2026-11-05T08:31:45.827766+00:00",
-          "status": "unrated",
-          "source": "rottenTomatoes",
-          "attribution": "Rotten Tomatoes",
-          "metric": "tomatometer",
-          "audience": {
-            "value": 89.0,
-            "scale": 100,
-            "url": "https://www.rottentomatoes.com/m/in_the_name_of_love_a_texas_tragedy",
-            "searchUrl": "https://www.rottentomatoes.com/search?search=In+the+Name+of+Love%3A+A+Texas+Tragedy",
-            "observedAt": "2026-11-05T08:31:45.827766+00:00",
-            "status": "verified",
-            "source": "rottenTomatoes",
-            "attribution": "Rotten Tomatoes",
-            "metric": "popcornmeter"
-          }
-        }
-      },
-      "sourceUrl": "https://www.filmaffinity.com/es/film728190.html",
-      "sources": [
-        "https://www.filmaffinity.com/es/film728190.html"
-      ],
-      "filmaffinityId": "728190",
-      "imdbId": "tt0113410",
-      "aliases": [
-        "Tragedia de amor"
-      ],
-      "mergedIds": [],
-      "metadataSources": {
-        "runtime": {
-          "source": "filmaffinity",
-          "url": "https://www.filmaffinity.com/es/film728190.html",
-          "observedAt": "2026-10-18T07:22:40Z",
-          "status": "verified",
-          "identityStatus": "verified"
-        },
-        "cast": {
-          "source": "filmaffinity",
-          "url": "https://www.filmaffinity.com/es/film728190.html",
-          "observedAt": "2026-11-05T08:05:57.174593+00:00",
-          "status": "verified"
-        },
-        "originalTitle": {
-          "source": "wikidata",
-          "url": "https://www.wikidata.org/wiki/Q12125052",
-          "observedAt": "2026-09-29T09:46:22.588614+02:00",
-          "status": "verified"
-        }
-      }
-    },
-    {
-      "id": "fa-210498",
-      "title": "Las bucaneras",
-      "originalTitle": "The Buccaneers",
-      "year": 1995,
-      "runtime": 220,
-      "director": "Philip Saville",
-      "cast": [
-        "Carla Gugino",
-        "Alison Elliott",
-        "Mira Sorvino",
-        "Rya Kihlstedt",
-        "Mark Tandy",
-        "Dinsdale Landen",
-        "Cherie Lunghi",
-        "Sophie Dix",
-        "Sienna Guillory",
-        "Rosemary Leach",
-        "Emily Hamilton",
-        "Ronan Vibert",
-        "Michael Kitchen",
-        "Greg Wise",
-        "Connie Booth",
-        "James Frain"
-      ],
-      "genres": [
-        "Serie de TV",
-        "Drama",
-        "Romance",
-        "Aventuras"
-      ],
-      "synopsis": "¿Por qué a cuatro jóvenes americanas recientemente enriquecidas les resulta tan  difícil entrar en la sofisticada sociedad de Nueva York? Creyendo que en Inglaterra, las cosas son distintas, deciden pasar una temporada en Londres, pero pronto descubrirán que tampoco esta ciudad responde a sus expectativas. (FILMAFFINITY)",
-      "poster": "https://pics.filmaffinity.com/the_buccaneers-285472299-large.jpg",
-      "trailer": null,
-      "ratings": {
-        "filmaffinity": {
-          "value": 5.3,
-          "scale": 10,
-          "url": "https://www.filmaffinity.com/es/film210498.html",
-          "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Las+bucaneras&stype=title",
-          "observedAt": "2026-11-05T08:05:59.154359+00:00",
-          "status": "verified",
-          "source": "filmaffinity",
-          "attribution": "FilmAffinity",
-          "metric": "user_rating"
-        },
-        "imdb": {
-          "value": 7.1,
-          "scale": 10,
-          "max": 10,
-          "metric": "user_rating",
-          "status": "verified",
-          "source": "imdb_dataset",
-          "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
-          "attribution": "IMDb non-commercial datasets",
-          "observedAt": "2026-11-05T08:25:17Z",
-          "searchUrl": "https://www.imdb.com/find/?q=The+Buccaneers&s=tt",
-          "imdbId": "tt0111902",
-          "titleUrl": "https://www.imdb.com/title/tt0111902/",
-          "votes": 2860
-        },
-        "rottenTomatoes": {
-          "value": null,
-          "scale": 100,
-          "url": "https://www.rottentomatoes.com/search?search=The+Buccaneers",
-          "searchUrl": "https://www.rottentomatoes.com/search?search=The+Buccaneers",
-          "observedAt": "2026-11-05T08:31:53Z",
-          "status": "not_found",
-          "source": "rottenTomatoes",
-          "attribution": "Rotten Tomatoes",
-          "metric": "tomatometer",
-          "audience": {
-            "value": null,
-            "scale": 100,
-            "url": "https://www.rottentomatoes.com/search?search=The+Buccaneers",
-            "searchUrl": "https://www.rottentomatoes.com/search?search=The+Buccaneers",
-            "observedAt": "2026-11-05T08:31:53Z",
-            "status": "not_found",
-            "source": "rottenTomatoes",
-            "attribution": "Rotten Tomatoes",
-            "metric": "popcornmeter"
-          }
-        }
-      },
-      "sourceUrl": "https://www.filmaffinity.com/es/film210498.html",
-      "sources": [
-        "https://www.filmaffinity.com/es/film210498.html"
-      ],
-      "filmaffinityId": "210498",
-      "imdbId": "tt0111902",
-      "aliases": [
-        "The Buccaneers"
-      ],
-      "mergedIds": [],
-      "metadataSources": {
-        "runtime": {
-          "source": "filmaffinity",
-          "url": "https://www.filmaffinity.com/es/film210498.html",
-          "observedAt": "2026-10-16T07:58:43.152045+00:00",
-          "status": "verified",
-          "identityStatus": "verified"
-        },
-        "cast": {
-          "source": "filmaffinity",
-          "url": "https://www.filmaffinity.com/es/film210498.html",
-          "observedAt": "2026-11-05T08:05:59.154359+00:00",
-          "status": "verified"
-        },
-        "originalTitle": {
-          "source": "reviewed_imdb_dataset",
-          "url": "https://www.imdb.com/title/tt0111902/",
-          "observedAt": "2026-09-05T18:37:51.793235+00:00",
-          "identityStatus": "verified"
-        }
-      }
-    },
-    {
       "id": "fa-689956",
       "title": "La ciudad de las estrellas (La La Land)",
       "originalTitle": "La La Land",
@@ -21337,6 +20770,101 @@
           "status": "stale"
         }
       }
+    },
+    {
+      "id": "movie-334257572d73b984d6cb",
+      "title": "El cascanueces (The Royal Ballet)",
+      "originalTitle": null,
+      "year": null,
+      "runtime": null,
+      "ageRating": null,
+      "director": null,
+      "genres": [],
+      "synopsis": null,
+      "poster": null,
+      "trailer": null,
+      "ratings": {},
+      "sourceUrl": "https://www.filmaffinity.com/es/theater-showtimes.php?id=223",
+      "sources": [
+        "https://www.filmaffinity.com/es/theater-showtimes.php?id=223",
+        "https://www.filmaffinity.com/es/theater-showtimes.php?id=224"
+      ]
+    },
+    {
+      "id": "movie-1cb9be64490b509ba51b",
+      "title": "Concierto de fin de año — Berliner Philharmonie",
+      "originalTitle": null,
+      "year": null,
+      "runtime": null,
+      "ageRating": null,
+      "director": null,
+      "genres": [],
+      "synopsis": null,
+      "poster": null,
+      "trailer": null,
+      "ratings": {},
+      "sourceUrl": "https://www.filmaffinity.com/es/theater-showtimes.php?id=223",
+      "sources": [
+        "https://www.filmaffinity.com/es/theater-showtimes.php?id=223",
+        "https://www.filmaffinity.com/es/theater-showtimes.php?id=224"
+      ]
+    },
+    {
+      "id": "movie-faa6f985bc2a3b7da7ee",
+      "title": "Alicia en el país de las maravillas (The Royal Ballet)",
+      "originalTitle": null,
+      "year": null,
+      "runtime": null,
+      "ageRating": null,
+      "director": null,
+      "genres": [],
+      "synopsis": null,
+      "poster": null,
+      "trailer": null,
+      "ratings": {},
+      "sourceUrl": "https://www.filmaffinity.com/es/theater-showtimes.php?id=223",
+      "sources": [
+        "https://www.filmaffinity.com/es/theater-showtimes.php?id=223",
+        "https://www.filmaffinity.com/es/theater-showtimes.php?id=224"
+      ]
+    },
+    {
+      "id": "movie-dbba5934bca40d3dbdbb",
+      "title": "Tosca — Royal Opera House de Londres",
+      "originalTitle": null,
+      "year": null,
+      "runtime": null,
+      "ageRating": null,
+      "director": null,
+      "genres": [],
+      "synopsis": null,
+      "poster": null,
+      "trailer": null,
+      "ratings": {},
+      "sourceUrl": "https://www.filmaffinity.com/es/theater-showtimes.php?id=223",
+      "sources": [
+        "https://www.filmaffinity.com/es/theater-showtimes.php?id=223",
+        "https://www.filmaffinity.com/es/theater-showtimes.php?id=224"
+      ]
+    },
+    {
+      "id": "movie-f506e3ac6b127d35d029",
+      "title": "Romeo y Julieta (The Royal Ballet)",
+      "originalTitle": null,
+      "year": null,
+      "runtime": null,
+      "ageRating": null,
+      "director": null,
+      "genres": [],
+      "synopsis": null,
+      "poster": null,
+      "trailer": null,
+      "ratings": {},
+      "sourceUrl": "https://www.filmaffinity.com/es/theater-showtimes.php?id=223",
+      "sources": [
+        "https://www.filmaffinity.com/es/theater-showtimes.php?id=223",
+        "https://www.filmaffinity.com/es/theater-showtimes.php?id=224"
+      ]
     }
   ],
   "cinemas": [
@@ -50900,7 +50428,7 @@
     },
     {
       "id": "9007ffbc15d70a49bb55",
-      "movieId": "fa-326795",
+      "movieId": "movie-334257572d73b984d6cb",
       "cinemaId": "mooby-aribau",
       "startsAt": "2026-12-01T20:15:00+01:00",
       "language": {
@@ -50925,7 +50453,7 @@
     },
     {
       "id": "69e49abd3270165ea8f5",
-      "movieId": "fa-326795",
+      "movieId": "movie-334257572d73b984d6cb",
       "cinemaId": "mooby-bosque",
       "startsAt": "2026-12-01T20:15:00+01:00",
       "language": {
@@ -51762,7 +51290,7 @@
     },
     {
       "id": "e0deea838ab029087bc2",
-      "movieId": "fa-728190",
+      "movieId": "movie-1cb9be64490b509ba51b",
       "cinemaId": "mooby-aribau",
       "startsAt": "2026-12-31T17:30:00+01:00",
       "language": {
@@ -51787,7 +51315,7 @@
     },
     {
       "id": "8be7b9d192b926d0df2d",
-      "movieId": "fa-728190",
+      "movieId": "movie-1cb9be64490b509ba51b",
       "cinemaId": "mooby-bosque",
       "startsAt": "2026-12-31T17:30:00+01:00",
       "language": {
@@ -51888,7 +51416,7 @@
     },
     {
       "id": "4b76d360aea8f29da661",
-      "movieId": "fa-705799",
+      "movieId": "movie-faa6f985bc2a3b7da7ee",
       "cinemaId": "mooby-aribau",
       "startsAt": "2027-03-23T20:15:00+01:00",
       "language": {
@@ -51913,7 +51441,7 @@
     },
     {
       "id": "dc70a5c38a1b9e998dd3",
-      "movieId": "fa-705799",
+      "movieId": "movie-faa6f985bc2a3b7da7ee",
       "cinemaId": "mooby-bosque",
       "startsAt": "2027-03-23T20:15:00+01:00",
       "language": {
@@ -51938,7 +51466,7 @@
     },
     {
       "id": "d1bffdd079be7aa0177a",
-      "movieId": "fa-703786",
+      "movieId": "movie-dbba5934bca40d3dbdbb",
       "cinemaId": "mooby-aribau",
       "startsAt": "2027-05-05T20:00:00+02:00",
       "language": {
@@ -51963,7 +51491,7 @@
     },
     {
       "id": "041a61fdf3cfbbe3eb1d",
-      "movieId": "fa-703786",
+      "movieId": "movie-dbba5934bca40d3dbdbb",
       "cinemaId": "mooby-bosque",
       "startsAt": "2027-05-05T20:00:00+02:00",
       "language": {
@@ -51988,7 +51516,7 @@
     },
     {
       "id": "5abd748555c471409cc3",
-      "movieId": "fa-210498",
+      "movieId": "movie-f506e3ac6b127d35d029",
       "cinemaId": "mooby-aribau",
       "startsAt": "2027-05-25T20:15:00+02:00",
       "language": {
@@ -52013,7 +51541,7 @@
     },
     {
       "id": "078258a672dd0c2683b4",
-      "movieId": "fa-210498",
+      "movieId": "movie-f506e3ac6b127d35d029",
       "cinemaId": "mooby-bosque",
       "startsAt": "2027-05-25T20:15:00+02:00",
       "language": {
