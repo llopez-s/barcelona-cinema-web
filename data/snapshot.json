@@ -18378,11 +18378,16 @@
       "ratings": {},
       "sourceUrl": "https://www.filmoteca.cat/web/ca/film/la-cinematheque-ideale-des-banlieues-du-monde-sessio-de-curtmetratges",
       "sources": [
+        "https://www.filmoteca.cat/web/ca/film/cinematheque-ideale-des-banlieues-du-monde-sessio-de-curtmetratges",
         "https://www.filmoteca.cat/web/ca/film/la-cinematheque-ideale-des-banlieues-du-monde-sessio-de-curtmetratges"
       ],
       "imdbId": null,
-      "aliases": [],
-      "mergedIds": [],
+      "aliases": [
+        "Cinémathèque Idéale des Banlieues du Monde | Sessió de curtmetratges"
+      ],
+      "mergedIds": [
+        "movie-b27058aa41fffe225c0f"
+      ],
       "programmeKind": "composite",
       "ratingScope": "programme",
       "components": [
@@ -20750,141 +20755,6 @@
       }
     },
     {
-      "id": "movie-b27058aa41fffe225c0f",
-      "title": "Cinémathèque Idéale des Banlieues du Monde | Sessió de curtmetratges",
-      "originalTitle": null,
-      "year": null,
-      "director": "Collectif Mohamed",
-      "genres": [],
-      "synopsis": "Una trilogia impulsada per Alice Diop mitjançant el projecte Cinémathèque Idéale des Banlieues du Monde , el qual qüestiona les lògiques de representació habituals dels barris marginals, tot mostrant-los com a espai de vida i no de conflicte.",
-      "poster": null,
-      "trailer": null,
-      "ratings": {
-        "imdb": {
-          "value": null,
-          "scale": 10,
-          "url": "https://www.imdb.com/find/?q=Cin%C3%A9math%C3%A8que+Id%C3%A9ale+des+Banlieues+du+Monde+%7C+Sessi%C3%B3+de+curtmetratges&s=tt&ttype=ft",
-          "searchUrl": "https://www.imdb.com/find/?q=Cin%C3%A9math%C3%A8que+Id%C3%A9ale+des+Banlieues+du+Monde+%7C+Sessi%C3%B3+de+curtmetratges&s=tt&ttype=ft",
-          "observedAt": "2026-11-01T08:33:40Z",
-          "status": "identity_unconfirmed",
-          "source": "imdb",
-          "attribution": "IMDb",
-          "metric": "user_rating"
-        },
-        "filmaffinity": {
-          "value": null,
-          "scale": 10,
-          "url": "https://www.filmaffinity.com/es/search.php?stext=Cin%C3%A9math%C3%A8que+Id%C3%A9ale+des+Banlieues+du+Monde+%7C+Sessi%C3%B3+de+curtmetratges&stype=title",
-          "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Cin%C3%A9math%C3%A8que+Id%C3%A9ale+des+Banlieues+du+Monde+%7C+Sessi%C3%B3+de+curtmetratges&stype=title",
-          "observedAt": "2026-11-01T08:33:40Z",
-          "status": "identity_unconfirmed",
-          "source": "filmaffinity",
-          "attribution": "FilmAffinity",
-          "metric": "user_rating"
-        },
-        "rottenTomatoes": {
-          "value": null,
-          "scale": 100,
-          "url": "https://www.rottentomatoes.com/search?search=Cin%C3%A9math%C3%A8que+Id%C3%A9ale+des+Banlieues+du+Monde+%7C+Sessi%C3%B3+de+curtmetratges",
-          "searchUrl": "https://www.rottentomatoes.com/search?search=Cin%C3%A9math%C3%A8que+Id%C3%A9ale+des+Banlieues+du+Monde+%7C+Sessi%C3%B3+de+curtmetratges",
-          "observedAt": "2026-11-01T08:33:40Z",
-          "status": "identity_unconfirmed",
-          "source": "rottenTomatoes",
-          "attribution": "Rotten Tomatoes",
-          "metric": "tomatometer",
-          "audience": {
-            "value": null,
-            "scale": 100,
-            "url": "https://www.rottentomatoes.com/search?search=Cin%C3%A9math%C3%A8que+Id%C3%A9ale+des+Banlieues+du+Monde+%7C+Sessi%C3%B3+de+curtmetratges",
-            "searchUrl": "https://www.rottentomatoes.com/search?search=Cin%C3%A9math%C3%A8que+Id%C3%A9ale+des+Banlieues+du+Monde+%7C+Sessi%C3%B3+de+curtmetratges",
-            "observedAt": "2026-11-01T08:33:40Z",
-            "status": "identity_unconfirmed",
-            "source": "rottenTomatoes",
-            "attribution": "Rotten Tomatoes",
-            "metric": "popcornmeter"
-          }
-        }
-      },
-      "sourceUrl": "https://www.filmoteca.cat/web/ca/film/cinematheque-ideale-des-banlieues-du-monde-sessio-de-curtmetratges",
-      "sources": [
-        "https://www.filmoteca.cat/web/ca/film/cinematheque-ideale-des-banlieues-du-monde-sessio-de-curtmetratges"
-      ],
-      "imdbId": null,
-      "aliases": [],
-      "mergedIds": [],
-      "programmeKind": "programme",
-      "ratingScope": "programme",
-      "components": [
-        {
-          "id": "work-bf89002b7f5475285223",
-          "title": "Le Garage",
-          "year": 1979,
-          "director": "COLLECTIF MOHAMED",
-          "sourceUrl": "https://www.filmoteca.cat/web/ca/film/cinematheque-ideale-des-banlieues-du-monde-sessio-de-curtmetratges",
-          "ratings": {
-            "imdb": {
-              "value": null,
-              "scale": 10,
-              "url": "https://www.imdb.com/find/?q=Le+Garage&s=tt&ttype=ft",
-              "searchUrl": "https://www.imdb.com/find/?q=Le+Garage&s=tt&ttype=ft",
-              "observedAt": "2026-11-05T08:29:53Z",
-              "status": "blocked",
-              "source": "imdb",
-              "attribution": "IMDb",
-              "metric": "user_rating"
-            },
-            "filmaffinity": {
-              "value": null,
-              "scale": 10,
-              "url": "https://www.filmaffinity.com/es/film299604.html",
-              "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Le+Garage&stype=title",
-              "observedAt": "2026-11-05T08:29:53Z",
-              "status": "blocked",
-              "source": "filmaffinity",
-              "attribution": "FilmAffinity",
-              "metric": "user_rating"
-            },
-            "rottenTomatoes": {
-              "value": null,
-              "scale": 100,
-              "url": "https://www.rottentomatoes.com/search?search=Le+Garage",
-              "searchUrl": "https://www.rottentomatoes.com/search?search=Le+Garage",
-              "observedAt": "2026-11-05T08:29:54Z",
-              "status": "not_found",
-              "source": "rottenTomatoes",
-              "attribution": "Rotten Tomatoes",
-              "metric": "tomatometer",
-              "audience": {
-                "value": null,
-                "scale": 100,
-                "url": "https://www.rottentomatoes.com/search?search=Le+Garage",
-                "searchUrl": "https://www.rottentomatoes.com/search?search=Le+Garage",
-                "observedAt": "2026-11-05T08:29:54Z",
-                "status": "not_found",
-                "source": "rottenTomatoes",
-                "attribution": "Rotten Tomatoes",
-                "metric": "popcornmeter"
-              }
-            }
-          },
-          "metadataSources": {
-            "year": {
-              "source": "official",
-              "url": "https://www.filmoteca.cat/web/ca/film/cinematheque-ideale-des-banlieues-du-monde-sessio-de-curtmetratges",
-              "observedAt": "2026-11-02T08:00:55.720958+00:00",
-              "status": "verified"
-            },
-            "director": {
-              "source": "official",
-              "url": "https://www.filmoteca.cat/web/ca/film/cinematheque-ideale-des-banlieues-du-monde-sessio-de-curtmetratges",
-              "observedAt": "2026-11-02T08:00:55.720958+00:00",
-              "status": "verified"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "movie-18d0c7df00e4a70de1c6",
       "title": "The Royal Opera: Carmen (2026-27)",
       "originalTitle": "The Royal Opera: Carmen (2026-27)",
@@ -22076,9 +21946,14 @@
         "url": "https://www.cinemamalda.com/"
       },
       "bookingUrl": null,
-      "sourceUrl": "https://www.cinemamalda.com/",
-      "observedAt": "2026-10-31T08:05:02.218316+00:00",
-      "status": "stale"
+      "sourceUrl": "https://www.cinemamalda.com/cartelera-dia-dia/",
+      "observedAt": "2026-11-05T10:30:31.367940+00:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemamalda.com/",
+        "https://www.cinemamalda.com/cartelera-dia-dia/"
+      ],
+      "notes": "ÚLTIMO PASE"
     },
     {
       "id": "084eaf5e66a6da2b4247",
@@ -22100,9 +21975,14 @@
         "url": "https://www.cinemamalda.com/"
       },
       "bookingUrl": null,
-      "sourceUrl": "https://www.cinemamalda.com/",
-      "observedAt": "2026-10-31T08:05:02.218316+00:00",
-      "status": "stale"
+      "sourceUrl": "https://www.cinemamalda.com/cartelera-dia-dia/",
+      "observedAt": "2026-11-05T10:30:31.367940+00:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemamalda.com/",
+        "https://www.cinemamalda.com/cartelera-dia-dia/"
+      ],
+      "notes": "ULTIMO PASE"
     },
     {
       "id": "df9f419a610bc835932a",
@@ -25148,9 +25028,13 @@
         "url": "https://www.cinemamalda.com/"
       },
       "bookingUrl": null,
-      "sourceUrl": "https://www.cinemamalda.com/",
-      "observedAt": "2026-10-31T08:05:02.218316+00:00",
-      "status": "stale"
+      "sourceUrl": "https://www.cinemamalda.com/cartelera-dia-dia/",
+      "observedAt": "2026-11-05T10:30:31.367940+00:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemamalda.com/",
+        "https://www.cinemamalda.com/cartelera-dia-dia/"
+      ]
     },
     {
       "id": "6bce5cce2727b36ed35c",
@@ -27753,9 +27637,13 @@
         "url": "https://www.cinemamalda.com/"
       },
       "bookingUrl": null,
-      "sourceUrl": "https://www.cinemamalda.com/",
-      "observedAt": "2026-10-31T08:05:02.218316+00:00",
-      "status": "stale"
+      "sourceUrl": "https://www.cinemamalda.com/cartelera-dia-dia/",
+      "observedAt": "2026-11-05T10:30:31.367940+00:00",
+      "status": "verified",
+      "sources": [
+        "https://www.cinemamalda.com/",
+        "https://www.cinemamalda.com/cartelera-dia-dia/"
+      ]
     },
     {
       "id": "460d587c09c95d599dc6",
@@ -49008,32 +48896,6 @@
       "notes": "Presentació i col·loqui a càrrec de Rosa Gutiérrez (UAB)"
     },
     {
-      "id": "99dace8593c218bfb756",
-      "movieId": "movie-b27058aa41fffe225c0f",
-      "cinemaId": "filmoteca",
-      "startsAt": "2026-11-18T18:00:00+01:00",
-      "language": {
-        "version": null,
-        "audio": null,
-        "subtitles": null,
-        "label": "Idioma no publicado"
-      },
-      "formats": [],
-      "price": {
-        "amount": null,
-        "kind": "unknown",
-        "currency": "EUR",
-        "label": "Consultar",
-        "url": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=1029&codiCicle=9"
-      },
-      "bookingUrl": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=1029&codiCicle=9",
-      "sourceUrl": "https://www.filmoteca.cat/web/ca/film/cinematheque-ideale-des-banlieues-du-monde-sessio-de-curtmetratges",
-      "observedAt": "2026-11-02T08:00:55.720958+00:00",
-      "status": "stale",
-      "room": "Sala Laya",
-      "notes": "Presentació a càrrec d'Elsa Charbit (Cinémathèque Idéale des Banlieues du Monde)."
-    },
-    {
       "id": "8beb3d35bba08dd10958",
       "movieId": "movie-b9efe4b33ba41d4ed39e",
       "cinemaId": "filmoteca",
@@ -49057,6 +48919,10 @@
       "observedAt": "2026-11-05T08:04:52.946998+00:00",
       "status": "verified",
       "room": "Sala Laya",
+      "sources": [
+        "https://www.filmoteca.cat/web/ca/film/cinematheque-ideale-des-banlieues-du-monde-sessio-de-curtmetratges",
+        "https://www.filmoteca.cat/web/ca/film/la-cinematheque-ideale-des-banlieues-du-monde-sessio-de-curtmetratges"
+      ],
       "notes": "Presentació a càrrec d'Elsa Charbit (Cinémathèque Idéale des Banlieues du Monde)."
     },
     {
@@ -52772,18 +52638,6 @@
       "status": "verified"
     },
     {
-      "id": "cf7d22ee5f2d5ea7452f",
-      "title": "Cinémathèque Idéale des Banlieues du Monde | Sessió de curtmetratges",
-      "type": "colloquium",
-      "cinemaId": "filmoteca",
-      "startsAt": "2026-11-18T18:00:00+01:00",
-      "endDate": null,
-      "description": "Dimecres 18 Novembre 2026 · 18:00 Presentació a càrrec d'Elsa Charbit (Cinémathèque Idéale des Banlieues du Monde). Sala Laya",
-      "url": "https://www.filmoteca.cat/web/ca/film/cinematheque-ideale-des-banlieues-du-monde-sessio-de-curtmetratges",
-      "observedAt": "2026-11-02T08:00:55.720958+00:00",
-      "status": "stale"
-    },
-    {
       "id": "71725dc614abd3327416",
       "title": "La salamandre",
       "type": "colloquium",
@@ -53281,13 +53135,13 @@
     {
       "cinemaId": "filmoteca",
       "status": "partial",
-      "sessions": 97,
+      "sessions": 96,
       "message": "Importación parcial: algunos detalles no han podido verificarse. Consultar la fuente.",
       "checkedAt": "2026-11-05T09:02:47.058235+01:00",
       "sourceUrl": "https://www.filmoteca.cat/web/ca/view-agenda-mensual",
       "programmeStatus": "partial",
       "verifiedSessions": 96,
-      "staleSessions": 1
+      "staleSessions": 0
     },
     {
       "cinemaId": "girona",
@@ -53315,12 +53169,12 @@
       "cinemaId": "malda",
       "status": "partial",
       "sessions": 4,
-      "message": "Importación parcial: algunos detalles no han podido verificarse. Consultar la fuente.",
-      "checkedAt": "2026-11-05T09:02:47.058235+01:00",
-      "sourceUrl": "https://www.sensacine.com/cines/cine/E0682/",
-      "programmeStatus": "stale_only",
-      "verifiedSessions": 0,
-      "staleSessions": 4
+      "message": "Cuatro pases verificados en la cartelera diaria oficial; rango semanal sin confirmar.",
+      "checkedAt": "2026-11-05T11:37:36.389957+01:00",
+      "sourceUrl": "https://www.cinemamalda.com/cartelera-dia-dia/",
+      "programmeStatus": "partial",
+      "verifiedSessions": 4,
+      "staleSessions": 0
     },
     {
       "cinemaId": "melies",
