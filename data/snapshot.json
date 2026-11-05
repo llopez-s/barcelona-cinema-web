@@ -28108,8 +28108,8 @@
       },
       "bookingUrl": "https://moobycinemas-sarria.admit-one.eu/?p=tickets&perfCode=113673&language=esp&theatre=26",
       "sourceUrl": "https://www.filmaffinity.com/es/theater-showtimes.php?id=227",
-      "observedAt": "2026-09-21T09:17:45.870590+02:00",
-      "status": "stale",
+      "observedAt": "2026-11-05T08:03:06.323385+00:00",
+      "status": "verified",
       "room": "SALA 01"
     },
     {
@@ -47263,6 +47263,32 @@
       "notes": "Presentació i col·loqui a càrrec d'Elisenda Díaz Garcés, investigadora (UAB)"
     },
     {
+      "id": "a3e2242a33d404e81c84",
+      "movieId": "fa-784063",
+      "cinemaId": "mooby-balmes",
+      "startsAt": "2026-11-12T20:00:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "(VOSE)"
+      },
+      "formats": [],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://moobycinemas-balmes.admit-one.eu/?p=tickets&perfCode=189219&language=esp&theatre=29"
+      },
+      "bookingUrl": "https://moobycinemas-balmes.admit-one.eu/?p=tickets&perfCode=189219&language=esp&theatre=29",
+      "sourceUrl": "https://www.filmaffinity.com/es/theater-showtimes.php?id=542",
+      "observedAt": "2026-11-05T08:02:58.066282+00:00",
+      "status": "verified",
+      "room": "SALA 09",
+      "notes": "Pase publicado con identificador propio; el pase histórico del 19/11 sigue sin confirmar."
+    },
+    {
       "id": "dfd363e1fb3b9e1b9e56",
       "movieId": "movie-8c2cc1e91d6173dac844",
       "cinemaId": "filmoteca",
@@ -47546,8 +47572,8 @@
       },
       "bookingUrl": "https://moobycinemas-aribau.admit-one.eu/?p=tickets&perfCode=67582&language=esp&theatre=28",
       "sourceUrl": "https://www.filmaffinity.com/es/theater-showtimes.php?id=223",
-      "observedAt": "2026-09-29T07:43:08.954816+00:00",
-      "status": "stale",
+      "observedAt": "2026-11-05T08:03:04.287313+00:00",
+      "status": "verified",
       "room": "SALA 05"
     },
     {
@@ -48692,7 +48718,8 @@
       "sourceUrl": "https://www.filmaffinity.com/es/theater-showtimes.php?id=542",
       "observedAt": "2026-09-21T09:17:45.870590+02:00",
       "status": "stale",
-      "room": "SALA 09"
+      "room": "SALA 09",
+      "notes": "Fecha del 19/11 conservada sin revalidar. La cartelera consultada publica otro pase el 12/11 a las 20:00, con identificador distinto; no consta cancelación de este pase."
     },
     {
       "id": "496e0a768e0b2d8a57cd",
@@ -49991,8 +50018,8 @@
       },
       "bookingUrl": "https://moobycinemas-aribau.admit-one.eu/?p=tickets&perfCode=68998&language=esp&theatre=28",
       "sourceUrl": "https://www.filmaffinity.com/es/theater-showtimes.php?id=223",
-      "observedAt": "2026-09-29T07:43:08.954816+00:00",
-      "status": "stale",
+      "observedAt": "2026-11-05T08:03:04.287313+00:00",
+      "status": "verified",
       "room": "SALA 05"
     },
     {
@@ -50447,8 +50474,8 @@
       },
       "bookingUrl": "https://moobycinemas-aribau.admit-one.eu/?p=tickets&perfCode=68768&language=esp&theatre=28",
       "sourceUrl": "https://www.filmaffinity.com/es/theater-showtimes.php?id=223",
-      "observedAt": "2026-09-29T07:43:08.954816+00:00",
-      "status": "stale",
+      "observedAt": "2026-11-05T08:03:04.287313+00:00",
+      "status": "verified",
       "room": "SALA 03"
     },
     {
@@ -50472,8 +50499,8 @@
       },
       "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=139520&language=esp&theatre=27",
       "sourceUrl": "https://www.filmaffinity.com/es/theater-showtimes.php?id=224",
-      "observedAt": "2026-09-30T07:03:59.947818+00:00",
-      "status": "stale",
+      "observedAt": "2026-11-05T08:03:00.068825+00:00",
+      "status": "verified",
       "room": "SALA 01"
     },
     {
@@ -50521,8 +50548,8 @@
       },
       "bookingUrl": "https://moobycinemas-sarria.admit-one.eu/?p=tickets&perfCode=117156&language=esp&theatre=26",
       "sourceUrl": "https://www.filmaffinity.com/es/theater-showtimes.php?id=227",
-      "observedAt": "2026-09-21T09:17:45.870590+02:00",
-      "status": "stale",
+      "observedAt": "2026-11-05T08:03:06.323385+00:00",
+      "status": "verified",
       "room": "SALA 01"
     },
     {
@@ -50595,8 +50622,8 @@
       },
       "bookingUrl": "https://moobycinemas-aribau.admit-one.eu/?p=tickets&perfCode=68999&language=esp&theatre=28",
       "sourceUrl": "https://www.filmaffinity.com/es/theater-showtimes.php?id=223",
-      "observedAt": "2026-09-29T07:43:08.954816+00:00",
-      "status": "stale",
+      "observedAt": "2026-11-05T08:03:04.287313+00:00",
+      "status": "verified",
       "room": "SALA 05"
     },
     {
@@ -50807,8 +50834,8 @@
       },
       "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=140333&language=esp&theatre=27",
       "sourceUrl": "https://www.filmaffinity.com/es/theater-showtimes.php?id=224",
-      "observedAt": "2026-09-30T07:03:59.947818+00:00",
-      "status": "stale",
+      "observedAt": "2026-11-05T08:03:00.068825+00:00",
+      "status": "verified",
       "room": "SALA 01"
     },
     {
@@ -51309,8 +51336,8 @@
       },
       "bookingUrl": "https://moobycinemas-aribau.admit-one.eu/?p=tickets&perfCode=68775&language=esp&theatre=28",
       "sourceUrl": "https://www.filmaffinity.com/es/theater-showtimes.php?id=223",
-      "observedAt": "2026-09-29T07:43:08.954816+00:00",
-      "status": "stale",
+      "observedAt": "2026-11-05T08:03:04.287313+00:00",
+      "status": "verified",
       "room": "SALA 03"
     },
     {
@@ -51334,8 +51361,8 @@
       },
       "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=139527&language=esp&theatre=27",
       "sourceUrl": "https://www.filmaffinity.com/es/theater-showtimes.php?id=224",
-      "observedAt": "2026-09-30T07:03:59.947818+00:00",
-      "status": "stale",
+      "observedAt": "2026-11-05T08:03:00.068825+00:00",
+      "status": "verified",
       "room": "SALA 01"
     },
     {
@@ -51359,8 +51386,8 @@
       },
       "bookingUrl": "https://moobycinemas-sarria.admit-one.eu/?p=tickets&perfCode=117157&language=esp&theatre=26",
       "sourceUrl": "https://www.filmaffinity.com/es/theater-showtimes.php?id=227",
-      "observedAt": "2026-09-21T09:17:45.870590+02:00",
-      "status": "stale",
+      "observedAt": "2026-11-05T08:03:06.323385+00:00",
+      "status": "verified",
       "room": "SALA 01"
     },
     {
@@ -51435,8 +51462,8 @@
       },
       "bookingUrl": "https://moobycinemas-aribau.admit-one.eu/?p=tickets&perfCode=68774&language=esp&theatre=28",
       "sourceUrl": "https://www.filmaffinity.com/es/theater-showtimes.php?id=223",
-      "observedAt": "2026-09-29T07:43:08.954816+00:00",
-      "status": "stale",
+      "observedAt": "2026-11-05T08:03:04.287313+00:00",
+      "status": "verified",
       "room": "SALA 03"
     },
     {
@@ -51460,8 +51487,8 @@
       },
       "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=139523&language=esp&theatre=27",
       "sourceUrl": "https://www.filmaffinity.com/es/theater-showtimes.php?id=224",
-      "observedAt": "2026-09-30T07:03:59.947818+00:00",
-      "status": "stale",
+      "observedAt": "2026-11-05T08:03:00.068825+00:00",
+      "status": "verified",
       "room": "SALA 01"
     },
     {
@@ -51485,8 +51512,8 @@
       },
       "bookingUrl": "https://moobycinemas-aribau.admit-one.eu/?p=tickets&perfCode=68772&language=esp&theatre=28",
       "sourceUrl": "https://www.filmaffinity.com/es/theater-showtimes.php?id=223",
-      "observedAt": "2026-09-29T07:43:08.954816+00:00",
-      "status": "stale",
+      "observedAt": "2026-11-05T08:03:04.287313+00:00",
+      "status": "verified",
       "room": "SALA 03"
     },
     {
@@ -51510,8 +51537,8 @@
       },
       "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=139525&language=esp&theatre=27",
       "sourceUrl": "https://www.filmaffinity.com/es/theater-showtimes.php?id=224",
-      "observedAt": "2026-09-30T07:03:59.947818+00:00",
-      "status": "stale",
+      "observedAt": "2026-11-05T08:03:00.068825+00:00",
+      "status": "verified",
       "room": "SALA 01"
     },
     {
@@ -51535,8 +51562,8 @@
       },
       "bookingUrl": "https://moobycinemas-aribau.admit-one.eu/?p=tickets&perfCode=68773&language=esp&theatre=28",
       "sourceUrl": "https://www.filmaffinity.com/es/theater-showtimes.php?id=223",
-      "observedAt": "2026-09-29T07:43:08.954816+00:00",
-      "status": "stale",
+      "observedAt": "2026-11-05T08:03:04.287313+00:00",
+      "status": "verified",
       "room": "SALA 03"
     },
     {
@@ -51560,8 +51587,8 @@
       },
       "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=139526&language=esp&theatre=27",
       "sourceUrl": "https://www.filmaffinity.com/es/theater-showtimes.php?id=224",
-      "observedAt": "2026-09-30T07:03:59.947818+00:00",
-      "status": "stale",
+      "observedAt": "2026-11-05T08:03:00.068825+00:00",
+      "status": "verified",
       "room": "SALA 01"
     }
   ],
@@ -52734,18 +52761,18 @@
       "checkedAt": "2026-11-05T09:02:47.058235+01:00",
       "sourceUrl": "https://www.sensacine.com/cines/cine/E0091/",
       "programmeStatus": "partial",
-      "verifiedSessions": 2,
-      "staleSessions": 9
+      "verifiedSessions": 10,
+      "staleSessions": 1
     },
     {
       "cinemaId": "mooby-balmes",
       "status": "partial",
-      "sessions": 38,
+      "sessions": 39,
       "message": "Importación parcial: algunos detalles no han podido verificarse. Consultar la fuente.",
       "checkedAt": "2026-11-05T09:02:47.058235+01:00",
       "sourceUrl": "https://www.sensacine.com/cines/cine/E0808/",
       "programmeStatus": "partial",
-      "verifiedSessions": 35,
+      "verifiedSessions": 36,
       "staleSessions": 3
     },
     {
@@ -52756,8 +52783,8 @@
       "checkedAt": "2026-11-05T09:02:47.058235+01:00",
       "sourceUrl": "https://www.sensacine.com/cines/cine/E0136/",
       "programmeStatus": "partial",
-      "verifiedSessions": 25,
-      "staleSessions": 6
+      "verifiedSessions": 31,
+      "staleSessions": 0
     },
     {
       "cinemaId": "mooby-glories",
@@ -52778,8 +52805,8 @@
       "checkedAt": "2026-11-05T09:02:47.058235+01:00",
       "sourceUrl": "https://www.sensacine.com/cines/cine/E0447/",
       "programmeStatus": "partial",
-      "verifiedSessions": 8,
-      "staleSessions": 4
+      "verifiedSessions": 11,
+      "staleSessions": 1
     },
     {
       "cinemaId": "palau-balana",
