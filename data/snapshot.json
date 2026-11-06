@@ -75080,10 +75080,14 @@
         "url": "https://moobycinemas-arenas.admit-one.eu/?p=tickets&perfCode=191648&language=esp&theatre=24"
       },
       "bookingUrl": "https://moobycinemas-arenas.admit-one.eu/?p=tickets&perfCode=191648&language=esp&theatre=24",
-      "sourceUrl": "https://www.filmaffinity.com/es/theater-showtimes.php?id=501",
-      "observedAt": "2026-09-21T09:17:45.870590+02:00",
-      "status": "stale",
-      "room": "SALA 05"
+      "sourceUrl": "https://barna.news/whats-on/cinema/film/dune-part-three/",
+      "observedAt": "2026-11-06T16:16:44.505442+00:00",
+      "status": "verified",
+      "room": "SALA 05",
+      "sources": [
+        "https://barna.news/whats-on/cinema/film/dune-part-three/",
+        "https://www.filmaffinity.com/es/theater-showtimes.php?id=501"
+      ]
     },
     {
       "id": "f1dd0dd05e45fcdf1a10",
@@ -78067,8 +78071,8 @@
       "checkedAt": "2026-11-06T09:03:22.574998+01:00",
       "sourceUrl": "https://www.sensacine.com/cines/cine/E0764/",
       "programmeStatus": "partial",
-      "verifiedSessions": 261,
-      "staleSessions": 1
+      "verifiedSessions": 262,
+      "staleSessions": 0
     },
     {
       "cinemaId": "mooby-aribau",
