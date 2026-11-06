@@ -19833,7 +19833,7 @@
       "imdbId": null,
       "aliases": [],
       "mergedIds": [],
-      "programmeKind": "programme",
+      "programmeKind": "composite",
       "ratingScope": "programme",
       "metadataSources": {
         "runtime": {
@@ -19843,7 +19843,144 @@
           "status": "verified"
         }
       },
-      "components": []
+      "components": [
+        {
+          "id": "work-f42706ac15fa6bec5a5b",
+          "title": "M’encantaria veure’t",
+          "year": 2015,
+          "director": "Zaïde Bil, Sébastien Segers, et al.",
+          "sourceUrl": "https://primerfestivaldecine.com/ca/pellicules/mencantaria-veuret",
+          "sources": [
+            "https://primerfestivaldecine.com/ca/sessions/2026/acciocinema-infancies-fora-de-camp"
+          ],
+          "originalTitle": "Ik zou je graag zien",
+          "ratings": {},
+          "metadataSources": {
+            "year": {
+              "source": "El Meu Primer Festival",
+              "url": "https://primerfestivaldecine.com/ca/sessions/2026/acciocinema-infancies-fora-de-camp",
+              "observedAt": "2026-11-06T16:50:32.992978+01:00",
+              "status": "verified",
+              "identityStatus": "verified"
+            },
+            "director": {
+              "source": "El Meu Primer Festival",
+              "url": "https://primerfestivaldecine.com/ca/sessions/2026/acciocinema-infancies-fora-de-camp",
+              "observedAt": "2026-11-06T16:50:32.992978+01:00",
+              "status": "verified",
+              "identityStatus": "verified"
+            }
+          }
+        },
+        {
+          "id": "work-1e41a29c68fdd2fc0fcf",
+          "title": "Adéu, Belleville",
+          "year": 2024,
+          "director": "Adam Hegazy",
+          "sourceUrl": "https://primerfestivaldecine.com/ca/pellicules/adeu-belleville",
+          "sources": [
+            "https://primerfestivaldecine.com/ca/sessions/2026/acciocinema-infancies-fora-de-camp"
+          ],
+          "ratings": {},
+          "metadataSources": {
+            "year": {
+              "source": "El Meu Primer Festival",
+              "url": "https://primerfestivaldecine.com/ca/sessions/2026/acciocinema-infancies-fora-de-camp",
+              "observedAt": "2026-11-06T16:50:32.992978+01:00",
+              "status": "verified",
+              "identityStatus": "verified"
+            },
+            "director": {
+              "source": "El Meu Primer Festival",
+              "url": "https://primerfestivaldecine.com/ca/sessions/2026/acciocinema-infancies-fora-de-camp",
+              "observedAt": "2026-11-06T16:50:32.992978+01:00",
+              "status": "verified",
+              "identityStatus": "verified"
+            }
+          }
+        },
+        {
+          "id": "work-9d34e3eba889a5df4e2f",
+          "title": "Desi Oon",
+          "year": 2025,
+          "director": "Suresh Eriyat",
+          "sourceUrl": "https://primerfestivaldecine.com/ca/pellicules/desi-oon",
+          "sources": [
+            "https://primerfestivaldecine.com/ca/sessions/2026/acciocinema-infancies-fora-de-camp"
+          ],
+          "ratings": {},
+          "metadataSources": {
+            "year": {
+              "source": "El Meu Primer Festival",
+              "url": "https://primerfestivaldecine.com/ca/sessions/2026/acciocinema-infancies-fora-de-camp",
+              "observedAt": "2026-11-06T16:50:32.992978+01:00",
+              "status": "verified",
+              "identityStatus": "verified"
+            },
+            "director": {
+              "source": "El Meu Primer Festival",
+              "url": "https://primerfestivaldecine.com/ca/sessions/2026/acciocinema-infancies-fora-de-camp",
+              "observedAt": "2026-11-06T16:50:32.992978+01:00",
+              "status": "verified",
+              "identityStatus": "verified"
+            }
+          }
+        },
+        {
+          "id": "work-ac19c3c13d4e5c8334f6",
+          "title": "La cançó de la Maya",
+          "year": 2025,
+          "director": "Franziska Schönenberger y Jayakrishnan Subramanian",
+          "sourceUrl": "https://primerfestivaldecine.com/ca/pellicules/la-canco-de-la-maya",
+          "sources": [
+            "https://primerfestivaldecine.com/ca/sessions/2026/acciocinema-infancies-fora-de-camp"
+          ],
+          "ratings": {},
+          "metadataSources": {
+            "year": {
+              "source": "El Meu Primer Festival",
+              "url": "https://primerfestivaldecine.com/ca/sessions/2026/acciocinema-infancies-fora-de-camp",
+              "observedAt": "2026-11-06T16:50:32.992978+01:00",
+              "status": "verified",
+              "identityStatus": "verified"
+            },
+            "director": {
+              "source": "El Meu Primer Festival",
+              "url": "https://primerfestivaldecine.com/ca/sessions/2026/acciocinema-infancies-fora-de-camp",
+              "observedAt": "2026-11-06T16:50:32.992978+01:00",
+              "status": "verified",
+              "identityStatus": "verified"
+            }
+          }
+        },
+        {
+          "id": "work-4eb26cde4f3d45313cb8",
+          "title": "La foto de la Leili",
+          "year": 2025,
+          "director": "Maral Mostafavi",
+          "sourceUrl": "https://primerfestivaldecine.com/ca/pellicules/la-foto-de-la-leili",
+          "sources": [
+            "https://primerfestivaldecine.com/ca/sessions/2026/acciocinema-infancies-fora-de-camp"
+          ],
+          "ratings": {},
+          "metadataSources": {
+            "year": {
+              "source": "El Meu Primer Festival",
+              "url": "https://primerfestivaldecine.com/ca/sessions/2026/acciocinema-infancies-fora-de-camp",
+              "observedAt": "2026-11-06T16:50:32.992978+01:00",
+              "status": "verified",
+              "identityStatus": "verified"
+            },
+            "director": {
+              "source": "El Meu Primer Festival",
+              "url": "https://primerfestivaldecine.com/ca/sessions/2026/acciocinema-infancies-fora-de-camp",
+              "observedAt": "2026-11-06T16:50:32.992978+01:00",
+              "status": "verified",
+              "identityStatus": "verified"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "movie-578e71e69247db3c80cc",
@@ -22704,7 +22841,7 @@
       "imdbId": null,
       "aliases": [],
       "mergedIds": [],
-      "programmeKind": "programme",
+      "programmeKind": "composite",
       "ratingScope": "programme",
       "metadataSources": {
         "runtime": {
@@ -22714,7 +22851,197 @@
           "status": "verified"
         }
       },
-      "components": []
+      "components": [
+        {
+          "id": "work-d87d65543e9d2ffc4bea",
+          "title": "Prout",
+          "year": 2025,
+          "director": "Marc-Henri Wajnberg",
+          "sourceUrl": "https://primerfestivaldecine.com/ca/pellicules/prout",
+          "sources": [
+            "https://primerfestivaldecine.com/ca/sessions/2026/competicio-de-curtmetratges-10-anys"
+          ],
+          "ratings": {},
+          "metadataSources": {
+            "year": {
+              "source": "El Meu Primer Festival",
+              "url": "https://primerfestivaldecine.com/ca/sessions/2026/competicio-de-curtmetratges-10-anys",
+              "observedAt": "2026-11-06T16:50:32.992978+01:00",
+              "status": "verified",
+              "identityStatus": "verified"
+            },
+            "director": {
+              "source": "El Meu Primer Festival",
+              "url": "https://primerfestivaldecine.com/ca/sessions/2026/competicio-de-curtmetratges-10-anys",
+              "observedAt": "2026-11-06T16:50:32.992978+01:00",
+              "status": "verified",
+              "identityStatus": "verified"
+            }
+          }
+        },
+        {
+          "id": "work-dd729d5627387a6e0569",
+          "title": "Éiru",
+          "year": 2025,
+          "director": "Giovanna Ferrari",
+          "sourceUrl": "https://primerfestivaldecine.com/ca/pellicules/eiru",
+          "sources": [
+            "https://primerfestivaldecine.com/ca/sessions/2026/competicio-de-curtmetratges-10-anys"
+          ],
+          "ratings": {},
+          "metadataSources": {
+            "year": {
+              "source": "El Meu Primer Festival",
+              "url": "https://primerfestivaldecine.com/ca/sessions/2026/competicio-de-curtmetratges-10-anys",
+              "observedAt": "2026-11-06T16:50:32.992978+01:00",
+              "status": "verified",
+              "identityStatus": "verified"
+            },
+            "director": {
+              "source": "El Meu Primer Festival",
+              "url": "https://primerfestivaldecine.com/ca/sessions/2026/competicio-de-curtmetratges-10-anys",
+              "observedAt": "2026-11-06T16:50:32.992978+01:00",
+              "status": "verified",
+              "identityStatus": "verified"
+            }
+          }
+        },
+        {
+          "id": "work-5b609de4a7b05366e4f1",
+          "title": "Sense connexió",
+          "year": 2026,
+          "director": "Nina Mégroz",
+          "sourceUrl": "https://primerfestivaldecine.com/ca/pellicules/sense-connexio",
+          "sources": [
+            "https://primerfestivaldecine.com/ca/sessions/2026/competicio-de-curtmetratges-10-anys"
+          ],
+          "ratings": {},
+          "metadataSources": {
+            "year": {
+              "source": "El Meu Primer Festival",
+              "url": "https://primerfestivaldecine.com/ca/sessions/2026/competicio-de-curtmetratges-10-anys",
+              "observedAt": "2026-11-06T16:50:32.992978+01:00",
+              "status": "verified",
+              "identityStatus": "verified"
+            },
+            "director": {
+              "source": "El Meu Primer Festival",
+              "url": "https://primerfestivaldecine.com/ca/sessions/2026/competicio-de-curtmetratges-10-anys",
+              "observedAt": "2026-11-06T16:50:32.992978+01:00",
+              "status": "verified",
+              "identityStatus": "verified"
+            }
+          }
+        },
+        {
+          "id": "work-e5ba0ff152bd1ef335f0",
+          "title": "Duet",
+          "year": 2025,
+          "director": "Léo Brunel",
+          "sourceUrl": "https://primerfestivaldecine.com/ca/pellicules/duet",
+          "sources": [
+            "https://primerfestivaldecine.com/ca/sessions/2026/competicio-de-curtmetratges-10-anys"
+          ],
+          "ratings": {},
+          "metadataSources": {
+            "year": {
+              "source": "El Meu Primer Festival",
+              "url": "https://primerfestivaldecine.com/ca/sessions/2026/competicio-de-curtmetratges-10-anys",
+              "observedAt": "2026-11-06T16:50:32.992978+01:00",
+              "status": "verified",
+              "identityStatus": "verified"
+            },
+            "director": {
+              "source": "El Meu Primer Festival",
+              "url": "https://primerfestivaldecine.com/ca/sessions/2026/competicio-de-curtmetratges-10-anys",
+              "observedAt": "2026-11-06T16:50:32.992978+01:00",
+              "status": "verified",
+              "identityStatus": "verified"
+            }
+          }
+        },
+        {
+          "id": "work-806977de05e8cba6a8f1",
+          "title": "El dia que vaig llepar una pedreta",
+          "year": 2025,
+          "director": "Goli Atefi, Marie Pijollet et al.",
+          "sourceUrl": "https://primerfestivaldecine.com/ca/pellicules/el-dia-que-vaig-llepar-una-pedreta",
+          "sources": [
+            "https://primerfestivaldecine.com/ca/sessions/2026/competicio-de-curtmetratges-10-anys"
+          ],
+          "ratings": {},
+          "metadataSources": {
+            "year": {
+              "source": "El Meu Primer Festival",
+              "url": "https://primerfestivaldecine.com/ca/sessions/2026/competicio-de-curtmetratges-10-anys",
+              "observedAt": "2026-11-06T16:50:32.992978+01:00",
+              "status": "verified",
+              "identityStatus": "verified"
+            },
+            "director": {
+              "source": "El Meu Primer Festival",
+              "url": "https://primerfestivaldecine.com/ca/sessions/2026/competicio-de-curtmetratges-10-anys",
+              "observedAt": "2026-11-06T16:50:32.992978+01:00",
+              "status": "verified",
+              "identityStatus": "verified"
+            }
+          }
+        },
+        {
+          "id": "work-5a948a8a9574f0499f7d",
+          "title": "Saba",
+          "year": 2026,
+          "director": "Liron Topaz",
+          "sourceUrl": "https://primerfestivaldecine.com/ca/pellicules/saba",
+          "sources": [
+            "https://primerfestivaldecine.com/ca/sessions/2026/competicio-de-curtmetratges-10-anys"
+          ],
+          "ratings": {},
+          "metadataSources": {
+            "year": {
+              "source": "El Meu Primer Festival",
+              "url": "https://primerfestivaldecine.com/ca/sessions/2026/competicio-de-curtmetratges-10-anys",
+              "observedAt": "2026-11-06T16:50:32.992978+01:00",
+              "status": "verified",
+              "identityStatus": "verified"
+            },
+            "director": {
+              "source": "El Meu Primer Festival",
+              "url": "https://primerfestivaldecine.com/ca/sessions/2026/competicio-de-curtmetratges-10-anys",
+              "observedAt": "2026-11-06T16:50:32.992978+01:00",
+              "status": "verified",
+              "identityStatus": "verified"
+            }
+          }
+        },
+        {
+          "id": "work-9ef7ba015fd778365d4e",
+          "title": "La bèstia del Sena",
+          "year": 2025,
+          "director": "Jon Portman",
+          "sourceUrl": "https://primerfestivaldecine.com/ca/pellicules/la-bestia-del-sena",
+          "sources": [
+            "https://primerfestivaldecine.com/ca/sessions/2026/competicio-de-curtmetratges-10-anys"
+          ],
+          "ratings": {},
+          "metadataSources": {
+            "year": {
+              "source": "El Meu Primer Festival",
+              "url": "https://primerfestivaldecine.com/ca/sessions/2026/competicio-de-curtmetratges-10-anys",
+              "observedAt": "2026-11-06T16:50:32.992978+01:00",
+              "status": "verified",
+              "identityStatus": "verified"
+            },
+            "director": {
+              "source": "El Meu Primer Festival",
+              "url": "https://primerfestivaldecine.com/ca/sessions/2026/competicio-de-curtmetratges-10-anys",
+              "observedAt": "2026-11-06T16:50:32.992978+01:00",
+              "status": "verified",
+              "identityStatus": "verified"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "movie-bd3ec4693ed237c97aa4",
@@ -38581,11 +38908,28 @@
         "DCP"
       ],
       "price": {
-        "amount": null,
-        "kind": "unknown",
+        "kind": "published",
+        "amount": 2,
         "currency": "EUR",
-        "label": "Consultar",
-        "url": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=959&codiCicle=94"
+        "status": "verified",
+        "category": null,
+        "observedAt": "2026-11-06T16:50:32.992978+01:00",
+        "url": "https://primerfestivaldecine.com/ca/programacio/2026/barcelona",
+        "conditionsUrl": "https://primerfestivaldecine.com/info-practica",
+        "alternativeOffers": [
+          {
+            "kind": "published",
+            "amount": 0,
+            "currency": "EUR",
+            "category": "Carnet FilmoXica",
+            "status": "verified",
+            "conditions": "Gratuidad condicionada a presentar el carnet FilmoXica.",
+            "url": "https://www.filmoteca.cat/web/ca/film/le-corset",
+            "observedAt": "2026-11-06T08:04:12.625359+00:00"
+          }
+        ],
+        "label": "Importe publicado por El Meu Primer Festival · gratis con carnet FilmoXica",
+        "conditions": "Importe publicado para este pase. Venta anticipada o en taquilla el día de la sesión si quedan entradas. Categoría y extras sin confirmar. Filmoteca anuncia entrada gratuita con carnet FilmoXica. Los abonos y descuentos familiares del festival no se aplican en Filmoteca."
       },
       "bookingUrl": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=959&codiCicle=94",
       "sourceUrl": "https://www.filmoteca.cat/web/ca/film/le-corset",
@@ -45255,11 +45599,28 @@
         "Digital"
       ],
       "price": {
-        "amount": null,
-        "kind": "unknown",
+        "kind": "published",
+        "amount": 2,
         "currency": "EUR",
-        "label": "Consultar",
-        "url": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=959&codiCicle=95"
+        "status": "verified",
+        "category": null,
+        "observedAt": "2026-11-06T16:50:32.992978+01:00",
+        "url": "https://primerfestivaldecine.com/ca/sessions/2026/acciocinema-infancies-fora-de-camp",
+        "conditionsUrl": "https://primerfestivaldecine.com/info-practica",
+        "alternativeOffers": [
+          {
+            "kind": "published",
+            "amount": 0,
+            "currency": "EUR",
+            "category": "Carnet FilmoXica",
+            "status": "verified",
+            "conditions": "Gratuidad condicionada a presentar el carnet FilmoXica.",
+            "url": "https://www.filmoteca.cat/web/ca/film/infancies-fora-de-camp-sessio-de-curtmetratges",
+            "observedAt": "2026-11-06T08:04:17.244281+00:00"
+          }
+        ],
+        "label": "Importe publicado por El Meu Primer Festival · gratis con carnet FilmoXica",
+        "conditions": "Importe publicado para este pase. Venta anticipada o en taquilla el día de la sesión si quedan entradas. Categoría y extras sin confirmar. Filmoteca anuncia entrada gratuita con carnet FilmoXica. Los abonos y descuentos familiares del festival no se aplican en Filmoteca."
       },
       "bookingUrl": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=959&codiCicle=95",
       "sourceUrl": "https://www.filmoteca.cat/web/ca/film/infancies-fora-de-camp-sessio-de-curtmetratges",
@@ -70286,12 +70647,13 @@
         "url": "https://www.moobycinemas.com/preus"
       },
       "bookingUrl": null,
-      "sourceUrl": "https://www.filmagenda.es/cine/mooby-arenas",
-      "observedAt": "2026-11-05T08:02:59.357385+00:00",
-      "status": "stale",
+      "sourceUrl": "https://www.filmagenda.es/pelicula/14220-festive-fun-with-peppa-cinema-experience/barcelona",
+      "observedAt": "2026-11-06T15:53:13.468450+00:00",
+      "status": "verified",
       "room": null,
       "sources": [
-        "https://www.filmagenda.es/cine/mooby-arenas"
+        "https://www.filmagenda.es/cine/mooby-arenas",
+        "https://www.filmagenda.es/pelicula/14220-festive-fun-with-peppa-cinema-experience/barcelona"
       ]
     },
     {
@@ -70309,11 +70671,28 @@
         "DCP"
       ],
       "price": {
-        "amount": null,
-        "kind": "unknown",
+        "kind": "published",
+        "amount": 2,
         "currency": "EUR",
-        "label": "Consultar",
-        "url": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=959&codiCicle=96"
+        "status": "verified",
+        "category": null,
+        "observedAt": "2026-11-06T16:50:32.992978+01:00",
+        "url": "https://primerfestivaldecine.com/ca/programacio/2026/barcelona",
+        "conditionsUrl": "https://primerfestivaldecine.com/info-practica",
+        "alternativeOffers": [
+          {
+            "kind": "published",
+            "amount": 0,
+            "currency": "EUR",
+            "category": "Carnet FilmoXica",
+            "status": "verified",
+            "conditions": "Gratuidad condicionada a presentar el carnet FilmoXica.",
+            "url": "https://www.filmoteca.cat/web/ca/film/honey",
+            "observedAt": "2026-11-06T08:04:42.574562+00:00"
+          }
+        ],
+        "label": "Importe publicado por El Meu Primer Festival · gratis con carnet FilmoXica",
+        "conditions": "Importe publicado para este pase. Venta anticipada o en taquilla el día de la sesión si quedan entradas. Categoría y extras sin confirmar. Filmoteca anuncia entrada gratuita con carnet FilmoXica. Los abonos y descuentos familiares del festival no se aplican en Filmoteca."
       },
       "bookingUrl": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=959&codiCicle=96",
       "sourceUrl": "https://www.filmoteca.cat/web/ca/film/honey",
@@ -70335,11 +70714,16 @@
       },
       "formats": [],
       "price": {
-        "amount": null,
-        "kind": "unknown",
+        "kind": "published",
+        "amount": 7,
         "currency": "EUR",
-        "label": "Consultar",
-        "url": "https://www.codetickets.com/portal/primerfestivaldecine/online/37823/102163"
+        "status": "verified",
+        "category": null,
+        "observedAt": "2026-11-06T16:50:32.992978+01:00",
+        "url": "https://primerfestivaldecine.com/ca/programacio/2026/barcelona",
+        "conditionsUrl": "https://primerfestivaldecine.com/info-practica",
+        "label": "Importe publicado por El Meu Primer Festival",
+        "conditions": "Importe publicado para este pase. Venta anticipada o en taquilla el día de la sesión si quedan entradas. Categoría y extras sin confirmar. El festival anuncia descuentos acreditados en algunas sesiones. La elegibilidad concreta se consulta en la fuente."
       },
       "bookingUrl": "https://www.codetickets.com/portal/primerfestivaldecine/online/37823/102163",
       "sourceUrl": "https://zumzeigcine.coop/cinema/films/curts-llatins-arrels-aromes-i-color/",
@@ -70583,12 +70967,13 @@
         "url": "https://www.moobycinemas.com/preus"
       },
       "bookingUrl": null,
-      "sourceUrl": "https://www.filmagenda.es/cine/mooby-arenas",
-      "observedAt": "2026-11-05T08:02:59.357385+00:00",
-      "status": "stale",
+      "sourceUrl": "https://www.filmagenda.es/pelicula/14220-festive-fun-with-peppa-cinema-experience/barcelona",
+      "observedAt": "2026-11-06T15:53:13.468450+00:00",
+      "status": "verified",
       "room": null,
       "sources": [
-        "https://www.filmagenda.es/cine/mooby-arenas"
+        "https://www.filmagenda.es/cine/mooby-arenas",
+        "https://www.filmagenda.es/pelicula/14220-festive-fun-with-peppa-cinema-experience/barcelona"
       ]
     },
     {
@@ -70643,12 +71028,13 @@
         "url": "https://www.moobycinemas.com/preus"
       },
       "bookingUrl": null,
-      "sourceUrl": "https://www.filmagenda.es/cine/mooby-arenas",
-      "observedAt": "2026-11-05T08:02:59.357385+00:00",
-      "status": "stale",
+      "sourceUrl": "https://www.filmagenda.es/pelicula/14220-festive-fun-with-peppa-cinema-experience/barcelona",
+      "observedAt": "2026-11-06T15:53:13.468450+00:00",
+      "status": "verified",
       "room": null,
       "sources": [
-        "https://www.filmagenda.es/cine/mooby-arenas"
+        "https://www.filmagenda.es/cine/mooby-arenas",
+        "https://www.filmagenda.es/pelicula/14220-festive-fun-with-peppa-cinema-experience/barcelona"
       ]
     },
     {
@@ -70666,11 +71052,28 @@
         "DCP"
       ],
       "price": {
-        "amount": null,
-        "kind": "unknown",
+        "kind": "published",
+        "amount": 2,
         "currency": "EUR",
-        "label": "Consultar",
-        "url": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=959&codiCicle=97"
+        "status": "verified",
+        "category": null,
+        "observedAt": "2026-11-06T16:50:32.992978+01:00",
+        "url": "https://primerfestivaldecine.com/ca/programacio/2026/barcelona",
+        "conditionsUrl": "https://primerfestivaldecine.com/info-practica",
+        "alternativeOffers": [
+          {
+            "kind": "published",
+            "amount": 0,
+            "currency": "EUR",
+            "category": "Carnet FilmoXica",
+            "status": "verified",
+            "conditions": "Gratuidad condicionada a presentar el carnet FilmoXica.",
+            "url": "https://www.filmoteca.cat/web/ca/film/shorts-future-2026",
+            "observedAt": "2026-11-06T08:04:53.480215+00:00"
+          }
+        ],
+        "label": "Importe publicado por El Meu Primer Festival · gratis con carnet FilmoXica",
+        "conditions": "Importe publicado para este pase. Venta anticipada o en taquilla el día de la sesión si quedan entradas. Categoría y extras sin confirmar. Filmoteca anuncia entrada gratuita con carnet FilmoXica. Los abonos y descuentos familiares del festival no se aplican en Filmoteca."
       },
       "bookingUrl": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=959&codiCicle=97",
       "sourceUrl": "https://www.filmoteca.cat/web/ca/film/shorts-future-2026",
@@ -70692,11 +71095,16 @@
       },
       "formats": [],
       "price": {
-        "amount": null,
-        "kind": "unknown",
+        "kind": "published",
+        "amount": 7,
         "currency": "EUR",
-        "label": "Consultar",
-        "url": "https://www.codetickets.com/portal/primerfestivaldecine/online/37830/102171"
+        "status": "verified",
+        "category": null,
+        "observedAt": "2026-11-06T16:50:32.992978+01:00",
+        "url": "https://primerfestivaldecine.com/ca/programacio/2026/barcelona",
+        "conditionsUrl": "https://primerfestivaldecine.com/info-practica",
+        "label": "Importe publicado por El Meu Primer Festival",
+        "conditions": "Importe publicado para este pase. Venta anticipada o en taquilla el día de la sesión si quedan entradas. Categoría y extras sin confirmar. El festival anuncia descuentos acreditados en algunas sesiones. La elegibilidad concreta se consulta en la fuente."
       },
       "bookingUrl": "https://www.codetickets.com/portal/primerfestivaldecine/online/37830/102171",
       "sourceUrl": "https://zumzeigcine.coop/cinema/films/animalades-de-cine/",
@@ -70718,11 +71126,28 @@
         "DCP"
       ],
       "price": {
-        "amount": null,
-        "kind": "unknown",
+        "kind": "published",
+        "amount": 2,
         "currency": "EUR",
-        "label": "Consultar",
-        "url": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=959&codiCicle=98"
+        "status": "verified",
+        "category": null,
+        "observedAt": "2026-11-06T16:50:32.992978+01:00",
+        "url": "https://primerfestivaldecine.com/ca/programacio/2026/barcelona",
+        "conditionsUrl": "https://primerfestivaldecine.com/info-practica",
+        "alternativeOffers": [
+          {
+            "kind": "published",
+            "amount": 0,
+            "currency": "EUR",
+            "category": "Carnet FilmoXica",
+            "status": "verified",
+            "conditions": "Gratuidad condicionada a presentar el carnet FilmoXica.",
+            "url": "https://www.filmoteca.cat/web/ca/film/ghost-school",
+            "observedAt": "2026-11-06T08:04:55.456558+00:00"
+          }
+        ],
+        "label": "Importe publicado por El Meu Primer Festival · gratis con carnet FilmoXica",
+        "conditions": "Importe publicado para este pase. Venta anticipada o en taquilla el día de la sesión si quedan entradas. Categoría y extras sin confirmar. Filmoteca anuncia entrada gratuita con carnet FilmoXica. Los abonos y descuentos familiares del festival no se aplican en Filmoteca."
       },
       "bookingUrl": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=959&codiCicle=98",
       "sourceUrl": "https://www.filmoteca.cat/web/ca/film/ghost-school",
@@ -71734,10 +72159,14 @@
         "url": "https://www.moobycinemas.com/preus"
       },
       "bookingUrl": null,
-      "sourceUrl": "https://www.filmagenda.es/cine/mooby-arenas",
-      "observedAt": "2026-11-05T08:02:59.357385+00:00",
-      "status": "stale",
-      "room": null
+      "sourceUrl": "https://www.filmagenda.es/pelicula/5010-los-juegos-del-hambre-amanecer-en-la-cosecha/barcelona",
+      "observedAt": "2026-11-06T15:53:15.260339+00:00",
+      "status": "verified",
+      "room": null,
+      "sources": [
+        "https://www.filmagenda.es/cine/mooby-arenas",
+        "https://www.filmagenda.es/pelicula/5010-los-juegos-del-hambre-amanecer-en-la-cosecha/barcelona"
+      ]
     },
     {
       "id": "0cc923a91d97e2f73ef0",
@@ -71824,10 +72253,14 @@
         "url": "https://www.moobycinemas.com/preus"
       },
       "bookingUrl": null,
-      "sourceUrl": "https://www.filmagenda.es/cine/mooby-arenas",
-      "observedAt": "2026-11-05T08:02:59.357385+00:00",
-      "status": "stale",
-      "room": null
+      "sourceUrl": "https://www.filmagenda.es/pelicula/5010-los-juegos-del-hambre-amanecer-en-la-cosecha/barcelona",
+      "observedAt": "2026-11-06T15:53:15.260339+00:00",
+      "status": "verified",
+      "room": null,
+      "sources": [
+        "https://www.filmagenda.es/cine/mooby-arenas",
+        "https://www.filmagenda.es/pelicula/5010-los-juegos-del-hambre-amanecer-en-la-cosecha/barcelona"
+      ]
     },
     {
       "id": "30a162be29c6768dda67",
@@ -71877,10 +72310,14 @@
         "url": "https://www.moobycinemas.com/preus"
       },
       "bookingUrl": null,
-      "sourceUrl": "https://www.filmagenda.es/cine/mooby-arenas",
-      "observedAt": "2026-11-05T08:02:59.357385+00:00",
-      "status": "stale",
-      "room": null
+      "sourceUrl": "https://www.filmagenda.es/pelicula/5010-los-juegos-del-hambre-amanecer-en-la-cosecha/barcelona",
+      "observedAt": "2026-11-06T15:53:15.260339+00:00",
+      "status": "verified",
+      "room": null,
+      "sources": [
+        "https://www.filmagenda.es/cine/mooby-arenas",
+        "https://www.filmagenda.es/pelicula/5010-los-juegos-del-hambre-amanecer-en-la-cosecha/barcelona"
+      ]
     },
     {
       "id": "a605fe031dd44b781b3f",
@@ -72011,10 +72448,14 @@
         "url": "https://www.moobycinemas.com/preus"
       },
       "bookingUrl": null,
-      "sourceUrl": "https://www.filmagenda.es/cine/mooby-arenas",
-      "observedAt": "2026-11-05T08:02:59.357385+00:00",
-      "status": "stale",
-      "room": null
+      "sourceUrl": "https://www.filmagenda.es/pelicula/5010-los-juegos-del-hambre-amanecer-en-la-cosecha/barcelona",
+      "observedAt": "2026-11-06T15:53:15.260339+00:00",
+      "status": "verified",
+      "room": null,
+      "sources": [
+        "https://www.filmagenda.es/cine/mooby-arenas",
+        "https://www.filmagenda.es/pelicula/5010-los-juegos-del-hambre-amanecer-en-la-cosecha/barcelona"
+      ]
     },
     {
       "id": "63a6821fc9616220a43b",
@@ -72091,11 +72532,28 @@
         "DCP"
       ],
       "price": {
-        "amount": null,
-        "kind": "unknown",
+        "kind": "published",
+        "amount": 2,
         "currency": "EUR",
-        "label": "Consultar",
-        "url": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=959&codiCicle=99"
+        "status": "verified",
+        "category": null,
+        "observedAt": "2026-11-06T16:50:32.992978+01:00",
+        "url": "https://primerfestivaldecine.com/ca/programacio/2026/barcelona",
+        "conditionsUrl": "https://primerfestivaldecine.com/info-practica",
+        "alternativeOffers": [
+          {
+            "kind": "published",
+            "amount": 0,
+            "currency": "EUR",
+            "category": "Carnet FilmoXica",
+            "status": "verified",
+            "conditions": "Gratuidad condicionada a presentar el carnet FilmoXica.",
+            "url": "https://www.filmoteca.cat/web/ca/film/general-cine-concert",
+            "observedAt": "2026-11-06T08:05:22.955246+00:00"
+          }
+        ],
+        "label": "Importe publicado por El Meu Primer Festival · gratis con carnet FilmoXica",
+        "conditions": "Importe publicado para este pase. Venta anticipada o en taquilla el día de la sesión si quedan entradas. Categoría y extras sin confirmar. Filmoteca anuncia entrada gratuita con carnet FilmoXica. Los abonos y descuentos familiares del festival no se aplican en Filmoteca."
       },
       "bookingUrl": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=959&codiCicle=99",
       "sourceUrl": "https://www.filmoteca.cat/web/ca/film/general-cine-concert",
@@ -72117,11 +72575,16 @@
       },
       "formats": [],
       "price": {
-        "amount": null,
-        "kind": "unknown",
+        "kind": "published",
+        "amount": 7,
         "currency": "EUR",
-        "label": "Consultar",
-        "url": "https://www.codetickets.com/portal/primerfestivaldecine/online/37834/102176"
+        "status": "verified",
+        "category": null,
+        "observedAt": "2026-11-06T16:50:32.992978+01:00",
+        "url": "https://primerfestivaldecine.com/ca/programacio/2026/barcelona",
+        "conditionsUrl": "https://primerfestivaldecine.com/info-practica",
+        "label": "Importe publicado por El Meu Primer Festival",
+        "conditions": "Importe publicado para este pase. Venta anticipada o en taquilla el día de la sesión si quedan entradas. Categoría y extras sin confirmar. El festival anuncia descuentos acreditados en algunas sesiones. La elegibilidad concreta se consulta en la fuente."
       },
       "bookingUrl": "https://www.codetickets.com/portal/primerfestivaldecine/online/37834/102176",
       "sourceUrl": "https://zumzeigcine.coop/cinema/films/el-gran-somiatge/",
@@ -72339,11 +72802,28 @@
         "Digital"
       ],
       "price": {
-        "amount": null,
-        "kind": "unknown",
+        "kind": "published",
+        "amount": 2,
         "currency": "EUR",
-        "label": "Consultar",
-        "url": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=959&codiCicle=100"
+        "status": "verified",
+        "category": null,
+        "observedAt": "2026-11-06T16:50:32.992978+01:00",
+        "url": "https://primerfestivaldecine.com/ca/sessions/2026/competicio-de-curtmetratges-10-anys",
+        "conditionsUrl": "https://primerfestivaldecine.com/info-practica",
+        "alternativeOffers": [
+          {
+            "kind": "published",
+            "amount": 0,
+            "currency": "EUR",
+            "category": "Carnet FilmoXica",
+            "status": "verified",
+            "conditions": "Gratuidad condicionada a presentar el carnet FilmoXica.",
+            "url": "https://www.filmoteca.cat/web/ca/film/competicio-de-curtmetratges-2026-10-anys",
+            "observedAt": "2026-11-06T08:05:29.699839+00:00"
+          }
+        ],
+        "label": "Importe publicado por El Meu Primer Festival · gratis con carnet FilmoXica",
+        "conditions": "Importe publicado para este pase. Venta anticipada o en taquilla el día de la sesión si quedan entradas. Categoría y extras sin confirmar. Filmoteca anuncia entrada gratuita con carnet FilmoXica. Los abonos y descuentos familiares del festival no se aplican en Filmoteca."
       },
       "bookingUrl": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=959&codiCicle=100",
       "sourceUrl": "https://www.filmoteca.cat/web/ca/film/competicio-de-curtmetratges-2026-10-anys",
@@ -76937,6 +77417,21 @@
       "status": "verified"
     },
     {
+      "id": "loop-2026-forbidden-dances-casa-montjuic",
+      "title": "Loop Festival · Forbidden Dances",
+      "type": "special-screening",
+      "cinemaId": "casa-montjuic",
+      "startsAt": "2026-11-20T19:00:00+01:00",
+      "endDate": null,
+      "description": "Clausura de Loop Festival con la proyección del programa Forbidden Dances y sesiones de DJ de MANS O y Sergi.",
+      "url": "https://loop-barcelona.com/es/agenda/?activity-type=performance-es",
+      "venues": [
+        "Casa Montjuïc, Barcelona"
+      ],
+      "observedAt": "2026-11-06T16:50:32.992978+01:00",
+      "status": "announced"
+    },
+    {
       "id": "8ec5cf3ae0a1199a586f",
       "title": "RESIDENT EVIL (2026)",
       "type": "special-screening",
@@ -77137,6 +77632,21 @@
       "url": "https://www.filmoteca.cat/web/ca/film/lamore",
       "observedAt": "2026-11-06T08:05:32.727349+00:00",
       "status": "verified"
+    },
+    {
+      "id": "dart-2026-elephants-squirrels-bosque",
+      "title": "DART · Elephants & Squirrels y mesa redonda",
+      "type": "colloquium",
+      "cinemaId": "mooby-bosque",
+      "startsAt": "2026-11-27T17:00:00+01:00",
+      "endDate": "2026-11-27T19:00:00+01:00",
+      "description": "Proyección de Elephants & Squirrels (Gregor Brändi, Suiza, 2025) y mesa redonda Obres desplaçades, relats alterats sobre la restitución de obras y patrimonio.",
+      "url": "https://acciocinema.cat/activitat/projeccio-i-taula-rodona-obres-desplacades-relats-alterats/",
+      "venues": [
+        "Mooby Bosque, Barcelona"
+      ],
+      "observedAt": "2026-11-06T16:50:32.992978+01:00",
+      "status": "announced"
     },
     {
       "id": "fac471166d7448258fb1",
@@ -77557,8 +78067,8 @@
       "checkedAt": "2026-11-06T09:03:22.574998+01:00",
       "sourceUrl": "https://www.sensacine.com/cines/cine/E0764/",
       "programmeStatus": "partial",
-      "verifiedSessions": 254,
-      "staleSessions": 8
+      "verifiedSessions": 261,
+      "staleSessions": 1
     },
     {
       "cinemaId": "mooby-aribau",
