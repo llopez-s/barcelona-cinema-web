@@ -10923,15 +10923,20 @@
           "votes": 30
         },
         "filmaffinity": {
-          "value": null,
+          "value": 7.3,
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film209641.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=La+voz+quebrada&stype=title",
-          "observedAt": "2026-11-15T16:48:13Z",
-          "status": "blocked",
+          "observedAt": "2026-11-07T08:09:20.017274+00:00",
+          "status": "verified",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
-          "metric": "user_rating"
+          "metric": "user_rating",
+          "stale": true,
+          "lastAttempt": {
+            "status": "blocked",
+            "observedAt": "2026-11-15T16:48:13Z"
+          }
         },
         "rottenTomatoes": {
           "value": null,
@@ -15610,15 +15615,20 @@
           "votes": 51909
         },
         "filmaffinity": {
-          "value": null,
+          "value": 6.7,
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film523116.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Coyote+vs.+ACME&stype=title",
-          "observedAt": "2026-11-15T16:57:47Z",
-          "status": "blocked",
+          "observedAt": "2026-10-06T07:39:57.414126+00:00",
+          "status": "verified",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
-          "metric": "user_rating"
+          "metric": "user_rating",
+          "stale": true,
+          "lastAttempt": {
+            "status": "blocked",
+            "observedAt": "2026-11-15T16:57:47Z"
+          }
         },
         "rottenTomatoes": {
           "value": 96.0,
@@ -18334,15 +18344,20 @@
           "votes": 1508394
         },
         "filmaffinity": {
-          "value": null,
+          "value": 7.3,
           "scale": 10,
           "url": "https://www.filmaffinity.com/es/film993884.html",
           "searchUrl": "https://www.filmaffinity.com/es/search.php?stext=Vengadores%3A+Endgame+%28Reestreno%29&stype=title",
-          "observedAt": "2026-11-15T16:57:50Z",
-          "status": "blocked",
+          "observedAt": "2026-11-01T12:14:13.588901+00:00",
+          "status": "verified",
           "source": "filmaffinity",
           "attribution": "FilmAffinity",
-          "metric": "user_rating"
+          "metric": "user_rating",
+          "stale": true,
+          "lastAttempt": {
+            "status": "blocked",
+            "observedAt": "2026-11-15T16:57:50Z"
+          }
         },
         "rottenTomatoes": {
           "value": 94.0,
@@ -56087,35 +56102,6 @@
       "room": "Sala Chomón"
     },
     {
-      "id": "8f779294615c04296a28",
-      "movieId": "movie-3f1c0448a5e54fff88e6",
-      "cinemaId": "texas",
-      "startsAt": "2026-11-18T20:00:00+01:00",
-      "language": {
-        "version": "VO",
-        "audio": null,
-        "subtitles": null,
-        "label": "/ VO",
-        "audioLabel": "CATALÀ, CASTELLÀ, ANGLÈS I PORTUGUÈS"
-      },
-      "formats": [],
-      "price": {
-        "amount": null,
-        "kind": "unknown",
-        "currency": "EUR",
-        "label": "Consultar",
-        "url": "https://espaitexas.koobin.cat/ca/la-carn-vo-20261118-0000"
-      },
-      "bookingUrl": "https://espaitexas.koobin.cat/ca/la-carn-vo-20261118-0000",
-      "sourceUrl": "https://espaitexas.cat/pelicula/la-carn/",
-      "observedAt": "2026-11-13T08:06:30.173966+00:00",
-      "status": "stale",
-      "room": null,
-      "sources": [
-        "https://espaitexas.cat/pelicula/la-carn/"
-      ]
-    },
-    {
       "id": "6a589301fb6b5347ac96",
       "movieId": "movie-66c9950f82de4afa3348",
       "cinemaId": "yelmo-maquinista",
@@ -70217,18 +70203,6 @@
       "status": "verified"
     },
     {
-      "id": "55bae57e90e8500f3981",
-      "title": "LA CARN — Dimecres 18/11/26 20:00 + COL·LOQUI amb Lluís Garau (protagonista) i Núria Guillén (muntadora)",
-      "type": "colloquium",
-      "cinemaId": "texas",
-      "startsAt": "2026-11-18T20:00:00+01:00",
-      "endDate": null,
-      "description": "Dimecres 18/11/26 20:00 + COL·LOQUI amb Lluís Garau (protagonista) i Núria Guillén (muntadora)",
-      "url": "https://espaitexas.cat/pelicula/la-carn/",
-      "observedAt": "2026-11-13T08:06:30.173966+00:00",
-      "status": "stale"
-    },
-    {
       "id": "685b7e24b1ff3c8e476a",
       "title": "LA CARN — Dimecres 18/11/26 20:30 + COL·LOQUI amb Lluís Garau (protagonista) i Núria Guillén (muntadora)",
       "type": "colloquium",
@@ -71126,13 +71100,13 @@
     {
       "cinemaId": "texas",
       "status": "partial",
-      "sessions": 41,
+      "sessions": 40,
       "message": "Importación parcial: algunos detalles no han podido verificarse. Consultar la fuente.",
       "checkedAt": "2026-11-15T17:23:30.626589+01:00",
       "sourceUrl": "https://espaitexas.cat/cartellera-cinema/",
       "programmeStatus": "partial",
       "verifiedSessions": 38,
-      "staleSessions": 3
+      "staleSessions": 2
     },
     {
       "cinemaId": "verdi",
