@@ -42,7 +42,7 @@
   const state = {
     snapshot: null, view: 'listings', loading: true, initializing: true, starting: false, running: false,
     snapshotError: '', monitorError: '', statusError: '', refreshError: '', statusKnown: false,
-    pollTimer: null, statusEpoch: 0, snapshotEpoch: 0, failures: 0, snapshotFingerprint: '', lastSnapshotRead: 0,
+    pollTimer: null, statusEpoch: 0, snapshotEpoch: 0, failures: 0, snapshotFingerprint: '', snapshotEtag: '', lastSnapshotRead: 0,
     dialogOpener: null, dialogMovieId: '', deferredRender: false,
     watchedError: '', undoWatched: null, feedbackFocus: false,
   };
@@ -886,13 +886,19 @@
     $('sort').value = 'next';
   }
 
-  async function requestJSON(path, method = 'GET') {
+  async function requestJSON(path, method = 'GET', snapshotEtag) {
+    const headers = { Accept: 'application/json' };
+    if (snapshotEtag) headers['If-None-Match'] = snapshotEtag;
     const controller = new AbortController();
     const timeout = window.setTimeout(() => controller.abort(), 20000);
     try {
-      const response = await fetch(path, { method, cache: 'no-store', credentials: 'same-origin', headers: { Accept: 'application/json' }, signal: controller.signal });
+      const response = await fetch(path, { method, cache: 'no-store', credentials: 'same-origin', headers, signal: controller.signal });
+      if (snapshotEtag && response.status === 304) return { unchanged: true };
       if (!response.ok) throw new Error(`Respuesta HTTP ${response.status}.`);
-      try { return await response.json(); }
+      try {
+        const data = await response.json();
+        return snapshotEtag === undefined ? data : { data, etag: response.headers.get('ETag') || '' };
+      }
       catch { throw new Error('El servidor no devolvió JSON válido.'); }
     } catch (error) {
       if (error.name === 'AbortError') throw new Error('El servidor no respondió en 20 segundos.');
@@ -911,15 +917,23 @@
     state.lastSnapshotRead = Date.now();
     let changed = false;
     try {
-      const snapshot = validateSnapshot(await requestJSON(STATIC_SITE ? './data/snapshot.json' : '/api/snapshot'));
+      const response = await requestJSON(STATIC_SITE ? './data/snapshot.json' : '/api/snapshot',
+        'GET', STATIC_SITE ? undefined : state.snapshotEtag);
       if (epoch !== state.snapshotEpoch) return;
-      const fingerprint = JSON.stringify(snapshot);
-      changed = fingerprint !== state.snapshotFingerprint;
+      if (!STATIC_SITE && response.unchanged) {
+        state.snapshotError = '';
+        return;
+      }
+      const snapshot = validateSnapshot(STATIC_SITE ? response : response.data);
+      const etag = STATIC_SITE ? '' : response.etag;
+      const fingerprint = etag ? '' : JSON.stringify(snapshot);
+      changed = !state.snapshot || (etag ? etag !== state.snapshotEtag : fingerprint !== state.snapshotFingerprint);
       if (changed) {
         state.snapshot = snapshot;
-        state.snapshotFingerprint = fingerprint;
         updateFilterOptions();
       }
+      state.snapshotEtag = etag;
+      state.snapshotFingerprint = fingerprint;
       state.snapshotError = '';
     } catch (error) {
       if (epoch !== state.snapshotEpoch) return;
