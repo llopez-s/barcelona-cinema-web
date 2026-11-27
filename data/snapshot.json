@@ -1311,11 +1311,12 @@
       },
       "sourceUrl": "https://phenomena-experience.com/index?pag=ficha&evento=3046",
       "sources": [
-        "https://phenomena-experience.com/index?pag=ficha&evento=3046",
-        "https://www.filmagenda.es/pelicula/14134-sanguine/barcelona",
         "https://espaitexas.cat/pelicula/sanguine/",
-        "https://www.sensacine.com/peliculas/pelicula-1000023600/",
-        "https://www.publicine.net/pelicula/16023/sanguine"
+        "https://phenomena-experience.com/index?pag=ficha&evento=3046",
+        "https://www.cinemamalda.com/sanguine/",
+        "https://www.filmagenda.es/pelicula/14134-sanguine/barcelona",
+        "https://www.publicine.net/pelicula/16023/sanguine",
+        "https://www.sensacine.com/peliculas/pelicula-1000023600/"
       ],
       "filmaffinityId": "581346",
       "imdbId": null,
@@ -1649,10 +1650,10 @@
       },
       "sourceUrl": "https://www.sensacine.com/peliculas/pelicula-298024/",
       "sources": [
-        "https://www.sensacine.com/peliculas/pelicula-298024/",
         "https://phenomena-experience.com/index?pag=ficha&evento=3021",
+        "https://www.filmagenda.es/pelicula/13374-wild-horse-nine/barcelona",
         "https://www.publicine.net/pelicula/16117/wild-horse-nine",
-        "https://www.filmagenda.es/pelicula/13374-wild-horse-nine/barcelona"
+        "https://www.sensacine.com/peliculas/pelicula-298024/"
       ],
       "filmaffinityId": "366928",
       "imdbId": "tt15799564",
@@ -1782,8 +1783,8 @@
       },
       "sourceUrl": "https://www.sensacine.com/peliculas/pelicula-321790/",
       "sources": [
-        "https://www.sensacine.com/peliculas/pelicula-321790/",
-        "https://www.filmoteca.cat/web/ca/film/le-corset"
+        "https://www.filmoteca.cat/web/ca/film/le-corset",
+        "https://www.sensacine.com/peliculas/pelicula-321790/"
       ],
       "filmaffinityId": "947062",
       "imdbId": "tt36639956",
@@ -1898,9 +1899,9 @@
       },
       "sourceUrl": "https://www.sensacine.com/peliculas/pelicula-1000024810/",
       "sources": [
-        "https://www.sensacine.com/peliculas/pelicula-1000024810/",
         "https://www.filmagenda.es/pelicula/8065-la-bola-negra/barcelona",
-        "https://www.publicine.net/pelicula/16347/la-bola-negra"
+        "https://www.publicine.net/pelicula/16347/la-bola-negra",
+        "https://www.sensacine.com/peliculas/pelicula-1000024810/"
       ],
       "filmaffinityId": "161036",
       "imdbId": "tt35511966",
@@ -2150,9 +2151,9 @@
       },
       "sourceUrl": "https://www.sensacine.com/peliculas/pelicula-1000031568/",
       "sources": [
-        "https://www.sensacine.com/peliculas/pelicula-1000031568/",
         "https://www.filmagenda.es/pelicula/13864-el-director/barcelona",
-        "https://www.publicine.net/pelicula/16074/el-director"
+        "https://www.publicine.net/pelicula/16074/el-director",
+        "https://www.sensacine.com/peliculas/pelicula-1000031568/"
       ],
       "filmaffinityId": "247502",
       "imdbId": "tt38454494",
@@ -2673,9 +2674,9 @@
       },
       "sourceUrl": "https://www.sensacine.com/peliculas/pelicula-1000004528/",
       "sources": [
-        "https://www.sensacine.com/peliculas/pelicula-1000004528/",
         "https://www.filmagenda.es/pelicula/5010-los-juegos-del-hambre-amanecer-en-la-cosecha/barcelona",
-        "https://www.publicine.net/pelicula/16076/los-juegos-del-hambre-amanecer-en-la-cosecha"
+        "https://www.publicine.net/pelicula/16076/los-juegos-del-hambre-amanecer-en-la-cosecha",
+        "https://www.sensacine.com/peliculas/pelicula-1000004528/"
       ],
       "filmaffinityId": "161937",
       "imdbId": "tt32558705",
@@ -6464,6 +6465,7 @@
       },
       "sourceUrl": "https://www.sensacine.com/peliculas/pelicula-317219/",
       "sources": [
+        "https://www.cinemamalda.com/la-invitacion/",
         "https://www.sensacine.com/peliculas/pelicula-317219/"
       ],
       "filmaffinityId": "554234",
@@ -6995,8 +6997,8 @@
       "sourceUrl": "https://www.filmagenda.es/pelicula/15272-the-cat-in-the-hat/barcelona",
       "sources": [
         "https://www.filmagenda.es/pelicula/15272-the-cat-in-the-hat/barcelona",
-        "https://www.sensacine.com/peliculas/pelicula-204864/",
-        "https://www.publicine.net/pelicula/16163/el-gato-con-sombrero"
+        "https://www.publicine.net/pelicula/16163/el-gato-con-sombrero",
+        "https://www.sensacine.com/peliculas/pelicula-204864/"
       ],
       "filmaffinityId": "373516",
       "imdbId": "tt2321555",
@@ -7279,7 +7281,8 @@
       },
       "sourceUrl": "https://www.filmagenda.es/pelicula/15289-shaun-the-sheep-the-beast-of-mossy-bottom/barcelona",
       "sources": [
-        "https://www.filmagenda.es/pelicula/15289-shaun-the-sheep-the-beast-of-mossy-bottom/barcelona"
+        "https://www.filmagenda.es/pelicula/15289-shaun-the-sheep-the-beast-of-mossy-bottom/barcelona",
+        "https://www.sensacine.com/peliculas/pelicula-1000024131/"
       ],
       "filmaffinityId": "771320",
       "imdbId": "tt36841161",
@@ -10338,9 +10341,9 @@
       },
       "sourceUrl": "https://www.sensacine.com/peliculas/pelicula-1000016814/",
       "sources": [
-        "https://www.sensacine.com/peliculas/pelicula-1000016814/",
         "https://www.filmagenda.es/pelicula/16837-ahora-los-suegros-son-ellos/barcelona",
-        "https://www.publicine.net/pelicula/16030/ahora-los-suegros-son-ellos"
+        "https://www.publicine.net/pelicula/16030/ahora-los-suegros-son-ellos",
+        "https://www.sensacine.com/peliculas/pelicula-1000016814/"
       ],
       "filmaffinityId": "580952",
       "imdbId": "tt34966140",
@@ -10693,6 +10696,7 @@
       },
       "sourceUrl": "https://www.sensacine.com/peliculas/pelicula-1000034420/",
       "sources": [
+        "https://www.cinemamalda.com/un-hombre-en-un-puente/",
         "https://www.sensacine.com/peliculas/pelicula-1000034420/"
       ],
       "filmaffinityId": "521359",
@@ -11161,9 +11165,9 @@
       "sourceUrl": "https://phenomena-experience.com/index?pag=ficha&evento=3050",
       "sources": [
         "https://phenomena-experience.com/index?pag=ficha&evento=3050",
-        "https://www.sensacine.com/peliculas/pelicula-1000034007/",
         "https://www.filmagenda.es/pelicula/15179-ebenezer/barcelona",
-        "https://www.publicine.net/pelicula/16120/scrooge-y-los-fantasmas-de-la-navidad"
+        "https://www.publicine.net/pelicula/16120/scrooge-y-los-fantasmas-de-la-navidad",
+        "https://www.sensacine.com/peliculas/pelicula-1000034007/"
       ],
       "filmaffinityId": "112391",
       "imdbId": "tt38773219",
@@ -11615,10 +11619,10 @@
       },
       "sourceUrl": "https://www.sensacine.com/peliculas/pelicula-312529/",
       "sources": [
-        "https://www.sensacine.com/peliculas/pelicula-312529/",
         "https://www.filmagenda.es/pelicula/16839-hexed/barcelona",
+        "https://www.publicine.net/pelicula/16032/encanteri-benvinguts-a-hexe-cat",
         "https://www.publicine.net/pelicula/16038/hechizo-bienvenidos-a-hexe",
-        "https://www.publicine.net/pelicula/16032/encanteri-benvinguts-a-hexe-cat"
+        "https://www.sensacine.com/peliculas/pelicula-312529/"
       ],
       "imdbId": "tt38077943",
       "aliases": [
@@ -11745,8 +11749,8 @@
       },
       "sourceUrl": "https://www.sensacine.com/peliculas/pelicula-1000049269/",
       "sources": [
-        "https://www.sensacine.com/peliculas/pelicula-1000049269/",
-        "https://www.publicine.net/pelicula/16059/el-mal-padre"
+        "https://www.publicine.net/pelicula/16059/el-mal-padre",
+        "https://www.sensacine.com/peliculas/pelicula-1000049269/"
       ],
       "imdbId": "tt43662678",
       "aliases": [
@@ -11860,8 +11864,8 @@
       },
       "sourceUrl": "https://www.sensacine.com/peliculas/pelicula-1000032833/",
       "sources": [
-        "https://www.sensacine.com/peliculas/pelicula-1000032833/",
-        "https://www.publicine.net/pelicula/16026/hermanas"
+        "https://www.publicine.net/pelicula/16026/hermanas",
+        "https://www.sensacine.com/peliculas/pelicula-1000032833/"
       ],
       "imdbId": "tt38584018",
       "aliases": [
@@ -16729,6 +16733,132 @@
       ],
       "aliases": [],
       "mergedIds": []
+    },
+    {
+      "id": "movie-d5d8ec870abbe89caaac",
+      "title": "El arte sencillo",
+      "originalTitle": "El arte sencillo",
+      "year": 2026,
+      "director": "Galder Arriaga",
+      "genres": [],
+      "synopsis": "Conocido por sus 10 Melodías Vascas, el compositor Jesús Guridi va más allá e n tiempo y forma. Su inagotable obra destaca p o r l a variedad d e géneros, consiguiendo siempre resultados de enorme calidad. Fue capaz de dibujar, con su sensibilidad, parte d e nuestra historia musical.",
+      "poster": "https://www.cinemamalda.com/wp-content/uploads/2026/11/el-arte-sencillo-cartel-70x100-20261104-pequeno-500x713.jpg",
+      "trailer": "https://player.vimeo.com/video/1224999894?dnt=1&app_id=122963",
+      "ratings": {},
+      "sourceUrl": "https://www.cinemamalda.com/el-arte-sencillo/",
+      "imdbId": null
+    },
+    {
+      "id": "movie-f142e92f108cb910f248",
+      "title": "Redención",
+      "originalTitle": "Redenção",
+      "year": 2018,
+      "director": "Marcel Kunzler",
+      "genres": [],
+      "synopsis": "Diez años después de una epidemia que vació las ciudades, un pequeño grupo de supervivientes resiste tras los muros del Parque da Redenção, en Porto Alegre. La llegada de Samuel, un niño que aparece solo en la ciudad abandonada, coincide con extrañas señales procedentes del exterior y con desapariciones dentro del refugio. La sospecha de que algo va mal en Redenção empieza a ser más peligrosa que cualquier amenaza del exterior.",
+      "poster": "https://www.cinemamalda.com/wp-content/uploads/2026/11/rendicion-500x713.png",
+      "trailer": "https://www.youtube.com/embed/QdGtmsMuKQw?feature=oembed",
+      "ratings": {},
+      "sourceUrl": "https://www.cinemamalda.com/redencion/",
+      "imdbId": null
+    },
+    {
+      "id": "movie-49b9a30707ddf95805fa",
+      "title": "Kotodama, el camino del espejo",
+      "originalTitle": "Kotodama, el camino del espejo",
+      "year": 2026,
+      "director": "Carla Cañellas y Eugenio Tardón",
+      "genres": [],
+      "synopsis": "La artista lnari Küko emprende un viaje transformador guiada por el misterioso significado del término japonés Kotodama. En su búsqueda, se adentra en el arte del shodo, la caligrafía tradicional japonesa, mientras recorre dos rutas de peregrinación milenarias: el Camino de Santiago, en España, y el Shikoku Henro, en Japón. A lo largo de su recorrido, el acto de caminar y el gesto del trazo caligráfico se revelan como expresiones de una misma idea: el camino entendido no solo como destino, sino como proceso. En esta travesía, peregrinos, monjes, artesanos y calígrafos se convierten en voces de una historia universal, tendiendo un puente entre pasado y presente, Oriente y Occidente.",
+      "poster": "https://www.cinemamalda.com/wp-content/uploads/2026/11/kotodamaok-500x710.png",
+      "trailer": "https://player.vimeo.com/video/1166518444?h=f6fc6d7f2a&dnt=1&app_id=122963",
+      "ratings": {},
+      "sourceUrl": "https://www.cinemamalda.com/kotodama-el-camino-del-espejo/",
+      "imdbId": null
+    },
+    {
+      "id": "movie-0af5d9aa447d72c8bf4c",
+      "title": "Corren las liebres",
+      "originalTitle": "Corren las liebres",
+      "year": 2026,
+      "director": "Lorena Ros",
+      "genres": [],
+      "synopsis": "Tras diez años de condena, Noa, mujer gitana trans de 48 años, intenta empezar de nuevo y recuperar la custodia de sus hijos, tutelados por el Estado. Para lograrlo necesita una casa… y está a punto de ser desahuciada. Entre la precariedad y la resistencia, la solidaridad, la amistad, el arte y el humor la ayudan a no rendirse.",
+      "poster": "https://www.cinemamalda.com/wp-content/uploads/2026/11/4knobins-500x708.png",
+      "trailer": "https://player.vimeo.com/video/1113501202?dnt=1&app_id=122963",
+      "ratings": {},
+      "sourceUrl": "https://www.cinemamalda.com/corren-las-liebres/",
+      "imdbId": null
+    },
+    {
+      "id": "movie-fa16a68e9e9f33811250",
+      "title": "Noche y dia, de Virginia Wolf",
+      "originalTitle": "Virginia Woolf’s Night & Day",
+      "year": 2026,
+      "director": "Tina Gharavi",
+      "genres": [],
+      "synopsis": "Londres, 1910. Katharine Hilbery hace todo lo posible por evitar el amor y el matrimonio, especialmente si el candidato es William, un viejo amigo de la familia elegido por sus padres. Cuando su padre, el señor Hilbery, la descubre asistiendo a una conferencia de astronomía exclusiva para hombres, la obliga a abandonar sus investigaciones científicas y aceptar la propuesta de matrimonio de William. Katharine conoce a Mary, una sufragista de espíritu libre que la anima a solicitar el ingreso en Cambridge y a perseguir su pasión por la astronomía.",
+      "poster": "https://www.cinemamalda.com/wp-content/uploads/2026/11/image002-500x721.jpg",
+      "trailer": "https://www.youtube.com/embed/HrVIHTzQOg0?feature=oembed",
+      "ratings": {},
+      "sourceUrl": "https://www.cinemamalda.com/noche-y-dia-de-virginia-wolf/",
+      "imdbId": null
+    },
+    {
+      "id": "movie-ef3e58444d7e3444b425",
+      "title": "Palestina 36",
+      "originalTitle": "Palestine ’36",
+      "year": 2025,
+      "director": "Annemarie Jacir",
+      "genres": [],
+      "synopsis": "1936, Palestina está al borde del colapso. La resistencia árabe contra el Mandato británico crece al mismo ritmo que la llegada de refugiados judíos desde Europa. Sobrecogido, el joven Yusuf se debate entre proteger la vida que conoce y unirse a quienes lo arriesgan todo por la libertad de su pueblo. No es el único cuyas lealtades son puestas a prueba. Khouloud, periodista comprometida, presencia intrigas y heroicidades que cambiarán el rumbo de la región.",
+      "poster": "https://www.cinemamalda.com/wp-content/uploads/2026/08/palestina-36-cartel-13364-500x714.jpg",
+      "trailer": "https://www.youtube.com/embed/QS7nULRdqho?feature=oembed",
+      "ratings": {},
+      "sourceUrl": "https://www.cinemamalda.com/palestina-36/",
+      "imdbId": null
+    },
+    {
+      "id": "movie-66f0430504f305a3bbba",
+      "title": "El que va ser casa",
+      "originalTitle": null,
+      "year": null,
+      "director": null,
+      "genres": [],
+      "synopsis": "Directores : Berta Vicente i Bernat Marré Any: 2026 Països: Catalunya Durada: 30′",
+      "poster": "https://www.cinemamalda.com/wp-content/uploads/2026/11/cartell-el-que-va-ser-casa-def1-500x750.jpg",
+      "trailer": null,
+      "ratings": {},
+      "sourceUrl": "https://www.cinemamalda.com/el-que-va-ser-casa/",
+      "imdbId": null
+    },
+    {
+      "id": "movie-329d3fafae21c50d7d27",
+      "title": "Leviticus",
+      "originalTitle": "Leviticus",
+      "year": 2026,
+      "director": "Mariano Barroso",
+      "genres": [],
+      "synopsis": "En una remota comunidad religiosa, dos adolescentes descubren que su amor prohibido ha despertado una entidad sobrenatural que adopta la forma de aquello que más desean: el uno al otro. Para sobrevivir, deberán enfrentarse tanto al monstruo que los persigue como al fanatismo que los condena.",
+      "poster": "https://www.cinemamalda.com/wp-content/uploads/2026/11/leviticus-cartel-13399-500x714.jpg",
+      "trailer": "https://www.youtube.com/embed/HlIixKc68Lo?feature=oembed",
+      "ratings": {},
+      "sourceUrl": "https://www.cinemamalda.com/leviticus/",
+      "imdbId": null
+    },
+    {
+      "id": "movie-5ce309918208f922d2c7",
+      "title": "Un amor posible",
+      "originalTitle": "Ga-neung-han sa-rang",
+      "year": 2026,
+      "director": "Lee Chang-Dong",
+      "genres": [],
+      "synopsis": "Un trabajador despedido y su mujer se cruzan en el camino de una realizadora de documentales y su pareja, y se enfrentan a sus deseos ocultos. Cuando sus mundos chocan, se provocan alteraciones en sus rutinas aparentemente estables.",
+      "poster": "https://www.cinemamalda.com/wp-content/uploads/2026/10/unamorposible-500x741.jpg",
+      "trailer": "https://www.youtube.com/embed/FiiKMuXpX2s?feature=oembed",
+      "ratings": {},
+      "sourceUrl": "https://www.cinemamalda.com/possible-love/",
+      "imdbId": null
     }
   ],
   "cinemas": [
@@ -28004,6 +28134,114 @@
       "room": null
     },
     {
+      "id": "9847454a34ac6ebf98fc",
+      "movieId": "movie-8a1fac01189feb67b2a1",
+      "cinemaId": "verdi",
+      "startsAt": "2026-11-28T11:30:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "VO · sub. es"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://verdibcn.admit-one.eu/seats/222273"
+      },
+      "bookingUrl": "https://verdibcn.admit-one.eu/seats/222273",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0608/",
+      "observedAt": "2026-11-27T14:06:27.661195+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
+      "id": "0aa27111a3961d36bd96",
+      "movieId": "movie-8efd68303c4aee962fae",
+      "cinemaId": "verdi",
+      "startsAt": "2026-11-28T11:30:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "VO · sub. es"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://verdibcn.admit-one.eu/seats/223106"
+      },
+      "bookingUrl": "https://verdibcn.admit-one.eu/seats/223106",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0608/",
+      "observedAt": "2026-11-27T14:06:27.661195+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
+      "id": "94e80d97bff00daaaa95",
+      "movieId": "movie-dc487abf227001d89aa4",
+      "cinemaId": "verdi",
+      "startsAt": "2026-11-28T11:30:00+01:00",
+      "language": {
+        "version": "Doblada",
+        "audio": "ca",
+        "subtitles": null,
+        "label": "Doblada · ca"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://verdibcn.admit-one.eu/seats/223105"
+      },
+      "bookingUrl": "https://verdibcn.admit-one.eu/seats/223105",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0608/",
+      "observedAt": "2026-11-27T14:06:27.661195+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
+      "id": "66ddee26805e28cd6ffb",
+      "movieId": "movie-de8c9f88851d64e017d1",
+      "cinemaId": "verdi",
+      "startsAt": "2026-11-28T11:30:00+01:00",
+      "language": {
+        "version": null,
+        "audio": "es",
+        "subtitles": null,
+        "label": "Versión no publicada · es"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://verdibcn.admit-one.eu/seats/222265"
+      },
+      "bookingUrl": "https://verdibcn.admit-one.eu/seats/222265",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0608/",
+      "observedAt": "2026-11-27T14:06:27.661195+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
       "id": "90da9e79cad3bd859664",
       "movieId": "movie-dc487abf227001d89aa4",
       "cinemaId": "cinesa-diagonal-mar",
@@ -28474,6 +28712,31 @@
       "observedAt": "2026-11-27T08:06:34.755610+00:00",
       "status": "verified",
       "room": null
+    },
+    {
+      "id": "47ccaa02f479cdb18632",
+      "movieId": "movie-d5d8ec870abbe89caaac",
+      "cinemaId": "malda",
+      "startsAt": "2026-11-28T12:15:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": "es",
+        "subtitles": null,
+        "label": "(VOE)"
+      },
+      "formats": [],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Consultar",
+        "url": "https://www.cinemamalda.com/cartelera-dia-a-dia/"
+      },
+      "bookingUrl": null,
+      "sourceUrl": "https://www.cinemamalda.com/cartelera-dia-a-dia/",
+      "observedAt": "2026-11-27T14:01:50.712308+00:00",
+      "status": "verified",
+      "notes": "No serà vàlida l’entrada de pack ni el carnet de patró, no és una sessió contínua."
     },
     {
       "id": "71bc8ca1bcc76cc48609",
@@ -29094,6 +29357,114 @@
       "room": null
     },
     {
+      "id": "409c4fb89c35cc916c9d",
+      "movieId": "movie-7726b14c11d40f803cc8",
+      "cinemaId": "mooby-glories",
+      "startsAt": "2026-11-28T15:30:00+01:00",
+      "language": {
+        "version": "Doblada",
+        "audio": "es",
+        "subtitles": null,
+        "label": "Doblada · es"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://moobycinemas-glorias.admit-one.eu/?p=tickets&perfCode=122707&language=%s&theatre=%s"
+      },
+      "bookingUrl": "https://moobycinemas-glorias.admit-one.eu/?p=tickets&perfCode=122707&language=%s&theatre=%s",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0442/",
+      "observedAt": "2026-11-27T14:06:43.937427+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
+      "id": "ffa4c84d1d92840f77f3",
+      "movieId": "movie-a4a242c005008e9b6a3b",
+      "cinemaId": "mooby-glories",
+      "startsAt": "2026-11-28T15:30:00+01:00",
+      "language": {
+        "version": "Doblada",
+        "audio": "es",
+        "subtitles": null,
+        "label": "Doblada · es"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://moobycinemas-glorias.admit-one.eu/?p=tickets&perfCode=122697&language=%s&theatre=%s"
+      },
+      "bookingUrl": "https://moobycinemas-glorias.admit-one.eu/?p=tickets&perfCode=122697&language=%s&theatre=%s",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0442/",
+      "observedAt": "2026-11-27T14:06:43.937427+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
+      "id": "19a1eeb8024150a51b33",
+      "movieId": "movie-dc487abf227001d89aa4",
+      "cinemaId": "mooby-glories",
+      "startsAt": "2026-11-28T15:30:00+01:00",
+      "language": {
+        "version": "Doblada",
+        "audio": "es",
+        "subtitles": null,
+        "label": "Doblada · es"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://moobycinemas-glorias.admit-one.eu/?p=tickets&perfCode=122691&language=%s&theatre=%s"
+      },
+      "bookingUrl": "https://moobycinemas-glorias.admit-one.eu/?p=tickets&perfCode=122691&language=%s&theatre=%s",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0442/",
+      "observedAt": "2026-11-27T14:06:43.937427+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
+      "id": "78f8b5729a8e217327ed",
+      "movieId": "movie-5cfbe963f90bee8a46a6",
+      "cinemaId": "mooby-glories",
+      "startsAt": "2026-11-28T15:35:00+01:00",
+      "language": {
+        "version": "Doblada",
+        "audio": "es",
+        "subtitles": null,
+        "label": "Doblada · es"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://moobycinemas-glorias.admit-one.eu/?p=tickets&perfCode=122706&language=%s&theatre=%s"
+      },
+      "bookingUrl": "https://moobycinemas-glorias.admit-one.eu/?p=tickets&perfCode=122706&language=%s&theatre=%s",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0442/",
+      "observedAt": "2026-11-27T14:06:43.937427+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
       "id": "848e03d8c501f00b3bb5",
       "movieId": "movie-7726b14c11d40f803cc8",
       "cinemaId": "cinesa-diagonal",
@@ -29144,6 +29515,60 @@
       "bookingUrl": "https://web.cinesa.es/compra/butacas/?showtimeId=032-61455",
       "sourceUrl": "https://www.publicine.net/cartelera-cine/barcelona/cinesa-diagonal-mar",
       "observedAt": "2026-11-27T08:06:30.913301+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
+      "id": "613745dcc0f5d4a870dc",
+      "movieId": "movie-8efd68303c4aee962fae",
+      "cinemaId": "mooby-glories",
+      "startsAt": "2026-11-28T15:40:00+01:00",
+      "language": {
+        "version": "Doblada",
+        "audio": "es",
+        "subtitles": null,
+        "label": "Doblada · es"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://moobycinemas-glorias.admit-one.eu/?p=tickets&perfCode=122765&language=%s&theatre=%s"
+      },
+      "bookingUrl": "https://moobycinemas-glorias.admit-one.eu/?p=tickets&perfCode=122765&language=%s&theatre=%s",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0442/",
+      "observedAt": "2026-11-27T14:06:43.937427+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
+      "id": "cc43b57829903aee8a4b",
+      "movieId": "movie-dc487abf227001d89aa4",
+      "cinemaId": "mooby-glories",
+      "startsAt": "2026-11-28T15:40:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": "es",
+        "subtitles": null,
+        "label": "VO · es"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://moobycinemas-glorias.admit-one.eu/?p=tickets&perfCode=122708&language=%s&theatre=%s"
+      },
+      "bookingUrl": "https://moobycinemas-glorias.admit-one.eu/?p=tickets&perfCode=122708&language=%s&theatre=%s",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0442/",
+      "observedAt": "2026-11-27T14:06:43.937427+00:00",
       "status": "verified",
       "room": null
     },
@@ -29599,6 +30024,33 @@
       "room": null
     },
     {
+      "id": "2c672c776c11c7c6707f",
+      "movieId": "movie-de8c9f88851d64e017d1",
+      "cinemaId": "mooby-bosque",
+      "startsAt": "2026-11-28T15:55:00+01:00",
+      "language": {
+        "version": null,
+        "audio": "es",
+        "subtitles": null,
+        "label": "Versión no publicada · es"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=142620&language=%s&theatre=%s"
+      },
+      "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=142620&language=%s&theatre=%s",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0136/",
+      "observedAt": "2026-11-27T14:06:41.387129+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
       "id": "81adebe835047cc0ab36",
       "movieId": "movie-5cfbe963f90bee8a46a6",
       "cinemaId": "cinesa-diagonal-mar",
@@ -29836,6 +30288,439 @@
       ]
     },
     {
+      "id": "9687a600c20b295ae524",
+      "movieId": "movie-04154f739dd06319fad8",
+      "cinemaId": "verdi",
+      "startsAt": "2026-11-28T16:00:00+01:00",
+      "language": {
+        "version": "Doblada",
+        "audio": null,
+        "subtitles": null,
+        "label": "Doblada"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://verdibcn.admit-one.eu/seats/222895"
+      },
+      "bookingUrl": "https://verdibcn.admit-one.eu/seats/222895",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0608/",
+      "observedAt": "2026-11-27T14:06:27.661195+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
+      "id": "6b99f70609d5859002da",
+      "movieId": "movie-5f47879c9ecaf9b799f2",
+      "cinemaId": "verdi",
+      "startsAt": "2026-11-28T16:00:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "VO · sub. es"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://verdibcn.admit-one.eu/seats/222898"
+      },
+      "bookingUrl": "https://verdibcn.admit-one.eu/seats/222898",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0608/",
+      "observedAt": "2026-11-27T14:06:27.661195+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
+      "id": "da4bb32701b4dbe27a64",
+      "movieId": "movie-8efd68303c4aee962fae",
+      "cinemaId": "verdi",
+      "startsAt": "2026-11-28T16:00:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "VO · sub. es"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://verdibcn.admit-one.eu/seats/222888"
+      },
+      "bookingUrl": "https://verdibcn.admit-one.eu/seats/222888",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0608/",
+      "observedAt": "2026-11-27T14:06:27.661195+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
+      "id": "39aee7be294718c75763",
+      "movieId": "movie-d18a9b1b2d22a65c2df2",
+      "cinemaId": "verdi",
+      "startsAt": "2026-11-28T16:00:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "VO · sub. es"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://verdibcn.admit-one.eu/seats/222882"
+      },
+      "bookingUrl": "https://verdibcn.admit-one.eu/seats/222882",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0608/",
+      "observedAt": "2026-11-27T14:06:27.661195+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
+      "id": "195a13fd865af2cef9b8",
+      "movieId": "movie-d5208db72b6c36a7b368",
+      "cinemaId": "verdi",
+      "startsAt": "2026-11-28T16:00:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "VO · sub. es"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://verdibcn.admit-one.eu/seats/222902"
+      },
+      "bookingUrl": "https://verdibcn.admit-one.eu/seats/222902",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0608/",
+      "observedAt": "2026-11-27T14:06:27.661195+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
+      "id": "0559dddb178285883f57",
+      "movieId": "movie-db0fd754d7001ae0b15a",
+      "cinemaId": "verdi",
+      "startsAt": "2026-11-28T16:00:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "VO · sub. es"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://verdibcn.admit-one.eu/seats/222905"
+      },
+      "bookingUrl": "https://verdibcn.admit-one.eu/seats/222905",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0608/",
+      "observedAt": "2026-11-27T14:06:27.661195+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
+      "id": "854b712c52c24072a28f",
+      "movieId": "movie-dc487abf227001d89aa4",
+      "cinemaId": "verdi",
+      "startsAt": "2026-11-28T16:00:00+01:00",
+      "language": {
+        "version": "Doblada",
+        "audio": "ca",
+        "subtitles": null,
+        "label": "Doblada · ca"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://verdibcn.admit-one.eu/seats/222884"
+      },
+      "bookingUrl": "https://verdibcn.admit-one.eu/seats/222884",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0608/",
+      "observedAt": "2026-11-27T14:06:27.661195+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
+      "id": "ed2ef2116c86ff0f1c7b",
+      "movieId": "movie-de8c9f88851d64e017d1",
+      "cinemaId": "verdi",
+      "startsAt": "2026-11-28T16:00:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "VO · sub. es"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://verdibcn.admit-one.eu/seats/222908"
+      },
+      "bookingUrl": "https://verdibcn.admit-one.eu/seats/222908",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0608/",
+      "observedAt": "2026-11-27T14:06:27.661195+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
+      "id": "c228768356d725dd2695",
+      "movieId": "movie-f1c0de249277440d3c5c",
+      "cinemaId": "verdi",
+      "startsAt": "2026-11-28T16:00:00+01:00",
+      "language": {
+        "version": null,
+        "audio": "es",
+        "subtitles": null,
+        "label": "Versión no publicada · es"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://verdibcn.admit-one.eu/seats/222912"
+      },
+      "bookingUrl": "https://verdibcn.admit-one.eu/seats/222912",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0608/",
+      "observedAt": "2026-11-27T14:06:27.661195+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
+      "id": "a0cf82f1aa286b5304e6",
+      "movieId": "movie-5f47879c9ecaf9b799f2",
+      "cinemaId": "girona",
+      "startsAt": "2026-11-28T16:00:00+01:00",
+      "language": {
+        "version": "Doblada",
+        "audio": null,
+        "subtitles": null,
+        "label": "Doblada"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=41366"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=41366",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0747/",
+      "observedAt": "2026-11-27T14:06:30.305469+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
+      "id": "a799c840b1b9bc7b18da",
+      "movieId": "movie-725de0db6bdc39f214b6",
+      "cinemaId": "girona",
+      "startsAt": "2026-11-28T16:00:00+01:00",
+      "language": {
+        "version": "Doblada",
+        "audio": null,
+        "subtitles": null,
+        "label": "Doblada"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=41363"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=41363",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0747/",
+      "observedAt": "2026-11-27T14:06:30.305469+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
+      "id": "a95d08373ed8082a08a0",
+      "movieId": "movie-d18a9b1b2d22a65c2df2",
+      "cinemaId": "mooby-aribau",
+      "startsAt": "2026-11-28T16:00:00+01:00",
+      "language": {
+        "version": "Doblada",
+        "audio": "es",
+        "subtitles": null,
+        "label": "Doblada · es"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://moobycinemas-aribau.admit-one.eu/?p=tickets&perfCode=70226&language=%s&theatre=%s"
+      },
+      "bookingUrl": "https://moobycinemas-aribau.admit-one.eu/?p=tickets&perfCode=70226&language=%s&theatre=%s",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0091/",
+      "observedAt": "2026-11-27T14:06:35.143459+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
+      "id": "5a7352cd5080f852ccec",
+      "movieId": "movie-f1c0de249277440d3c5c",
+      "cinemaId": "mooby-aribau",
+      "startsAt": "2026-11-28T16:00:00+01:00",
+      "language": {
+        "version": null,
+        "audio": "es",
+        "subtitles": null,
+        "label": "Versión no publicada · es"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://moobycinemas-aribau.admit-one.eu/?p=tickets&perfCode=70225&language=%s&theatre=%s"
+      },
+      "bookingUrl": "https://moobycinemas-aribau.admit-one.eu/?p=tickets&perfCode=70225&language=%s&theatre=%s",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0091/",
+      "observedAt": "2026-11-27T14:06:35.143459+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
+      "id": "80aca98fedb422834c32",
+      "movieId": "movie-8efd68303c4aee962fae",
+      "cinemaId": "mooby-bosque",
+      "startsAt": "2026-11-28T16:00:00+01:00",
+      "language": {
+        "version": "Doblada",
+        "audio": "es",
+        "subtitles": null,
+        "label": "Doblada · es"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=142630&language=%s&theatre=%s"
+      },
+      "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=142630&language=%s&theatre=%s",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0136/",
+      "observedAt": "2026-11-27T14:06:41.387129+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
+      "id": "bfdeaf8073b2a9adb690",
+      "movieId": "movie-dc487abf227001d89aa4",
+      "cinemaId": "mooby-bosque",
+      "startsAt": "2026-11-28T16:00:00+01:00",
+      "language": {
+        "version": "Doblada",
+        "audio": "es",
+        "subtitles": null,
+        "label": "Doblada · es"
+      },
+      "formats": [
+        "Dolby Atmos",
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=142613&language=%s&theatre=%s"
+      },
+      "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=142613&language=%s&theatre=%s",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0136/",
+      "observedAt": "2026-11-27T14:06:41.387129+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
+      "id": "7e52aa84a66648cf4844",
+      "movieId": "movie-d18a9b1b2d22a65c2df2",
+      "cinemaId": "mooby-glories",
+      "startsAt": "2026-11-28T16:00:00+01:00",
+      "language": {
+        "version": "Doblada",
+        "audio": "es",
+        "subtitles": null,
+        "label": "Doblada · es"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://moobycinemas-glorias.admit-one.eu/?p=tickets&perfCode=122702&language=%s&theatre=%s"
+      },
+      "bookingUrl": "https://moobycinemas-glorias.admit-one.eu/?p=tickets&perfCode=122702&language=%s&theatre=%s",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0442/",
+      "observedAt": "2026-11-27T14:06:43.937427+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
       "id": "b8bed82134fb03a295a7",
       "movieId": "movie-f1c0de249277440d3c5c",
       "cinemaId": "cinesa-diagonal-mar",
@@ -29944,6 +30829,33 @@
       "room": null
     },
     {
+      "id": "11aa4800d3862d4f921f",
+      "movieId": "movie-7726b14c11d40f803cc8",
+      "cinemaId": "mooby-bosque",
+      "startsAt": "2026-11-28T16:05:00+01:00",
+      "language": {
+        "version": "Doblada",
+        "audio": "es",
+        "subtitles": null,
+        "label": "Doblada · es"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=142632&language=%s&theatre=%s"
+      },
+      "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=142632&language=%s&theatre=%s",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0136/",
+      "observedAt": "2026-11-27T14:06:41.387129+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
       "id": "b24a44d0be75ab4f0850",
       "movieId": "movie-dc487abf227001d89aa4",
       "cinemaId": "cinesa-diagonal",
@@ -29990,6 +30902,33 @@
       "bookingUrl": "https://web.cinesa.es/compra/butacas/?showtimeId=017-62679",
       "sourceUrl": "https://www.publicine.net/cartelera-cine/barcelona/cinesa-som-multiespai-heron-city",
       "observedAt": "2026-11-27T08:06:32.993816+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
+      "id": "387cf2d3fe0394913344",
+      "movieId": "movie-f1c0de249277440d3c5c",
+      "cinemaId": "mooby-bosque",
+      "startsAt": "2026-11-28T16:10:00+01:00",
+      "language": {
+        "version": null,
+        "audio": "es",
+        "subtitles": null,
+        "label": "Versión no publicada · es"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=142621&language=%s&theatre=%s"
+      },
+      "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=142621&language=%s&theatre=%s",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0136/",
+      "observedAt": "2026-11-27T14:06:41.387129+00:00",
       "status": "verified",
       "room": null
     },
@@ -30156,6 +31095,33 @@
       "room": null
     },
     {
+      "id": "00878d1fea21f69bf91a",
+      "movieId": "movie-de8c9f88851d64e017d1",
+      "cinemaId": "mooby-aribau",
+      "startsAt": "2026-11-28T16:40:00+01:00",
+      "language": {
+        "version": null,
+        "audio": "es",
+        "subtitles": null,
+        "label": "Versión no publicada · es"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://moobycinemas-aribau.admit-one.eu/?p=tickets&perfCode=70221&language=%s&theatre=%s"
+      },
+      "bookingUrl": "https://moobycinemas-aribau.admit-one.eu/?p=tickets&perfCode=70221&language=%s&theatre=%s",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0091/",
+      "observedAt": "2026-11-27T14:06:35.143459+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
       "id": "d5c7167bcbd3b60b703a",
       "movieId": "movie-dc487abf227001d89aa4",
       "cinemaId": "cinesa-diagonal",
@@ -30237,6 +31203,33 @@
       "room": null
     },
     {
+      "id": "97be72b240973b9eebe4",
+      "movieId": "movie-dc487abf227001d89aa4",
+      "cinemaId": "mooby-bosque",
+      "startsAt": "2026-11-28T16:45:00+01:00",
+      "language": {
+        "version": "Doblada",
+        "audio": "es",
+        "subtitles": null,
+        "label": "Doblada · es"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=142631&language=%s&theatre=%s"
+      },
+      "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=142631&language=%s&theatre=%s",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0136/",
+      "observedAt": "2026-11-27T14:06:41.387129+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
       "id": "09229fe578b0ffd70d32",
       "movieId": "movie-dc487abf227001d89aa4",
       "cinemaId": "mooby-arenas",
@@ -30285,6 +31278,33 @@
       "bookingUrl": "https://cine.entradas.com/cine/barcelona/cine-yelmo-westfield-la-maquinista/evento/48842/wildwood-el-bosque-salvaje?mode=widget&change=0&ref=744",
       "sourceUrl": "https://www.publicine.net/cartelera-cine/barcelona/yelmo-westfield-la-maquinista",
       "observedAt": "2026-11-27T08:06:34.755610+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
+      "id": "d9128d1aa8ad07573d7f",
+      "movieId": "movie-db0fd754d7001ae0b15a",
+      "cinemaId": "mooby-aribau",
+      "startsAt": "2026-11-28T16:55:00+01:00",
+      "language": {
+        "version": null,
+        "audio": "es",
+        "subtitles": null,
+        "label": "Versión no publicada · es"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://moobycinemas-aribau.admit-one.eu/?p=tickets&perfCode=70220&language=%s&theatre=%s"
+      },
+      "bookingUrl": "https://moobycinemas-aribau.admit-one.eu/?p=tickets&perfCode=70220&language=%s&theatre=%s",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0091/",
+      "observedAt": "2026-11-27T14:06:35.143459+00:00",
       "status": "verified",
       "room": null
     },
@@ -30444,6 +31464,60 @@
       "sourceUrl": "https://zumzeigcine.coop/cinema/films/jaleos/",
       "observedAt": "2026-11-27T08:06:14.356629+00:00",
       "status": "verified"
+    },
+    {
+      "id": "9f2c0c877d8f1822bc1d",
+      "movieId": "movie-f1c0de249277440d3c5c",
+      "cinemaId": "girona",
+      "startsAt": "2026-11-28T17:00:00+01:00",
+      "language": {
+        "version": "Doblada",
+        "audio": null,
+        "subtitles": null,
+        "label": "Doblada"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://girona.admit-one.eu/?p=tickets&perfCode=41369"
+      },
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=41369",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0747/",
+      "observedAt": "2026-11-27T14:06:30.305469+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
+      "id": "a1d63f48d2e1bec58700",
+      "movieId": "movie-f1c0de249277440d3c5c",
+      "cinemaId": "mooby-glories",
+      "startsAt": "2026-11-28T17:00:00+01:00",
+      "language": {
+        "version": null,
+        "audio": "es",
+        "subtitles": null,
+        "label": "Versión no publicada · es"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://moobycinemas-glorias.admit-one.eu/?p=tickets&perfCode=122701&language=%s&theatre=%s"
+      },
+      "bookingUrl": "https://moobycinemas-glorias.admit-one.eu/?p=tickets&perfCode=122701&language=%s&theatre=%s",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0442/",
+      "observedAt": "2026-11-27T14:06:43.937427+00:00",
+      "status": "verified",
+      "room": null
     },
     {
       "id": "2f08bc085c4910d60cc9",
@@ -30688,6 +31762,33 @@
       "room": null
     },
     {
+      "id": "0fc57fb582fff78edade",
+      "movieId": "movie-e7af11de13882f32319b",
+      "cinemaId": "verdi",
+      "startsAt": "2026-11-28T17:35:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "VO · sub. es"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://verdibcn.admit-one.eu/seats/222903"
+      },
+      "bookingUrl": "https://verdibcn.admit-one.eu/seats/222903",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0608/",
+      "observedAt": "2026-11-27T14:06:27.661195+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
       "id": "7cd851e8d0b0133faa2e",
       "movieId": "movie-8efd68303c4aee962fae",
       "cinemaId": "mooby-arenas",
@@ -30892,6 +31993,87 @@
       "room": null
     },
     {
+      "id": "f763940dceaac7e8cd1c",
+      "movieId": "movie-7615fdbb713c696c2c9f",
+      "cinemaId": "verdi",
+      "startsAt": "2026-11-28T17:45:00+01:00",
+      "language": {
+        "version": null,
+        "audio": "es",
+        "subtitles": null,
+        "label": "Versión no publicada · es"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://verdibcn.admit-one.eu/seats/222899"
+      },
+      "bookingUrl": "https://verdibcn.admit-one.eu/seats/222899",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0608/",
+      "observedAt": "2026-11-27T14:06:27.661195+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
+      "id": "8beb549fb74b90efb932",
+      "movieId": "movie-a4a242c005008e9b6a3b",
+      "cinemaId": "verdi",
+      "startsAt": "2026-11-28T17:45:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "VO · sub. es"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://verdibcn.admit-one.eu/seats/222896"
+      },
+      "bookingUrl": "https://verdibcn.admit-one.eu/seats/222896",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0608/",
+      "observedAt": "2026-11-27T14:06:27.661195+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
+      "id": "526bae34b81622030d82",
+      "movieId": "movie-dc487abf227001d89aa4",
+      "cinemaId": "mooby-glories",
+      "startsAt": "2026-11-28T17:45:00+01:00",
+      "language": {
+        "version": "Doblada",
+        "audio": "es",
+        "subtitles": null,
+        "label": "Doblada · es"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://moobycinemas-glorias.admit-one.eu/?p=tickets&perfCode=122692&language=%s&theatre=%s"
+      },
+      "bookingUrl": "https://moobycinemas-glorias.admit-one.eu/?p=tickets&perfCode=122692&language=%s&theatre=%s",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0442/",
+      "observedAt": "2026-11-27T14:06:43.937427+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
       "id": "6e665255c04375dd336c",
       "movieId": "movie-5cfbe963f90bee8a46a6",
       "cinemaId": "cinesa-diagonal",
@@ -31075,6 +32257,33 @@
       "bookingUrl": "https://www.publicine.net/venda/16030/59/aHR0cHM6Ly9jaW5lLmVudHJhZGFzLmNvbS9jaW5lL2JhcmNlbG9uYS9jaW5lLXllbG1vLXdlc3RmaWVsZC1sYS1tYXF1aW5pc3RhL2V2ZW50by80ODUzOS9haG9yYS1sb3Mtc3VlZ3Jvcy1zb24tZWxsb3M/bW9kZT13aWRnZXQmY2hhbmdlPTAmcmVmPTc0NA",
       "sourceUrl": "https://www.publicine.net/cartelera-cine/barcelona/yelmo-westfield-la-maquinista",
       "observedAt": "2026-11-27T08:06:34.755610+00:00",
+      "status": "verified",
+      "room": null
+    },
+    {
+      "id": "2c8ae75c1b2f004cca4e",
+      "movieId": "movie-fe73434d02a7214e8f07",
+      "cinemaId": "verdi",
+      "startsAt": "2026-11-28T18:00:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "VO · sub. es"
+      },
+      "formats": [
+        "Digital"
+      ],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Precio de sesión no publicado",
+        "url": "https://verdibcn.admit-one.eu/seats/222892"
+      },
+      "bookingUrl": "https://verdibcn.admit-one.eu/seats/222892",
+      "sourceUrl": "https://www.sensacine.com/cines/cine/E0608/",
+      "observedAt": "2026-11-27T14:06:27.661195+00:00",
       "status": "verified",
       "room": null
     },
@@ -35129,6 +36338,31 @@
       "observedAt": "2026-11-27T08:06:17.919655+00:00",
       "status": "verified",
       "room": null
+    },
+    {
+      "id": "94d22b8286827fa25c2b",
+      "movieId": "movie-d5d8ec870abbe89caaac",
+      "cinemaId": "malda",
+      "startsAt": "2026-11-29T12:15:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": "es",
+        "subtitles": null,
+        "label": "(VOE)"
+      },
+      "formats": [],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Consultar",
+        "url": "https://www.cinemamalda.com/cartelera-dia-a-dia/"
+      },
+      "bookingUrl": null,
+      "sourceUrl": "https://www.cinemamalda.com/cartelera-dia-a-dia/",
+      "observedAt": "2026-11-27T14:01:50.712308+00:00",
+      "status": "verified",
+      "notes": "No serà vàlida l’entrada de pack ni el carnet de patró, no és una sessió contínua."
     },
     {
       "id": "3c0fd72f0934f3be7b81",
@@ -41101,6 +42335,31 @@
       "status": "verified"
     },
     {
+      "id": "9395362494a32950d44f",
+      "movieId": "movie-f142e92f108cb910f248",
+      "cinemaId": "malda",
+      "startsAt": "2026-11-30T14:30:00+01:00",
+      "language": {
+        "version": "Doblada",
+        "audio": "ca",
+        "subtitles": null,
+        "label": "(Doblada al català)"
+      },
+      "formats": [],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Consultar",
+        "url": "https://www.cinemamalda.com/cartelera-dia-a-dia/"
+      },
+      "bookingUrl": null,
+      "sourceUrl": "https://www.cinemamalda.com/cartelera-dia-a-dia/",
+      "observedAt": "2026-11-27T14:01:50.712308+00:00",
+      "status": "verified",
+      "notes": "(ESTRENO)"
+    },
+    {
       "id": "1a27477bf0d14b784799",
       "movieId": "movie-c6aea29084347c23dadf",
       "cinemaId": "phenomena",
@@ -41478,6 +42737,31 @@
       "observedAt": "2026-11-27T08:06:34.755610+00:00",
       "status": "verified",
       "room": null
+    },
+    {
+      "id": "26e2f19b9534ee90de37",
+      "movieId": "movie-b462c75eff3f3ca49410",
+      "cinemaId": "malda",
+      "startsAt": "2026-11-30T15:45:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": "es",
+        "subtitles": null,
+        "label": "(VOE)"
+      },
+      "formats": [],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Consultar",
+        "url": "https://www.cinemamalda.com/cartelera-dia-a-dia/"
+      },
+      "bookingUrl": null,
+      "sourceUrl": "https://www.cinemamalda.com/cartelera-dia-a-dia/",
+      "observedAt": "2026-11-27T14:01:50.712308+00:00",
+      "status": "verified",
+      "notes": "(ESTRENO)"
     },
     {
       "id": "4a0b6bf0a230376dde98",
@@ -43017,6 +44301,31 @@
       "room": null
     },
     {
+      "id": "00175c488dc4cdf03035",
+      "movieId": "movie-49b9a30707ddf95805fa",
+      "cinemaId": "malda",
+      "startsAt": "2026-11-30T17:45:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "(VOSE)"
+      },
+      "formats": [],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Consultar",
+        "url": "https://www.cinemamalda.com/cartelera-dia-a-dia/"
+      },
+      "bookingUrl": null,
+      "sourceUrl": "https://www.cinemamalda.com/cartelera-dia-a-dia/",
+      "observedAt": "2026-11-27T14:01:50.712308+00:00",
+      "status": "verified",
+      "notes": "(ESTRENO)"
+    },
+    {
       "id": "088e68c6c43fd9281396",
       "movieId": "movie-5cfbe963f90bee8a46a6",
       "cinemaId": "yelmo-maquinista",
@@ -43946,6 +45255,30 @@
       "room": null
     },
     {
+      "id": "c3d192a7051cda0f6dfd",
+      "movieId": "movie-d5d8ec870abbe89caaac",
+      "cinemaId": "malda",
+      "startsAt": "2026-11-30T19:00:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": "es",
+        "subtitles": null,
+        "label": "(VOE)"
+      },
+      "formats": [],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Consultar",
+        "url": "https://www.cinemamalda.com/cartelera-dia-a-dia/"
+      },
+      "bookingUrl": null,
+      "sourceUrl": "https://www.cinemamalda.com/cartelera-dia-a-dia/",
+      "observedAt": "2026-11-27T14:01:50.712308+00:00",
+      "status": "verified"
+    },
+    {
       "id": "c13faa46e812562b6e28",
       "movieId": "movie-a4a242c005008e9b6a3b",
       "cinemaId": "cinesa-som",
@@ -44811,6 +46144,31 @@
       "room": null
     },
     {
+      "id": "288394296300e9857f5a",
+      "movieId": "movie-0af5d9aa447d72c8bf4c",
+      "cinemaId": "malda",
+      "startsAt": "2026-11-30T20:35:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": "es",
+        "subtitles": null,
+        "label": "(VOE)"
+      },
+      "formats": [],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Consultar",
+        "url": "https://www.cinemamalda.com/cartelera-dia-a-dia/"
+      },
+      "bookingUrl": null,
+      "sourceUrl": "https://www.cinemamalda.com/cartelera-dia-a-dia/",
+      "observedAt": "2026-11-27T14:01:50.712308+00:00",
+      "status": "verified",
+      "notes": "No serà vàlida l’entrada de pack ni el carnet de patró, no és una sessió contínua."
+    },
+    {
       "id": "68335d4ed71d44291ad2",
       "movieId": "movie-dc487abf227001d89aa4",
       "cinemaId": "yelmo-maquinista",
@@ -45356,6 +46714,31 @@
       "observedAt": "2026-11-27T08:06:32.993816+00:00",
       "status": "verified",
       "room": null
+    },
+    {
+      "id": "fad538921d92205bf9de",
+      "movieId": "movie-3c3bed34960b19a02c8e",
+      "cinemaId": "malda",
+      "startsAt": "2026-11-30T21:45:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "ca",
+        "label": "(VOSCAT)"
+      },
+      "formats": [],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Consultar",
+        "url": "https://www.cinemamalda.com/cartelera-dia-a-dia/"
+      },
+      "bookingUrl": null,
+      "sourceUrl": "https://www.cinemamalda.com/cartelera-dia-a-dia/",
+      "observedAt": "2026-11-27T14:01:50.712308+00:00",
+      "status": "verified",
+      "notes": "(ESTRENO) No serà vàlida l’entrada de pack ni el carnet de patró, no és una sessió contínua."
     },
     {
       "id": "40c31d30f34834408e30",
@@ -46196,6 +47579,30 @@
       "room": null
     },
     {
+      "id": "35bef87700919b14cef3",
+      "movieId": "movie-fa16a68e9e9f33811250",
+      "cinemaId": "malda",
+      "startsAt": "2026-12-01T14:15:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "(VOSE)"
+      },
+      "formats": [],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Consultar",
+        "url": "https://www.cinemamalda.com/cartelera-dia-a-dia/"
+      },
+      "bookingUrl": null,
+      "sourceUrl": "https://www.cinemamalda.com/cartelera-dia-a-dia/",
+      "observedAt": "2026-11-27T14:01:50.712308+00:00",
+      "status": "verified"
+    },
+    {
       "id": "fef9ca025bd0f9460dca",
       "movieId": "movie-b18308ab17f63b4b4a43",
       "cinemaId": "phenomena",
@@ -46727,6 +48134,31 @@
       "observedAt": "2026-11-27T08:06:34.755610+00:00",
       "status": "verified",
       "room": null
+    },
+    {
+      "id": "030f592a7955cf715462",
+      "movieId": "movie-ef3e58444d7e3444b425",
+      "cinemaId": "malda",
+      "startsAt": "2026-12-01T15:50:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "(VOSE)"
+      },
+      "formats": [],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Consultar",
+        "url": "https://www.cinemamalda.com/cartelera-dia-a-dia/"
+      },
+      "bookingUrl": null,
+      "sourceUrl": "https://www.cinemamalda.com/cartelera-dia-a-dia/",
+      "observedAt": "2026-11-27T14:01:50.712308+00:00",
+      "status": "verified",
+      "notes": "(ESTRENO)"
     },
     {
       "id": "7f2057cd3944d05e1939",
@@ -47987,6 +49419,30 @@
       "room": null
     },
     {
+      "id": "4fd605bc6daa78bdbfdf",
+      "movieId": "movie-49b9a30707ddf95805fa",
+      "cinemaId": "malda",
+      "startsAt": "2026-12-01T17:50:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "(VOSE)"
+      },
+      "formats": [],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Consultar",
+        "url": "https://www.cinemamalda.com/cartelera-dia-a-dia/"
+      },
+      "bookingUrl": null,
+      "sourceUrl": "https://www.cinemamalda.com/cartelera-dia-a-dia/",
+      "observedAt": "2026-11-27T14:01:50.712308+00:00",
+      "status": "verified"
+    },
+    {
       "id": "1f87eec9fe019e98c87a",
       "movieId": "movie-5cfbe963f90bee8a46a6",
       "cinemaId": "yelmo-maquinista",
@@ -48890,6 +50346,30 @@
       "observedAt": "2026-11-27T08:06:32.993816+00:00",
       "status": "verified",
       "room": null
+    },
+    {
+      "id": "556fd29bab54ff3648f5",
+      "movieId": "movie-d5d8ec870abbe89caaac",
+      "cinemaId": "malda",
+      "startsAt": "2026-12-01T19:10:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": "es",
+        "subtitles": null,
+        "label": "(VOE)"
+      },
+      "formats": [],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Consultar",
+        "url": "https://www.cinemamalda.com/cartelera-dia-a-dia/"
+      },
+      "bookingUrl": null,
+      "sourceUrl": "https://www.cinemamalda.com/cartelera-dia-a-dia/",
+      "observedAt": "2026-11-27T14:01:50.712308+00:00",
+      "status": "verified"
     },
     {
       "id": "aaaf192727aad782104c",
@@ -51245,6 +52725,30 @@
       "status": "verified"
     },
     {
+      "id": "419e7ba50d28277a8a04",
+      "movieId": "movie-b462c75eff3f3ca49410",
+      "cinemaId": "malda",
+      "startsAt": "2026-12-02T15:00:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": "es",
+        "subtitles": null,
+        "label": "(VOE)"
+      },
+      "formats": [],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Consultar",
+        "url": "https://www.cinemamalda.com/cartelera-dia-a-dia/"
+      },
+      "bookingUrl": null,
+      "sourceUrl": "https://www.cinemamalda.com/cartelera-dia-a-dia/",
+      "observedAt": "2026-11-27T14:01:50.712308+00:00",
+      "status": "verified"
+    },
+    {
       "id": "1b74b5c6a19a18ce42ab",
       "movieId": "movie-8efd68303c4aee962fae",
       "cinemaId": "mooby-arenas",
@@ -52724,6 +54228,30 @@
       "status": "verified"
     },
     {
+      "id": "4acbae4edd83772ff8a8",
+      "movieId": "movie-d5d8ec870abbe89caaac",
+      "cinemaId": "malda",
+      "startsAt": "2026-12-02T17:00:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": "es",
+        "subtitles": null,
+        "label": "(VOE)"
+      },
+      "formats": [],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Consultar",
+        "url": "https://www.cinemamalda.com/cartelera-dia-a-dia/"
+      },
+      "bookingUrl": null,
+      "sourceUrl": "https://www.cinemamalda.com/cartelera-dia-a-dia/",
+      "observedAt": "2026-11-27T14:01:50.712308+00:00",
+      "status": "verified"
+    },
+    {
       "id": "501a453319b82ee7809e",
       "movieId": "movie-5cfbe963f90bee8a46a6",
       "cinemaId": "cinesa-diagonal",
@@ -54041,6 +55569,35 @@
       "sourceUrl": "https://zumzeigcine.coop/cinema/films/fomos-ficando-sos/",
       "observedAt": "2026-11-27T08:06:25.061448+00:00",
       "status": "verified"
+    },
+    {
+      "id": "d5ad579fbcef5952d9ac",
+      "movieId": "movie-66f0430504f305a3bbba",
+      "cinemaId": "malda",
+      "startsAt": "2026-12-02T19:00:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "(VOSE)"
+      },
+      "formats": [],
+      "price": {
+        "amount": 0.0,
+        "kind": "published",
+        "currency": "EUR",
+        "label": "Entrada gratuita",
+        "url": "https://www.cinemamalda.com/cartelera-dia-a-dia/",
+        "observedAt": "2026-11-27T14:01:50.712308+00:00",
+        "category": "Entrada gratuita",
+        "conditions": "19:00h – Ecologistes en Acció EL QUE VA SER CASA – Gratuït",
+        "status": "verified"
+      },
+      "bookingUrl": null,
+      "sourceUrl": "https://www.cinemamalda.com/cartelera-dia-a-dia/",
+      "observedAt": "2026-11-27T14:01:50.712308+00:00",
+      "status": "verified",
+      "notes": "Ecologistes en Acció. Entrada gratuïta."
     },
     {
       "id": "3afcb7f2d6c99dc60955",
@@ -56428,6 +57985,30 @@
       "room": null
     },
     {
+      "id": "c57e25ac9dc14970ca4c",
+      "movieId": "movie-d763cadbf93cfea1fccb",
+      "cinemaId": "malda",
+      "startsAt": "2026-12-03T15:00:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "(VOSE)"
+      },
+      "formats": [],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Consultar",
+        "url": "https://www.cinemamalda.com/cartelera-dia-a-dia/"
+      },
+      "bookingUrl": null,
+      "sourceUrl": "https://www.cinemamalda.com/cartelera-dia-a-dia/",
+      "observedAt": "2026-11-27T14:01:50.712308+00:00",
+      "status": "verified"
+    },
+    {
       "id": "ef675253ed7d76b2b184",
       "movieId": "movie-8efd68303c4aee962fae",
       "cinemaId": "mooby-arenas",
@@ -57704,6 +59285,30 @@
       "room": null
     },
     {
+      "id": "3ae5ed03a9b948b5b18b",
+      "movieId": "movie-d5d8ec870abbe89caaac",
+      "cinemaId": "malda",
+      "startsAt": "2026-12-03T16:45:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": "es",
+        "subtitles": null,
+        "label": "(VOE)"
+      },
+      "formats": [],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Consultar",
+        "url": "https://www.cinemamalda.com/cartelera-dia-a-dia/"
+      },
+      "bookingUrl": null,
+      "sourceUrl": "https://www.cinemamalda.com/cartelera-dia-a-dia/",
+      "observedAt": "2026-11-27T14:01:50.712308+00:00",
+      "status": "verified"
+    },
+    {
       "id": "7f33c034ad08a0195c1f",
       "movieId": "movie-5cfbe963f90bee8a46a6",
       "cinemaId": "mooby-arenas",
@@ -58465,6 +60070,30 @@
       "observedAt": "2026-11-27T08:06:34.755610+00:00",
       "status": "verified",
       "room": null
+    },
+    {
+      "id": "962bb56e7721461fb956",
+      "movieId": "movie-329d3fafae21c50d7d27",
+      "cinemaId": "malda",
+      "startsAt": "2026-12-03T18:00:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "(VOSE)"
+      },
+      "formats": [],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Consultar",
+        "url": "https://www.cinemamalda.com/cartelera-dia-a-dia/"
+      },
+      "bookingUrl": null,
+      "sourceUrl": "https://www.cinemamalda.com/cartelera-dia-a-dia/",
+      "observedAt": "2026-11-27T14:01:50.712308+00:00",
+      "status": "verified"
     },
     {
       "id": "4e3d5ee3097c3dce6c28",
@@ -59404,6 +61033,30 @@
       "observedAt": "2026-11-27T08:06:32.993816+00:00",
       "status": "verified",
       "room": null
+    },
+    {
+      "id": "b97e096845a13fcf7365",
+      "movieId": "movie-5ce309918208f922d2c7",
+      "cinemaId": "malda",
+      "startsAt": "2026-12-03T19:35:00+01:00",
+      "language": {
+        "version": "VO",
+        "audio": null,
+        "subtitles": "es",
+        "label": "(VOSE)"
+      },
+      "formats": [],
+      "price": {
+        "amount": null,
+        "kind": "unknown",
+        "currency": "EUR",
+        "label": "Consultar",
+        "url": "https://www.cinemamalda.com/cartelera-dia-a-dia/"
+      },
+      "bookingUrl": null,
+      "sourceUrl": "https://www.cinemamalda.com/cartelera-dia-a-dia/",
+      "observedAt": "2026-11-27T14:01:50.712308+00:00",
+      "status": "verified"
     },
     {
       "id": "8b191eca5031d2c87f08",
@@ -67990,12 +69643,12 @@
     {
       "cinemaId": "girona",
       "status": "partial",
-      "sessions": 13,
-      "message": "Importación parcial: algunos detalles no han podido verificarse. Consultar la fuente.",
-      "checkedAt": "2026-11-27T09:06:04.184165+01:00",
+      "sessions": 16,
+      "message": "Horarios del respaldo autorizado cargados hasta el 28 de noviembre. Quedan días de programación por verificar.",
+      "checkedAt": "2026-11-27T15:06:30.305469+01:00",
       "sourceUrl": "https://www.sensacine.com/cines/cine/E0747/",
       "programmeStatus": "partial",
-      "verifiedSessions": 7,
+      "verifiedSessions": 10,
       "staleSessions": 6
     },
     {
@@ -68012,12 +69665,12 @@
     {
       "cinemaId": "malda",
       "status": "partial",
-      "sessions": 0,
-      "message": "Festival verificado en Eventos. Semana comercial pendiente por fechas incompatibles en la portada oficial.",
-      "checkedAt": "2026-11-27T09:06:04.184165+01:00",
+      "sessions": 19,
+      "message": "Cartelera comercial del 28 de noviembre al 3 de diciembre verificada en la tabla diaria. La semana de portada sigue en revisión. Festival disponible en Eventos.",
+      "checkedAt": "2026-11-27T15:01:50.712308+01:00",
       "sourceUrl": "https://www.cinemamalda.com/",
       "programmeStatus": "partial",
-      "verifiedSessions": 0,
+      "verifiedSessions": 19,
       "staleSessions": 0
     },
     {
@@ -68045,12 +69698,12 @@
     {
       "cinemaId": "mooby-aribau",
       "status": "partial",
-      "sessions": 20,
-      "message": "Importación parcial: algunos detalles no han podido verificarse. Consultar la fuente.",
-      "checkedAt": "2026-11-27T09:06:04.184165+01:00",
+      "sessions": 24,
+      "message": "Horarios del respaldo autorizado cargados hasta el 28 de noviembre. Quedan días de programación por verificar.",
+      "checkedAt": "2026-11-27T15:06:35.143459+01:00",
       "sourceUrl": "https://www.sensacine.com/cines/cine/E0091/",
       "programmeStatus": "partial",
-      "verifiedSessions": 12,
+      "verifiedSessions": 16,
       "staleSessions": 8
     },
     {
@@ -68067,23 +69720,23 @@
     {
       "cinemaId": "mooby-bosque",
       "status": "partial",
-      "sessions": 26,
-      "message": "Importación parcial: algunos detalles no han podido verificarse. Consultar la fuente.",
-      "checkedAt": "2026-11-27T09:06:04.184165+01:00",
+      "sessions": 32,
+      "message": "Horarios del respaldo autorizado cargados hasta el 28 de noviembre. Quedan días de programación por verificar.",
+      "checkedAt": "2026-11-27T15:06:41.387129+01:00",
       "sourceUrl": "https://www.sensacine.com/cines/cine/E0136/",
       "programmeStatus": "partial",
-      "verifiedSessions": 20,
+      "verifiedSessions": 26,
       "staleSessions": 6
     },
     {
       "cinemaId": "mooby-glories",
       "status": "partial",
-      "sessions": 25,
-      "message": "Importación parcial: algunos detalles no han podido verificarse. Consultar la fuente.",
-      "checkedAt": "2026-11-27T09:06:04.184165+01:00",
+      "sessions": 34,
+      "message": "Horarios del respaldo autorizado cargados hasta el 28 de noviembre. Quedan días de programación por verificar.",
+      "checkedAt": "2026-11-27T15:06:43.937427+01:00",
       "sourceUrl": "https://www.sensacine.com/cines/cine/E0442/",
       "programmeStatus": "partial",
-      "verifiedSessions": 24,
+      "verifiedSessions": 33,
       "staleSessions": 1
     },
     {
@@ -68144,12 +69797,12 @@
     {
       "cinemaId": "verdi",
       "status": "partial",
-      "sessions": 36,
-      "message": "Importación parcial: algunos detalles no han podido verificarse. Consultar la fuente.",
-      "checkedAt": "2026-11-27T09:06:04.184165+01:00",
+      "sessions": 53,
+      "message": "Horarios del respaldo autorizado cargados hasta el 28 de noviembre. Quedan días de programación por verificar.",
+      "checkedAt": "2026-11-27T15:06:27.661195+01:00",
       "sourceUrl": "https://www.sensacine.com/cines/cine/E0608/",
       "programmeStatus": "partial",
-      "verifiedSessions": 34,
+      "verifiedSessions": 51,
       "staleSessions": 2
     },
     {
