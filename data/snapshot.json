@@ -54993,35 +54993,6 @@
       ]
     },
     {
-      "id": "f758de4caf10da767d9a",
-      "movieId": "movie-92b93cd67bf41fd15e31",
-      "cinemaId": "texas",
-      "startsAt": "2026-12-02T20:30:00+01:00",
-      "language": {
-        "version": "VO",
-        "audio": "ca",
-        "subtitles": null,
-        "label": "/ VO",
-        "audioLabel": "CATALÀ"
-      },
-      "formats": [],
-      "price": {
-        "amount": null,
-        "kind": "unknown",
-        "currency": "EUR",
-        "label": "Consultar",
-        "url": "https://espaitexas.koobin.cat/ca/dones-muntanya-vo-20261201-2030"
-      },
-      "bookingUrl": "https://espaitexas.koobin.cat/ca/dones-muntanya-vo-20261201-2030",
-      "sourceUrl": "https://espaitexas.cat/pelicula/dones-muntanya-vo/",
-      "observedAt": "2026-11-22T16:21:26.304284+00:00",
-      "status": "stale",
-      "room": null,
-      "sources": [
-        "https://espaitexas.cat/pelicula/dones-muntanya-vo/"
-      ]
-    },
-    {
       "id": "072653f2218e672818c5",
       "movieId": "movie-5cfbe963f90bee8a46a6",
       "cinemaId": "yelmo-maquinista",
@@ -60060,40 +60031,6 @@
       "room": null,
       "sources": [
         "https://espaitexas.cat/pelicula/sanguine/"
-      ]
-    },
-    {
-      "id": "898864cde8f8459a6133",
-      "movieId": "movie-92b93cd67bf41fd15e31",
-      "cinemaId": "texas",
-      "startsAt": "2026-12-03T20:30:00+01:00",
-      "language": {
-        "version": "VO",
-        "audio": "ca",
-        "subtitles": null,
-        "label": "/ VO",
-        "audioLabel": "CATALÀ"
-      },
-      "formats": [],
-      "price": {
-        "amount": 5.0,
-        "kind": "published",
-        "currency": "EUR",
-        "label": "Sin actualizar: Día del espectador; extras no confirmados",
-        "url": "https://espaitexas.cat/pelicula/dones-muntanya-vo/",
-        "observedAt": "2026-11-22T16:21:26.304284+00:00",
-        "category": "Día del espectador",
-        "conditions": "Dia de l’Espectador, entrades 5€! Oferta de este pase; extras y gastos no confirmados.",
-        "status": "stale",
-        "lastAttemptAt": "2026-11-27T09:06:04.184165+01:00"
-      },
-      "bookingUrl": "https://espaitexas.koobin.cat/ca/dones-muntanya-vo-20261202-2030",
-      "sourceUrl": "https://espaitexas.cat/pelicula/dones-muntanya-vo/",
-      "observedAt": "2026-11-22T16:21:26.304284+00:00",
-      "status": "stale",
-      "room": null,
-      "sources": [
-        "https://espaitexas.cat/pelicula/dones-muntanya-vo/"
       ]
     },
     {
@@ -66732,6 +66669,28 @@
       "status": "announced"
     },
     {
+      "id": "bqff-2026-malda",
+      "title": "Barcelona Queer Film Festival 2026",
+      "type": "festival",
+      "cinemaId": "malda",
+      "startsAt": "2026-11-27",
+      "endDate": "2026-11-29",
+      "description": "Doce proyecciones entre el viernes y el domingo, con sesiones de cortometrajes, presentaciones y coloquios.",
+      "url": "https://www.cinemamalda.com/barcelona-queer-film-festival/",
+      "venues": [
+        "Cinema Maldà, Carrer del Pi, 5, Barcelona"
+      ],
+      "venuePeriods": [
+        {
+          "cinemaId": "malda",
+          "startsAt": "2026-11-27",
+          "endDate": "2026-11-29"
+        }
+      ],
+      "observedAt": "2026-11-27T09:36:34.024647+01:00",
+      "status": "announced"
+    },
+    {
       "id": "inclus-2026-genuins",
       "title": "Inclús · Genuïns, això és una altra lliga y cortometrajes",
       "type": "special-screening",
@@ -66757,6 +66716,21 @@
       "url": "https://phenomena-experience.com/index?pag=ficha&evento=1557",
       "observedAt": "2026-11-27T08:06:03.633049+00:00",
       "status": "verified"
+    },
+    {
+      "id": "bqff-2026-malda-ballata-femmenella",
+      "title": "Barcelona Queer Film Festival · Ballata femmenella",
+      "type": "special-screening",
+      "cinemaId": "malda",
+      "startsAt": "2026-11-27T16:00:00+01:00",
+      "endDate": null,
+      "description": "Oferta publicada para este pase: 6,83 € en línea y 8 € en taquilla.",
+      "url": "https://www.cinemamalda.com/barcelona-queer-film-festival/",
+      "venues": [
+        "Cinema Maldà, Carrer del Pi, 5, Barcelona"
+      ],
+      "observedAt": "2026-11-27T09:36:34.024647+01:00",
+      "status": "announced"
     },
     {
       "id": "dart-2026-elephants-squirrels-bosque",
@@ -66829,6 +66803,21 @@
       "url": "https://espaitexas.cat/pelicula/festival-omnium-de-cinema/",
       "observedAt": "2026-11-27T08:06:08.547585+00:00",
       "status": "verified"
+    },
+    {
+      "id": "bqff-2026-malda-viva-renata",
+      "title": "Barcelona Queer Film Festival · ¡Viva Renata! Amor, Poesía y Anarquía",
+      "type": "special-screening",
+      "cinemaId": "malda",
+      "startsAt": "2026-11-27T18:00:00+01:00",
+      "endDate": null,
+      "description": "Presentación a cargo del director Pedro Vieira. Oferta publicada para este pase: 6,83 € en línea y 8 € en taquilla.",
+      "url": "https://www.cinemamalda.com/barcelona-queer-film-festival/",
+      "venues": [
+        "Cinema Maldà, Carrer del Pi, 5, Barcelona"
+      ],
+      "observedAt": "2026-11-27T09:36:34.024647+01:00",
+      "status": "announced"
     },
     {
       "id": "faf675826d334b82fe15",
@@ -66918,6 +66907,21 @@
       "status": "announced"
     },
     {
+      "id": "bqff-2026-malda-gorda-y-divina",
+      "title": "Barcelona Queer Film Festival · Gorda y divina",
+      "type": "colloquium",
+      "cinemaId": "malda",
+      "startsAt": "2026-11-27T20:00:00+01:00",
+      "endDate": null,
+      "description": "Proyección con coloquio posterior. Oferta publicada para este pase: 6,83 € en línea y 8 € en taquilla.",
+      "url": "https://www.cinemamalda.com/barcelona-queer-film-festival/",
+      "venues": [
+        "Cinema Maldà, Carrer del Pi, 5, Barcelona"
+      ],
+      "observedAt": "2026-11-27T09:36:34.024647+01:00",
+      "status": "announced"
+    },
+    {
       "id": "7f4e29271ce7778750da",
       "title": "FESTIVAL ÒMNIUM DE CINEMA — Divendres 27/11/26 20:30 VIVA Projecció + col·loqui amb Aina Clotet",
       "type": "colloquium",
@@ -66969,6 +66973,21 @@
         "Casa Montjuïc, Barcelona"
       ],
       "observedAt": "2026-11-22T17:21:09.610034+01:00",
+      "status": "announced"
+    },
+    {
+      "id": "bqff-2026-malda-broken-beak",
+      "title": "Barcelona Queer Film Festival · Broken Beak",
+      "type": "special-screening",
+      "cinemaId": "malda",
+      "startsAt": "2026-11-27T21:45:00+01:00",
+      "endDate": null,
+      "description": "Proyección de la película de Christian Carroll.",
+      "url": "https://www.cinemamalda.com/barcelona-queer-film-festival/",
+      "venues": [
+        "Cinema Maldà, Carrer del Pi, 5, Barcelona"
+      ],
+      "observedAt": "2026-11-27T09:36:34.024647+01:00",
       "status": "announced"
     },
     {
@@ -67056,6 +67075,21 @@
       "status": "announced"
     },
     {
+      "id": "bqff-2026-malda-cortos-1",
+      "title": "Barcelona Queer Film Festival · Sesión de cortos 1",
+      "type": "special-screening",
+      "cinemaId": "malda",
+      "startsAt": "2026-11-28T16:00:00+01:00",
+      "endDate": null,
+      "description": "Primer bloque de cortometrajes del festival.",
+      "url": "https://www.cinemamalda.com/barcelona-queer-film-festival/",
+      "venues": [
+        "Cinema Maldà, Carrer del Pi, 5, Barcelona"
+      ],
+      "observedAt": "2026-11-27T09:36:34.024647+01:00",
+      "status": "announced"
+    },
+    {
       "id": "inclus-2026-corredora",
       "title": "Inclús · Corredora",
       "type": "special-screening",
@@ -67110,6 +67144,21 @@
         "CaixaForum Barcelona"
       ],
       "observedAt": "2026-11-22T18:14:23.721387+01:00",
+      "status": "announced"
+    },
+    {
+      "id": "bqff-2026-malda-otros-cuerpos-invasion-travesti",
+      "title": "Barcelona Queer Film Festival · Otros cuerpos + Invasión travesti",
+      "type": "special-screening",
+      "cinemaId": "malda",
+      "startsAt": "2026-11-28T18:00:00+01:00",
+      "endDate": null,
+      "description": "Sesión doble con presentaciones de los directores Santi Senso y Jero de los Santos y del intérprete Jordi Minguella. Oferta publicada para este pase: 6,83 € en línea y 8 € en taquilla.",
+      "url": "https://www.cinemamalda.com/barcelona-queer-film-festival/",
+      "venues": [
+        "Cinema Maldà, Carrer del Pi, 5, Barcelona"
+      ],
+      "observedAt": "2026-11-27T09:36:34.024647+01:00",
       "status": "announced"
     },
     {
@@ -67197,6 +67246,21 @@
       "status": "announced"
     },
     {
+      "id": "bqff-2026-malda-siempre-vivas",
+      "title": "Barcelona Queer Film Festival · Siempre vivas",
+      "type": "colloquium",
+      "cinemaId": "malda",
+      "startsAt": "2026-11-28T20:00:00+01:00",
+      "endDate": null,
+      "description": "Proyección con coloquio de la directora Mar López Zapata y las protagonistas. Oferta publicada para este pase: 6,83 € en línea y 8 € en taquilla.",
+      "url": "https://www.cinemamalda.com/barcelona-queer-film-festival/",
+      "venues": [
+        "Cinema Maldà, Carrer del Pi, 5, Barcelona"
+      ],
+      "observedAt": "2026-11-27T09:36:34.024647+01:00",
+      "status": "announced"
+    },
+    {
       "id": "inclus-2026-take-me-home",
       "title": "Inclús · Inga + Take Me Home",
       "type": "special-screening",
@@ -67237,6 +67301,36 @@
       "url": "https://phenomena-experience.com/index?pag=ficha&evento=3046",
       "observedAt": "2026-11-27T08:06:03.633049+00:00",
       "status": "verified"
+    },
+    {
+      "id": "bqff-2026-malda-un-novio-para-domingo",
+      "title": "Barcelona Queer Film Festival · Un novio para domingo",
+      "type": "special-screening",
+      "cinemaId": "malda",
+      "startsAt": "2026-11-28T21:45:00+01:00",
+      "endDate": null,
+      "description": "Oferta publicada para este pase: 6,83 € en línea y 8 € en taquilla.",
+      "url": "https://www.cinemamalda.com/barcelona-queer-film-festival/",
+      "venues": [
+        "Cinema Maldà, Carrer del Pi, 5, Barcelona"
+      ],
+      "observedAt": "2026-11-27T09:36:34.024647+01:00",
+      "status": "announced"
+    },
+    {
+      "id": "bqff-2026-malda-censurada",
+      "title": "Barcelona Queer Film Festival · Censurada",
+      "type": "special-screening",
+      "cinemaId": "malda",
+      "startsAt": "2026-11-29T16:00:00+01:00",
+      "endDate": null,
+      "description": "Proyección de la película de Mario Garza.",
+      "url": "https://www.cinemamalda.com/barcelona-queer-film-festival/",
+      "venues": [
+        "Cinema Maldà, Carrer del Pi, 5, Barcelona"
+      ],
+      "observedAt": "2026-11-27T09:36:34.024647+01:00",
+      "status": "announced"
     },
     {
       "id": "cacac5d2240445da1db2",
@@ -67293,6 +67387,21 @@
       "status": "announced"
     },
     {
+      "id": "bqff-2026-malda-cortos-2",
+      "title": "Barcelona Queer Film Festival · Sesión de cortos 2",
+      "type": "special-screening",
+      "cinemaId": "malda",
+      "startsAt": "2026-11-29T18:00:00+01:00",
+      "endDate": null,
+      "description": "Segundo bloque de cortometrajes del festival.",
+      "url": "https://www.cinemamalda.com/barcelona-queer-film-festival/",
+      "venues": [
+        "Cinema Maldà, Carrer del Pi, 5, Barcelona"
+      ],
+      "observedAt": "2026-11-27T09:36:34.024647+01:00",
+      "status": "announced"
+    },
+    {
       "id": "983e72862a791b14c9e0",
       "title": "La libertad doble",
       "type": "colloquium",
@@ -67320,6 +67429,21 @@
       "status": "announced"
     },
     {
+      "id": "bqff-2026-malda-fin-primeras-veces",
+      "title": "Barcelona Queer Film Festival · El fin de las primeras veces",
+      "type": "special-screening",
+      "cinemaId": "malda",
+      "startsAt": "2026-11-29T20:00:00+01:00",
+      "endDate": null,
+      "description": "Oferta publicada para este pase: 6,83 € en línea y 8 € en taquilla.",
+      "url": "https://www.cinemamalda.com/barcelona-queer-film-festival/",
+      "venues": [
+        "Cinema Maldà, Carrer del Pi, 5, Barcelona"
+      ],
+      "observedAt": "2026-11-27T09:36:34.024647+01:00",
+      "status": "announced"
+    },
+    {
       "id": "inclus-2026-the-son-and-the-sea",
       "title": "Inclús · The Son and the Sea",
       "type": "special-screening",
@@ -67332,6 +67456,21 @@
         "CaixaForum Barcelona"
       ],
       "observedAt": "2026-11-22T18:14:23.721387+01:00",
+      "status": "announced"
+    },
+    {
+      "id": "bqff-2026-malda-la-ley-del-deseo",
+      "title": "Barcelona Queer Film Festival · La ley del deseo",
+      "type": "special-screening",
+      "cinemaId": "malda",
+      "startsAt": "2026-11-29T21:30:00+01:00",
+      "endDate": null,
+      "description": "Clausura del festival con la película de Pedro Almodóvar. Oferta publicada para este pase: 7,17 € en línea y 8 € en taquilla.",
+      "url": "https://www.cinemamalda.com/barcelona-queer-film-festival/",
+      "venues": [
+        "Cinema Maldà, Carrer del Pi, 5, Barcelona"
+      ],
+      "observedAt": "2026-11-27T09:36:34.024647+01:00",
       "status": "announced"
     },
     {
@@ -67872,12 +68011,12 @@
     },
     {
       "cinemaId": "malda",
-      "status": "unavailable",
+      "status": "partial",
       "sessions": 0,
-      "message": "No se han podido verificar horarios. Consultar la web del cine.",
+      "message": "Festival verificado en Eventos. Semana comercial pendiente por fechas incompatibles en la portada oficial.",
       "checkedAt": "2026-11-27T09:06:04.184165+01:00",
       "sourceUrl": "https://www.cinemamalda.com/",
-      "programmeStatus": "unavailable",
+      "programmeStatus": "partial",
       "verifiedSessions": 0,
       "staleSessions": 0
     },
@@ -67994,13 +68133,13 @@
     {
       "cinemaId": "texas",
       "status": "partial",
-      "sessions": 44,
+      "sessions": 42,
       "message": "Importación parcial: algunos detalles no han podido verificarse. Consultar la fuente.",
       "checkedAt": "2026-11-27T09:06:04.184165+01:00",
       "sourceUrl": "https://espaitexas.cat/cartellera-cinema/",
       "programmeStatus": "partial",
       "verifiedSessions": 42,
-      "staleSessions": 2
+      "staleSessions": 0
     },
     {
       "cinemaId": "verdi",
